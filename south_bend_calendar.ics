@@ -23,8 +23,28 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:f95b439ebb6fef55bbe13bc1@visitsouthbend.com
+DTSTAMP:20260819T191607Z
+SUMMARY:2026 ZOO NIGHTS LIVE
+LOCATION:Potawatomi Zoo | 500 S Greenlawn Ave | South Bend\, 46615
+DESCRIPTION:Bring your own lawn chair and rock out at this family-friendly 
+ event with one of your favorite local bands at Zoo Nights Live. We’ll a
+ lso have some fun activities and great specials at The Lodge and Farmhous
+ e Cafe. Grab some dinner and enjoy the music in the Picnic Grove with fam
+ ily and friends.\n\nJuly 25: City Sun\n\nAugust 22: UltraFab\n\nTicket De
+ tails:\n\nZoo Members: Free!\n\nBecome a Zoo Member Here\n\nGeneral Admis
+ sion Adults (15-61): $16\n\nGeneral Admission Seniors (62+): $14\n\nGener
+ al Admission Child (3-14): $14\n\nGeneral Admission Babies (0-2): Free\n\
+ nBuy Admission Tickets Online or At The Gate\n\nMore Info: https://www.vi
+ sitsouthbend.com/events/2026-zoo-nights-live-2/
+URL:https://www.visitsouthbend.com/events/2026-zoo-nights-live-2/
+DTSTART;TZID=America/Indiana/Indianapolis:20260822T183000
+DTEND;TZID=America/Indiana/Indianapolis:20260822T213000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:32dbfeb8d56cb6189cf3aceb@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:ACOUSTIC FRIDAYS
 LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
 DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
@@ -38,7 +58,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:10444e186673667c012f33fc@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:ACOUSTIC FRIDAYS
 LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
 DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
@@ -51,232 +71,8 @@ DTEND;TZID=America/Indiana/Indianapolis:20260828T220000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:46572ba7383a0a52da6063f8@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:ACOUSTIC FRIDAYS
-LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
-DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
- y Friday! If the weather is inclement\, we will move the fun to our indoo
- r rooftop bar.\n\nMore Info: https://www.visitsouthbend.com/events/acoust
- ic-fridays/
-URL:https://www.visitsouthbend.com/events/acoustic-fridays/
-DTSTART;TZID=America/Indiana/Indianapolis:20260904T190000
-DTEND;TZID=America/Indiana/Indianapolis:20260904T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:a75d85a5c94dd234628cc18a@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:ACOUSTIC FRIDAYS
-LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
-DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
- y Friday! If the weather is inclement\, we will move the fun to our indoo
- r rooftop bar.\n\nMore Info: https://www.visitsouthbend.com/events/acoust
- ic-fridays/
-URL:https://www.visitsouthbend.com/events/acoustic-fridays/
-DTSTART;TZID=America/Indiana/Indianapolis:20260911T190000
-DTEND;TZID=America/Indiana/Indianapolis:20260911T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:b2fdfa1b7c54109ba4c50f33@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:ACOUSTIC FRIDAYS
-LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
-DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
- y Friday! If the weather is inclement\, we will move the fun to our indoo
- r rooftop bar.\n\nMore Info: https://www.visitsouthbend.com/events/acoust
- ic-fridays/
-URL:https://www.visitsouthbend.com/events/acoustic-fridays/
-DTSTART;TZID=America/Indiana/Indianapolis:20260918T190000
-DTEND;TZID=America/Indiana/Indianapolis:20260918T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:08b63d5b2c8bf23e8120c48c@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:ACOUSTIC FRIDAYS
-LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
-DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
- y Friday! If the weather is inclement\, we will move the fun to our indoo
- r rooftop bar.\n\nMore Info: https://www.visitsouthbend.com/events/acoust
- ic-fridays/
-URL:https://www.visitsouthbend.com/events/acoustic-fridays/
-DTSTART;TZID=America/Indiana/Indianapolis:20260925T190000
-DTEND;TZID=America/Indiana/Indianapolis:20260925T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:dcc6aaaff6cc161415603424@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:ACOUSTIC FRIDAYS
-LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
-DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
- y Friday! If the weather is inclement\, we will move the fun to our indoo
- r rooftop bar.\n\nMore Info: https://www.visitsouthbend.com/events/acoust
- ic-fridays/
-URL:https://www.visitsouthbend.com/events/acoustic-fridays/
-DTSTART;TZID=America/Indiana/Indianapolis:20261002T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261002T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:e6550376a503db2f2bf1855a@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:ACOUSTIC FRIDAYS
-LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
-DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
- y Friday! If the weather is inclement\, we will move the fun to our indoo
- r rooftop bar.\n\nMore Info: https://www.visitsouthbend.com/events/acoust
- ic-fridays/
-URL:https://www.visitsouthbend.com/events/acoustic-fridays/
-DTSTART;TZID=America/Indiana/Indianapolis:20261009T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261009T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:7e153444a4949b72e0304102@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:ACOUSTIC FRIDAYS
-LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
-DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
- y Friday! If the weather is inclement\, we will move the fun to our indoo
- r rooftop bar.\n\nMore Info: https://www.visitsouthbend.com/events/acoust
- ic-fridays/
-URL:https://www.visitsouthbend.com/events/acoustic-fridays/
-DTSTART;TZID=America/Indiana/Indianapolis:20261016T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261016T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:4d72d9ca17eaaca9e60c9e84@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:ACOUSTIC FRIDAYS
-LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
-DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
- y Friday! If the weather is inclement\, we will move the fun to our indoo
- r rooftop bar.\n\nMore Info: https://www.visitsouthbend.com/events/acoust
- ic-fridays/
-URL:https://www.visitsouthbend.com/events/acoustic-fridays/
-DTSTART;TZID=America/Indiana/Indianapolis:20261023T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261023T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:61da7f77f4c83e8351ee1cd5@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:ACOUSTIC FRIDAYS
-LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
-DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
- y Friday! If the weather is inclement\, we will move the fun to our indoo
- r rooftop bar.\n\nMore Info: https://www.visitsouthbend.com/events/acoust
- ic-fridays/
-URL:https://www.visitsouthbend.com/events/acoustic-fridays/
-DTSTART;TZID=America/Indiana/Indianapolis:20261030T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261030T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:af03e20b02557a7d5a2ad8d9@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:ACOUSTIC FRIDAYS
-LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
-DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
- y Friday! If the weather is inclement\, we will move the fun to our indoo
- r rooftop bar.\n\nMore Info: https://www.visitsouthbend.com/events/acoust
- ic-fridays/
-URL:https://www.visitsouthbend.com/events/acoustic-fridays/
-DTSTART;TZID=America/Indiana/Indianapolis:20261106T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261106T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:d6d7444da3ef3f1656f4ef13@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:ACOUSTIC FRIDAYS
-LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
-DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
- y Friday! If the weather is inclement\, we will move the fun to our indoo
- r rooftop bar.\n\nMore Info: https://www.visitsouthbend.com/events/acoust
- ic-fridays/
-URL:https://www.visitsouthbend.com/events/acoustic-fridays/
-DTSTART;TZID=America/Indiana/Indianapolis:20261113T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261113T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:54e3bf39e45fc42532371ca8@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:ACOUSTIC FRIDAYS
-LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
-DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
- y Friday! If the weather is inclement\, we will move the fun to our indoo
- r rooftop bar.\n\nMore Info: https://www.visitsouthbend.com/events/acoust
- ic-fridays/
-URL:https://www.visitsouthbend.com/events/acoustic-fridays/
-DTSTART;TZID=America/Indiana/Indianapolis:20261120T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261120T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:da279e04e345b8fc39363270@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:ACOUSTIC FRIDAYS
-LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
-DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
- y Friday! If the weather is inclement\, we will move the fun to our indoo
- r rooftop bar.\n\nMore Info: https://www.visitsouthbend.com/events/acoust
- ic-fridays/
-URL:https://www.visitsouthbend.com/events/acoustic-fridays/
-DTSTART;TZID=America/Indiana/Indianapolis:20261127T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261127T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:186e609d7c25f1d1c65520c5@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:ACOUSTIC FRIDAYS
-LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
-DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
- y Friday! If the weather is inclement\, we will move the fun to our indoo
- r rooftop bar.\n\nMore Info: https://www.visitsouthbend.com/events/acoust
- ic-fridays/
-URL:https://www.visitsouthbend.com/events/acoustic-fridays/
-DTSTART;TZID=America/Indiana/Indianapolis:20261204T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261204T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:8174aa34d540f63f365b8d7c@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:ACOUSTIC FRIDAYS
-LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
-DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
- y Friday! If the weather is inclement\, we will move the fun to our indoo
- r rooftop bar.\n\nMore Info: https://www.visitsouthbend.com/events/acoust
- ic-fridays/
-URL:https://www.visitsouthbend.com/events/acoustic-fridays/
-DTSTART;TZID=America/Indiana/Indianapolis:20261211T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261211T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:d1829e1ec8ebb7de79dc2eca@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:ACOUSTIC FRIDAYS
-LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
-DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
- y Friday! If the weather is inclement\, we will move the fun to our indoo
- r rooftop bar.\n\nMore Info: https://www.visitsouthbend.com/events/acoust
- ic-fridays/
-URL:https://www.visitsouthbend.com/events/acoustic-fridays/
-DTSTART;TZID=America/Indiana/Indianapolis:20261218T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261218T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:8665580448c413a60d0cedb9@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:AROUND THE BEND III
 LOCATION:South Bend Museum of Art | 120 S Dr Martin Luther King Jr Blvd | S
  outh Bend\, IN 46601
@@ -290,7 +86,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7e3eedd8df6817bdd841e15c@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:AROUND THE BEND III
 LOCATION:South Bend Museum of Art | 120 S Dr Martin Luther King Jr Blvd | S
  outh Bend\, IN 46601
@@ -304,7 +100,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9713b6d9d2dee4f4ba5536d7@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:AROUND THE BEND III
 LOCATION:South Bend Museum of Art | 120 S Dr Martin Luther King Jr Blvd | S
  outh Bend\, IN 46601
@@ -318,7 +114,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3571fb115a008833c2395ddf@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:AROUND THE BEND III
 LOCATION:South Bend Museum of Art | 120 S Dr Martin Luther King Jr Blvd | S
  outh Bend\, IN 46601
@@ -332,7 +128,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0c3399ef1d543f78423ce378@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:AROUND THE BEND III
 LOCATION:South Bend Museum of Art | 120 S Dr Martin Luther King Jr Blvd | S
  outh Bend\, IN 46601
@@ -346,7 +142,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:753f22e8b4a4c2dc0606ed2a@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:BINGO WITH CATS
 LOCATION:The Cat Lady Cafe | 401 E Colfax Ave | South Bend\, 46617
 DESCRIPTION:Bingo with cats! Just like you’d expect - one hour in our cat
@@ -362,7 +158,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:68ba0a50ccc4578926b3c11e@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:END OF SUMMER CELEBRATION
 LOCATION:Kamm Island | 100 N Center St | Mishawaka\, 46544
 DESCRIPTION:Join us for our big bash at the last Summer Concert Series perf
@@ -377,7 +173,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d256e4ee61a79e08235478c1@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:FAITHFUL 5K
 LOCATION:Downtown Mishawaka Riverwalk and Battell Park Bandshell | 301 W. M
  ishawaka Ave.\, Mishawaka\, IN 46545 | Mishawaka\, IN 46545
@@ -395,7 +191,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c8f6f091d0d1ae15b85b56f7@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:FILM—"BACKROOMS: EVERYTHING MUST GO EDITION" (2026)
 LOCATION:DeBartolo Performing Arts Center
 DESCRIPTION:New at the Browning Directed by Kane Parsons With Chiwetel Ejio
@@ -415,8 +211,66 @@ DTEND;TZID=America/Indiana/Indianapolis:20260820T211000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:0d26cf285aa0c471824fdb14@visitsouthbend.com
+DTSTAMP:20260819T191607Z
+SUMMARY:FILM: "FANTASIA" (1940)
+LOCATION:DeBartolo Performing Arts Center
+DESCRIPTION:Professor Pfinklepfunder's $1 Sunday Films Directed by James Al
+ gar\, Samuel Armstrong\, Ford Beebe Jr.\, et al. With Leopold Stokowski\,
+  Deems Taylor Rated G\, 124 minutes An anomaly in the canon of Disney ani
+ mated features\, Fantasia holds a special place in many hearts and memori
+ es for its vibrant colors and\, at times\, plotless abstract pieces. Comp
+ osed of eight different segments featuring classical music\, the antholog
+ y of animated shorts act as their own music videos of sorts—an odd way 
+ for Mickey Mouse to star in his first feature film\, but a timeless examp
+ le copied by many on how animation and music can be woven into inspiratio
+ n. GET TICKETS *Sponsored by the Meg and John P. Brogan Endowment for Cla
+ ssic Cinema.\n\nMore Info: https://www.visitsouthbend.com/events/film-fan
+ tasia-1940/
+URL:https://www.visitsouthbend.com/events/film-fantasia-1940/
+DTSTART;TZID=America/Indiana/Indianapolis:20260823T130000
+DTEND;TZID=America/Indiana/Indianapolis:20260823T150500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dd3bb902036bfa885cf4d6a2@visitsouthbend.com
+DTSTAMP:20260819T191607Z
+SUMMARY:FREE ARTIST AND CAREER BUILDING WORKSHOP FOR MUSICIANS
+LOCATION:The Music Village | 333 S Michigan St | South Bend\, IN 46601
+DESCRIPTION:Interested in artist development or building a career in music?
+  This workshop is for you!\n\nPresented by The Music Village and Jireh Mu
+ sic - open to all ages\, all instruments\, and all playing levels.\n\nThi
+ s FREE 60 minute workshop offers musicians a rare chance to learn from an
+ d interact with a chart-topping music industry professional. Led by drumm
+ er\, composer\, and Billboard Top 40 recording artist\, Travis Brant\, th
+ is engaging workshop transforms the art of musical creativity into practi
+ cal\, easy-to-use skills that inspire and equip musicians at every level.
+ \n\nDiscussion topics include Building Foundations (mastering fundamental
+ s\, practice routine\, listening skills\, musical roles)\, Career Buildin
+ g (how to become a professional\, networking\, habits of the pros\, caree
+ r options in music)\, Artist Development (music business\, writing / reco
+ rding / releasing music) and time for Q&A.\n\nExpand your skills\, gain k
+ nowledge\, learn about the music business\, careers in music\, and much m
+ ore!\n\nThe Music Village is a community musical arts center and school\,
+  celebrating music and cultural expressions rooted in the traditions of d
+ iverse local and global communities in the heart of downtown South Bend\,
+  Indiana.\n\nJireh Music is a nonprofit music program providing artist an
+ d career development through education\, mentoring\, and support resource
+ s.\n\nTravis Brant is an American drummer\, composer\, co-founder of the 
+ band Axon Radio\, and Billboard / Mediabase top 40 recording artist. Trav
+ is' recorded works include collaborations with contemporary jazz icons Ge
+ rald Albright\, Michael Lington\, Darren Rahn\, Paul Brown\, fusion guita
+ rist Oz Noy\, and more.\n\nMore Info: https://www.visitsouthbend.com/even
+ ts/free-artist-and-career-building-workshop-for-musicians/
+URL:https://www.visitsouthbend.com/events/free-artist-and-career-building-w
+ orkshop-for-musicians/
+DTSTART;TZID=America/Indiana/Indianapolis:20260822T140000
+DTEND;TZID=America/Indiana/Indianapolis:20260822T150000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:19cf54f18ed9acdb7ef3b36d@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:FRIDAYS BY THE FOUNTAIN
 LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
  N 46601
@@ -440,7 +294,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:34bdd457c21c0cb01cc18ecd@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:FRIDAYS BY THE FOUNTAIN
 LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
  N 46601
@@ -463,620 +317,8 @@ DTEND;TZID=America/Indiana/Indianapolis:20260828T131500
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:eb1bbe3864b3e76c0fe1345c@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:FRIDAYS BY THE FOUNTAIN
-LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
- N 46601
-DESCRIPTION:This year Fridays by the Fountain will return to Jon R. Hunt Pl
- aza at the Morris!\nWe will have food trucks\, live music\, and free comm
- unity fun!\nHeld on Fridays between 11:45 a.m. and 1:15 p.m.\, each conce
- rt is free of charge. Now in its 26th year\, Fridays by the Fountain show
- cases live entertainment from area blues\, jazz\, rock\, R&B\, pop\, folk
- \, and Irish music bands.\n\nThis year’s lineup includes:\nJune 5 – R
- ockDogs\nJune 12 – Q sonics\nJune 19 – Southside Denny\nJune 26 – H
- ey Annie\nJuly 3 – Memphis Underground\nJuly 10 – Don Savoie\nJuly 17
-  – Resurrection Blues Band\nJuly 24 – Big Daddy Dupree’s Broke & Hu
- ngry Blues Band\nJuly 31 – Van Dyke Revue\nAugust 7 – PT and The Crui
- sers\nAugust 14 – David Hilliker Trio\nAugust 21 – High Life\nAugust 
- 28 – Kennedy’s Kitchen\n\nMore Info: https://www.visitsouthbend.com/e
- vents/fridays-by-the-fountain/
-URL:https://www.visitsouthbend.com/events/fridays-by-the-fountain/
-DTSTART;TZID=America/Indiana/Indianapolis:20260904T114500
-DTEND;TZID=America/Indiana/Indianapolis:20260904T131500
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:3ba78a0b3c2fa41c192483dc@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:FRIDAYS BY THE FOUNTAIN
-LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
- N 46601
-DESCRIPTION:This year Fridays by the Fountain will return to Jon R. Hunt Pl
- aza at the Morris!\nWe will have food trucks\, live music\, and free comm
- unity fun!\nHeld on Fridays between 11:45 a.m. and 1:15 p.m.\, each conce
- rt is free of charge. Now in its 26th year\, Fridays by the Fountain show
- cases live entertainment from area blues\, jazz\, rock\, R&B\, pop\, folk
- \, and Irish music bands.\n\nThis year’s lineup includes:\nJune 5 – R
- ockDogs\nJune 12 – Q sonics\nJune 19 – Southside Denny\nJune 26 – H
- ey Annie\nJuly 3 – Memphis Underground\nJuly 10 – Don Savoie\nJuly 17
-  – Resurrection Blues Band\nJuly 24 – Big Daddy Dupree’s Broke & Hu
- ngry Blues Band\nJuly 31 – Van Dyke Revue\nAugust 7 – PT and The Crui
- sers\nAugust 14 – David Hilliker Trio\nAugust 21 – High Life\nAugust 
- 28 – Kennedy’s Kitchen\n\nMore Info: https://www.visitsouthbend.com/e
- vents/fridays-by-the-fountain/
-URL:https://www.visitsouthbend.com/events/fridays-by-the-fountain/
-DTSTART;TZID=America/Indiana/Indianapolis:20260911T114500
-DTEND;TZID=America/Indiana/Indianapolis:20260911T131500
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:950ac30039d46ab77e9a8900@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:FRIDAYS BY THE FOUNTAIN
-LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
- N 46601
-DESCRIPTION:This year Fridays by the Fountain will return to Jon R. Hunt Pl
- aza at the Morris!\nWe will have food trucks\, live music\, and free comm
- unity fun!\nHeld on Fridays between 11:45 a.m. and 1:15 p.m.\, each conce
- rt is free of charge. Now in its 26th year\, Fridays by the Fountain show
- cases live entertainment from area blues\, jazz\, rock\, R&B\, pop\, folk
- \, and Irish music bands.\n\nThis year’s lineup includes:\nJune 5 – R
- ockDogs\nJune 12 – Q sonics\nJune 19 – Southside Denny\nJune 26 – H
- ey Annie\nJuly 3 – Memphis Underground\nJuly 10 – Don Savoie\nJuly 17
-  – Resurrection Blues Band\nJuly 24 – Big Daddy Dupree’s Broke & Hu
- ngry Blues Band\nJuly 31 – Van Dyke Revue\nAugust 7 – PT and The Crui
- sers\nAugust 14 – David Hilliker Trio\nAugust 21 – High Life\nAugust 
- 28 – Kennedy’s Kitchen\n\nMore Info: https://www.visitsouthbend.com/e
- vents/fridays-by-the-fountain/
-URL:https://www.visitsouthbend.com/events/fridays-by-the-fountain/
-DTSTART;TZID=America/Indiana/Indianapolis:20260918T114500
-DTEND;TZID=America/Indiana/Indianapolis:20260918T131500
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:9e72c4c185b1601cb2ef33f2@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:FRIDAYS BY THE FOUNTAIN
-LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
- N 46601
-DESCRIPTION:This year Fridays by the Fountain will return to Jon R. Hunt Pl
- aza at the Morris!\nWe will have food trucks\, live music\, and free comm
- unity fun!\nHeld on Fridays between 11:45 a.m. and 1:15 p.m.\, each conce
- rt is free of charge. Now in its 26th year\, Fridays by the Fountain show
- cases live entertainment from area blues\, jazz\, rock\, R&B\, pop\, folk
- \, and Irish music bands.\n\nThis year’s lineup includes:\nJune 5 – R
- ockDogs\nJune 12 – Q sonics\nJune 19 – Southside Denny\nJune 26 – H
- ey Annie\nJuly 3 – Memphis Underground\nJuly 10 – Don Savoie\nJuly 17
-  – Resurrection Blues Band\nJuly 24 – Big Daddy Dupree’s Broke & Hu
- ngry Blues Band\nJuly 31 – Van Dyke Revue\nAugust 7 – PT and The Crui
- sers\nAugust 14 – David Hilliker Trio\nAugust 21 – High Life\nAugust 
- 28 – Kennedy’s Kitchen\n\nMore Info: https://www.visitsouthbend.com/e
- vents/fridays-by-the-fountain/
-URL:https://www.visitsouthbend.com/events/fridays-by-the-fountain/
-DTSTART;TZID=America/Indiana/Indianapolis:20260925T114500
-DTEND;TZID=America/Indiana/Indianapolis:20260925T131500
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:0caa5f2ff06ff36170e731a4@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:FRIDAYS BY THE FOUNTAIN
-LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
- N 46601
-DESCRIPTION:This year Fridays by the Fountain will return to Jon R. Hunt Pl
- aza at the Morris!\nWe will have food trucks\, live music\, and free comm
- unity fun!\nHeld on Fridays between 11:45 a.m. and 1:15 p.m.\, each conce
- rt is free of charge. Now in its 26th year\, Fridays by the Fountain show
- cases live entertainment from area blues\, jazz\, rock\, R&B\, pop\, folk
- \, and Irish music bands.\n\nThis year’s lineup includes:\nJune 5 – R
- ockDogs\nJune 12 – Q sonics\nJune 19 – Southside Denny\nJune 26 – H
- ey Annie\nJuly 3 – Memphis Underground\nJuly 10 – Don Savoie\nJuly 17
-  – Resurrection Blues Band\nJuly 24 – Big Daddy Dupree’s Broke & Hu
- ngry Blues Band\nJuly 31 – Van Dyke Revue\nAugust 7 – PT and The Crui
- sers\nAugust 14 – David Hilliker Trio\nAugust 21 – High Life\nAugust 
- 28 – Kennedy’s Kitchen\n\nMore Info: https://www.visitsouthbend.com/e
- vents/fridays-by-the-fountain/
-URL:https://www.visitsouthbend.com/events/fridays-by-the-fountain/
-DTSTART;TZID=America/Indiana/Indianapolis:20261002T114500
-DTEND;TZID=America/Indiana/Indianapolis:20261002T131500
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:73875612c43fd2fc3bd31320@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:FRIDAYS BY THE FOUNTAIN
-LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
- N 46601
-DESCRIPTION:This year Fridays by the Fountain will return to Jon R. Hunt Pl
- aza at the Morris!\nWe will have food trucks\, live music\, and free comm
- unity fun!\nHeld on Fridays between 11:45 a.m. and 1:15 p.m.\, each conce
- rt is free of charge. Now in its 26th year\, Fridays by the Fountain show
- cases live entertainment from area blues\, jazz\, rock\, R&B\, pop\, folk
- \, and Irish music bands.\n\nThis year’s lineup includes:\nJune 5 – R
- ockDogs\nJune 12 – Q sonics\nJune 19 – Southside Denny\nJune 26 – H
- ey Annie\nJuly 3 – Memphis Underground\nJuly 10 – Don Savoie\nJuly 17
-  – Resurrection Blues Band\nJuly 24 – Big Daddy Dupree’s Broke & Hu
- ngry Blues Band\nJuly 31 – Van Dyke Revue\nAugust 7 – PT and The Crui
- sers\nAugust 14 – David Hilliker Trio\nAugust 21 – High Life\nAugust 
- 28 – Kennedy’s Kitchen\n\nMore Info: https://www.visitsouthbend.com/e
- vents/fridays-by-the-fountain/
-URL:https://www.visitsouthbend.com/events/fridays-by-the-fountain/
-DTSTART;TZID=America/Indiana/Indianapolis:20261009T114500
-DTEND;TZID=America/Indiana/Indianapolis:20261009T131500
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:31ce2560ebfd80b998d74728@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:FRIDAYS BY THE FOUNTAIN
-LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
- N 46601
-DESCRIPTION:This year Fridays by the Fountain will return to Jon R. Hunt Pl
- aza at the Morris!\nWe will have food trucks\, live music\, and free comm
- unity fun!\nHeld on Fridays between 11:45 a.m. and 1:15 p.m.\, each conce
- rt is free of charge. Now in its 26th year\, Fridays by the Fountain show
- cases live entertainment from area blues\, jazz\, rock\, R&B\, pop\, folk
- \, and Irish music bands.\n\nThis year’s lineup includes:\nJune 5 – R
- ockDogs\nJune 12 – Q sonics\nJune 19 – Southside Denny\nJune 26 – H
- ey Annie\nJuly 3 – Memphis Underground\nJuly 10 – Don Savoie\nJuly 17
-  – Resurrection Blues Band\nJuly 24 – Big Daddy Dupree’s Broke & Hu
- ngry Blues Band\nJuly 31 – Van Dyke Revue\nAugust 7 – PT and The Crui
- sers\nAugust 14 – David Hilliker Trio\nAugust 21 – High Life\nAugust 
- 28 – Kennedy’s Kitchen\n\nMore Info: https://www.visitsouthbend.com/e
- vents/fridays-by-the-fountain/
-URL:https://www.visitsouthbend.com/events/fridays-by-the-fountain/
-DTSTART;TZID=America/Indiana/Indianapolis:20261016T114500
-DTEND;TZID=America/Indiana/Indianapolis:20261016T131500
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:4c0892f3973d6fe8d8a402ed@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:FRIDAYS BY THE FOUNTAIN
-LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
- N 46601
-DESCRIPTION:This year Fridays by the Fountain will return to Jon R. Hunt Pl
- aza at the Morris!\nWe will have food trucks\, live music\, and free comm
- unity fun!\nHeld on Fridays between 11:45 a.m. and 1:15 p.m.\, each conce
- rt is free of charge. Now in its 26th year\, Fridays by the Fountain show
- cases live entertainment from area blues\, jazz\, rock\, R&B\, pop\, folk
- \, and Irish music bands.\n\nThis year’s lineup includes:\nJune 5 – R
- ockDogs\nJune 12 – Q sonics\nJune 19 – Southside Denny\nJune 26 – H
- ey Annie\nJuly 3 – Memphis Underground\nJuly 10 – Don Savoie\nJuly 17
-  – Resurrection Blues Band\nJuly 24 – Big Daddy Dupree’s Broke & Hu
- ngry Blues Band\nJuly 31 – Van Dyke Revue\nAugust 7 – PT and The Crui
- sers\nAugust 14 – David Hilliker Trio\nAugust 21 – High Life\nAugust 
- 28 – Kennedy’s Kitchen\n\nMore Info: https://www.visitsouthbend.com/e
- vents/fridays-by-the-fountain/
-URL:https://www.visitsouthbend.com/events/fridays-by-the-fountain/
-DTSTART;TZID=America/Indiana/Indianapolis:20261023T114500
-DTEND;TZID=America/Indiana/Indianapolis:20261023T131500
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:4d15c50e4e2a25e1685f1ded@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:FRIDAYS BY THE FOUNTAIN
-LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
- N 46601
-DESCRIPTION:This year Fridays by the Fountain will return to Jon R. Hunt Pl
- aza at the Morris!\nWe will have food trucks\, live music\, and free comm
- unity fun!\nHeld on Fridays between 11:45 a.m. and 1:15 p.m.\, each conce
- rt is free of charge. Now in its 26th year\, Fridays by the Fountain show
- cases live entertainment from area blues\, jazz\, rock\, R&B\, pop\, folk
- \, and Irish music bands.\n\nThis year’s lineup includes:\nJune 5 – R
- ockDogs\nJune 12 – Q sonics\nJune 19 – Southside Denny\nJune 26 – H
- ey Annie\nJuly 3 – Memphis Underground\nJuly 10 – Don Savoie\nJuly 17
-  – Resurrection Blues Band\nJuly 24 – Big Daddy Dupree’s Broke & Hu
- ngry Blues Band\nJuly 31 – Van Dyke Revue\nAugust 7 – PT and The Crui
- sers\nAugust 14 – David Hilliker Trio\nAugust 21 – High Life\nAugust 
- 28 – Kennedy’s Kitchen\n\nMore Info: https://www.visitsouthbend.com/e
- vents/fridays-by-the-fountain/
-URL:https://www.visitsouthbend.com/events/fridays-by-the-fountain/
-DTSTART;TZID=America/Indiana/Indianapolis:20261030T114500
-DTEND;TZID=America/Indiana/Indianapolis:20261030T131500
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:c317b5754714efa6ec2a53af@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:FRIDAYS BY THE FOUNTAIN
-LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
- N 46601
-DESCRIPTION:This year Fridays by the Fountain will return to Jon R. Hunt Pl
- aza at the Morris!\nWe will have food trucks\, live music\, and free comm
- unity fun!\nHeld on Fridays between 11:45 a.m. and 1:15 p.m.\, each conce
- rt is free of charge. Now in its 26th year\, Fridays by the Fountain show
- cases live entertainment from area blues\, jazz\, rock\, R&B\, pop\, folk
- \, and Irish music bands.\n\nThis year’s lineup includes:\nJune 5 – R
- ockDogs\nJune 12 – Q sonics\nJune 19 – Southside Denny\nJune 26 – H
- ey Annie\nJuly 3 – Memphis Underground\nJuly 10 – Don Savoie\nJuly 17
-  – Resurrection Blues Band\nJuly 24 – Big Daddy Dupree’s Broke & Hu
- ngry Blues Band\nJuly 31 – Van Dyke Revue\nAugust 7 – PT and The Crui
- sers\nAugust 14 – David Hilliker Trio\nAugust 21 – High Life\nAugust 
- 28 – Kennedy’s Kitchen\n\nMore Info: https://www.visitsouthbend.com/e
- vents/fridays-by-the-fountain/
-URL:https://www.visitsouthbend.com/events/fridays-by-the-fountain/
-DTSTART;TZID=America/Indiana/Indianapolis:20261106T114500
-DTEND;TZID=America/Indiana/Indianapolis:20261106T131500
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:5fd4d405c61a1ff64237c60e@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:FRIDAYS BY THE FOUNTAIN
-LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
- N 46601
-DESCRIPTION:This year Fridays by the Fountain will return to Jon R. Hunt Pl
- aza at the Morris!\nWe will have food trucks\, live music\, and free comm
- unity fun!\nHeld on Fridays between 11:45 a.m. and 1:15 p.m.\, each conce
- rt is free of charge. Now in its 26th year\, Fridays by the Fountain show
- cases live entertainment from area blues\, jazz\, rock\, R&B\, pop\, folk
- \, and Irish music bands.\n\nThis year’s lineup includes:\nJune 5 – R
- ockDogs\nJune 12 – Q sonics\nJune 19 – Southside Denny\nJune 26 – H
- ey Annie\nJuly 3 – Memphis Underground\nJuly 10 – Don Savoie\nJuly 17
-  – Resurrection Blues Band\nJuly 24 – Big Daddy Dupree’s Broke & Hu
- ngry Blues Band\nJuly 31 – Van Dyke Revue\nAugust 7 – PT and The Crui
- sers\nAugust 14 – David Hilliker Trio\nAugust 21 – High Life\nAugust 
- 28 – Kennedy’s Kitchen\n\nMore Info: https://www.visitsouthbend.com/e
- vents/fridays-by-the-fountain/
-URL:https://www.visitsouthbend.com/events/fridays-by-the-fountain/
-DTSTART;TZID=America/Indiana/Indianapolis:20261113T114500
-DTEND;TZID=America/Indiana/Indianapolis:20261113T131500
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:a94147eadf1eda0870ba0a01@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:FRIDAYS BY THE FOUNTAIN
-LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
- N 46601
-DESCRIPTION:This year Fridays by the Fountain will return to Jon R. Hunt Pl
- aza at the Morris!\nWe will have food trucks\, live music\, and free comm
- unity fun!\nHeld on Fridays between 11:45 a.m. and 1:15 p.m.\, each conce
- rt is free of charge. Now in its 26th year\, Fridays by the Fountain show
- cases live entertainment from area blues\, jazz\, rock\, R&B\, pop\, folk
- \, and Irish music bands.\n\nThis year’s lineup includes:\nJune 5 – R
- ockDogs\nJune 12 – Q sonics\nJune 19 – Southside Denny\nJune 26 – H
- ey Annie\nJuly 3 – Memphis Underground\nJuly 10 – Don Savoie\nJuly 17
-  – Resurrection Blues Band\nJuly 24 – Big Daddy Dupree’s Broke & Hu
- ngry Blues Band\nJuly 31 – Van Dyke Revue\nAugust 7 – PT and The Crui
- sers\nAugust 14 – David Hilliker Trio\nAugust 21 – High Life\nAugust 
- 28 – Kennedy’s Kitchen\n\nMore Info: https://www.visitsouthbend.com/e
- vents/fridays-by-the-fountain/
-URL:https://www.visitsouthbend.com/events/fridays-by-the-fountain/
-DTSTART;TZID=America/Indiana/Indianapolis:20261120T114500
-DTEND;TZID=America/Indiana/Indianapolis:20261120T131500
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:9db6c4623e794a506eb81b64@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:MACBETH (NDSF 2026)
-LOCATION:DeBartolo Performing Arts Center | DeBartolo Performing Arts Cente
- r\, 100 Performing Arts Center | Notre Dame\, 46556
-DESCRIPTION:Shakespeare at Notre Dame Ambition o'erleaps itself in Shakespe
- are's "Scottish Play\," where the throne is for the taking. Claimed in bl
- ood\, a Scottish general now wears the crown but must suffer the conseque
- nces of fate\, influence\, and greed. "Macbeth" is an examination of powe
- r\, what it takes to obtain\, and what it costs to keep. "Macbeth" is bro
- ught to life by the Notre Dame Shakespeare Festival's Professional Compan
- y\, under the direction of Matt Hawkins\, Director of Theatre and Musical
-  Theatre for the Department of Film\, Television\, and Theatre at the Uni
- versity of Notre Dame. Murder\, mutiny\, and mystery set the tone for one
-  of Shakespeare's greatest dramatic achievements. This always-relevant ex
- amination of the lacerating effects of the reckless desire for power unfo
- lds in the Scottish highlands. A poisonous cocktail of ambition\, guilt\,
-  and paranoia\, with subtle seasonings of the supernatural\, the show exp
- lores conflicted characters with the twists and turns of a riveting thril
- ler. Event includes mature or adult content.\n\nMore Info: https://www.vi
- sitsouthbend.com/events/macbeth-ndsf-2026/
-URL:https://www.visitsouthbend.com/events/macbeth-ndsf-2026/
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:abf0ca9c8be15970c9e8e636@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:MACBETH (NDSF 2026)
-LOCATION:DeBartolo Performing Arts Center | DeBartolo Performing Arts Cente
- r\, 100 Performing Arts Center | Notre Dame\, 46556
-DESCRIPTION:Shakespeare at Notre Dame Ambition o'erleaps itself in Shakespe
- are's "Scottish Play\," where the throne is for the taking. Claimed in bl
- ood\, a Scottish general now wears the crown but must suffer the conseque
- nces of fate\, influence\, and greed. "Macbeth" is an examination of powe
- r\, what it takes to obtain\, and what it costs to keep. "Macbeth" is bro
- ught to life by the Notre Dame Shakespeare Festival's Professional Compan
- y\, under the direction of Matt Hawkins\, Director of Theatre and Musical
-  Theatre for the Department of Film\, Television\, and Theatre at the Uni
- versity of Notre Dame. Murder\, mutiny\, and mystery set the tone for one
-  of Shakespeare's greatest dramatic achievements. This always-relevant ex
- amination of the lacerating effects of the reckless desire for power unfo
- lds in the Scottish highlands. A poisonous cocktail of ambition\, guilt\,
-  and paranoia\, with subtle seasonings of the supernatural\, the show exp
- lores conflicted characters with the twists and turns of a riveting thril
- ler. Event includes mature or adult content.\n\nMore Info: https://www.vi
- sitsouthbend.com/events/macbeth-ndsf-2026/
-URL:https://www.visitsouthbend.com/events/macbeth-ndsf-2026/
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:548cbd449ed0b58f304d763d@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:MACBETH (NDSF 2026)
-LOCATION:DeBartolo Performing Arts Center | DeBartolo Performing Arts Cente
- r\, 100 Performing Arts Center | Notre Dame\, 46556
-DESCRIPTION:Shakespeare at Notre Dame Ambition o'erleaps itself in Shakespe
- are's "Scottish Play\," where the throne is for the taking. Claimed in bl
- ood\, a Scottish general now wears the crown but must suffer the conseque
- nces of fate\, influence\, and greed. "Macbeth" is an examination of powe
- r\, what it takes to obtain\, and what it costs to keep. "Macbeth" is bro
- ught to life by the Notre Dame Shakespeare Festival's Professional Compan
- y\, under the direction of Matt Hawkins\, Director of Theatre and Musical
-  Theatre for the Department of Film\, Television\, and Theatre at the Uni
- versity of Notre Dame. Murder\, mutiny\, and mystery set the tone for one
-  of Shakespeare's greatest dramatic achievements. This always-relevant ex
- amination of the lacerating effects of the reckless desire for power unfo
- lds in the Scottish highlands. A poisonous cocktail of ambition\, guilt\,
-  and paranoia\, with subtle seasonings of the supernatural\, the show exp
- lores conflicted characters with the twists and turns of a riveting thril
- ler. Event includes mature or adult content.\n\nMore Info: https://www.vi
- sitsouthbend.com/events/macbeth-ndsf-2026/
-URL:https://www.visitsouthbend.com/events/macbeth-ndsf-2026/
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:26c96a4fed1b55d4bc2c7b8f@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:MACBETH (NDSF 2026)
-LOCATION:DeBartolo Performing Arts Center | DeBartolo Performing Arts Cente
- r\, 100 Performing Arts Center | Notre Dame\, 46556
-DESCRIPTION:Shakespeare at Notre Dame Ambition o'erleaps itself in Shakespe
- are's "Scottish Play\," where the throne is for the taking. Claimed in bl
- ood\, a Scottish general now wears the crown but must suffer the conseque
- nces of fate\, influence\, and greed. "Macbeth" is an examination of powe
- r\, what it takes to obtain\, and what it costs to keep. "Macbeth" is bro
- ught to life by the Notre Dame Shakespeare Festival's Professional Compan
- y\, under the direction of Matt Hawkins\, Director of Theatre and Musical
-  Theatre for the Department of Film\, Television\, and Theatre at the Uni
- versity of Notre Dame. Murder\, mutiny\, and mystery set the tone for one
-  of Shakespeare's greatest dramatic achievements. This always-relevant ex
- amination of the lacerating effects of the reckless desire for power unfo
- lds in the Scottish highlands. A poisonous cocktail of ambition\, guilt\,
-  and paranoia\, with subtle seasonings of the supernatural\, the show exp
- lores conflicted characters with the twists and turns of a riveting thril
- ler. Event includes mature or adult content.\n\nMore Info: https://www.vi
- sitsouthbend.com/events/macbeth-ndsf-2026/
-URL:https://www.visitsouthbend.com/events/macbeth-ndsf-2026/
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:b81193bc4224d9bfdb1da8b2@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:MACBETH (NDSF 2026)
-LOCATION:DeBartolo Performing Arts Center | DeBartolo Performing Arts Cente
- r\, 100 Performing Arts Center | Notre Dame\, 46556
-DESCRIPTION:Shakespeare at Notre Dame Ambition o'erleaps itself in Shakespe
- are's "Scottish Play\," where the throne is for the taking. Claimed in bl
- ood\, a Scottish general now wears the crown but must suffer the conseque
- nces of fate\, influence\, and greed. "Macbeth" is an examination of powe
- r\, what it takes to obtain\, and what it costs to keep. "Macbeth" is bro
- ught to life by the Notre Dame Shakespeare Festival's Professional Compan
- y\, under the direction of Matt Hawkins\, Director of Theatre and Musical
-  Theatre for the Department of Film\, Television\, and Theatre at the Uni
- versity of Notre Dame. Murder\, mutiny\, and mystery set the tone for one
-  of Shakespeare's greatest dramatic achievements. This always-relevant ex
- amination of the lacerating effects of the reckless desire for power unfo
- lds in the Scottish highlands. A poisonous cocktail of ambition\, guilt\,
-  and paranoia\, with subtle seasonings of the supernatural\, the show exp
- lores conflicted characters with the twists and turns of a riveting thril
- ler. Event includes mature or adult content.\n\nMore Info: https://www.vi
- sitsouthbend.com/events/macbeth-ndsf-2026/
-URL:https://www.visitsouthbend.com/events/macbeth-ndsf-2026/
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:43a90de14935914f81f54fd0@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:MACBETH (NDSF 2026)
-LOCATION:DeBartolo Performing Arts Center | DeBartolo Performing Arts Cente
- r\, 100 Performing Arts Center | Notre Dame\, 46556
-DESCRIPTION:Shakespeare at Notre Dame Ambition o'erleaps itself in Shakespe
- are's "Scottish Play\," where the throne is for the taking. Claimed in bl
- ood\, a Scottish general now wears the crown but must suffer the conseque
- nces of fate\, influence\, and greed. "Macbeth" is an examination of powe
- r\, what it takes to obtain\, and what it costs to keep. "Macbeth" is bro
- ught to life by the Notre Dame Shakespeare Festival's Professional Compan
- y\, under the direction of Matt Hawkins\, Director of Theatre and Musical
-  Theatre for the Department of Film\, Television\, and Theatre at the Uni
- versity of Notre Dame. Murder\, mutiny\, and mystery set the tone for one
-  of Shakespeare's greatest dramatic achievements. This always-relevant ex
- amination of the lacerating effects of the reckless desire for power unfo
- lds in the Scottish highlands. A poisonous cocktail of ambition\, guilt\,
-  and paranoia\, with subtle seasonings of the supernatural\, the show exp
- lores conflicted characters with the twists and turns of a riveting thril
- ler. Event includes mature or adult content.\n\nMore Info: https://www.vi
- sitsouthbend.com/events/macbeth-ndsf-2026/
-URL:https://www.visitsouthbend.com/events/macbeth-ndsf-2026/
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:82df5de7b1f422206805f98e@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:MACBETH (NDSF 2026)
-LOCATION:DeBartolo Performing Arts Center | DeBartolo Performing Arts Cente
- r\, 100 Performing Arts Center | Notre Dame\, 46556
-DESCRIPTION:Shakespeare at Notre Dame Ambition o'erleaps itself in Shakespe
- are's "Scottish Play\," where the throne is for the taking. Claimed in bl
- ood\, a Scottish general now wears the crown but must suffer the conseque
- nces of fate\, influence\, and greed. "Macbeth" is an examination of powe
- r\, what it takes to obtain\, and what it costs to keep. "Macbeth" is bro
- ught to life by the Notre Dame Shakespeare Festival's Professional Compan
- y\, under the direction of Matt Hawkins\, Director of Theatre and Musical
-  Theatre for the Department of Film\, Television\, and Theatre at the Uni
- versity of Notre Dame. Murder\, mutiny\, and mystery set the tone for one
-  of Shakespeare's greatest dramatic achievements. This always-relevant ex
- amination of the lacerating effects of the reckless desire for power unfo
- lds in the Scottish highlands. A poisonous cocktail of ambition\, guilt\,
-  and paranoia\, with subtle seasonings of the supernatural\, the show exp
- lores conflicted characters with the twists and turns of a riveting thril
- ler. Event includes mature or adult content.\n\nMore Info: https://www.vi
- sitsouthbend.com/events/macbeth-ndsf-2026/
-URL:https://www.visitsouthbend.com/events/macbeth-ndsf-2026/
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:8f720f9866f970cbbb3df71f@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:MACBETH (NDSF 2026)
-LOCATION:DeBartolo Performing Arts Center | DeBartolo Performing Arts Cente
- r\, 100 Performing Arts Center | Notre Dame\, 46556
-DESCRIPTION:Shakespeare at Notre Dame Ambition o'erleaps itself in Shakespe
- are's "Scottish Play\," where the throne is for the taking. Claimed in bl
- ood\, a Scottish general now wears the crown but must suffer the conseque
- nces of fate\, influence\, and greed. "Macbeth" is an examination of powe
- r\, what it takes to obtain\, and what it costs to keep. "Macbeth" is bro
- ught to life by the Notre Dame Shakespeare Festival's Professional Compan
- y\, under the direction of Matt Hawkins\, Director of Theatre and Musical
-  Theatre for the Department of Film\, Television\, and Theatre at the Uni
- versity of Notre Dame. Murder\, mutiny\, and mystery set the tone for one
-  of Shakespeare's greatest dramatic achievements. This always-relevant ex
- amination of the lacerating effects of the reckless desire for power unfo
- lds in the Scottish highlands. A poisonous cocktail of ambition\, guilt\,
-  and paranoia\, with subtle seasonings of the supernatural\, the show exp
- lores conflicted characters with the twists and turns of a riveting thril
- ler. Event includes mature or adult content.\n\nMore Info: https://www.vi
- sitsouthbend.com/events/macbeth-ndsf-2026/
-URL:https://www.visitsouthbend.com/events/macbeth-ndsf-2026/
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:7460afb1f7120e3b48fa1c30@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:MACBETH (NDSF 2026)
-LOCATION:DeBartolo Performing Arts Center | DeBartolo Performing Arts Cente
- r\, 100 Performing Arts Center | Notre Dame\, 46556
-DESCRIPTION:Shakespeare at Notre Dame Ambition o'erleaps itself in Shakespe
- are's "Scottish Play\," where the throne is for the taking. Claimed in bl
- ood\, a Scottish general now wears the crown but must suffer the conseque
- nces of fate\, influence\, and greed. "Macbeth" is an examination of powe
- r\, what it takes to obtain\, and what it costs to keep. "Macbeth" is bro
- ught to life by the Notre Dame Shakespeare Festival's Professional Compan
- y\, under the direction of Matt Hawkins\, Director of Theatre and Musical
-  Theatre for the Department of Film\, Television\, and Theatre at the Uni
- versity of Notre Dame. Murder\, mutiny\, and mystery set the tone for one
-  of Shakespeare's greatest dramatic achievements. This always-relevant ex
- amination of the lacerating effects of the reckless desire for power unfo
- lds in the Scottish highlands. A poisonous cocktail of ambition\, guilt\,
-  and paranoia\, with subtle seasonings of the supernatural\, the show exp
- lores conflicted characters with the twists and turns of a riveting thril
- ler. Event includes mature or adult content.\n\nMore Info: https://www.vi
- sitsouthbend.com/events/macbeth-ndsf-2026/
-URL:https://www.visitsouthbend.com/events/macbeth-ndsf-2026/
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:4ba891e518af7ccf38d686b7@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:MACBETH (NDSF 2026)
-LOCATION:DeBartolo Performing Arts Center | DeBartolo Performing Arts Cente
- r\, 100 Performing Arts Center | Notre Dame\, 46556
-DESCRIPTION:Shakespeare at Notre Dame Ambition o'erleaps itself in Shakespe
- are's "Scottish Play\," where the throne is for the taking. Claimed in bl
- ood\, a Scottish general now wears the crown but must suffer the conseque
- nces of fate\, influence\, and greed. "Macbeth" is an examination of powe
- r\, what it takes to obtain\, and what it costs to keep. "Macbeth" is bro
- ught to life by the Notre Dame Shakespeare Festival's Professional Compan
- y\, under the direction of Matt Hawkins\, Director of Theatre and Musical
-  Theatre for the Department of Film\, Television\, and Theatre at the Uni
- versity of Notre Dame. Murder\, mutiny\, and mystery set the tone for one
-  of Shakespeare's greatest dramatic achievements. This always-relevant ex
- amination of the lacerating effects of the reckless desire for power unfo
- lds in the Scottish highlands. A poisonous cocktail of ambition\, guilt\,
-  and paranoia\, with subtle seasonings of the supernatural\, the show exp
- lores conflicted characters with the twists and turns of a riveting thril
- ler. Event includes mature or adult content.\n\nMore Info: https://www.vi
- sitsouthbend.com/events/macbeth-ndsf-2026/
-URL:https://www.visitsouthbend.com/events/macbeth-ndsf-2026/
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:0e3708d045f32e49fe8b47ef@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:MACBETH (NDSF 2026)
-LOCATION:DeBartolo Performing Arts Center | DeBartolo Performing Arts Cente
- r\, 100 Performing Arts Center | Notre Dame\, 46556
-DESCRIPTION:Shakespeare at Notre Dame Ambition o'erleaps itself in Shakespe
- are's "Scottish Play\," where the throne is for the taking. Claimed in bl
- ood\, a Scottish general now wears the crown but must suffer the conseque
- nces of fate\, influence\, and greed. "Macbeth" is an examination of powe
- r\, what it takes to obtain\, and what it costs to keep. "Macbeth" is bro
- ught to life by the Notre Dame Shakespeare Festival's Professional Compan
- y\, under the direction of Matt Hawkins\, Director of Theatre and Musical
-  Theatre for the Department of Film\, Television\, and Theatre at the Uni
- versity of Notre Dame. Murder\, mutiny\, and mystery set the tone for one
-  of Shakespeare's greatest dramatic achievements. This always-relevant ex
- amination of the lacerating effects of the reckless desire for power unfo
- lds in the Scottish highlands. A poisonous cocktail of ambition\, guilt\,
-  and paranoia\, with subtle seasonings of the supernatural\, the show exp
- lores conflicted characters with the twists and turns of a riveting thril
- ler. Event includes mature or adult content.\n\nMore Info: https://www.vi
- sitsouthbend.com/events/macbeth-ndsf-2026/
-URL:https://www.visitsouthbend.com/events/macbeth-ndsf-2026/
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:db539c0b948d8ec783e517ed@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:MACBETH (NDSF 2026)
-LOCATION:DeBartolo Performing Arts Center | DeBartolo Performing Arts Cente
- r\, 100 Performing Arts Center | Notre Dame\, 46556
-DESCRIPTION:Shakespeare at Notre Dame Ambition o'erleaps itself in Shakespe
- are's "Scottish Play\," where the throne is for the taking. Claimed in bl
- ood\, a Scottish general now wears the crown but must suffer the conseque
- nces of fate\, influence\, and greed. "Macbeth" is an examination of powe
- r\, what it takes to obtain\, and what it costs to keep. "Macbeth" is bro
- ught to life by the Notre Dame Shakespeare Festival's Professional Compan
- y\, under the direction of Matt Hawkins\, Director of Theatre and Musical
-  Theatre for the Department of Film\, Television\, and Theatre at the Uni
- versity of Notre Dame. Murder\, mutiny\, and mystery set the tone for one
-  of Shakespeare's greatest dramatic achievements. This always-relevant ex
- amination of the lacerating effects of the reckless desire for power unfo
- lds in the Scottish highlands. A poisonous cocktail of ambition\, guilt\,
-  and paranoia\, with subtle seasonings of the supernatural\, the show exp
- lores conflicted characters with the twists and turns of a riveting thril
- ler. Event includes mature or adult content.\n\nMore Info: https://www.vi
- sitsouthbend.com/events/macbeth-ndsf-2026/
-URL:https://www.visitsouthbend.com/events/macbeth-ndsf-2026/
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:d8823d41bdac46c83737698f@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:MACBETH OPENING NIGHT CELEBRATION (NDSF 2026)
 LOCATION:DeBartolo Performing Arts Center | DeBartolo Performing Arts Cente
  r\, 100 Performing Arts Center | Notre Dame\, 46556
@@ -1096,8 +338,110 @@ DTEND;TZID=America/Indiana/Indianapolis:20260820T190000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:112e9d3a5b08c5d35a1f1507@visitsouthbend.com
+DTSTAMP:20260819T191607Z
+SUMMARY:MISHAWAKA MARKET
+LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
+DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
+ Sundays from 10 am - 2 pm\, May 31st through September 27th. *No Market o
+ n June 14th\, July 5th & September 6th\n\nThere will be produce\, crafts\
+ , baked goods\, food trucks\, kids zone\, live music\, animal adoptions a
+ nd more!\n\nStage programming schedule will be posted before the 2026 Mar
+ ket Season starts!\n*No market on June 14th\, July 5th\, and September 6t
+ h.\n\nMore Info: https://www.visitsouthbend.com/events/mishawaka-market/
+URL:https://www.visitsouthbend.com/events/mishawaka-market/
+DTSTART;TZID=America/Indiana/Indianapolis:20260823T100000
+DTEND;TZID=America/Indiana/Indianapolis:20260823T140000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:08d8fc8dc5f9f4556cf49c9d@visitsouthbend.com
+DTSTAMP:20260819T191607Z
+SUMMARY:MISHAWAKA MARKET
+LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
+DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
+ Sundays from 10 am - 2 pm\, May 31st through September 27th. *No Market o
+ n June 14th\, July 5th & September 6th\n\nThere will be produce\, crafts\
+ , baked goods\, food trucks\, kids zone\, live music\, animal adoptions a
+ nd more!\n\nStage programming schedule will be posted before the 2026 Mar
+ ket Season starts!\n*No market on June 14th\, July 5th\, and September 6t
+ h.\n\nMore Info: https://www.visitsouthbend.com/events/mishawaka-market/
+URL:https://www.visitsouthbend.com/events/mishawaka-market/
+DTSTART;TZID=America/Indiana/Indianapolis:20260830T100000
+DTEND;TZID=America/Indiana/Indianapolis:20260830T140000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2437aa84d91d8d014782f63a@visitsouthbend.com
+DTSTAMP:20260819T191607Z
+SUMMARY:MISHAWAKA MARKET
+LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
+DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
+ Sundays from 10 am - 2 pm\, May 31st through September 27th. *No Market o
+ n June 14th\, July 5th & September 6th\n\nThere will be produce\, crafts\
+ , baked goods\, food trucks\, kids zone\, live music\, animal adoptions a
+ nd more!\n\nStage programming schedule will be posted before the 2026 Mar
+ ket Season starts!\n*No market on June 14th\, July 5th\, and September 6t
+ h.\n\nMore Info: https://www.visitsouthbend.com/events/mishawaka-market/
+URL:https://www.visitsouthbend.com/events/mishawaka-market/
+DTSTART;TZID=America/Indiana/Indianapolis:20260906T100000
+DTEND;TZID=America/Indiana/Indianapolis:20260906T140000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e19b1f6495332aa2afb8dd57@visitsouthbend.com
+DTSTAMP:20260819T191607Z
+SUMMARY:MISHAWAKA MARKET
+LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
+DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
+ Sundays from 10 am - 2 pm\, May 31st through September 27th. *No Market o
+ n June 14th\, July 5th & September 6th\n\nThere will be produce\, crafts\
+ , baked goods\, food trucks\, kids zone\, live music\, animal adoptions a
+ nd more!\n\nStage programming schedule will be posted before the 2026 Mar
+ ket Season starts!\n*No market on June 14th\, July 5th\, and September 6t
+ h.\n\nMore Info: https://www.visitsouthbend.com/events/mishawaka-market/
+URL:https://www.visitsouthbend.com/events/mishawaka-market/
+DTSTART;TZID=America/Indiana/Indianapolis:20260913T100000
+DTEND;TZID=America/Indiana/Indianapolis:20260913T140000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a60c4b4ffa60d5ad22d5e6ff@visitsouthbend.com
+DTSTAMP:20260819T191607Z
+SUMMARY:MISHAWAKA MARKET
+LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
+DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
+ Sundays from 10 am - 2 pm\, May 31st through September 27th. *No Market o
+ n June 14th\, July 5th & September 6th\n\nThere will be produce\, crafts\
+ , baked goods\, food trucks\, kids zone\, live music\, animal adoptions a
+ nd more!\n\nStage programming schedule will be posted before the 2026 Mar
+ ket Season starts!\n*No market on June 14th\, July 5th\, and September 6t
+ h.\n\nMore Info: https://www.visitsouthbend.com/events/mishawaka-market/
+URL:https://www.visitsouthbend.com/events/mishawaka-market/
+DTSTART;TZID=America/Indiana/Indianapolis:20260920T100000
+DTEND;TZID=America/Indiana/Indianapolis:20260920T140000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6331e9e02292f5f371634212@visitsouthbend.com
+DTSTAMP:20260819T191607Z
+SUMMARY:MISHAWAKA MARKET
+LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
+DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
+ Sundays from 10 am - 2 pm\, May 31st through September 27th. *No Market o
+ n June 14th\, July 5th & September 6th\n\nThere will be produce\, crafts\
+ , baked goods\, food trucks\, kids zone\, live music\, animal adoptions a
+ nd more!\n\nStage programming schedule will be posted before the 2026 Mar
+ ket Season starts!\n*No market on June 14th\, July 5th\, and September 6t
+ h.\n\nMore Info: https://www.visitsouthbend.com/events/mishawaka-market/
+URL:https://www.visitsouthbend.com/events/mishawaka-market/
+DTSTART;TZID=America/Indiana/Indianapolis:20260927T100000
+DTEND;TZID=America/Indiana/Indianapolis:20260927T140000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:079bc7817cc66ab238e344f7@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:MUSIC IN THE WOODS
 LOCATION:Mishawaka Res | 13950 Scout Lane | Mishawaka \, IN 46544
 DESCRIPTION:Join us for an evening of free live music in the beautiful outd
@@ -1114,7 +458,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:de9aa63e209478ee271d6107@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -1129,7 +473,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:21d314f39315bd5db814606d@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -1144,7 +488,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0de2cf53599a7bf56ebbc8cd@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -1159,7 +503,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4a83c5b2943efc98387b49b0@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -1174,7 +518,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cbb8a4f0425bc6e588ab8b98@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -1189,7 +533,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bb834a737e33359627920be1@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -1204,7 +548,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2df275db4ff1f5bccb0090e6@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -1219,7 +563,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fbfeb646e5c4fae0b1081d87@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -1234,7 +578,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f64547b09ded55c436186351@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -1249,7 +593,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:663b69217522d9af7e36e2ec@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -1264,7 +608,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:008eda1543654f494046a3d1@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -1279,7 +623,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ee2858db100a2cb1dd8d0f97@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -1294,7 +638,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:320fccbf363fb0176314e73b@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:OLDTIME DANCING
 LOCATION:Pinhook Park Community Building | 2801 Riverside Dr. | South Bend\
  , IN 46616
@@ -1314,29 +658,25 @@ DTEND;TZID=America/Indiana/Indianapolis:20260821T213000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f3d94d59dbd2cce4da13daba@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
-LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
-DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
- t artists. We will be open throughout the Colfax Av construction project.
-  Use LaSalle St to Sycamore St. to make your way to our non-profit. Pleas
- e stop by to celebrate the Michiana creative arts community. We are open 
- to the public on Wednesdays\, Fridays and Saturdays from noon to 5pm and 
- on Tuesdays and Thursdays from noon to 9pm.\n\nCheck out our webpage at\n
- \n*https://fireartsinc.com/\n\n*Instagram at https://www.instagram.com/fi
- reartsincsb/\n\n*Facebook pages at https://www.facebook.com/profile.php?i
- d=100042133547104\n\nMore Info: https://www.visitsouthbend.com/events/res
- ident-artists-summer-exhibition/
-URL:https://www.visitsouthbend.com/events/resident-artists-summer-exhibitio
- n/
-DTSTART;TZID=America/Indiana/Indianapolis:20260818T120000
-DTEND;TZID=America/Indiana/Indianapolis:20260818T170000
+UID:7ad18867d66f2033cc82d55c@visitsouthbend.com
+DTSTAMP:20260819T191607Z
+SUMMARY:PEDIGREE ENTERTAINMENT PRESENTS PURE BREEDS OF COMEDY VOL. 4. GET O
+ N THE BUS
+LOCATION:Century Center | 120 S. Dr. Martin Luther King Jr. Blvd | South Be
+ nd\, IN 46601
+DESCRIPTION:A great night of comedy with 5 of the hottest comedians from ac
+ ross the country including the one and only actor & comedian Alex Thomas!
+ \n\nMore Info: https://www.visitsouthbend.com/events/pedigree-entertainme
+ nt-presents-pure-breeds-of-comedy-vol-4-get-on-the-bus/
+URL:https://www.visitsouthbend.com/events/pedigree-entertainment-presents-p
+ ure-breeds-of-comedy-vol-4-get-on-the-bus/
+DTSTART;TZID=America/Indiana/Indianapolis:20260822T190000
+DTEND;TZID=America/Indiana/Indianapolis:20260822T220000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fc9b2a6d72754c5eafd676de@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -1357,7 +697,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ed259349ed4ce4df313598e7@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -1378,7 +718,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:970b473eca5480ed55a19951@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -1399,7 +739,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9d05686fad293e985525c7a6@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -1420,7 +760,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b9c550f4cb7ae8d345e57c63@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -1441,7 +781,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:62a40e22eea21338718995a1@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -1462,7 +802,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b9d88c326f4b03ac1d37e7a0@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -1483,7 +823,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8e40a926614334fce89a98cc@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -1504,7 +844,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ad1f51d1e5d17080464bc3f9@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -1525,7 +865,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7c1d4bd23304c625db335cdc@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -1546,7 +886,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0d6d4bc1e894e04fa0abe006@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -1567,7 +907,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bca2786b7cb3f10c84dd6b3e@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -1588,7 +928,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1b221d28bb6d3e977529c10b@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -1609,7 +949,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b55b03a18c15b0e5f7825518@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:SCAVENGER HUNT AT THE MORRIS
 LOCATION:The Morris Performing Arts Center | 211 N Michigan St | South Bend
  \, IN 46601
@@ -1635,42 +975,8 @@ DTEND;TZID=America/Indiana/Indianapolis:20260821T203000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fe075f0b881b97792f5bad65@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS - FRIDAY FIREWORKS
-LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
-DESCRIPTION:Game Highlight:\n\nFantastic Friday Fireworks\n\nEnjoy a specta
- cular fireworks show after the game. Gates open at 5:30 p.m.\n\nMore Info
- : https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-
- whitecaps-friday-fireworks/
-URL:https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-
- whitecaps-friday-fireworks/
-DTSTART;TZID=America/Indiana/Indianapolis:20260821T190500
-DTEND;TZID=America/Indiana/Indianapolis:20260821T220500
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:7eea1ebb653a501d75b29fe8@visitsouthbend.com
-DTSTAMP:20260819T002318Z
-SUMMARY:SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS
-LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
-DESCRIPTION:Game Highlights:\n\n\nTail Waggin' Tuesday\n\nBring your dog to
-  the ballpark to enjoy the game and adults 21+ can enjoy half off White C
- law Seltzers. Dog owners must fill out a waiver prior to entry. QR codes 
- are available at the gates.\n\nTitan Tuesday\n\nGame Highlight: Titan Tue
- sday\nFans who wear IU or IUSB clothing or shows their Crimson Card at th
- e box office receive a discount on their ticket. Tickets must be purchase
- d at the box office.\n\nMore Info: https://www.visitsouthbend.com/events/
- south-bend-cubs-vs-west-michigan-whitecaps/
-URL:https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-
- whitecaps/
-DTSTART;TZID=America/Indiana/Indianapolis:20260818T190500
-DTEND;TZID=America/Indiana/Indianapolis:20260818T220500
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:5dce0430ba472ff0a96ef717@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+UID:0dd532d98a0a4fa8626d4e3f@visitsouthbend.com
+DTSTAMP:20260819T191607Z
 SUMMARY:SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS
 LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
 DESCRIPTION:Promotion:\n\nSouth Bend Cubs T-Shirt Giveaway\n\nThe first 1\,
@@ -1680,16 +986,16 @@ DESCRIPTION:Promotion:\n\nSouth Bend Cubs T-Shirt Giveaway\n\nThe first 1\,
  me. Plus\, earn rewards for games attended.\n\nWine Wednesday\n\nFans 21 
  and older can enjoy half priced glasses of wine or wine slushies. Does no
  t include sangria.\n\nMore Info: https://www.visitsouthbend.com/events/so
- uth-bend-cubs-vs-west-michigan-whitecaps1/
+ uth-bend-cubs-vs-west-michigan-whitecaps-2/
 URL:https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-
- whitecaps1/
+ whitecaps-2/
 DTSTART;TZID=America/Indiana/Indianapolis:20260819T190500
 DTEND;TZID=America/Indiana/Indianapolis:20260819T220500
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5370aa0d90554bd890dd54a8@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+UID:5c82fadd699fdd6bda5d83ca@visitsouthbend.com
+DTSTAMP:20260819T191607Z
 SUMMARY:SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS
 LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
 DESCRIPTION:Ticket Offer:\n\nPro Wrestling Night II\n\nIt is official! WWE 
@@ -1705,16 +1011,53 @@ DESCRIPTION:Ticket Offer:\n\nPro Wrestling Night II\n\nIt is official! WWE
   following the game.\n\nGame Highlights:\n\n\nThirsty Thursday\n\nEnjoy $
  3 fountain sodas (24 oz.) and domestic draft beer (16 oz.) all game long.
  \n\nMore Info: https://www.visitsouthbend.com/events/south-bend-cubs-vs-w
- est-michigan-whitecaps2/
+ est-michigan-whitecaps-3/
 URL:https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-
- whitecaps2/
+ whitecaps-3/
 DTSTART;TZID=America/Indiana/Indianapolis:20260820T190500
 DTEND;TZID=America/Indiana/Indianapolis:20260820T220500
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:8f36a6daaadf8f13ef69052d@visitsouthbend.com
+DTSTAMP:20260819T191607Z
+SUMMARY:SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS
+LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
+DESCRIPTION:Game Highlights:\n\nFallen Heroes Day\n\nJoin us as we honor ou
+ r fallen heroes and award the Corporal Paul Deguch Community Service Awar
+ d to a South Bend Cubs player who demonstrates outstanding community serv
+ ice.\n\nSpecial Appearance: Zooperstars\n\nCome see the hilarious inflata
+ ble characters like Harry Canary\, Tommy Laswordfish\, Ken Giraffey\, Jr.
+ \, Nolan Rhino\, and many more! The performance combines synchronized dan
+ ce routines\, acrobatics\, tricks and comedy for performances that connec
+ t with fans of all ages.\n\n\nShowcase Saturday\n\nA night dedicated to a
+  unique theme or special appearance. Gates open at 5:30 p.m.\n\nMore Info
+ : https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-
+ whitecaps-4/
+URL:https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-
+ whitecaps-4/
+DTSTART;TZID=America/Indiana/Indianapolis:20260822T190500
+DTEND;TZID=America/Indiana/Indianapolis:20260822T220500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fe075f0b881b97792f5bad65@visitsouthbend.com
+DTSTAMP:20260819T191607Z
+SUMMARY:SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS - FRIDAY FIREWORKS
+LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
+DESCRIPTION:Game Highlight:\n\nFantastic Friday Fireworks\n\nEnjoy a specta
+ cular fireworks show after the game. Gates open at 5:30 p.m.\n\nMore Info
+ : https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-
+ whitecaps-friday-fireworks/
+URL:https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-
+ whitecaps-friday-fireworks/
+DTSTART;TZID=America/Indiana/Indianapolis:20260821T190500
+DTEND;TZID=America/Indiana/Indianapolis:20260821T220500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:b2187ffe9a9741bcbe07f172@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:THE ART OF CIGAR ROLLING: A MASTERCLASS EXPERIENCE
 LOCATION:Jackson's Cigars & Spirits | 100 N Center St #40 | Mishawaka\, IN 
  46544
@@ -1749,7 +1092,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ddd37c387309939e3faaacfc@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1764,7 +1107,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:65b2846c709b12ba2645fb73@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1779,7 +1122,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:947462ec35099c94c7fc627a@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1794,7 +1137,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2b83fb960d72e286f108d297@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1809,7 +1152,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dab1ba3afe036fdb62bda857@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1824,7 +1167,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5cc30cef80281ef9a8e0fc73@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1839,7 +1182,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7b99b693c969487fad10d80f@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1854,7 +1197,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:98defc5a3847e962979208a0@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1869,7 +1212,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:94e6009f74c0c61b1cefd854@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1884,7 +1227,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d4a81c23e0b962dfb2e085d1@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1899,7 +1242,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e96d9edc4432a46eb6e219a2@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1914,7 +1257,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6e8f537adcae53206bae673a@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1929,7 +1272,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b7a800a6bf54576021f84953@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1944,7 +1287,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7882810e01bc7d6428742d06@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1959,7 +1302,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7cae3d9e49352745ad791e76@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1974,7 +1317,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8e6a2e9416c4cd1a6fc15a89@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1989,7 +1332,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0d74fe1f82c4ff3ad7d393ee@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -2004,7 +1347,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f75afe69168a5bd64e4d229d@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -2019,7 +1362,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:203f48aca3853a3040a8b822@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -2034,7 +1377,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:02aef08c42139ff43a56bc0f@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -2049,7 +1392,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f47f62b89f1a0ff7b97d14d1@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -2064,7 +1407,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:91c8da1baa6f9684ccd4fbb0@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -2079,7 +1422,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b659ad842dfb7fa97d5f1ea1@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -2094,7 +1437,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b9a3ce3977af4ae725735d@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -2109,7 +1452,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8e762714a599c5b61ca5d3aa@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -2124,7 +1467,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:df881d972f4b19ad5366bbd3@visitsouthbend.com
-DTSTAMP:20260819T002318Z
+DTSTAMP:20260819T191607Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
