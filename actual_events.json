@@ -1,0 +1,952 @@
+[
+  {
+    "title": "ACOUSTIC FRIDAYS",
+    "url": "https://www.visitsouthbend.com/events/acoustic-fridays/",
+    "location": "Bar Louie Granger | 7320 Aspect Drive | Granger, IN 46530",
+    "description": "Join us on our rooftop for acoustic tunes by local artists every Friday! If the weather is inclement, we will move the fun to our indoor rooftop bar.",
+    "raw_date": "May 8 7:00 PM – 10:00 PM",
+    "raw_recurrence": "WEEKLY",
+    "upcoming_dates": [
+      "Friday, August 21 to Friday, December 11",
+      "Friday, August 28 to Friday, December 18"
+    ],
+    "schedule_instances": [
+      {
+        "date": "2026-08-21",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-28",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-04",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-11",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-18",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-25",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-02",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-09",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-16",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-23",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-30",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-06",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-13",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-20",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-27",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-12-04",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-12-11",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-12-18",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "AROUND THE BEND III",
+    "url": "https://www.visitsouthbend.com/events/around-the-bend-iii/",
+    "location": "South Bend Museum of Art | 120 S Dr Martin Luther King Jr Blvd | South Bend, IN 46601",
+    "description": "Around the Bend III celebrates the depth and diversity of our region’s creative community, featuring over 200 works by local artists.",
+    "raw_date": "Aug 18 to Aug 23 12:00 PM – 5:00 PM",
+    "raw_recurrence": "WEDNESDAY - SUNDAY NOON - 5:00 PM",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-19",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-20",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-21",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-22",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-23",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "BINGO WITH CATS",
+    "url": "https://www.visitsouthbend.com/events/bingo-with-cats-4/",
+    "location": "The Cat Lady Cafe | 401 E Colfax Ave | South Bend, 46617",
+    "description": "Bingo with cats! Just like you’d expect - one hour in our cat lounge, hanging with adoptable cats while playing several rounds of bingo. Prizes include cat lounge passes, bags of coffee from Bendix Roasters and cat-themed merchandise. Drinks available for purchase, including beer and wine!",
+    "raw_date": "Aug 21 5:30 PM – 6:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-21",
+        "start_time": "17:30:00",
+        "end_time": "18:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "END OF SUMMER CELEBRATION",
+    "url": "https://www.visitsouthbend.com/events/end-of-summer-celebration/",
+    "location": "Kamm Island | 100 N Center St | Mishawaka, 46544",
+    "description": "Join us for our big bash at the last Summer Concert Series performance with Paul Erdman! Inflatables ( $5 per child, wristband required), food trucks, all our market vendors from the whole summer and the last bits of summer fun! Free to attend, except inflatables!",
+    "raw_date": "Aug 20 7:00 PM – 9:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-20",
+        "start_time": "19:00:00",
+        "end_time": "21:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "FAITHFUL 5K",
+    "url": "https://www.visitsouthbend.com/events/faithful-5k/",
+    "location": "Downtown Mishawaka Riverwalk and Battell Park Bandshell | 301 W. Mishawaka Ave., Mishawaka, IN 46545 | Mishawaka, IN 46545",
+    "description": "Join us on August 22, 2026 at 8:00am for a professionally timed 3.1 mile run along Mishawaka’s Riverwalk, beginning at the Battell Park Bandshell.\n\nPrefer a family-friendly walk? Sign-up for the 1-mile route, beginning at 9am. What a fun way to connect with people in our community! You can enjoy faith and fellowship as we kick-off our St. Monica Parish Festivities.",
+    "raw_date": "Aug 22 8:00 AM – 11:00 AM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-22",
+        "start_time": "08:00:00",
+        "end_time": "11:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "FILM—\"BACKROOMS: EVERYTHING MUST GO EDITION\" (2026)",
+    "url": "https://www.visitsouthbend.com/events/film-backrooms-everything-must-go-edition-2026/",
+    "location": "DeBartolo Performing Arts Center",
+    "description": "New at the Browning Directed by Kane Parsons With Chiwetel Ejiofor, Renate Reinsve, Mark Duplass Rated R, 126 minutes In English, Portuguese, Turkish, Arabic, and Japanese with English subtitles A strange doorway appears in the basement of a furniture showroom potentially leading to the next generation of Hollywood filmmaking. A summer sensation that many believe finally heralds the gluing of DIY filmmakers to the studio system, this version of Backrooms adds 16 minutes to the cut that brought millions out to see what lurks inside the corpse of brick and mortar capitalism. GET TICKETS",
+    "raw_date": "Aug 20 7:00 PM – 9:10 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-20",
+        "start_time": "19:00:00",
+        "end_time": "21:10:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "FRIDAYS BY THE FOUNTAIN",
+    "url": "https://www.visitsouthbend.com/events/fridays-by-the-fountain/",
+    "location": "Morris Performing Arts Center | 211 N Michigan St | South Bend, IN 46601",
+    "description": "This year Fridays by the Fountain will return to Jon R. Hunt Plaza at the Morris!\nWe will have food trucks, live music, and free community fun!\nHeld on Fridays between 11:45 a.m. and 1:15 p.m., each concert is free of charge. Now in its 26th year, Fridays by the Fountain showcases live entertainment from area blues, jazz, rock, R&B, pop, folk, and Irish music bands.\n\nThis year’s lineup includes:\nJune 5 – RockDogs\nJune 12 – Q sonics\nJune 19 – Southside Denny\nJune 26 – Hey Annie\nJuly 3 – Memphis Underground\nJuly 10 – Don Savoie\nJuly 17 – Resurrection Blues Band\nJuly 24 – Big Daddy Dupree’s Broke & Hungry Blues Band\nJuly 31 – Van Dyke Revue\nAugust 7 – PT and The Cruisers\nAugust 14 – David Hilliker Trio\nAugust 21 – High Life\nAugust 28 – Kennedy’s Kitchen",
+    "raw_date": "Jun 5 11:45 AM – 1:15 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [
+      "Friday, August 21 to Friday, November 13",
+      "Friday, August 28 to Friday, November 20"
+    ],
+    "schedule_instances": [
+      {
+        "date": "2026-08-21",
+        "start_time": "11:45:00",
+        "end_time": "13:15:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-28",
+        "start_time": "11:45:00",
+        "end_time": "13:15:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-04",
+        "start_time": "11:45:00",
+        "end_time": "13:15:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-11",
+        "start_time": "11:45:00",
+        "end_time": "13:15:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-18",
+        "start_time": "11:45:00",
+        "end_time": "13:15:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-25",
+        "start_time": "11:45:00",
+        "end_time": "13:15:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-02",
+        "start_time": "11:45:00",
+        "end_time": "13:15:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-09",
+        "start_time": "11:45:00",
+        "end_time": "13:15:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-16",
+        "start_time": "11:45:00",
+        "end_time": "13:15:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-23",
+        "start_time": "11:45:00",
+        "end_time": "13:15:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-30",
+        "start_time": "11:45:00",
+        "end_time": "13:15:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-06",
+        "start_time": "11:45:00",
+        "end_time": "13:15:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-13",
+        "start_time": "11:45:00",
+        "end_time": "13:15:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-20",
+        "start_time": "11:45:00",
+        "end_time": "13:15:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "MACBETH (NDSF 2026)",
+    "url": "https://www.visitsouthbend.com/events/macbeth-ndsf-2026/",
+    "location": "DeBartolo Performing Arts Center | DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
+    "description": "Shakespeare at Notre Dame Ambition o'erleaps itself in Shakespeare's \"Scottish Play,\" where the throne is for the taking. Claimed in blood, a Scottish general now wears the crown but must suffer the consequences of fate, influence, and greed. \"Macbeth\" is an examination of power, what it takes to obtain, and what it costs to keep. \"Macbeth\" is brought to life by the Notre Dame Shakespeare Festival's Professional Company, under the direction of Matt Hawkins, Director of Theatre and Musical Theatre for the Department of Film, Television, and Theatre at the University of Notre Dame. Murder, mutiny, and mystery set the tone for one of Shakespeare's greatest dramatic achievements. This always-relevant examination of the lacerating effects of the reckless desire for power unfolds in the Scottish highlands. A poisonous cocktail of ambition, guilt, and paranoia, with subtle seasonings of the supernatural, the show explores conflicted characters with the twists and turns of a riveting thriller. Event includes mature or adult content.",
+    "raw_date": "Aug 18",
+    "raw_recurrence": "",
+    "upcoming_dates": [
+      "Wednesday, August 19",
+      "Thursday, August 20",
+      "Friday, August 21",
+      "Saturday, August 22",
+      "Sunday, August 23",
+      "Monday, August 24",
+      "Tuesday, August 25",
+      "Wednesday, August 26",
+      "Thursday, August 27",
+      "Friday, August 28",
+      "Saturday, August 29",
+      "Sunday, August 30"
+    ],
+    "schedule_instances": [
+      {
+        "date": "2026-08-19",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-20",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-21",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-22",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-23",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-24",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-25",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-26",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-27",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-28",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-29",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-30",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      }
+    ]
+  },
+  {
+    "title": "MACBETH OPENING NIGHT CELEBRATION (NDSF 2026)",
+    "url": "https://www.visitsouthbend.com/events/macbeth-opening-night-celebration-ndsf-2026/",
+    "location": "DeBartolo Performing Arts Center | DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
+    "description": "Shakespeare at Notre Dame A Notre Dame Shakespeare Festival tradition, the Opening Night Celebration will kick off the \"Macbeth\" performance series in grand style. This exclusive event features food and drink inside the DeBartolo Performing Arts Center's beautiful and expansive lobby. Join us beginning at 6:00 p.m. EST and mingle with members of the \"Macbeth\" production team. The opening night performance of \"Macbeth\" follows at 7:30 p.m. Event includes mature or adult content.",
+    "raw_date": "Aug 20 6:00 PM – 7:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-20",
+        "start_time": "18:00:00",
+        "end_time": "19:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "MUSIC IN THE WOODS",
+    "url": "https://www.visitsouthbend.com/events/music-in-the-woods/",
+    "location": "Mishawaka Res | 13950 Scout Lane | Mishawaka , IN 46544",
+    "description": "Join us for an evening of free live music in the beautiful outdoor setting of the Mishawaka RES Amphitheater! Enjoy a performance by The Hillsiders on Saturday, August 21, 2026, at 6:00 PM. Bring a lawn chair or blanket, relax with family and friends, and experience great music surrounded by nature. This family-friendly concert is free and open to the public. Come make lasting summer memories at the Mishawaka RES!",
+    "raw_date": "Aug 21 6:00 PM – 8:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-21",
+        "start_time": "18:00:00",
+        "end_time": "20:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH",
+    "url": "https://www.visitsouthbend.com/events/notre-dame-shakespeare-festival-macbeth/",
+    "location": "Patricia George Decio Theatre, DeBartolo Performing Arts Center",
+    "description": "It's Shakespeare like you've never seen before. The 2026 Notre Dame Shakespeare Festival invites you to join us on stage for a hilarious, remarkable, and interactive staging of Macbeth.",
+    "raw_date": "Aug 20 to Aug 31",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-20",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-21",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-22",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-23",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-24",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-25",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-26",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-27",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-28",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-29",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-30",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      },
+      {
+        "date": "2026-08-31",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      }
+    ]
+  },
+  {
+    "title": "OLDTIME DANCING",
+    "url": "https://www.visitsouthbend.com/events/oldtime-dancing/",
+    "location": "Pinhook Park Community Building | 2801 Riverside Dr. | South Bend, IN 46616",
+    "description": "Come out for an evening of dancing fun! No experience necessary, all ages welcome! Please join us on Friday, August 21st for the first dance of our new year! Contra longlines, circles, squares, waltzes, and couple mixers. All dances taught before calling. No partner necessary. Lisa Sutton is calling and our band will be Impromptunes. The Impromptunes are Peter Martin (hammered dulcimer/flutes), Laurie Eberhardt (piano) and Rania Adamczyk (fiddle).\n\nCost: $8.00/regular; $5.00/student and unwaged; $4.00 under 12; $20/family. Those on limited incomes can pay what they feel they can afford. You pay at the door; cash only please.",
+    "raw_date": "Aug 21 7:00 PM – 9:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-21",
+        "start_time": "19:00:00",
+        "end_time": "21:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "RESIDENT ARTISTS' SUMMER EXHIBITION",
+    "url": "https://www.visitsouthbend.com/events/resident-artists-summer-exhibition/",
+    "location": "Fire Arts Inc | 305 E. Colfax Av | South Bend, IN 46617",
+    "description": "This summer Fire Arts Inc will feature the works of our resident artists. We will be open throughout the Colfax Av construction project. Use LaSalle St to Sycamore St. to make your way to our non-profit. Please stop by to celebrate the Michiana creative arts community. We are open to the public on Wednesdays, Fridays and Saturdays from noon to 5pm and on Tuesdays and Thursdays from noon to 9pm.\n\nCheck out our webpage at\n\n*https://fireartsinc.com/\n\n*Instagram at https://www.instagram.com/fireartsincsb/\n\n*Facebook pages at https://www.facebook.com/profile.php?id=100042133547104",
+    "raw_date": "Aug 18 to Aug 31 12:00 PM – 5:00 PM",
+    "raw_recurrence": "THIS EVENT CONTINUES FROM JUNE 20TH THRU AUGUST 31ST. WE WELCOME THE PUBLIC DURING OUR BUSINESS HOURS.",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-18",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-19",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-20",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-21",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-22",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-23",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-24",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-25",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-26",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-27",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-28",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-29",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-30",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-31",
+        "start_time": "12:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "SCAVENGER HUNT AT THE MORRIS",
+    "url": "https://www.visitsouthbend.com/events/scavenger-hunt-at-the-morris/",
+    "location": "The Morris Performing Arts Center | 211 N Michigan St | South Bend, IN 46601",
+    "description": "Experience the Morris Performing Arts Center like never before! Join Connect 574 for an interactive scavenger hunt that takes you behind the scenes and throughout the venue as you solve clues and discover fascinating facts about the historic building.\n\nWhether you’re a first-time visitor or a longtime patron, this adventure is a great way to connect with others and learn more about a defining South Bend landmark. Gather your own team or have us create one for you, put your detective skills to the test, and see if you can complete the hunt before time runs out!\n\nWhere: Morris Performing Arts Center\n\nWhen: August 21 at 6:30\n\nEvent Highlights:\n\nNo awkward intros: we’ll introduce you to your team and help break the ice – or if you’d like to sign up with friends, that’s okay too!\n\nGet to know a South Bend landmark: The Morris has been part of our skyline for over 100 years, and has a lot of fascinating history inside.\n\nWelcome hour: We’ll have a cash bar for you to get comfortable when you come in!",
+    "raw_date": "Aug 21 6:30 PM – 8:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-21",
+        "start_time": "18:30:00",
+        "end_time": "20:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS - FRIDAY FIREWORKS",
+    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-whitecaps-friday-fireworks/",
+    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
+    "description": "Game Highlight:\n\nFantastic Friday Fireworks\n\nEnjoy a spectacular fireworks show after the game. Gates open at 5:30 p.m.",
+    "raw_date": "Aug 21 7:05 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-21",
+        "start_time": "19:05:00",
+        "end_time": null,
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS",
+    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-whitecaps/",
+    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
+    "description": "Game Highlights:\n\n\nTail Waggin' Tuesday\n\nBring your dog to the ballpark to enjoy the game and adults 21+ can enjoy half off White Claw Seltzers. Dog owners must fill out a waiver prior to entry. QR codes are available at the gates.\n\nTitan Tuesday\n\nGame Highlight: Titan Tuesday\nFans who wear IU or IUSB clothing or shows their Crimson Card at the box office receive a discount on their ticket. Tickets must be purchased at the box office.",
+    "raw_date": "Aug 18 7:05 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-18",
+        "start_time": "19:05:00",
+        "end_time": null,
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS",
+    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-whitecaps1/",
+    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
+    "description": "Promotion:\n\nSouth Bend Cubs T-Shirt Giveaway\n\nThe first 1,000 fans 18 and older through the gates will receive a South Bend Cubs t-shirt.\n\nGame Highlights:\n\n\nSilver Sluggers\n\nFans that are 60 years old and above can purchase tickets at 50% off to every Wednesday home game. Plus, earn rewards for games attended.\n\nWine Wednesday\n\nFans 21 and older can enjoy half priced glasses of wine or wine slushies. Does not include sangria.",
+    "raw_date": "Aug 19 7:05 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-19",
+        "start_time": "19:05:00",
+        "end_time": null,
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS",
+    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-whitecaps2/",
+    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
+    "description": "Ticket Offer:\n\nPro Wrestling Night II\n\nIt is official! WWE RAW General Manager and longtime professional wrestling standout \"Scrap Iron\" Adam Pearce is coming to Four Winds Field on Thursday, August 20 for Pro Wrestling Night II. Adding to the excitement, Revolution Championship Wrestling returns with action-packed matches both before and after the game. Fans who purchase the Pro Wrestling Night ticket package will receive early entry to the ballpark to catch all the pregame wrestling action. During the game, enjoy an exclusive Meet & Greet with Adam Pearce on the United Federal Credit Union Rooftop while indulging in an all-you-can-eat ballpark buffet. The night wraps up with two bonus wrestling matches following the game.\n\nGame Highlights:\n\n\nThirsty Thursday\n\nEnjoy $3 fountain sodas (24 oz.) and domestic draft beer (16 oz.) all game long.",
+    "raw_date": "Aug 20 7:05 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-20",
+        "start_time": "19:05:00",
+        "end_time": null,
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "THE ART OF CIGAR ROLLING: A MASTERCLASS EXPERIENCE",
+    "url": "https://www.visitsouthbend.com/events/the-art-of-cigar-rolling-a-masterclass-experience/",
+    "location": "Jackson's Cigars & Spirits | 100 N Center St #40 | Mishawaka, IN 46544",
+    "description": "Experience the Art of Cigar Rolling at Jackson’s Cigars & Spirits\n\nEver wondered what it takes to turn a tobacco leaf into a premium, hand-rolled cigar? On August 20, Jackson’s Cigars & Spirits in Mishawaka is bringing the craft to life with a special evening featuring a La Galera cigar representative and live cigar rolling demonstration.\n\nEvent Features\n\nLive La Galera cigar rolling demonstration\n\nFresh hand-rolled cigars\n\nLa Galera cigar specials\n\nCrafted cigar-pairing cocktails\n\nEnter to win a La Galera Year of the Horse Limited Edition Gift Set\n\nBuy 4 cigars and receive the raffle entry\n\nWatch the process firsthand as tobacco leaves are selected, prepared and expertly rolled into finished cigars. Guests will have the opportunity to experience a fresh hand-rolled cigar while learning more about the craftsmanship and tradition behind La Galera cigars.\n\nThroughout the evening, enjoy La Galera cigar specials, handcrafted cocktails designed to pair with your cigar, and raffle giveaways. Purchase four cigars and get one free, and enter for a chance to win the La Galera Year of the Horse Limited Edition Box.\n\nWhether you’re a longtime cigar enthusiast or simply curious about how a cigar is made, this is a rare opportunity to see the craft up close in the relaxed, upscale atmosphere of Jackson’s Cigars & Spirits.\n\nThursday, August 20\n\nDoors open at 4:00 PM | Cigar rolling begins at 5:00 PM\n\nJackson’s Cigars & Spirits | Mishawaka, Indiana\n\nFree admission | Ages 21+",
+    "raw_date": "Aug 20 5:00 PM – 8:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-20",
+        "start_time": "17:00:00",
+        "end_time": "20:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "TRIVIA AT MANNY'S",
+    "url": "https://www.visitsouthbend.com/events/trivia-at-mannys/",
+    "location": "Manny's | 503 E. Colfax Ave | South Bend, IN 46617",
+    "description": "Manny's is bringing trivia to our weekly rotation of events! We're teaming up with local favorite Indiana Trivia for the best selection of brain teasers and questions this side of the St. Joseph River! Come in to win - bragging rights and gift cards are on the line!",
+    "raw_date": "Aug 19 7:00 PM – 10:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [
+      "Wednesday, August 19",
+      "Wednesday, August 26",
+      "Wednesday, September 2",
+      "Wednesday, September 9",
+      "Wednesday, September 16",
+      "Wednesday, September 23",
+      "Wednesday, September 30",
+      "Wednesday, October 7",
+      "Wednesday, October 14",
+      "Wednesday, October 21",
+      "Wednesday, October 28",
+      "Wednesday, November 4",
+      "Wednesday, November 11",
+      "Wednesday, November 18",
+      "Wednesday, November 25",
+      "Wednesday, December 2",
+      "Wednesday, December 9",
+      "Wednesday, December 16",
+      "Wednesday, December 23",
+      "Wednesday, December 30",
+      "Wednesday, January 6",
+      "Wednesday, January 13",
+      "Wednesday, January 20",
+      "Wednesday, January 27",
+      "Wednesday, February 3",
+      "Wednesday, February 10"
+    ],
+    "schedule_instances": [
+      {
+        "date": "2026-08-19",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-26",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-02",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-09",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-16",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-23",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-30",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-07",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-14",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-21",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-28",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-04",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-11",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-18",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-25",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-12-02",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-12-09",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-12-16",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-12-23",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-12-30",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2027-01-06",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2027-01-13",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2027-01-20",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2027-01-27",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2027-02-03",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2027-02-10",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      }
+    ]
+  }
+]
