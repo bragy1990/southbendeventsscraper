@@ -370,7 +370,7 @@ async def main():
 
     # Step 5: Generate and save iCalendar .ics file
     ics_content = build_ics_calendar(events)
-    with open(OUTPUT_ICS_PATH, "w", encoding="utf-8") as f:
+    with open(OUTPUT_ICS_PATH, "w", encoding="utf-8", newline="") as f:
         f.write(ics_content)
     logger.info(f"Saved generated iCalendar to {OUTPUT_ICS_PATH}")
 
