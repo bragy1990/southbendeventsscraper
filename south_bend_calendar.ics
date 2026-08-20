@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:f95b439ebb6fef55bbe13bc1@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:2026 ZOO NIGHTS LIVE
 LOCATION:Potawatomi Zoo | 500 S Greenlawn Ave | South Bend\, 46615
 DESCRIPTION:Bring your own lawn chair and rock out at this family-friendly 
@@ -44,7 +44,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:32dbfeb8d56cb6189cf3aceb@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:ACOUSTIC FRIDAYS
 LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
 DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
@@ -58,7 +58,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:10444e186673667c012f33fc@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:ACOUSTIC FRIDAYS
 LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
 DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
@@ -72,7 +72,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f43b055a6cb7754c563fdbc6@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:ARMCHAIR TOUR OF SOUTH BEND CEMETERY
 LOCATION:The History Museum | 808 W Washington St | South Bend\, 46601
 DESCRIPTION:Archivist and St. Joseph County Historian Travis Childs will gi
@@ -93,7 +93,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7e3eedd8df6817bdd841e15c@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:AROUND THE BEND III
 LOCATION:South Bend Museum of Art | 120 S Dr Martin Luther King Jr Blvd | S
  outh Bend\, IN 46601
@@ -107,7 +107,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9713b6d9d2dee4f4ba5536d7@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:AROUND THE BEND III
 LOCATION:South Bend Museum of Art | 120 S Dr Martin Luther King Jr Blvd | S
  outh Bend\, IN 46601
@@ -121,7 +121,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3571fb115a008833c2395ddf@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:AROUND THE BEND III
 LOCATION:South Bend Museum of Art | 120 S Dr Martin Luther King Jr Blvd | S
  outh Bend\, IN 46601
@@ -135,7 +135,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0c3399ef1d543f78423ce378@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:AROUND THE BEND III
 LOCATION:South Bend Museum of Art | 120 S Dr Martin Luther King Jr Blvd | S
  outh Bend\, IN 46601
@@ -149,7 +149,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:753f22e8b4a4c2dc0606ed2a@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:BINGO WITH CATS
 LOCATION:The Cat Lady Cafe | 401 E Colfax Ave | South Bend\, 46617
 DESCRIPTION:Bingo with cats! Just like you’d expect - one hour in our cat
@@ -165,7 +165,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c2f8b49b5ed92ad42653e7c0@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:BINGO WITH CATS! AUGUST 21\, 2026
 LOCATION:The Cat Lady Cafe | 392 E Colfax Ave | South Bend\, 46617
 DESCRIPTION:Cats and bingo! Grab a coffee\, lemonade\, beer or glass of win
@@ -180,7 +180,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c5f2fa42ad7611c14c548b02@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:END OF SUMMER BEACH BASH
 LOCATION:Bar Louie | 7320 Aspect Drive | Granger\, IN 46530
 DESCRIPTION:Toast to the summer with us! On Thursday\, grab your crew\, roc
@@ -195,7 +195,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:68ba0a50ccc4578926b3c11e@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:END OF SUMMER CELEBRATION
 LOCATION:Kamm Island | 100 N Center St | Mishawaka\, 46544
 DESCRIPTION:Join us for our big bash at the last Summer Concert Series perf
@@ -210,7 +210,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d256e4ee61a79e08235478c1@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:FAITHFUL 5K
 LOCATION:Downtown Mishawaka Riverwalk and Battell Park Bandshell | 301 W. M
  ishawaka Ave.\, Mishawaka\, IN 46545 | Mishawaka\, IN 46545
@@ -228,7 +228,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:85f16a6f5fe985d6d92173f7@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:FILM—"BACKROOMS: EVERYTHING MUST GO EDITION" (2026)
 LOCATION:DeBartolo Performing Arts Center
 DESCRIPTION:New at the Browning Directed by Kane Parsons With Chiwetel Ejio
@@ -249,7 +249,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:df317750ad25193ec9684fff@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:FILM—"BACKROOMS: EVERYTHING MUST GO EDITION" (2026)
 LOCATION:DeBartolo Performing Arts Center
 DESCRIPTION:New at the Browning Directed by Kane Parsons With Chiwetel Ejio
@@ -270,7 +270,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c8f6f091d0d1ae15b85b56f7@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:FILM—"BACKROOMS: EVERYTHING MUST GO EDITION" (2026)
 LOCATION:DeBartolo Performing Arts Center
 DESCRIPTION:New at the Browning Directed by Kane Parsons With Chiwetel Ejio
@@ -291,7 +291,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dd3bb902036bfa885cf4d6a2@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:FREE ARTIST AND CAREER BUILDING WORKSHOP FOR MUSICIANS
 LOCATION:The Music Village | 333 S Michigan St | South Bend\, IN 46601
 DESCRIPTION:Interested in artist development or building a career in music?
@@ -327,7 +327,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:19cf54f18ed9acdb7ef3b36d@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:FRIDAYS BY THE FOUNTAIN
 LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
  N 46601
@@ -351,7 +351,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:34bdd457c21c0cb01cc18ecd@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:FRIDAYS BY THE FOUNTAIN
 LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
  N 46601
@@ -375,7 +375,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d8823d41bdac46c83737698f@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:MACBETH OPENING NIGHT CELEBRATION (NDSF 2026)
 LOCATION:DeBartolo Performing Arts Center | DeBartolo Performing Arts Cente
  r\, 100 Performing Arts Center | Notre Dame\, 46556
@@ -396,7 +396,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:079bc7817cc66ab238e344f7@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:MUSIC IN THE WOODS
 LOCATION:Mishawaka Res | 13950 Scout Lane | Mishawaka \, IN 46544
 DESCRIPTION:Join us for an evening of free live music in the beautiful outd
@@ -412,28 +412,8 @@ DTEND;TZID=America/Indiana/Indianapolis:20260821T200000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:65baa7b53797268b58e69c73@visitsouthbend.com
-DTSTAMP:20260820T080446Z
-SUMMARY:NOTRE DAME BAND'S FIRST 2026 MARCHOUT
-LOCATION:University of Notre Dame
-DESCRIPTION:The University of Notre Dame Band will kick off its 181st year 
- with a marchout around the Notre Dame campus at 9:10 a.m. Thursday\, Augu
- st 20. Beginning outside the Ricci Band Rehearsal Hall\, the band plans t
- o march past several Notre Dame landmarks including the Hesburgh Library\
- , Clarke Memorial Fountain\, and Grace Hall. The marchout will conclude a
- t the Ricci Family Fields. This event is free and open to the public! For
-  more information about the Notre Dame Band\, please visit our website: b
- and.nd.edu/\n\nMore Info: https://www.visitsouthbend.com/events/notre-dam
- e-bands-first-2026-marchout/
-URL:https://www.visitsouthbend.com/events/notre-dame-bands-first-2026-march
- out/
-DTSTART;TZID=America/Indiana/Indianapolis:20260820T090000
-DTEND;TZID=America/Indiana/Indianapolis:20260820T093000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:de9aa63e209478ee271d6107@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -448,7 +428,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:21d314f39315bd5db814606d@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -463,7 +443,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0de2cf53599a7bf56ebbc8cd@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -478,7 +458,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4a83c5b2943efc98387b49b0@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -493,7 +473,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cbb8a4f0425bc6e588ab8b98@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -508,7 +488,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bb834a737e33359627920be1@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -523,7 +503,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2df275db4ff1f5bccb0090e6@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -538,7 +518,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fbfeb646e5c4fae0b1081d87@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -553,7 +533,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f64547b09ded55c436186351@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -568,7 +548,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:663b69217522d9af7e36e2ec@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -583,7 +563,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:008eda1543654f494046a3d1@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -598,7 +578,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ee2858db100a2cb1dd8d0f97@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -613,7 +593,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:320fccbf363fb0176314e73b@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:OLDTIME DANCING
 LOCATION:Pinhook Park Community Building | 2801 Riverside Dr. | South Bend\
  , IN 46616
@@ -633,8 +613,25 @@ DTEND;TZID=America/Indiana/Indianapolis:20260821T213000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:7ad18867d66f2033cc82d55c@visitsouthbend.com
+DTSTAMP:20260820T194503Z
+SUMMARY:PEDIGREE ENTERTAINMENT PRESENTS PURE BREEDS OF COMEDY VOL. 4. GET O
+ N THE BUS
+LOCATION:Century Center | 120 S. Dr. Martin Luther King Jr. Blvd | South Be
+ nd\, IN 46601
+DESCRIPTION:A great night of comedy with 5 of the hottest comedians from ac
+ ross the country including the one and only actor & comedian Alex Thomas!
+ \n\nMore Info: https://www.visitsouthbend.com/events/pedigree-entertainme
+ nt-presents-pure-breeds-of-comedy-vol-4-get-on-the-bus/
+URL:https://www.visitsouthbend.com/events/pedigree-entertainment-presents-p
+ ure-breeds-of-comedy-vol-4-get-on-the-bus/
+DTSTART;TZID=America/Indiana/Indianapolis:20260822T190000
+DTEND;TZID=America/Indiana/Indianapolis:20260822T220000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ed259349ed4ce4df313598e7@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -655,7 +652,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:970b473eca5480ed55a19951@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -676,7 +673,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9d05686fad293e985525c7a6@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -697,7 +694,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b9c550f4cb7ae8d345e57c63@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -718,7 +715,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:62a40e22eea21338718995a1@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -739,7 +736,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b9d88c326f4b03ac1d37e7a0@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -760,7 +757,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8e40a926614334fce89a98cc@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -781,7 +778,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ad1f51d1e5d17080464bc3f9@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -802,7 +799,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7c1d4bd23304c625db335cdc@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -823,7 +820,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0d6d4bc1e894e04fa0abe006@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -844,7 +841,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bca2786b7cb3f10c84dd6b3e@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -865,7 +862,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1b221d28bb6d3e977529c10b@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -886,7 +883,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b55b03a18c15b0e5f7825518@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:SCAVENGER HUNT AT THE MORRIS
 LOCATION:The Morris Performing Arts Center | 211 N Michigan St | South Bend
  \, IN 46601
@@ -913,7 +910,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5c82fadd699fdd6bda5d83ca@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS
 LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
 DESCRIPTION:Ticket Offer:\n\nPro Wrestling Night II\n\nIt is official! WWE 
@@ -938,7 +935,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fe075f0b881b97792f5bad65@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS - FRIDAY FIREWORKS
 LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
 DESCRIPTION:Game Highlight:\n\nFantastic Friday Fireworks\n\nEnjoy a specta
@@ -953,7 +950,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b2187ffe9a9741bcbe07f172@visitsouthbend.com
-DTSTAMP:20260820T080446Z
+DTSTAMP:20260820T194503Z
 SUMMARY:THE ART OF CIGAR ROLLING: A MASTERCLASS EXPERIENCE
 LOCATION:Jackson's Cigars & Spirits | 100 N Center St #40 | Mishawaka\, IN 
  46544

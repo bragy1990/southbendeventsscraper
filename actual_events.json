@@ -308,23 +308,6 @@
     ]
   },
   {
-    "title": "NOTRE DAME BAND'S FIRST 2026 MARCHOUT",
-    "url": "https://www.visitsouthbend.com/events/notre-dame-bands-first-2026-marchout/",
-    "location": "University of Notre Dame",
-    "description": "The University of Notre Dame Band will kick off its 181st year with a marchout around the Notre Dame campus at 9:10 a.m. Thursday, August 20. Beginning outside the Ricci Band Rehearsal Hall, the band plans to march past several Notre Dame landmarks including the Hesburgh Library, Clarke Memorial Fountain, and Grace Hall. The marchout will conclude at the Ricci Family Fields. This event is free and open to the public! For more information about the Notre Dame Band, please visit our website: band.nd.edu/",
-    "raw_date": "Aug 20 9:00 AM – 9:30 AM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-20",
-        "start_time": "09:00:00",
-        "end_time": "09:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH",
     "url": "https://www.visitsouthbend.com/events/notre-dame-shakespeare-festival-macbeth/",
     "location": "Patricia George Decio Theatre, DeBartolo Performing Arts Center",
@@ -420,6 +403,23 @@
         "date": "2026-08-21",
         "start_time": "19:00:00",
         "end_time": "21:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "PEDIGREE ENTERTAINMENT PRESENTS PURE BREEDS OF COMEDY VOL. 4. GET ON THE BUS",
+    "url": "https://www.visitsouthbend.com/events/pedigree-entertainment-presents-pure-breeds-of-comedy-vol-4-get-on-the-bus/",
+    "location": "Century Center | 120 S. Dr. Martin Luther King Jr. Blvd | South Bend, IN 46601",
+    "description": "A great night of comedy with 5 of the hottest comedians from across the country including the one and only actor & comedian Alex Thomas!",
+    "raw_date": "Aug 22 7:00 PM – 10:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-22",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
         "all_day": false
       }
     ]
