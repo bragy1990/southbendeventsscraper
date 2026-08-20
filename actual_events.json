@@ -43,20 +43,31 @@
     ]
   },
   {
+    "title": "ARMCHAIR TOUR OF SOUTH BEND CEMETERY",
+    "url": "https://www.visitsouthbend.com/events/armchair-tour-of-south-bend-cemetery/",
+    "location": "The History Museum | 808 W Washington St | South Bend, 46601",
+    "description": "Archivist and St. Joseph County Historian Travis Childs will give a virtual tour of the South Bend City Cemetery in The History Museum's auditorium! For anyone who was unable to attend June's cemetery tour, or who just wants a refresher, this is a relaxed way to learn about the history of both the cemetery and the people resting there. Admission is $2.00/person or free for members of The History Museum or Studebaker National Museum. Admission for children 12 and under is also free.\n\nYou can reserve your spot today at https://historymuseumsb.app.ne...",
+    "raw_date": "Aug 22 2:00 PM – 3:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-22",
+        "start_time": "14:00:00",
+        "end_time": "15:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "AROUND THE BEND III",
     "url": "https://www.visitsouthbend.com/events/around-the-bend-iii/",
     "location": "South Bend Museum of Art | 120 S Dr Martin Luther King Jr Blvd | South Bend, IN 46601",
     "description": "Around the Bend III celebrates the depth and diversity of our region’s creative community, featuring over 200 works by local artists.",
-    "raw_date": "Aug 19 to Aug 23 12:00 PM – 5:00 PM",
+    "raw_date": "Aug 20 to Aug 23 12:00 PM – 5:00 PM",
     "raw_recurrence": "WEDNESDAY - SUNDAY NOON - 5:00 PM",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-19",
-        "start_time": "12:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-20",
         "start_time": "12:00:00",
@@ -101,6 +112,40 @@
     ]
   },
   {
+    "title": "BINGO WITH CATS! AUGUST 21, 2026",
+    "url": "https://www.visitsouthbend.com/events/bingo-with-cats-august-21-2026/",
+    "location": "The Cat Lady Cafe | 392 E Colfax Ave | South Bend, 46617",
+    "description": "Cats and bingo! Grab a coffee, lemonade, beer or glass of wine and enjoy a fun-filled hour of several rounds of Bingo IN our cat lounge. Prizes include cat-themed items and coupons for future lounge visits!",
+    "raw_date": "Aug 21 5:30 PM – 6:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-21",
+        "start_time": "17:30:00",
+        "end_time": "18:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "END OF SUMMER BEACH BASH",
+    "url": "https://www.visitsouthbend.com/events/end-of-summer-beach-bash/",
+    "location": "Bar Louie | 7320 Aspect Drive | Granger, IN 46530",
+    "description": "Toast to the summer with us! On Thursday, grab your crew, rock your favorite tropical gear, and let's send summer out in style! Join us on the rooftop for free samples, giveaways, and summer sip specials featuring Malibu Rum starting at 7pm.",
+    "raw_date": "Aug 20 7:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-20",
+        "start_time": "19:00:00",
+        "end_time": null,
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "END OF SUMMER CELEBRATION",
     "url": "https://www.visitsouthbend.com/events/end-of-summer-celebration/",
     "location": "Kamm Island | 100 N Center St | Mishawaka, 46544",
@@ -136,6 +181,40 @@
   },
   {
     "title": "FILM—\"BACKROOMS: EVERYTHING MUST GO EDITION\" (2026)",
+    "url": "https://www.visitsouthbend.com/events/film-backrooms-everything-must-go-edition-2026-2/",
+    "location": "DeBartolo Performing Arts Center",
+    "description": "New at the Browning Directed by Kane Parsons With Chiwetel Ejiofor, Renate Reinsve, Mark Duplass Rated R, 126 minutes In English, Portuguese, Turkish, Arabic, and Japanese with English subtitles A strange doorway appears in the basement of a furniture showroom potentially leading to the next generation of Hollywood filmmaking. A summer sensation that many believe finally heralds the gluing of DIY filmmakers to the studio system, this version of Backrooms adds 16 minutes to the cut that brought millions out to see what lurks inside the corpse of brick and mortar capitalism. GET TICKETS",
+    "raw_date": "Aug 21 7:00 PM – 9:10 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-21",
+        "start_time": "19:00:00",
+        "end_time": "21:10:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "FILM—\"BACKROOMS: EVERYTHING MUST GO EDITION\" (2026)",
+    "url": "https://www.visitsouthbend.com/events/film-backrooms-everything-must-go-edition-2026-3/",
+    "location": "DeBartolo Performing Arts Center",
+    "description": "New at the Browning Directed by Kane Parsons With Chiwetel Ejiofor, Renate Reinsve, Mark Duplass Rated R, 126 minutes In English, Portuguese, Turkish, Arabic, and Japanese with English subtitles A strange doorway appears in the basement of a furniture showroom potentially leading to the next generation of Hollywood filmmaking. A summer sensation that many believe finally heralds the gluing of DIY filmmakers to the studio system, this version of Backrooms adds 16 minutes to the cut that brought millions out to see what lurks inside the corpse of brick and mortar capitalism. GET TICKETS",
+    "raw_date": "Aug 22 7:00 PM – 9:10 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-22",
+        "start_time": "19:00:00",
+        "end_time": "21:10:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "FILM—\"BACKROOMS: EVERYTHING MUST GO EDITION\" (2026)",
     "url": "https://www.visitsouthbend.com/events/film-backrooms-everything-must-go-edition-2026/",
     "location": "DeBartolo Performing Arts Center",
     "description": "New at the Browning Directed by Kane Parsons With Chiwetel Ejiofor, Renate Reinsve, Mark Duplass Rated R, 126 minutes In English, Portuguese, Turkish, Arabic, and Japanese with English subtitles A strange doorway appears in the basement of a furniture showroom potentially leading to the next generation of Hollywood filmmaking. A summer sensation that many believe finally heralds the gluing of DIY filmmakers to the studio system, this version of Backrooms adds 16 minutes to the cut that brought millions out to see what lurks inside the corpse of brick and mortar capitalism. GET TICKETS",
@@ -147,23 +226,6 @@
         "date": "2026-08-20",
         "start_time": "19:00:00",
         "end_time": "21:10:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "FILM: \"FANTASIA\" (1940)",
-    "url": "https://www.visitsouthbend.com/events/film-fantasia-1940/",
-    "location": "DeBartolo Performing Arts Center",
-    "description": "Professor Pfinklepfunder's $1 Sunday Films Directed by James Algar, Samuel Armstrong, Ford Beebe Jr., et al. With Leopold Stokowski, Deems Taylor Rated G, 124 minutes An anomaly in the canon of Disney animated features, Fantasia holds a special place in many hearts and memories for its vibrant colors and, at times, plotless abstract pieces. Composed of eight different segments featuring classical music, the anthology of animated shorts act as their own music videos of sorts—an odd way for Mickey Mouse to star in his first feature film, but a timeless example copied by many on how animation and music can be woven into inspiration. GET TICKETS *Sponsored by the Meg and John P. Brogan Endowment for Classic Cinema.",
-    "raw_date": "Aug 23 1:00 PM – 3:05 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-23",
-        "start_time": "13:00:00",
-        "end_time": "15:05:00",
         "all_day": false
       }
     ]
@@ -229,60 +291,6 @@
     ]
   },
   {
-    "title": "MISHAWAKA MARKET",
-    "url": "https://www.visitsouthbend.com/events/mishawaka-market/",
-    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46545",
-    "description": "Join us for year 8 of the Mishawaka Market!\n\nThe Market runs Sundays from 10 am - 2 pm, May 31st through September 27th. *No Market on June 14th, July 5th & September 6th\n\nThere will be produce, crafts, baked goods, food trucks, kids zone, live music, animal adoptions and more!\n\nStage programming schedule will be posted before the 2026 Market Season starts!\n*No market on June 14th, July 5th, and September 6th.",
-    "raw_date": "Aug 23 10:00 AM – 2:00 PM",
-    "raw_recurrence": "FROM: 10:00 AM TO 02:00 PM",
-    "upcoming_dates": [
-      "Sunday, August 23",
-      "Sunday, August 30",
-      "Sunday, September 6",
-      "Sunday, September 13",
-      "Sunday, September 20",
-      "Sunday, September 27"
-    ],
-    "schedule_instances": [
-      {
-        "date": "2026-08-23",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-08-30",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-06",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-13",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-20",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-27",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "MUSIC IN THE WOODS",
     "url": "https://www.visitsouthbend.com/events/music-in-the-woods/",
     "location": "Mishawaka Res | 13950 Scout Lane | Mishawaka , IN 46544",
@@ -295,6 +303,23 @@
         "date": "2026-08-21",
         "start_time": "18:00:00",
         "end_time": "20:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "NOTRE DAME BAND'S FIRST 2026 MARCHOUT",
+    "url": "https://www.visitsouthbend.com/events/notre-dame-bands-first-2026-marchout/",
+    "location": "University of Notre Dame",
+    "description": "The University of Notre Dame Band will kick off its 181st year with a marchout around the Notre Dame campus at 9:10 a.m. Thursday, August 20. Beginning outside the Ricci Band Rehearsal Hall, the band plans to march past several Notre Dame landmarks including the Hesburgh Library, Clarke Memorial Fountain, and Grace Hall. The marchout will conclude at the Ricci Family Fields. This event is free and open to the public! For more information about the Notre Dame Band, please visit our website: band.nd.edu/",
+    "raw_date": "Aug 20 9:00 AM – 9:30 AM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-20",
+        "start_time": "09:00:00",
+        "end_time": "09:30:00",
         "all_day": false
       }
     ]
@@ -400,37 +425,14 @@
     ]
   },
   {
-    "title": "PEDIGREE ENTERTAINMENT PRESENTS PURE BREEDS OF COMEDY VOL. 4. GET ON THE BUS",
-    "url": "https://www.visitsouthbend.com/events/pedigree-entertainment-presents-pure-breeds-of-comedy-vol-4-get-on-the-bus/",
-    "location": "Century Center | 120 S. Dr. Martin Luther King Jr. Blvd | South Bend, IN 46601",
-    "description": "A great night of comedy with 5 of the hottest comedians from across the country including the one and only actor & comedian Alex Thomas!",
-    "raw_date": "Aug 22 7:00 PM – 10:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-22",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "RESIDENT ARTISTS' SUMMER EXHIBITION",
     "url": "https://www.visitsouthbend.com/events/resident-artists-summer-exhibition/",
     "location": "Fire Arts Inc | 305 E. Colfax Av | South Bend, IN 46617",
     "description": "This summer Fire Arts Inc will feature the works of our resident artists. We will be open throughout the Colfax Av construction project. Use LaSalle St to Sycamore St. to make your way to our non-profit. Please stop by to celebrate the Michiana creative arts community. We are open to the public on Wednesdays, Fridays and Saturdays from noon to 5pm and on Tuesdays and Thursdays from noon to 9pm.\n\nCheck out our webpage at\n\n*https://fireartsinc.com/\n\n*Instagram at https://www.instagram.com/fireartsincsb/\n\n*Facebook pages at https://www.facebook.com/profile.php?id=100042133547104",
-    "raw_date": "Aug 19 to Aug 31 12:00 PM – 5:00 PM",
+    "raw_date": "Aug 20 to Aug 31 12:00 PM – 5:00 PM",
     "raw_recurrence": "THIS EVENT CONTINUES FROM JUNE 20TH THRU AUGUST 31ST. WE WELCOME THE PUBLIC DURING OUR BUSINESS HOURS.",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-19",
-        "start_time": "12:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-20",
         "start_time": "12:00:00",
@@ -524,23 +526,6 @@
   },
   {
     "title": "SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS",
-    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-whitecaps-2/",
-    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
-    "description": "Promotion:\n\nSouth Bend Cubs T-Shirt Giveaway\n\nThe first 1,000 fans 18 and older through the gates will receive a South Bend Cubs t-shirt.\n\nGame Highlights:\n\n\nSilver Sluggers\n\nFans that are 60 years old and above can purchase tickets at 50% off to every Wednesday home game. Plus, earn rewards for games attended.\n\nWine Wednesday\n\nFans 21 and older can enjoy half priced glasses of wine or wine slushies. Does not include sangria.",
-    "raw_date": "Aug 19 7:05 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-19",
-        "start_time": "19:05:00",
-        "end_time": null,
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS",
     "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-whitecaps-3/",
     "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
     "description": "Ticket Offer:\n\nPro Wrestling Night II\n\nIt is official! WWE RAW General Manager and longtime professional wrestling standout \"Scrap Iron\" Adam Pearce is coming to Four Winds Field on Thursday, August 20 for Pro Wrestling Night II. Adding to the excitement, Revolution Championship Wrestling returns with action-packed matches both before and after the game. Fans who purchase the Pro Wrestling Night ticket package will receive early entry to the ballpark to catch all the pregame wrestling action. During the game, enjoy an exclusive Meet & Greet with Adam Pearce on the United Federal Credit Union Rooftop while indulging in an all-you-can-eat ballpark buffet. The night wraps up with two bonus wrestling matches following the game.\n\nGame Highlights:\n\n\nThirsty Thursday\n\nEnjoy $3 fountain sodas (24 oz.) and domestic draft beer (16 oz.) all game long.",
@@ -550,23 +535,6 @@
     "schedule_instances": [
       {
         "date": "2026-08-20",
-        "start_time": "19:05:00",
-        "end_time": null,
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS",
-    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-whitecaps-4/",
-    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
-    "description": "Game Highlights:\n\nFallen Heroes Day\n\nJoin us as we honor our fallen heroes and award the Corporal Paul Deguch Community Service Award to a South Bend Cubs player who demonstrates outstanding community service.\n\nSpecial Appearance: Zooperstars\n\nCome see the hilarious inflatable characters like Harry Canary, Tommy Laswordfish, Ken Giraffey, Jr., Nolan Rhino, and many more! The performance combines synchronized dance routines, acrobatics, tricks and comedy for performances that connect with fans of all ages.\n\n\nShowcase Saturday\n\nA night dedicated to a unique theme or special appearance. Gates open at 5:30 p.m.",
-    "raw_date": "Aug 22 7:05 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-22",
         "start_time": "19:05:00",
         "end_time": null,
         "all_day": false
@@ -603,200 +571,6 @@
         "date": "2026-08-20",
         "start_time": "17:00:00",
         "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "TRIVIA AT MANNY'S",
-    "url": "https://www.visitsouthbend.com/events/trivia-at-mannys/",
-    "location": "Manny's | 503 E. Colfax Ave | South Bend, IN 46617",
-    "description": "Manny's is bringing trivia to our weekly rotation of events! We're teaming up with local favorite Indiana Trivia for the best selection of brain teasers and questions this side of the St. Joseph River! Come in to win - bragging rights and gift cards are on the line!",
-    "raw_date": "Aug 19 7:00 PM – 10:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [
-      "Wednesday, August 19",
-      "Wednesday, August 26",
-      "Wednesday, September 2",
-      "Wednesday, September 9",
-      "Wednesday, September 16",
-      "Wednesday, September 23",
-      "Wednesday, September 30",
-      "Wednesday, October 7",
-      "Wednesday, October 14",
-      "Wednesday, October 21",
-      "Wednesday, October 28",
-      "Wednesday, November 4",
-      "Wednesday, November 11",
-      "Wednesday, November 18",
-      "Wednesday, November 25",
-      "Wednesday, December 2",
-      "Wednesday, December 9",
-      "Wednesday, December 16",
-      "Wednesday, December 23",
-      "Wednesday, December 30",
-      "Wednesday, January 6",
-      "Wednesday, January 13",
-      "Wednesday, January 20",
-      "Wednesday, January 27",
-      "Wednesday, February 3",
-      "Wednesday, February 10"
-    ],
-    "schedule_instances": [
-      {
-        "date": "2026-08-19",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-08-26",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-02",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-09",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-16",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-23",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-30",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-10-07",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-10-14",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-10-21",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-10-28",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-11-04",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-11-11",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-11-18",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-11-25",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-12-02",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-12-09",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-12-16",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-12-23",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-12-30",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2027-01-06",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2027-01-13",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2027-01-20",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2027-01-27",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2027-02-03",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2027-02-10",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
         "all_day": false
       }
     ]
