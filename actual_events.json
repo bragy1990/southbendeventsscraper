@@ -64,16 +64,10 @@
     "url": "https://www.visitsouthbend.com/events/around-the-bend-iii/",
     "location": "South Bend Museum of Art | 120 S Dr Martin Luther King Jr Blvd | South Bend, IN 46601",
     "description": "Around the Bend III celebrates the depth and diversity of our region’s creative community, featuring over 200 works by local artists.",
-    "raw_date": "Aug 20 to Aug 23 12:00 PM – 5:00 PM",
+    "raw_date": "Aug 21 to Aug 23 12:00 PM – 5:00 PM",
     "raw_recurrence": "WEDNESDAY - SUNDAY NOON - 5:00 PM",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-20",
-        "start_time": "12:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-21",
         "start_time": "12:00:00",
@@ -124,40 +118,6 @@
         "date": "2026-08-21",
         "start_time": "17:30:00",
         "end_time": "18:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "END OF SUMMER BEACH BASH",
-    "url": "https://www.visitsouthbend.com/events/end-of-summer-beach-bash/",
-    "location": "Bar Louie | 7320 Aspect Drive | Granger, IN 46530",
-    "description": "Toast to the summer with us! On Thursday, grab your crew, rock your favorite tropical gear, and let's send summer out in style! Join us on the rooftop for free samples, giveaways, and summer sip specials featuring Malibu Rum starting at 7pm.",
-    "raw_date": "Aug 20 7:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-20",
-        "start_time": "19:00:00",
-        "end_time": null,
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "END OF SUMMER CELEBRATION",
-    "url": "https://www.visitsouthbend.com/events/end-of-summer-celebration/",
-    "location": "Kamm Island | 100 N Center St | Mishawaka, 46544",
-    "description": "Join us for our big bash at the last Summer Concert Series performance with Paul Erdman! Inflatables ( $5 per child, wristband required), food trucks, all our market vendors from the whole summer and the last bits of summer fun! Free to attend, except inflatables!",
-    "raw_date": "Aug 20 7:00 PM – 9:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-20",
-        "start_time": "19:00:00",
-        "end_time": "21:00:00",
         "all_day": false
       }
     ]
@@ -214,18 +174,18 @@
     ]
   },
   {
-    "title": "FILM—\"BACKROOMS: EVERYTHING MUST GO EDITION\" (2026)",
-    "url": "https://www.visitsouthbend.com/events/film-backrooms-everything-must-go-edition-2026/",
+    "title": "FILM: \"FANTASIA\" (1940)",
+    "url": "https://www.visitsouthbend.com/events/film-fantasia-1940/",
     "location": "DeBartolo Performing Arts Center",
-    "description": "New at the Browning Directed by Kane Parsons With Chiwetel Ejiofor, Renate Reinsve, Mark Duplass Rated R, 126 minutes In English, Portuguese, Turkish, Arabic, and Japanese with English subtitles A strange doorway appears in the basement of a furniture showroom potentially leading to the next generation of Hollywood filmmaking. A summer sensation that many believe finally heralds the gluing of DIY filmmakers to the studio system, this version of Backrooms adds 16 minutes to the cut that brought millions out to see what lurks inside the corpse of brick and mortar capitalism. GET TICKETS",
-    "raw_date": "Aug 20 7:00 PM – 9:10 PM",
+    "description": "Professor Pfinklepfunder's $1 Sunday Films Directed by James Algar, Samuel Armstrong, Ford Beebe Jr., et al. With Leopold Stokowski, Deems Taylor Rated G, 124 minutes An anomaly in the canon of Disney animated features, Fantasia holds a special place in many hearts and memories for its vibrant colors and, at times, plotless abstract pieces. Composed of eight different segments featuring classical music, the anthology of animated shorts act as their own music videos of sorts—an odd way for Mickey Mouse to star in his first feature film, but a timeless example copied by many on how animation and music can be woven into inspiration. GET TICKETS *Sponsored by the Meg and John P. Brogan Endowment for Classic Cinema.",
+    "raw_date": "Aug 23 1:00 PM – 3:05 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-20",
-        "start_time": "19:00:00",
-        "end_time": "21:10:00",
+        "date": "2026-08-23",
+        "start_time": "13:00:00",
+        "end_time": "15:05:00",
         "all_day": false
       }
     ]
@@ -274,18 +234,55 @@
     ]
   },
   {
-    "title": "MACBETH OPENING NIGHT CELEBRATION (NDSF 2026)",
-    "url": "https://www.visitsouthbend.com/events/macbeth-opening-night-celebration-ndsf-2026/",
-    "location": "DeBartolo Performing Arts Center | DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
-    "description": "Shakespeare at Notre Dame A Notre Dame Shakespeare Festival tradition, the Opening Night Celebration will kick off the \"Macbeth\" performance series in grand style. This exclusive event features food and drink inside the DeBartolo Performing Arts Center's beautiful and expansive lobby. Join us beginning at 6:00 p.m. EST and mingle with members of the \"Macbeth\" production team. The opening night performance of \"Macbeth\" follows at 7:30 p.m. Event includes mature or adult content.",
-    "raw_date": "Aug 20 6:00 PM – 7:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
+    "title": "MISHAWAKA MARKET",
+    "url": "https://www.visitsouthbend.com/events/mishawaka-market/",
+    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46545",
+    "description": "Join us for year 8 of the Mishawaka Market!\n\nThe Market runs Sundays from 10 am - 2 pm, May 31st through September 27th. *No Market on June 14th, July 5th & September 6th\n\nThere will be produce, crafts, baked goods, food trucks, kids zone, live music, animal adoptions and more!\n\nStage programming schedule will be posted before the 2026 Market Season starts!\n*No market on June 14th, July 5th, and September 6th.",
+    "raw_date": "Aug 23 10:00 AM – 2:00 PM",
+    "raw_recurrence": "FROM: 10:00 AM TO 02:00 PM",
+    "upcoming_dates": [
+      "Sunday, August 23",
+      "Sunday, August 30",
+      "Sunday, September 6",
+      "Sunday, September 13",
+      "Sunday, September 20",
+      "Sunday, September 27"
+    ],
     "schedule_instances": [
       {
-        "date": "2026-08-20",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
+        "date": "2026-08-23",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-30",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-06",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-13",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-20",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-27",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
         "all_day": false
       }
     ]
@@ -312,16 +309,10 @@
     "url": "https://www.visitsouthbend.com/events/notre-dame-shakespeare-festival-macbeth/",
     "location": "Patricia George Decio Theatre, DeBartolo Performing Arts Center",
     "description": "It's Shakespeare like you've never seen before. The 2026 Notre Dame Shakespeare Festival invites you to join us on stage for a hilarious, remarkable, and interactive staging of Macbeth.",
-    "raw_date": "Aug 20 to Aug 31",
+    "raw_date": "Aug 21 to Aug 31",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-20",
-        "start_time": null,
-        "end_time": null,
-        "all_day": true
-      },
       {
         "date": "2026-08-21",
         "start_time": null,
@@ -429,16 +420,10 @@
     "url": "https://www.visitsouthbend.com/events/resident-artists-summer-exhibition/",
     "location": "Fire Arts Inc | 305 E. Colfax Av | South Bend, IN 46617",
     "description": "This summer Fire Arts Inc will feature the works of our resident artists. We will be open throughout the Colfax Av construction project. Use LaSalle St to Sycamore St. to make your way to our non-profit. Please stop by to celebrate the Michiana creative arts community. We are open to the public on Wednesdays, Fridays and Saturdays from noon to 5pm and on Tuesdays and Thursdays from noon to 9pm.\n\nCheck out our webpage at\n\n*https://fireartsinc.com/\n\n*Instagram at https://www.instagram.com/fireartsincsb/\n\n*Facebook pages at https://www.facebook.com/profile.php?id=100042133547104",
-    "raw_date": "Aug 20 to Aug 31 12:00 PM – 5:00 PM",
+    "raw_date": "Aug 21 to Aug 31 12:00 PM – 5:00 PM",
     "raw_recurrence": "THIS EVENT CONTINUES FROM JUNE 20TH THRU AUGUST 31ST. WE WELCOME THE PUBLIC DURING OUR BUSINESS HOURS.",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-20",
-        "start_time": "12:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-21",
         "start_time": "12:00:00",
@@ -525,17 +510,74 @@
     ]
   },
   {
+    "title": "SEITZ PARK SUMMER CONCERT SERIES",
+    "url": "https://www.visitsouthbend.com/events/seitz-park-summer-concert-series/",
+    "location": "Seitz Park | 316 E. Colfax Ave | South Bend, IN 46617",
+    "description": "Indulge in the vibrant sounds of summer and join us at our FREE Summer Concert Series at Seitz Park! Each Sunday afternoon (3-5pm) from June to September, you’ll have a chance to enjoy live music, fun community events, and rotating food trucks with your friends and family – just bring a blanket or chair and your Sunday afternoon plans are set! The performer lineup is as follows:\n\n- June 7 – DreamTeam Live\n- June 14 – The Motown Machine\n- June 21 – The Resurrection Blues Band\n- June 28 – Happy Campers\n- July 5 – Hipposonics\n- July 12 – Mr. Z\n- July 19 – Zo Keys Band\n- July 26 – Now & Then\n- August 2 – Alligator Blackbird\n- August 9 – Michiana String Collective\n- August 16 – Kennedy Kitchen\n- August 23 – Corey Ronell\n- August 30 – Ray Davis\n- September 6 – Left Side of the Dial\n- September 13 – Memphis Underground\n\nSee you there!",
+    "raw_date": "Aug 23 3:00 PM – 5:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [
+      "Sunday, August 23",
+      "Sunday, August 30",
+      "Sunday, September 6",
+      "Sunday, September 13"
+    ],
+    "schedule_instances": [
+      {
+        "date": "2026-08-23",
+        "start_time": "15:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-30",
+        "start_time": "15:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-06",
+        "start_time": "15:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-13",
+        "start_time": "15:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS",
-    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-whitecaps-3/",
+    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-whitecaps-4/",
     "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
-    "description": "Ticket Offer:\n\nPro Wrestling Night II\n\nIt is official! WWE RAW General Manager and longtime professional wrestling standout \"Scrap Iron\" Adam Pearce is coming to Four Winds Field on Thursday, August 20 for Pro Wrestling Night II. Adding to the excitement, Revolution Championship Wrestling returns with action-packed matches both before and after the game. Fans who purchase the Pro Wrestling Night ticket package will receive early entry to the ballpark to catch all the pregame wrestling action. During the game, enjoy an exclusive Meet & Greet with Adam Pearce on the United Federal Credit Union Rooftop while indulging in an all-you-can-eat ballpark buffet. The night wraps up with two bonus wrestling matches following the game.\n\nGame Highlights:\n\n\nThirsty Thursday\n\nEnjoy $3 fountain sodas (24 oz.) and domestic draft beer (16 oz.) all game long.",
-    "raw_date": "Aug 20 7:05 PM",
+    "description": "Game Highlights:\n\nFallen Heroes Day\n\nJoin us as we honor our fallen heroes and award the Corporal Paul Deguch Community Service Award to a South Bend Cubs player who demonstrates outstanding community service.\n\nSpecial Appearance: Zooperstars\n\nCome see the hilarious inflatable characters like Harry Canary, Tommy Laswordfish, Ken Giraffey, Jr., Nolan Rhino, and many more! The performance combines synchronized dance routines, acrobatics, tricks and comedy for performances that connect with fans of all ages.\n\n\nShowcase Saturday\n\nA night dedicated to a unique theme or special appearance. Gates open at 5:30 p.m.",
+    "raw_date": "Aug 22 7:05 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-20",
+        "date": "2026-08-22",
         "start_time": "19:05:00",
+        "end_time": null,
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS",
+    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-whitecaps-5/",
+    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
+    "description": "Game Highlights:\n\nLos Cabritos Maldichos Day\n\nContinuing the celebration of Latin culture, the South Bend Cubs will become the Los Cabritos Maldichos for select games this season. Join us for special pre-game performance celebrating Latino culture, Latin music, popular Latino food items and more.\n\nSunday Funday\n\nArrive early for a special autograph session with the South Bend Cubs players and play catch on the field before the game. Gates open at 12:30 p.m\n\nPromotion:\n\nThe first 1,000 kids 12 and under through the gates will receive a CareSource backpack.\n\nShowcase Saturday\n\nA night dedicated to a unique theme or special appearance. Gates open at 5:30 p.m.",
+    "raw_date": "Aug 23 2:05 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-23",
+        "start_time": "14:05:00",
         "end_time": null,
         "all_day": false
       }
@@ -559,18 +601,18 @@
     ]
   },
   {
-    "title": "THE ART OF CIGAR ROLLING: A MASTERCLASS EXPERIENCE",
-    "url": "https://www.visitsouthbend.com/events/the-art-of-cigar-rolling-a-masterclass-experience/",
-    "location": "Jackson's Cigars & Spirits | 100 N Center St #40 | Mishawaka, IN 46544",
-    "description": "Experience the Art of Cigar Rolling at Jackson’s Cigars & Spirits\n\nEver wondered what it takes to turn a tobacco leaf into a premium, hand-rolled cigar? On August 20, Jackson’s Cigars & Spirits in Mishawaka is bringing the craft to life with a special evening featuring a La Galera cigar representative and live cigar rolling demonstration.\n\nEvent Features\n\nLive La Galera cigar rolling demonstration\n\nFresh hand-rolled cigars\n\nLa Galera cigar specials\n\nCrafted cigar-pairing cocktails\n\nEnter to win a La Galera Year of the Horse Limited Edition Gift Set\n\nBuy 4 cigars and receive the raffle entry\n\nWatch the process firsthand as tobacco leaves are selected, prepared and expertly rolled into finished cigars. Guests will have the opportunity to experience a fresh hand-rolled cigar while learning more about the craftsmanship and tradition behind La Galera cigars.\n\nThroughout the evening, enjoy La Galera cigar specials, handcrafted cocktails designed to pair with your cigar, and raffle giveaways. Purchase four cigars and get one free, and enter for a chance to win the La Galera Year of the Horse Limited Edition Box.\n\nWhether you’re a longtime cigar enthusiast or simply curious about how a cigar is made, this is a rare opportunity to see the craft up close in the relaxed, upscale atmosphere of Jackson’s Cigars & Spirits.\n\nThursday, August 20\n\nDoors open at 4:00 PM | Cigar rolling begins at 5:00 PM\n\nJackson’s Cigars & Spirits | Mishawaka, Indiana\n\nFree admission | Ages 21+",
-    "raw_date": "Aug 20 5:00 PM – 8:00 PM",
+    "title": "YOGA AMONG THE PINES",
+    "url": "https://www.visitsouthbend.com/events/yoga-among-the-pines-2/",
+    "location": "St. Patrick's County Parks | 50651 Laurel Road | South Bend, IN 46637",
+    "description": "Renew yourself amidst the shade of the pine trees as you enjoy yoga in the refreshing outdoors. Each session is geared towards ages 16+. Please bring your own mat, water, and towel. In case of rain or lightning, we will meet under the Pfeil Pavilion or in the White Barn Harvest Room. Registration and payment required by Thursday, August 20.",
+    "raw_date": "Aug 23 3:00 PM – 4:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-20",
-        "start_time": "17:00:00",
-        "end_time": "20:00:00",
+        "date": "2026-08-23",
+        "start_time": "15:00:00",
+        "end_time": "16:00:00",
         "all_day": false
       }
     ]
