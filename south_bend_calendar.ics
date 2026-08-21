@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:f95b439ebb6fef55bbe13bc1@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:2026 ZOO NIGHTS LIVE
 LOCATION:Potawatomi Zoo | 500 S Greenlawn Ave | South Bend\, 46615
 DESCRIPTION:Bring your own lawn chair and rock out at this family-friendly 
@@ -44,7 +44,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:32dbfeb8d56cb6189cf3aceb@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:ACOUSTIC FRIDAYS
 LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
 DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
@@ -58,7 +58,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:10444e186673667c012f33fc@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:ACOUSTIC FRIDAYS
 LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
 DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
@@ -72,7 +72,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f43b055a6cb7754c563fdbc6@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:ARMCHAIR TOUR OF SOUTH BEND CEMETERY
 LOCATION:The History Museum | 808 W Washington St | South Bend\, 46601
 DESCRIPTION:Archivist and St. Joseph County Historian Travis Childs will gi
@@ -93,7 +93,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9713b6d9d2dee4f4ba5536d7@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:AROUND THE BEND III
 LOCATION:South Bend Museum of Art | 120 S Dr Martin Luther King Jr Blvd | S
  outh Bend\, IN 46601
@@ -107,7 +107,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3571fb115a008833c2395ddf@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:AROUND THE BEND III
 LOCATION:South Bend Museum of Art | 120 S Dr Martin Luther King Jr Blvd | S
  outh Bend\, IN 46601
@@ -121,7 +121,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0c3399ef1d543f78423ce378@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:AROUND THE BEND III
 LOCATION:South Bend Museum of Art | 120 S Dr Martin Luther King Jr Blvd | S
  outh Bend\, IN 46601
@@ -135,7 +135,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:753f22e8b4a4c2dc0606ed2a@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:BINGO WITH CATS
 LOCATION:The Cat Lady Cafe | 401 E Colfax Ave | South Bend\, 46617
 DESCRIPTION:Bingo with cats! Just like you’d expect - one hour in our cat
@@ -151,7 +151,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c2f8b49b5ed92ad42653e7c0@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:BINGO WITH CATS! AUGUST 21\, 2026
 LOCATION:The Cat Lady Cafe | 392 E Colfax Ave | South Bend\, 46617
 DESCRIPTION:Cats and bingo! Grab a coffee\, lemonade\, beer or glass of win
@@ -165,8 +165,62 @@ DTEND;TZID=America/Indiana/Indianapolis:20260821T183000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:c0142cb54e384144576369be@visitsouthbend.com
+DTSTAMP:20260821T191712Z
+SUMMARY:BLITHE SPIRIT
+LOCATION:South Bend Civic Theater | 403 N Main St | South Bend\, 46601
+DESCRIPTION:In this classic comedy\, novelist Charles Condomine — hoping 
+ to get material for his new book — invites medium Madame Arcati into hi
+ s home. Instead of literary inspiration\, the eccentric medium conjures E
+ lvira\, Charles’s mischievous and very deceased first wife.\n\nWillful 
+ and temperamental in life and death\, Elvira proceeds to create hilarious
+ \, haunting havoc as she attempts to sabotage Charles’s relationship wi
+ th his current wife\, Ruth\, through a series of increasingly chaotic eve
+ nts.\n\nMore Info: https://www.visitsouthbend.com/events/blithe-spirit-4/
+URL:https://www.visitsouthbend.com/events/blithe-spirit-4/
+DTSTART;TZID=America/Indiana/Indianapolis:20260821T193000
+DTEND;TZID=America/Indiana/Indianapolis:20260821T213000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:102f6da1a4972847da497ba2@visitsouthbend.com
+DTSTAMP:20260821T191712Z
+SUMMARY:BLITHE SPIRIT
+LOCATION:South Bend Civic Theater | 403 N Main St | South Bend\, 46601
+DESCRIPTION:In this classic comedy\, novelist Charles Condomine — hoping 
+ to get material for his new book — invites medium Madame Arcati into hi
+ s home. Instead of literary inspiration\, the eccentric medium conjures E
+ lvira\, Charles’s mischievous and very deceased first wife.\n\nWillful 
+ and temperamental in life and death\, Elvira proceeds to create hilarious
+ \, haunting havoc as she attempts to sabotage Charles’s relationship wi
+ th his current wife\, Ruth\, through a series of increasingly chaotic eve
+ nts.\n\nMore Info: https://www.visitsouthbend.com/events/blithe-spirit-4/
+URL:https://www.visitsouthbend.com/events/blithe-spirit-4/
+DTSTART;TZID=America/Indiana/Indianapolis:20260822T193000
+DTEND;TZID=America/Indiana/Indianapolis:20260822T213000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a27dd35bb7f01f576c89b19f@visitsouthbend.com
+DTSTAMP:20260821T191712Z
+SUMMARY:BLITHE SPIRIT
+LOCATION:South Bend Civic Theater | 403 N Main St | South Bend\, 46601
+DESCRIPTION:In this classic comedy\, novelist Charles Condomine — hoping 
+ to get material for his new book — invites medium Madame Arcati into hi
+ s home. Instead of literary inspiration\, the eccentric medium conjures E
+ lvira\, Charles’s mischievous and very deceased first wife.\n\nWillful 
+ and temperamental in life and death\, Elvira proceeds to create hilarious
+ \, haunting havoc as she attempts to sabotage Charles’s relationship wi
+ th his current wife\, Ruth\, through a series of increasingly chaotic eve
+ nts.\n\nMore Info: https://www.visitsouthbend.com/events/blithe-spirit-4/
+URL:https://www.visitsouthbend.com/events/blithe-spirit-4/
+DTSTART;TZID=America/Indiana/Indianapolis:20260823T193000
+DTEND;TZID=America/Indiana/Indianapolis:20260823T213000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:d256e4ee61a79e08235478c1@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:FAITHFUL 5K
 LOCATION:Downtown Mishawaka Riverwalk and Battell Park Bandshell | 301 W. M
  ishawaka Ave.\, Mishawaka\, IN 46545 | Mishawaka\, IN 46545
@@ -184,7 +238,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:85f16a6f5fe985d6d92173f7@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:FILM—"BACKROOMS: EVERYTHING MUST GO EDITION" (2026)
 LOCATION:DeBartolo Performing Arts Center
 DESCRIPTION:New at the Browning Directed by Kane Parsons With Chiwetel Ejio
@@ -205,7 +259,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:df317750ad25193ec9684fff@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:FILM—"BACKROOMS: EVERYTHING MUST GO EDITION" (2026)
 LOCATION:DeBartolo Performing Arts Center
 DESCRIPTION:New at the Browning Directed by Kane Parsons With Chiwetel Ejio
@@ -226,7 +280,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0d26cf285aa0c471824fdb14@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:FILM: "FANTASIA" (1940)
 LOCATION:DeBartolo Performing Arts Center
 DESCRIPTION:Professor Pfinklepfunder's $1 Sunday Films Directed by James Al
@@ -248,7 +302,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dd3bb902036bfa885cf4d6a2@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:FREE ARTIST AND CAREER BUILDING WORKSHOP FOR MUSICIANS
 LOCATION:The Music Village | 333 S Michigan St | South Bend\, IN 46601
 DESCRIPTION:Interested in artist development or building a career in music?
@@ -283,56 +337,8 @@ DTEND;TZID=America/Indiana/Indianapolis:20260822T150000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:19cf54f18ed9acdb7ef3b36d@visitsouthbend.com
-DTSTAMP:20260821T080534Z
-SUMMARY:FRIDAYS BY THE FOUNTAIN
-LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
- N 46601
-DESCRIPTION:This year Fridays by the Fountain will return to Jon R. Hunt Pl
- aza at the Morris!\nWe will have food trucks\, live music\, and free comm
- unity fun!\nHeld on Fridays between 11:45 a.m. and 1:15 p.m.\, each conce
- rt is free of charge. Now in its 26th year\, Fridays by the Fountain show
- cases live entertainment from area blues\, jazz\, rock\, R&B\, pop\, folk
- \, and Irish music bands.\n\nThis year’s lineup includes:\nJune 5 – R
- ockDogs\nJune 12 – Q sonics\nJune 19 – Southside Denny\nJune 26 – H
- ey Annie\nJuly 3 – Memphis Underground\nJuly 10 – Don Savoie\nJuly 17
-  – Resurrection Blues Band\nJuly 24 – Big Daddy Dupree’s Broke & Hu
- ngry Blues Band\nJuly 31 – Van Dyke Revue\nAugust 7 – PT and The Crui
- sers\nAugust 14 – David Hilliker Trio\nAugust 21 – High Life\nAugust 
- 28 – Kennedy’s Kitchen\n\nMore Info: https://www.visitsouthbend.com/e
- vents/fridays-by-the-fountain/
-URL:https://www.visitsouthbend.com/events/fridays-by-the-fountain/
-DTSTART;TZID=America/Indiana/Indianapolis:20260821T114500
-DTEND;TZID=America/Indiana/Indianapolis:20260821T131500
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:34bdd457c21c0cb01cc18ecd@visitsouthbend.com
-DTSTAMP:20260821T080534Z
-SUMMARY:FRIDAYS BY THE FOUNTAIN
-LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
- N 46601
-DESCRIPTION:This year Fridays by the Fountain will return to Jon R. Hunt Pl
- aza at the Morris!\nWe will have food trucks\, live music\, and free comm
- unity fun!\nHeld on Fridays between 11:45 a.m. and 1:15 p.m.\, each conce
- rt is free of charge. Now in its 26th year\, Fridays by the Fountain show
- cases live entertainment from area blues\, jazz\, rock\, R&B\, pop\, folk
- \, and Irish music bands.\n\nThis year’s lineup includes:\nJune 5 – R
- ockDogs\nJune 12 – Q sonics\nJune 19 – Southside Denny\nJune 26 – H
- ey Annie\nJuly 3 – Memphis Underground\nJuly 10 – Don Savoie\nJuly 17
-  – Resurrection Blues Band\nJuly 24 – Big Daddy Dupree’s Broke & Hu
- ngry Blues Band\nJuly 31 – Van Dyke Revue\nAugust 7 – PT and The Crui
- sers\nAugust 14 – David Hilliker Trio\nAugust 21 – High Life\nAugust 
- 28 – Kennedy’s Kitchen\n\nMore Info: https://www.visitsouthbend.com/e
- vents/fridays-by-the-fountain/
-URL:https://www.visitsouthbend.com/events/fridays-by-the-fountain/
-DTSTART;TZID=America/Indiana/Indianapolis:20260828T114500
-DTEND;TZID=America/Indiana/Indianapolis:20260828T131500
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:112e9d3a5b08c5d35a1f1507@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:MISHAWAKA MARKET
 LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
 DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
@@ -349,7 +355,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:08d8fc8dc5f9f4556cf49c9d@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:MISHAWAKA MARKET
 LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
 DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
@@ -366,7 +372,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2437aa84d91d8d014782f63a@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:MISHAWAKA MARKET
 LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
 DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
@@ -383,7 +389,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e19b1f6495332aa2afb8dd57@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:MISHAWAKA MARKET
 LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
 DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
@@ -400,7 +406,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a60c4b4ffa60d5ad22d5e6ff@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:MISHAWAKA MARKET
 LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
 DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
@@ -417,7 +423,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6331e9e02292f5f371634212@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:MISHAWAKA MARKET
 LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
 DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
@@ -434,7 +440,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:079bc7817cc66ab238e344f7@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:MUSIC IN THE WOODS
 LOCATION:Mishawaka Res | 13950 Scout Lane | Mishawaka \, IN 46544
 DESCRIPTION:Join us for an evening of free live music in the beautiful outd
@@ -451,7 +457,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:21d314f39315bd5db814606d@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -466,7 +472,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0de2cf53599a7bf56ebbc8cd@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -481,7 +487,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4a83c5b2943efc98387b49b0@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -496,7 +502,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cbb8a4f0425bc6e588ab8b98@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -511,7 +517,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bb834a737e33359627920be1@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -526,7 +532,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2df275db4ff1f5bccb0090e6@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -541,7 +547,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fbfeb646e5c4fae0b1081d87@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -556,7 +562,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f64547b09ded55c436186351@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -571,7 +577,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:663b69217522d9af7e36e2ec@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -586,7 +592,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:008eda1543654f494046a3d1@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -601,7 +607,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ee2858db100a2cb1dd8d0f97@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -616,7 +622,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:320fccbf363fb0176314e73b@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:OLDTIME DANCING
 LOCATION:Pinhook Park Community Building | 2801 Riverside Dr. | South Bend\
  , IN 46616
@@ -637,7 +643,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7ad18867d66f2033cc82d55c@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:PEDIGREE ENTERTAINMENT PRESENTS PURE BREEDS OF COMEDY VOL. 4. GET O
  N THE BUS
 LOCATION:Century Center | 120 S. Dr. Martin Luther King Jr. Blvd | South Be
@@ -654,7 +660,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:970b473eca5480ed55a19951@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -675,7 +681,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9d05686fad293e985525c7a6@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -696,7 +702,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b9c550f4cb7ae8d345e57c63@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -717,7 +723,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:62a40e22eea21338718995a1@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -738,7 +744,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b9d88c326f4b03ac1d37e7a0@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -759,7 +765,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8e40a926614334fce89a98cc@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -780,7 +786,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ad1f51d1e5d17080464bc3f9@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -801,7 +807,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7c1d4bd23304c625db335cdc@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -822,7 +828,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0d6d4bc1e894e04fa0abe006@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -843,7 +849,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bca2786b7cb3f10c84dd6b3e@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -864,7 +870,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1b221d28bb6d3e977529c10b@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -885,7 +891,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b55b03a18c15b0e5f7825518@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:SCAVENGER HUNT AT THE MORRIS
 LOCATION:The Morris Performing Arts Center | 211 N Michigan St | South Bend
  \, IN 46601
@@ -911,104 +917,8 @@ DTEND;TZID=America/Indiana/Indianapolis:20260821T203000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:feedc10de7f7138ec4a3fe26@visitsouthbend.com
-DTSTAMP:20260821T080534Z
-SUMMARY:SEITZ PARK SUMMER CONCERT SERIES
-LOCATION:Seitz Park | 316 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Indulge in the vibrant sounds of summer and join us at our FREE
-  Summer Concert Series at Seitz Park! Each Sunday afternoon (3-5pm) from 
- June to September\, you’ll have a chance to enjoy live music\, fun comm
- unity events\, and rotating food trucks with your friends and family – 
- just bring a blanket or chair and your Sunday afternoon plans are set! Th
- e performer lineup is as follows:\n\n- June 7 – DreamTeam Live\n- June 
- 14 – The Motown Machine\n- June 21 – The Resurrection Blues Band\n- J
- une 28 – Happy Campers\n- July 5 – Hipposonics\n- July 12 – Mr. Z\n
- - July 19 – Zo Keys Band\n- July 26 – Now & Then\n- August 2 – Alli
- gator Blackbird\n- August 9 – Michiana String Collective\n- August 16 
- – Kennedy Kitchen\n- August 23 – Corey Ronell\n- August 30 – Ray Da
- vis\n- September 6 – Left Side of the Dial\n- September 13 – Memphis 
- Underground\n\nSee you there!\n\nMore Info: https://www.visitsouthbend.co
- m/events/seitz-park-summer-concert-series/
-URL:https://www.visitsouthbend.com/events/seitz-park-summer-concert-series/
-DTSTART;TZID=America/Indiana/Indianapolis:20260823T150000
-DTEND;TZID=America/Indiana/Indianapolis:20260823T170000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:db713293ca65801d40bf7946@visitsouthbend.com
-DTSTAMP:20260821T080534Z
-SUMMARY:SEITZ PARK SUMMER CONCERT SERIES
-LOCATION:Seitz Park | 316 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Indulge in the vibrant sounds of summer and join us at our FREE
-  Summer Concert Series at Seitz Park! Each Sunday afternoon (3-5pm) from 
- June to September\, you’ll have a chance to enjoy live music\, fun comm
- unity events\, and rotating food trucks with your friends and family – 
- just bring a blanket or chair and your Sunday afternoon plans are set! Th
- e performer lineup is as follows:\n\n- June 7 – DreamTeam Live\n- June 
- 14 – The Motown Machine\n- June 21 – The Resurrection Blues Band\n- J
- une 28 – Happy Campers\n- July 5 – Hipposonics\n- July 12 – Mr. Z\n
- - July 19 – Zo Keys Band\n- July 26 – Now & Then\n- August 2 – Alli
- gator Blackbird\n- August 9 – Michiana String Collective\n- August 16 
- – Kennedy Kitchen\n- August 23 – Corey Ronell\n- August 30 – Ray Da
- vis\n- September 6 – Left Side of the Dial\n- September 13 – Memphis 
- Underground\n\nSee you there!\n\nMore Info: https://www.visitsouthbend.co
- m/events/seitz-park-summer-concert-series/
-URL:https://www.visitsouthbend.com/events/seitz-park-summer-concert-series/
-DTSTART;TZID=America/Indiana/Indianapolis:20260830T150000
-DTEND;TZID=America/Indiana/Indianapolis:20260830T170000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:9cebac3bcf70e61c484bd6e9@visitsouthbend.com
-DTSTAMP:20260821T080534Z
-SUMMARY:SEITZ PARK SUMMER CONCERT SERIES
-LOCATION:Seitz Park | 316 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Indulge in the vibrant sounds of summer and join us at our FREE
-  Summer Concert Series at Seitz Park! Each Sunday afternoon (3-5pm) from 
- June to September\, you’ll have a chance to enjoy live music\, fun comm
- unity events\, and rotating food trucks with your friends and family – 
- just bring a blanket or chair and your Sunday afternoon plans are set! Th
- e performer lineup is as follows:\n\n- June 7 – DreamTeam Live\n- June 
- 14 – The Motown Machine\n- June 21 – The Resurrection Blues Band\n- J
- une 28 – Happy Campers\n- July 5 – Hipposonics\n- July 12 – Mr. Z\n
- - July 19 – Zo Keys Band\n- July 26 – Now & Then\n- August 2 – Alli
- gator Blackbird\n- August 9 – Michiana String Collective\n- August 16 
- – Kennedy Kitchen\n- August 23 – Corey Ronell\n- August 30 – Ray Da
- vis\n- September 6 – Left Side of the Dial\n- September 13 – Memphis 
- Underground\n\nSee you there!\n\nMore Info: https://www.visitsouthbend.co
- m/events/seitz-park-summer-concert-series/
-URL:https://www.visitsouthbend.com/events/seitz-park-summer-concert-series/
-DTSTART;TZID=America/Indiana/Indianapolis:20260906T150000
-DTEND;TZID=America/Indiana/Indianapolis:20260906T170000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:6a8d1aa027c493748c461f06@visitsouthbend.com
-DTSTAMP:20260821T080534Z
-SUMMARY:SEITZ PARK SUMMER CONCERT SERIES
-LOCATION:Seitz Park | 316 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Indulge in the vibrant sounds of summer and join us at our FREE
-  Summer Concert Series at Seitz Park! Each Sunday afternoon (3-5pm) from 
- June to September\, you’ll have a chance to enjoy live music\, fun comm
- unity events\, and rotating food trucks with your friends and family – 
- just bring a blanket or chair and your Sunday afternoon plans are set! Th
- e performer lineup is as follows:\n\n- June 7 – DreamTeam Live\n- June 
- 14 – The Motown Machine\n- June 21 – The Resurrection Blues Band\n- J
- une 28 – Happy Campers\n- July 5 – Hipposonics\n- July 12 – Mr. Z\n
- - July 19 – Zo Keys Band\n- July 26 – Now & Then\n- August 2 – Alli
- gator Blackbird\n- August 9 – Michiana String Collective\n- August 16 
- – Kennedy Kitchen\n- August 23 – Corey Ronell\n- August 30 – Ray Da
- vis\n- September 6 – Left Side of the Dial\n- September 13 – Memphis 
- Underground\n\nSee you there!\n\nMore Info: https://www.visitsouthbend.co
- m/events/seitz-park-summer-concert-series/
-URL:https://www.visitsouthbend.com/events/seitz-park-summer-concert-series/
-DTSTART;TZID=America/Indiana/Indianapolis:20260913T150000
-DTEND;TZID=America/Indiana/Indianapolis:20260913T170000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:8f36a6daaadf8f13ef69052d@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS
 LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
 DESCRIPTION:Game Highlights:\n\nFallen Heroes Day\n\nJoin us as we honor ou
@@ -1030,7 +940,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4373e6690c3a58155a6fed6c@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS
 LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
 DESCRIPTION:Game Highlights:\n\nLos Cabritos Maldichos Day\n\nContinuing th
@@ -1052,7 +962,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fe075f0b881b97792f5bad65@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS - FRIDAY FIREWORKS
 LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
 DESCRIPTION:Game Highlight:\n\nFantastic Friday Fireworks\n\nEnjoy a specta
@@ -1067,7 +977,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:99939cb4b093e7c2f41cba78@visitsouthbend.com
-DTSTAMP:20260821T080534Z
+DTSTAMP:20260821T191712Z
 SUMMARY:YOGA AMONG THE PINES
 LOCATION:St. Patrick's County Parks | 50651 Laurel Road | South Bend\, IN 4
  6637
