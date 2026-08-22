@@ -1,5 +1,40 @@
 [
   {
+    "title": "2026 WORLD DANCE SHOWDOWN",
+    "url": "https://www.visitsouthbend.com/events/2026-world-dance-showdown/",
+    "location": "Century Center Convention Center | 120 S Doctor M.L.K. Jr Blvd | South Bend, 46601",
+    "description": "Come join us at the World Dance Showdown. We are a weekend dance event in Indiana for line dancers, couples, dance teams and choreographers holding dance workshops and dance competitions all weekend. Beginner to Advanced dancers welcome. Over 150 Workshops. Seven workshops to choose from each hour. Line, Pattern Partner, Couples (West Coast Swing, East Coast Swing, Hustle, Country Two Step, Country Swing, Night Club 2-Step, Cha Cha, Dance Technique, Presentation and Style workshops) and NTA Instructor workshops. All workshops are included in your pass (NO PAID workshops at our event). Workshops begin on Thursday at 1:00 pm and go until 3:00 pm on Sunday. Line, Couples, Choreography and Team Competitions are on Friday and Saturday. Four Ballrooms for Open Dancing including a dedicated Couples Ballroom, a dedicated WCS Ballroom, a dedicated Line Dance Ballroom and an All Request Ballroom. Come and join us for a FUN TIME!! http://www.worlddanceshowdown....",
+    "raw_date": "Aug 27 to Aug 30 12:00 PM – 3:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-27",
+        "start_time": "12:00:00",
+        "end_time": "15:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-28",
+        "start_time": "12:00:00",
+        "end_time": "15:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-29",
+        "start_time": "12:00:00",
+        "end_time": "15:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-30",
+        "start_time": "12:00:00",
+        "end_time": "15:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "2026 ZOO NIGHTS LIVE",
     "url": "https://www.visitsouthbend.com/events/2026-zoo-nights-live-2/",
     "location": "Potawatomi Zoo | 500 S Greenlawn Ave | South Bend, 46615",
@@ -17,27 +52,35 @@
     ]
   },
   {
-    "title": "ACOUSTIC FRIDAYS",
-    "url": "https://www.visitsouthbend.com/events/acoustic-fridays/",
-    "location": "Bar Louie Granger | 7320 Aspect Drive | Granger, IN 46530",
-    "description": "Join us on our rooftop for acoustic tunes by local artists every Friday! If the weather is inclement, we will move the fun to our indoor rooftop bar.",
-    "raw_date": "Aug 21 7:00 PM – 10:00 PM",
-    "raw_recurrence": "WEEKLY",
-    "upcoming_dates": [
-      "Friday, August 21",
-      "Friday, August 28"
-    ],
+    "title": "ACTOR’S CUT: LITTLE SHOP OF HORRORS",
+    "url": "https://www.visitsouthbend.com/events/actors-cut-little-shop-of-horrors/",
+    "location": "Morris Performing Arts Center | 211 N Michigan St | South Bend, 46601",
+    "description": "Join us for the Actor’s Cut screening of \"Little Shop of Horrors\" to celebrate its 40th anniversary, hosted by Ellen Greene, the original Audrey from the iconic stage musical and beloved film adaptation. This special event features a rare appearance by Greene, along with exclusive meet-and-greet packages that include signed memorabilia and photo opportunities. \"Little Shop of Horrors,\" directed by Frank Oz, is a cult-classic sci-fi musical comedy about Seymour Krelborn, a nerdy florist who nurtures a man-eating plant named Audrey II. As the plant's fame grows, it demands human sacrifices, putting Seymour’s love for coworker Audrey at risk. Don’t miss this unforgettable experience!",
+    "raw_date": "Aug 23 7:30 PM – 8:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-21",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
+        "date": "2026-08-23",
+        "start_time": "19:30:00",
+        "end_time": "20:30:00",
         "all_day": false
-      },
+      }
+    ]
+  },
+  {
+    "title": "ARMAN SANGALANG QUINTET",
+    "url": "https://www.visitsouthbend.com/events/arman-sangalang-quintet/",
+    "location": "Merrimans' Playhouse | 401 E. Colfax, Suite 135 | South Bend, IN 46617",
+    "description": "The Arman Sangalang Quartet is an ensemble that balances intricate compositions rooted in jazz with genre-bending improvisation to create a landscape of modern textures and soundscapes. The quartet features Chicago saxophonist, Arman Sangalang. He is joined by an all-star rhythm section of the Midwest’s finest improvisors: Dave Miller (guitar), Katie Ernst (Bass), and Devin Drobka (drums). Primarily based in Chicago, the group is excited to embark on a Midwest tour to celebrate the release of Sangalang’s debut album, “Quartet” on Calligram Records.\n\nArman Sangalang – saxophone\n\nDave Miller – guitar\n\nKatie Ernst - bass\n\nDevin Drobka – drums",
+    "raw_date": "Aug 26 7:30 PM – 9:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
       {
-        "date": "2026-08-28",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
+        "date": "2026-08-26",
+        "start_time": "19:30:00",
+        "end_time": "21:00:00",
         "all_day": false
       }
     ]
@@ -64,16 +107,10 @@
     "url": "https://www.visitsouthbend.com/events/around-the-bend-iii/",
     "location": "South Bend Museum of Art | 120 S Dr Martin Luther King Jr Blvd | South Bend, IN 46601",
     "description": "Around the Bend III celebrates the depth and diversity of our region’s creative community, featuring over 200 works by local artists.",
-    "raw_date": "Aug 21 to Aug 23 12:00 PM – 5:00 PM",
+    "raw_date": "Aug 22 to Aug 23 12:00 PM – 5:00 PM",
     "raw_recurrence": "WEDNESDAY - SUNDAY NOON - 5:00 PM",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-21",
-        "start_time": "12:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-22",
         "start_time": "12:00:00",
@@ -89,58 +126,17 @@
     ]
   },
   {
-    "title": "BINGO WITH CATS",
-    "url": "https://www.visitsouthbend.com/events/bingo-with-cats-4/",
-    "location": "The Cat Lady Cafe | 401 E Colfax Ave | South Bend, 46617",
-    "description": "Bingo with cats! Just like you’d expect - one hour in our cat lounge, hanging with adoptable cats while playing several rounds of bingo. Prizes include cat lounge passes, bags of coffee from Bendix Roasters and cat-themed merchandise. Drinks available for purchase, including beer and wine!",
-    "raw_date": "Aug 21 5:30 PM – 6:30 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-21",
-        "start_time": "17:30:00",
-        "end_time": "18:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "BINGO WITH CATS! AUGUST 21, 2026",
-    "url": "https://www.visitsouthbend.com/events/bingo-with-cats-august-21-2026/",
-    "location": "The Cat Lady Cafe | 392 E Colfax Ave | South Bend, 46617",
-    "description": "Cats and bingo! Grab a coffee, lemonade, beer or glass of wine and enjoy a fun-filled hour of several rounds of Bingo IN our cat lounge. Prizes include cat-themed items and coupons for future lounge visits!",
-    "raw_date": "Aug 21 5:30 PM – 6:30 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-21",
-        "start_time": "17:30:00",
-        "end_time": "18:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "BLITHE SPIRIT",
     "url": "https://www.visitsouthbend.com/events/blithe-spirit-4/",
     "location": "South Bend Civic Theater | 403 N Main St | South Bend, 46601",
     "description": "In this classic comedy, novelist Charles Condomine — hoping to get material for his new book — invites medium Madame Arcati into his home. Instead of literary inspiration, the eccentric medium conjures Elvira, Charles’s mischievous and very deceased first wife.\n\nWillful and temperamental in life and death, Elvira proceeds to create hilarious, haunting havoc as she attempts to sabotage Charles’s relationship with his current wife, Ruth, through a series of increasingly chaotic events.",
-    "raw_date": "Aug 21 7:30 PM – 9:30 PM",
+    "raw_date": "Aug 22 7:30 PM – 9:30 PM",
     "raw_recurrence": "",
     "upcoming_dates": [
-      "Friday, August 21",
       "Saturday, August 22",
       "Sunday, August 23"
     ],
     "schedule_instances": [
-      {
-        "date": "2026-08-21",
-        "start_time": "19:30:00",
-        "end_time": "21:30:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-22",
         "start_time": "19:30:00",
@@ -168,23 +164,6 @@
         "date": "2026-08-22",
         "start_time": "08:00:00",
         "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "FILM—\"BACKROOMS: EVERYTHING MUST GO EDITION\" (2026)",
-    "url": "https://www.visitsouthbend.com/events/film-backrooms-everything-must-go-edition-2026-2/",
-    "location": "DeBartolo Performing Arts Center",
-    "description": "New at the Browning Directed by Kane Parsons With Chiwetel Ejiofor, Renate Reinsve, Mark Duplass Rated R, 126 minutes In English, Portuguese, Turkish, Arabic, and Japanese with English subtitles A strange doorway appears in the basement of a furniture showroom potentially leading to the next generation of Hollywood filmmaking. A summer sensation that many believe finally heralds the gluing of DIY filmmakers to the studio system, this version of Backrooms adds 16 minutes to the cut that brought millions out to see what lurks inside the corpse of brick and mortar capitalism. GET TICKETS",
-    "raw_date": "Aug 21 7:00 PM – 9:10 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-21",
-        "start_time": "19:00:00",
-        "end_time": "21:10:00",
         "all_day": false
       }
     ]
@@ -236,6 +215,23 @@
         "date": "2026-08-22",
         "start_time": "14:00:00",
         "end_time": "15:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "LEGENDARY KARAOKE",
+    "url": "https://www.visitsouthbend.com/events/legendary-karaoke/",
+    "location": "Legends of Notre Dame | 100 Legends | Notre Dame, 46556",
+    "description": "Keep the party going with Legendary Karaoke, hosted by Wyatt Marshall.\n\nGrab the mic, show off your favorite hits! Enjoy great food and drinks available for purchase. Ages 21 and over. Doors open at 4:30 p.m.",
+    "raw_date": "Aug 26 5:00 PM – 9:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-26",
+        "start_time": "17:00:00",
+        "end_time": "21:00:00",
         "all_day": false
       }
     ]
@@ -295,37 +291,14 @@
     ]
   },
   {
-    "title": "MUSIC IN THE WOODS",
-    "url": "https://www.visitsouthbend.com/events/music-in-the-woods/",
-    "location": "Mishawaka Res | 13950 Scout Lane | Mishawaka , IN 46544",
-    "description": "Join us for an evening of free live music in the beautiful outdoor setting of the Mishawaka RES Amphitheater! Enjoy a performance by The Hillsiders on Saturday, August 21, 2026, at 6:00 PM. Bring a lawn chair or blanket, relax with family and friends, and experience great music surrounded by nature. This family-friendly concert is free and open to the public. Come make lasting summer memories at the Mishawaka RES!",
-    "raw_date": "Aug 21 6:00 PM – 8:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-21",
-        "start_time": "18:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH",
     "url": "https://www.visitsouthbend.com/events/notre-dame-shakespeare-festival-macbeth/",
     "location": "Patricia George Decio Theatre, DeBartolo Performing Arts Center",
     "description": "It's Shakespeare like you've never seen before. The 2026 Notre Dame Shakespeare Festival invites you to join us on stage for a hilarious, remarkable, and interactive staging of Macbeth.",
-    "raw_date": "Aug 21 to Aug 31",
+    "raw_date": "Aug 22 to Aug 31",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-21",
-        "start_time": null,
-        "end_time": null,
-        "all_day": true
-      },
       {
         "date": "2026-08-22",
         "start_time": null,
@@ -385,23 +358,6 @@
         "start_time": null,
         "end_time": null,
         "all_day": true
-      }
-    ]
-  },
-  {
-    "title": "OLDTIME DANCING",
-    "url": "https://www.visitsouthbend.com/events/oldtime-dancing/",
-    "location": "Pinhook Park Community Building | 2801 Riverside Dr. | South Bend, IN 46616",
-    "description": "Come out for an evening of dancing fun! No experience necessary, all ages welcome! Please join us on Friday, August 21st for the first dance of our new year! Contra longlines, circles, squares, waltzes, and couple mixers. All dances taught before calling. No partner necessary. Lisa Sutton is calling and our band will be Impromptunes. The Impromptunes are Peter Martin (hammered dulcimer/flutes), Laurie Eberhardt (piano) and Rania Adamczyk (fiddle).\n\nCost: $8.00/regular; $5.00/student and unwaged; $4.00 under 12; $20/family. Those on limited incomes can pay what they feel they can afford. You pay at the door; cash only please.",
-    "raw_date": "Aug 21 7:00 PM – 9:30 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-21",
-        "start_time": "19:00:00",
-        "end_time": "21:30:00",
-        "all_day": false
       }
     ]
   },
@@ -423,20 +379,54 @@
     ]
   },
   {
+    "title": "POTAWATOMI PARK SUMMER CONCERT SERIES",
+    "url": "https://www.visitsouthbend.com/events/potawatomi-park-summer-concert-series/",
+    "location": "Potawatomi Park | 500 S. Greenlawn Ave | South Bend, IN 46615",
+    "description": "Indulge in the vibrant sounds of summer and join us at our FREE Summer Concert Series at Potawatomi Park! Each Sunday evening (6-8pm) from June to September, you’ll have a chance to enjoy live music, fun community nights, and rotating food trucks with your friends and family – just bring a blanket or chair and your Sunday evening plans are set! The performer lineup is as follows:\n\n- June 14 – Mr. Z\n- June 21 – PT and the Cruisers\n- June 28 – Kennedy Kitchen\n- July 5 – Brian Mach\n- July 12 – Michiana String Collective\n- July 19 – Hipposonics\n- July 26 – Left Side of the Dial\n- August 2 – The Resurrection Blues Band\n- August 9 – Now & Then\n- August 16 – SBSO Summer Concert Series\n- August 23 – Paul Zulas\n- August 30 – Soul Discovery\n- September 6 – Los Luna Latin Band\n- September 13 – Van Dyke Revue\n\nSee you there!\n\nPLEASE NOTE: newly constructed parking spaces are now available at Potawatomi Park on Wall Street – please utilize these spaces and refrain from parking in the neighborhoods as much as possible.",
+    "raw_date": "Aug 23 6:00 PM – 8:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [
+      "Sunday, August 23",
+      "Sunday, August 30",
+      "Sunday, September 6",
+      "Sunday, September 13"
+    ],
+    "schedule_instances": [
+      {
+        "date": "2026-08-23",
+        "start_time": "18:00:00",
+        "end_time": "20:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-30",
+        "start_time": "18:00:00",
+        "end_time": "20:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-06",
+        "start_time": "18:00:00",
+        "end_time": "20:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-13",
+        "start_time": "18:00:00",
+        "end_time": "20:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "RESIDENT ARTISTS' SUMMER EXHIBITION",
     "url": "https://www.visitsouthbend.com/events/resident-artists-summer-exhibition/",
     "location": "Fire Arts Inc | 305 E. Colfax Av | South Bend, IN 46617",
     "description": "This summer Fire Arts Inc will feature the works of our resident artists. We will be open throughout the Colfax Av construction project. Use LaSalle St to Sycamore St. to make your way to our non-profit. Please stop by to celebrate the Michiana creative arts community. We are open to the public on Wednesdays, Fridays and Saturdays from noon to 5pm and on Tuesdays and Thursdays from noon to 9pm.\n\nCheck out our webpage at\n\n*https://fireartsinc.com/\n\n*Instagram at https://www.instagram.com/fireartsincsb/\n\n*Facebook pages at https://www.facebook.com/profile.php?id=100042133547104",
-    "raw_date": "Aug 21 to Aug 31 12:00 PM – 5:00 PM",
+    "raw_date": "Aug 22 to Aug 31 12:00 PM – 5:00 PM",
     "raw_recurrence": "THIS EVENT CONTINUES FROM JUNE 20TH THRU AUGUST 31ST. WE WELCOME THE PUBLIC DURING OUR BUSINESS HOURS.",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-21",
-        "start_time": "12:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-22",
         "start_time": "12:00:00",
@@ -500,18 +490,41 @@
     ]
   },
   {
-    "title": "SCAVENGER HUNT AT THE MORRIS",
-    "url": "https://www.visitsouthbend.com/events/scavenger-hunt-at-the-morris/",
-    "location": "The Morris Performing Arts Center | 211 N Michigan St | South Bend, IN 46601",
-    "description": "Experience the Morris Performing Arts Center like never before! Join Connect 574 for an interactive scavenger hunt that takes you behind the scenes and throughout the venue as you solve clues and discover fascinating facts about the historic building.\n\nWhether you’re a first-time visitor or a longtime patron, this adventure is a great way to connect with others and learn more about a defining South Bend landmark. Gather your own team or have us create one for you, put your detective skills to the test, and see if you can complete the hunt before time runs out!\n\nWhere: Morris Performing Arts Center\n\nWhen: August 21 at 6:30\n\nEvent Highlights:\n\nNo awkward intros: we’ll introduce you to your team and help break the ice – or if you’d like to sign up with friends, that’s okay too!\n\nGet to know a South Bend landmark: The Morris has been part of our skyline for over 100 years, and has a lot of fascinating history inside.\n\nWelcome hour: We’ll have a cash bar for you to get comfortable when you come in!",
-    "raw_date": "Aug 21 6:30 PM – 8:30 PM",
+    "title": "SEITZ PARK SUMMER CONCERT SERIES",
+    "url": "https://www.visitsouthbend.com/events/seitz-park-summer-concert-series/",
+    "location": "Seitz Park | 316 E. Colfax Ave | South Bend, IN 46617",
+    "description": "Indulge in the vibrant sounds of summer and join us at our FREE Summer Concert Series at Seitz Park! Each Sunday afternoon (3-5pm) from June to September, you’ll have a chance to enjoy live music, fun community events, and rotating food trucks with your friends and family – just bring a blanket or chair and your Sunday afternoon plans are set! The performer lineup is as follows:\n\n- June 7 – DreamTeam Live\n- June 14 – The Motown Machine\n- June 21 – The Resurrection Blues Band\n- June 28 – Happy Campers\n- July 5 – Hipposonics\n- July 12 – Mr. Z\n- July 19 – Zo Keys Band\n- July 26 – Now & Then\n- August 2 – Alligator Blackbird\n- August 9 – Michiana String Collective\n- August 16 – Kennedy Kitchen\n- August 23 – Corey Ronell\n- August 30 – Ray Davis\n- September 6 – Left Side of the Dial\n- September 13 – Memphis Underground\n\nSee you there!",
+    "raw_date": "Aug 23 3:00 PM – 5:00 PM",
     "raw_recurrence": "",
-    "upcoming_dates": [],
+    "upcoming_dates": [
+      "Sunday, August 23",
+      "Sunday, August 30",
+      "Sunday, September 6",
+      "Sunday, September 13"
+    ],
     "schedule_instances": [
       {
-        "date": "2026-08-21",
-        "start_time": "18:30:00",
-        "end_time": "20:30:00",
+        "date": "2026-08-23",
+        "start_time": "15:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-30",
+        "start_time": "15:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-06",
+        "start_time": "15:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-13",
+        "start_time": "15:00:00",
+        "end_time": "17:00:00",
         "all_day": false
       }
     ]
@@ -551,18 +564,207 @@
     ]
   },
   {
-    "title": "SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS - FRIDAY FIREWORKS",
-    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-whitecaps-friday-fireworks/",
-    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
-    "description": "Game Highlight:\n\nFantastic Friday Fireworks\n\nEnjoy a spectacular fireworks show after the game. Gates open at 5:30 p.m.",
-    "raw_date": "Aug 21 7:05 PM",
+    "title": "THE POETRY DEN",
+    "url": "https://www.visitsouthbend.com/events/the-poetry-den/",
+    "location": "Indiana University South Bend Civil Rights Heritage Center | 1040 W Washington St | South Bend, IN 46601",
+    "description": "The Poetry Den isn't just a space; it’s a current, a monthly surge of voices, both sharing and listening, searching for something beautiful.\n\nPam Blair begins each gathering with an open mic, offering a stage to anyone who wants to share. It’s a place where words connect us, where the rhythm of shared experience echoes in every line. Next, a featured artist steps in, bringing a fresh perspective, a new story, and a captivating invitation to be present.\n\nFind your voice at the Poetry Den, where stories connect and new perspectives bloom.\n\nMore information at crhc.iusb.edu.",
+    "raw_date": "Aug 23 6:00 PM – 8:00 PM",
     "raw_recurrence": "",
-    "upcoming_dates": [],
+    "upcoming_dates": [
+      "Sunday, August 23"
+    ],
     "schedule_instances": [
       {
-        "date": "2026-08-21",
-        "start_time": "19:05:00",
-        "end_time": null,
+        "date": "2026-08-23",
+        "start_time": "18:00:00",
+        "end_time": "20:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "TRIVIA AT MANNY'S",
+    "url": "https://www.visitsouthbend.com/events/trivia-at-mannys/",
+    "location": "Manny's | 503 E. Colfax Ave | South Bend, IN 46617",
+    "description": "Manny's is bringing trivia to our weekly rotation of events! We're teaming up with local favorite Indiana Trivia for the best selection of brain teasers and questions this side of the St. Joseph River! Come in to win - bragging rights and gift cards are on the line!",
+    "raw_date": "Aug 26 7:00 PM – 10:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [
+      "Wednesday, August 26",
+      "Wednesday, September 2",
+      "Wednesday, September 9",
+      "Wednesday, September 16",
+      "Wednesday, September 23",
+      "Wednesday, September 30",
+      "Wednesday, October 7",
+      "Wednesday, October 14",
+      "Wednesday, October 21",
+      "Wednesday, October 28",
+      "Wednesday, November 4",
+      "Wednesday, November 11",
+      "Wednesday, November 18",
+      "Wednesday, November 25",
+      "Wednesday, December 2",
+      "Wednesday, December 9",
+      "Wednesday, December 16",
+      "Wednesday, December 23",
+      "Wednesday, December 30",
+      "Wednesday, January 6",
+      "Wednesday, January 13",
+      "Wednesday, January 20",
+      "Wednesday, January 27",
+      "Wednesday, February 3",
+      "Wednesday, February 10"
+    ],
+    "schedule_instances": [
+      {
+        "date": "2026-08-26",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-02",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-09",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-16",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-23",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-30",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-07",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-14",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-21",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-28",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-04",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-11",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-18",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-25",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-12-02",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-12-09",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-12-16",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-12-23",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-12-30",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2027-01-06",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2027-01-13",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2027-01-20",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2027-01-27",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2027-02-03",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2027-02-10",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
         "all_day": false
       }
     ]
