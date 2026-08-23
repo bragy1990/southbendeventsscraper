@@ -35,18 +35,18 @@
     ]
   },
   {
-    "title": "2026 ZOO NIGHTS LIVE",
-    "url": "https://www.visitsouthbend.com/events/2026-zoo-nights-live-2/",
-    "location": "Potawatomi Zoo | 500 S Greenlawn Ave | South Bend, 46615",
-    "description": "Bring your own lawn chair and rock out at this family-friendly event with one of your favorite local bands at Zoo Nights Live. We’ll also have some fun activities and great specials at The Lodge and Farmhouse Cafe. Grab some dinner and enjoy the music in the Picnic Grove with family and friends.\n\nJuly 25: City Sun\n\nAugust 22: UltraFab\n\nTicket Details:\n\nZoo Members: Free!\n\nBecome a Zoo Member Here\n\nGeneral Admission Adults (15-61): $16\n\nGeneral Admission Seniors (62+): $14\n\nGeneral Admission Child (3-14): $14\n\nGeneral Admission Babies (0-2): Free\n\nBuy Admission Tickets Online or At The Gate",
-    "raw_date": "Aug 22 6:30 PM – 9:30 PM",
+    "title": "A NIGHT AT THE INDIANA DINOSAUR MUSEUM",
+    "url": "https://www.visitsouthbend.com/events/a-night-at-the-indiana-dinosaur-museum/",
+    "location": "Indiana Dinosaur Museum | 7102 Lincolnway West | South Bend, IN 46628",
+    "description": "Night at the Indiana Dinosaur Museum\n\nFriday, August 28th beginning at 6:00 pm\n\nFree Screening of Walking with Dinosaurs presented by PBS Michiana in the Movie Theater at entrance of Indiana Dinosaur Museum.\n\n$5 off Indiana Dinosaur Museum ticket for the evening (after screening)\n\nChocolate Cafe open for snacks, drinks and ice cream\n\nParental Advisory: recommended ages 8+ due to realistic scenes of dinosaur attacks.",
+    "raw_date": "Aug 28 6:00 PM – 9:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-22",
-        "start_time": "18:30:00",
-        "end_time": "21:30:00",
+        "date": "2026-08-28",
+        "start_time": "18:00:00",
+        "end_time": "21:00:00",
         "all_day": false
       }
     ]
@@ -86,58 +86,18 @@
     ]
   },
   {
-    "title": "ARMCHAIR TOUR OF SOUTH BEND CEMETERY",
-    "url": "https://www.visitsouthbend.com/events/armchair-tour-of-south-bend-cemetery/",
-    "location": "The History Museum | 808 W Washington St | South Bend, 46601",
-    "description": "Archivist and St. Joseph County Historian Travis Childs will give a virtual tour of the South Bend City Cemetery in The History Museum's auditorium! For anyone who was unable to attend June's cemetery tour, or who just wants a refresher, this is a relaxed way to learn about the history of both the cemetery and the people resting there. Admission is $2.00/person or free for members of The History Museum or Studebaker National Museum. Admission for children 12 and under is also free.\n\nYou can reserve your spot today at https://historymuseumsb.app.ne...",
-    "raw_date": "Aug 22 2:00 PM – 3:30 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-22",
-        "start_time": "14:00:00",
-        "end_time": "15:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "AROUND THE BEND III",
     "url": "https://www.visitsouthbend.com/events/around-the-bend-iii/",
     "location": "South Bend Museum of Art | 120 S Dr Martin Luther King Jr Blvd | South Bend, IN 46601",
     "description": "Around the Bend III celebrates the depth and diversity of our region’s creative community, featuring over 200 works by local artists.",
-    "raw_date": "Aug 22 to Aug 23 12:00 PM – 5:00 PM",
+    "raw_date": "May 23 12:00 PM – 5:00 PM",
     "raw_recurrence": "WEDNESDAY - SUNDAY NOON - 5:00 PM",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-22",
+        "date": "2027-05-23",
         "start_time": "12:00:00",
         "end_time": "17:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-08-23",
-        "start_time": "12:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "FILM—\"BACKROOMS: EVERYTHING MUST GO EDITION\" (2026)",
-    "url": "https://www.visitsouthbend.com/events/film-backrooms-everything-must-go-edition-2026-3/",
-    "location": "DeBartolo Performing Arts Center",
-    "description": "New at the Browning Directed by Kane Parsons With Chiwetel Ejiofor, Renate Reinsve, Mark Duplass Rated R, 126 minutes In English, Portuguese, Turkish, Arabic, and Japanese with English subtitles A strange doorway appears in the basement of a furniture showroom potentially leading to the next generation of Hollywood filmmaking. A summer sensation that many believe finally heralds the gluing of DIY filmmakers to the studio system, this version of Backrooms adds 16 minutes to the cut that brought millions out to see what lurks inside the corpse of brick and mortar capitalism. GET TICKETS",
-    "raw_date": "Aug 22 7:00 PM – 9:10 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-22",
-        "start_time": "19:00:00",
-        "end_time": "21:10:00",
         "all_day": false
       }
     ]
@@ -155,6 +115,25 @@
         "date": "2026-08-23",
         "start_time": "13:00:00",
         "end_time": "15:05:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "FRIDAYS BY THE FOUNTAIN",
+    "url": "https://www.visitsouthbend.com/events/fridays-by-the-fountain/",
+    "location": "Morris Performing Arts Center | 211 N Michigan St | South Bend, IN 46601",
+    "description": "This year Fridays by the Fountain will return to Jon R. Hunt Plaza at the Morris!\nWe will have food trucks, live music, and free community fun!\nHeld on Fridays between 11:45 a.m. and 1:15 p.m., each concert is free of charge. Now in its 26th year, Fridays by the Fountain showcases live entertainment from area blues, jazz, rock, R&B, pop, folk, and Irish music bands.\n\nThis year’s lineup includes:\nJune 5 – RockDogs\nJune 12 – Q sonics\nJune 19 – Southside Denny\nJune 26 – Hey Annie\nJuly 3 – Memphis Underground\nJuly 10 – Don Savoie\nJuly 17 – Resurrection Blues Band\nJuly 24 – Big Daddy Dupree’s Broke & Hungry Blues Band\nJuly 31 – Van Dyke Revue\nAugust 7 – PT and The Cruisers\nAugust 14 – David Hilliker Trio\nAugust 21 – High Life\nAugust 28 – Kennedy’s Kitchen",
+    "raw_date": "Aug 28 11:45 AM – 1:15 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [
+      "Friday, August 28"
+    ],
+    "schedule_instances": [
+      {
+        "date": "2026-08-28",
+        "start_time": "11:45:00",
+        "end_time": "13:15:00",
         "all_day": false
       }
     ]
@@ -312,16 +291,10 @@
     "url": "https://www.visitsouthbend.com/events/notre-dame-shakespeare-festival-macbeth/",
     "location": "Patricia George Decio Theatre, DeBartolo Performing Arts Center",
     "description": "It's Shakespeare like you've never seen before. The 2026 Notre Dame Shakespeare Festival invites you to join us on stage for a hilarious, remarkable, and interactive staging of Macbeth.",
-    "raw_date": "Aug 22 to Aug 31",
+    "raw_date": "Aug 23 to Aug 31",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-22",
-        "start_time": null,
-        "end_time": null,
-        "all_day": true
-      },
       {
         "date": "2026-08-23",
         "start_time": null,
@@ -375,23 +348,6 @@
         "start_time": null,
         "end_time": null,
         "all_day": true
-      }
-    ]
-  },
-  {
-    "title": "PEDIGREE ENTERTAINMENT PRESENTS PURE BREEDS OF COMEDY VOL. 4. GET ON THE BUS",
-    "url": "https://www.visitsouthbend.com/events/pedigree-entertainment-presents-pure-breeds-of-comedy-vol-4-get-on-the-bus/",
-    "location": "Century Center | 120 S. Dr. Martin Luther King Jr. Blvd | South Bend, IN 46601",
-    "description": "A great night of comedy with 5 of the hottest comedians from across the country including the one and only actor & comedian Alex Thomas!",
-    "raw_date": "Aug 22 7:00 PM – 10:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-22",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
       }
     ]
   },
@@ -440,16 +396,10 @@
     "url": "https://www.visitsouthbend.com/events/resident-artists-summer-exhibition/",
     "location": "Fire Arts Inc | 305 E. Colfax Av | South Bend, IN 46617",
     "description": "This summer Fire Arts Inc will feature the works of our resident artists. We will be open throughout the Colfax Av construction project. Use LaSalle St to Sycamore St. to make your way to our non-profit. Please stop by to celebrate the Michiana creative arts community. We are open to the public on Wednesdays, Fridays and Saturdays from noon to 5pm and on Tuesdays and Thursdays from noon to 9pm.\n\nCheck out our webpage at\n\n*https://fireartsinc.com/\n\n*Instagram at https://www.instagram.com/fireartsincsb/\n\n*Facebook pages at https://www.facebook.com/profile.php?id=100042133547104",
-    "raw_date": "Aug 22 to Aug 31 12:00 PM – 5:00 PM",
+    "raw_date": "Aug 23 to Aug 31 12:00 PM – 5:00 PM",
     "raw_recurrence": "THIS EVENT CONTINUES FROM JUNE 20TH THRU AUGUST 31ST. WE WELCOME THE PUBLIC DURING OUR BUSINESS HOURS.",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-22",
-        "start_time": "12:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-23",
         "start_time": "12:00:00",
@@ -507,6 +457,23 @@
     ]
   },
   {
+    "title": "RITUAL BREAKS (EX-MUTEMATH MEMBERS) WSG SUCRÉ AND DEEP AL BRINDLE",
+    "url": "https://www.visitsouthbend.com/events/ritual-breaks-ex-mutemath-members-wsg-sucr%C3%A9-and-deep-al-brindle/",
+    "location": "Stockroom East | 625 E Jefferson Blvd | South Bend, IN 46617",
+    "description": "Ritual Breaks is an indie-electronic, dance-rock outfit consisting of former MUTEMATH bandmates Darren King and Roy Mitchell-Cárdenas and multi-instrumentalist Cory Hale. Inspired by a sonic spectrum of 70s soul, Afrobeat and analog synth-pop, King and Hale began Ritual Breaks in 2025 as an experimental/instrumental collaboration. As the duo began incorporating vocal elements into their project, they enlisted Mitchell-Cárdenas to contribute guitar and bass parts as well. Soon later, he officially joined the band. Ritual Breaks plans to release new music throughout the rest of 2026, culminating with a full-length album in the Fall.\n\nSupporting is indie-pop band Sucré, formed by Eisley co-founder/vocalist Stacy King and her producer husband Darren, and LA-based, fashion-forward, electronic-pop duo Deep AL Brindle.",
+    "raw_date": "Aug 27 7:30 PM – 10:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-27",
+        "start_time": "19:30:00",
+        "end_time": "22:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "SEITZ PARK SUMMER CONCERT SERIES",
     "url": "https://www.visitsouthbend.com/events/seitz-park-summer-concert-series/",
     "location": "Seitz Park | 316 E. Colfax Ave | South Bend, IN 46617",
@@ -547,18 +514,18 @@
     ]
   },
   {
-    "title": "SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS",
-    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-whitecaps-4/",
-    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
-    "description": "Game Highlights:\n\nFallen Heroes Day\n\nJoin us as we honor our fallen heroes and award the Corporal Paul Deguch Community Service Award to a South Bend Cubs player who demonstrates outstanding community service.\n\nSpecial Appearance: Zooperstars\n\nCome see the hilarious inflatable characters like Harry Canary, Tommy Laswordfish, Ken Giraffey, Jr., Nolan Rhino, and many more! The performance combines synchronized dance routines, acrobatics, tricks and comedy for performances that connect with fans of all ages.\n\n\nShowcase Saturday\n\nA night dedicated to a unique theme or special appearance. Gates open at 5:30 p.m.",
-    "raw_date": "Aug 22 7:05 PM",
+    "title": "SOUL FOOD LUNCHEON",
+    "url": "https://www.visitsouthbend.com/events/soul-food-luncheon/",
+    "location": "Charles Martin Youth Center | 802 Lincolnway West | South Bend, IN 46616",
+    "description": "🥘 South Bend Heritage Soul Food Luncheon\n\nFriday, June 27, 2025 | 11:30 AM – 1:00 PM\n\n📍 Charles Martin Youth Center – 802 Lincolnway West, South Bend, IN\n\nJoin us for an afternoon of culture, connection, and community at the South Bend Heritage Soul Food Luncheon—a vibrant celebration of legacy, love, and local impact. This annual gathering brings together neighbors, leaders, and changemakers over a shared meal rooted in tradition and soul.\n\nEnjoy delicious food, powerful stories, and uplifting fellowship, all while supporting the work of South Bend Heritage in affordable housing, neighborhood revitalization, and community engagement.\n\n🎟️ Tickets: $35\n\nLet’s honor our history and feed the future—one plate at a time.",
+    "raw_date": "Aug 28 11:30 AM – 1:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-22",
-        "start_time": "19:05:00",
-        "end_time": null,
+        "date": "2026-08-28",
+        "start_time": "11:30:00",
+        "end_time": "13:00:00",
         "all_day": false
       }
     ]
@@ -581,20 +548,51 @@
     ]
   },
   {
-    "title": "THE POETRY DEN",
-    "url": "https://www.visitsouthbend.com/events/the-poetry-den/",
-    "location": "Indiana University South Bend Civil Rights Heritage Center | 1040 W Washington St | South Bend, IN 46601",
-    "description": "The Poetry Den isn't just a space; it’s a current, a monthly surge of voices, both sharing and listening, searching for something beautiful.\n\nPam Blair begins each gathering with an open mic, offering a stage to anyone who wants to share. It’s a place where words connect us, where the rhythm of shared experience echoes in every line. Next, a featured artist steps in, bringing a fresh perspective, a new story, and a captivating invitation to be present.\n\nFind your voice at the Poetry Den, where stories connect and new perspectives bloom.\n\nMore information at crhc.iusb.edu.",
-    "raw_date": "Aug 23 6:00 PM – 8:00 PM",
+    "title": "SOUTH BEND ROLLER DERBY - CROSSROADS CARNAGE TOURNAMENT",
+    "url": "https://www.visitsouthbend.com/events/south-bend-roller-derby-crossroads-carnage-tournament/",
+    "location": "St. Joseph County 4-H Fairgrounds | 5265 S Ironwood Rd | South Bend, 46614",
+    "description": "South Bend Roller Derby is excited to announce we will be hosting the inaugural Crossroads Carnage Tournament!!\nDate: August 28-30, 2026 (Times above are subject to change)\nVenue: St Joseph County Fairgrounds\n5117 S Ironwood Dr, South Bend, Indiana 46614\nThis tournament will be comprised of 12 sanctioned and/or regulation games on a single track of polished concrete over the 3-day weekend event. 2 games will be played Friday evening, and the remaining 10 will be split between Saturday and Sunday. Each team will be promised 3 games.\nIt is a round-robin style of tournament, with all games being pre-set and assigned beforehand.\n\nTicket Information: https://www.zeffy.com/.../2026-crossroads-carnage-tournament",
+    "raw_date": "Aug 28 4:00 PM – 6:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [
-      "Sunday, August 23"
+      "Friday, August 28",
+      "Saturday, August 29",
+      "Sunday, August 30"
     ],
     "schedule_instances": [
       {
-        "date": "2026-08-23",
-        "start_time": "18:00:00",
-        "end_time": "20:00:00",
+        "date": "2026-08-28",
+        "start_time": "16:00:00",
+        "end_time": "18:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-29",
+        "start_time": "16:00:00",
+        "end_time": "18:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-08-30",
+        "start_time": "16:00:00",
+        "end_time": "18:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "THE CHRISTOPHERS (2025)",
+    "url": "https://www.visitsouthbend.com/events/the-christophers-2025/",
+    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
+    "description": "Select a DateBrowning Cinema New at the Browning Directed by Steven Soderbergh With Ian McKellen, Michaela Coel, James Corden Rated R, 100 minutes, DCP Steven Soderbergh and Ian McKellen, two guys with zillions of credits to their filmographies, team up with the brilliant but lesser seen Miachaela Coel (I May Destroy You, Chewing Gum) in this lively black comedy. A mainstay of the London art scene since his starry breakout in the creative explosion of the 1960's, Julian Sklar (McKellen) has drifted into a cluttered, self-imposed seclusion. His two estranged children (James Corden, Jessica Gunning) enlist Lori (Coel) , a young painter and sometime-forger, to pose as a prospective assistant and gain access to a fabled series of unfinished canvases Julian has buried deep in his home studio, in a deceptive bid to secure an inheritance for themselves.",
+    "raw_date": "Aug 27 9:30 PM – 11:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-27",
+        "start_time": "21:30:00",
+        "end_time": "23:30:00",
         "all_day": false
       }
     ]
