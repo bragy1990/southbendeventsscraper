@@ -233,60 +233,6 @@
     ]
   },
   {
-    "title": "MISHAWAKA MARKET",
-    "url": "https://www.visitsouthbend.com/events/mishawaka-market/",
-    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46545",
-    "description": "Join us for year 8 of the Mishawaka Market!\n\nThe Market runs Sundays from 10 am - 2 pm, May 31st through September 27th. *No Market on June 14th, July 5th & September 6th\n\nThere will be produce, crafts, baked goods, food trucks, kids zone, live music, animal adoptions and more!\n\nStage programming schedule will be posted before the 2026 Market Season starts!\n*No market on June 14th, July 5th, and September 6th.",
-    "raw_date": "Aug 23 10:00 AM – 2:00 PM",
-    "raw_recurrence": "FROM: 10:00 AM TO 02:00 PM",
-    "upcoming_dates": [
-      "Sunday, August 23",
-      "Sunday, August 30",
-      "Sunday, September 6",
-      "Sunday, September 13",
-      "Sunday, September 20",
-      "Sunday, September 27"
-    ],
-    "schedule_instances": [
-      {
-        "date": "2026-08-23",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-08-30",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-06",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-13",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-20",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-27",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH",
     "url": "https://www.visitsouthbend.com/events/notre-dame-shakespeare-festival-macbeth/",
     "location": "Patricia George Decio Theatre, DeBartolo Performing Arts Center",
@@ -481,18 +427,11 @@
     "raw_date": "Aug 23 3:00 PM – 5:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [
-      "Sunday, August 23",
       "Sunday, August 30",
       "Sunday, September 6",
       "Sunday, September 13"
     ],
     "schedule_instances": [
-      {
-        "date": "2026-08-23",
-        "start_time": "15:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-30",
         "start_time": "15:00:00",
@@ -593,6 +532,23 @@
         "date": "2026-08-27",
         "start_time": "21:30:00",
         "end_time": "23:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "THE POETRY DEN",
+    "url": "https://www.visitsouthbend.com/events/the-poetry-den/",
+    "location": "Indiana University South Bend Civil Rights Heritage Center | 1040 W Washington St | South Bend, IN 46601",
+    "description": "The Poetry Den isn't just a space; it’s a current, a monthly surge of voices, both sharing and listening, searching for something beautiful.\n\nPam Blair begins each gathering with an open mic, offering a stage to anyone who wants to share. It’s a place where words connect us, where the rhythm of shared experience echoes in every line. Next, a featured artist steps in, bringing a fresh perspective, a new story, and a captivating invitation to be present.\n\nFind your voice at the Poetry Den, where stories connect and new perspectives bloom.\n\nMore information at crhc.iusb.edu.",
+    "raw_date": "Aug 23 6:00 PM – 8:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-23",
+        "start_time": "18:00:00",
+        "end_time": "20:00:00",
         "all_day": false
       }
     ]
