@@ -52,18 +52,20 @@
     ]
   },
   {
-    "title": "ACTOR’S CUT: LITTLE SHOP OF HORRORS",
-    "url": "https://www.visitsouthbend.com/events/actors-cut-little-shop-of-horrors/",
-    "location": "Morris Performing Arts Center | 211 N Michigan St | South Bend, 46601",
-    "description": "Join us for the Actor’s Cut screening of \"Little Shop of Horrors\" to celebrate its 40th anniversary, hosted by Ellen Greene, the original Audrey from the iconic stage musical and beloved film adaptation. This special event features a rare appearance by Greene, along with exclusive meet-and-greet packages that include signed memorabilia and photo opportunities. \"Little Shop of Horrors,\" directed by Frank Oz, is a cult-classic sci-fi musical comedy about Seymour Krelborn, a nerdy florist who nurtures a man-eating plant named Audrey II. As the plant's fame grows, it demands human sacrifices, putting Seymour’s love for coworker Audrey at risk. Don’t miss this unforgettable experience!",
-    "raw_date": "Aug 23 7:30 PM – 8:30 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
+    "title": "ACOUSTIC FRIDAYS",
+    "url": "https://www.visitsouthbend.com/events/acoustic-fridays/",
+    "location": "Bar Louie Granger | 7320 Aspect Drive | Granger, IN 46530",
+    "description": "Join us on our rooftop for acoustic tunes by local artists every Friday! If the weather is inclement, we will move the fun to our indoor rooftop bar.",
+    "raw_date": "Aug 28 7:00 PM – 10:00 PM",
+    "raw_recurrence": "WEEKLY",
+    "upcoming_dates": [
+      "Friday, August 28"
+    ],
     "schedule_instances": [
       {
-        "date": "2026-08-23",
-        "start_time": "19:30:00",
-        "end_time": "20:30:00",
+        "date": "2026-08-28",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
         "all_day": false
       }
     ]
@@ -86,35 +88,18 @@
     ]
   },
   {
-    "title": "AROUND THE BEND III",
-    "url": "https://www.visitsouthbend.com/events/around-the-bend-iii/",
-    "location": "South Bend Museum of Art | 120 S Dr Martin Luther King Jr Blvd | South Bend, IN 46601",
-    "description": "Around the Bend III celebrates the depth and diversity of our region’s creative community, featuring over 200 works by local artists.",
-    "raw_date": "May 23 12:00 PM – 5:00 PM",
-    "raw_recurrence": "WEDNESDAY - SUNDAY NOON - 5:00 PM",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2027-05-23",
-        "start_time": "12:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "FILM: \"FANTASIA\" (1940)",
-    "url": "https://www.visitsouthbend.com/events/film-fantasia-1940/",
-    "location": "DeBartolo Performing Arts Center",
-    "description": "Professor Pfinklepfunder's $1 Sunday Films Directed by James Algar, Samuel Armstrong, Ford Beebe Jr., et al. With Leopold Stokowski, Deems Taylor Rated G, 124 minutes An anomaly in the canon of Disney animated features, Fantasia holds a special place in many hearts and memories for its vibrant colors and, at times, plotless abstract pieces. Composed of eight different segments featuring classical music, the anthology of animated shorts act as their own music videos of sorts—an odd way for Mickey Mouse to star in his first feature film, but a timeless example copied by many on how animation and music can be woven into inspiration. GET TICKETS *Sponsored by the Meg and John P. Brogan Endowment for Classic Cinema.",
-    "raw_date": "Aug 23 1:00 PM – 3:05 PM",
+    "title": "FLICK ON THE FIELD: \"RUDY\"",
+    "url": "https://www.visitsouthbend.com/events/flick-on-the-field-rudy/",
+    "location": "Notre Dame Stadium | 2010 Moose Kraus Cir | Notre Dame, 46556",
+    "description": "Flick on the Field returns when the movie “Rudy” will be shown on the video board at Notre Dame Stadium. The 1993 film, starring Sean Astin, tells the story of Daniel “Rudy” Ruettiger, who follows his dream to play football at the University of Notre Dame despite significant obstacles. Flick on the Field is free and open to the public. Parking is also free in the lot immediately south of the stadium. Faculty, staff, and visitors should enter the stadium through Gate D, on the southwest side, starting at 8:30 p.m. The two-hour movie begins at 9 p.m. The movie will be captioned. Faculty, staff, and visitors will be seated in the stadium bowl in sections 26 to 34. Seating will be general admission. Notre Dame, Saint Mary’s College and Holy Cross College students, with student IDs, will be allowed to sit on the football field to watch the movie. Fans can make cashless purchases at concession stands in the concourses. Expect to find movie-type offerings such as popcorn, candy, water and fountain drinks available for purchase. Outside food and drink will not be allowed. University staff will search the bags of anyone entering the stadium. While the clear-bag policy for football games will not be in place, backpacks, duffels and other large bags are discouraged. For more information, including where to dine, shop and explore before Flick on The Field, visit experience.nd.edu/.",
+    "raw_date": "Aug 28 9:00 PM – 11:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-23",
-        "start_time": "13:00:00",
-        "end_time": "15:05:00",
+        "date": "2026-08-28",
+        "start_time": "21:00:00",
+        "end_time": "23:00:00",
         "all_day": false
       }
     ]
@@ -160,6 +145,23 @@
         "date": "2026-09-10",
         "start_time": "18:00:00",
         "end_time": "20:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "I LOVE BOOSTERS (2026)",
+    "url": "https://www.visitsouthbend.com/events/i-love-boosters-2026-2/",
+    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
+    "description": "Browning Cinema New at the Browning Directed by Boots Riley With Keke Palmer, LaKeith Stanfield, Demi Moore Rated R, 113 minutes, DCP In English and Mandarin with English subtitles The latest film written and directed by Boots Riley, one of the most singular and creative brains in the business, explodes with such abundant color and trenchant commentary with such innovation that it feels like Jacques Tati is back on the playground, leading us all to a good time while at school. The plot follows a crew of professional shoplifters led by Corvette (Keke Palmer) who take aim at an ultracutthroat and ultrarich and ultrapowerful fashion maven. The boosting is basically a community service, and its warmth and hilarity has enough energy to power a movement.",
+    "raw_date": "Aug 28 9:30 PM – 10:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-28",
+        "start_time": "21:30:00",
+        "end_time": "22:30:00",
         "all_day": false
       }
     ]
@@ -237,16 +239,10 @@
     "url": "https://www.visitsouthbend.com/events/notre-dame-shakespeare-festival-macbeth/",
     "location": "Patricia George Decio Theatre, DeBartolo Performing Arts Center",
     "description": "It's Shakespeare like you've never seen before. The 2026 Notre Dame Shakespeare Festival invites you to join us on stage for a hilarious, remarkable, and interactive staging of Macbeth.",
-    "raw_date": "Aug 23 to Aug 31",
+    "raw_date": "Aug 24 to Aug 31",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-23",
-        "start_time": null,
-        "end_time": null,
-        "all_day": true
-      },
       {
         "date": "2026-08-24",
         "start_time": null,
@@ -298,60 +294,14 @@
     ]
   },
   {
-    "title": "POTAWATOMI PARK SUMMER CONCERT SERIES",
-    "url": "https://www.visitsouthbend.com/events/potawatomi-park-summer-concert-series/",
-    "location": "Potawatomi Park | 500 S. Greenlawn Ave | South Bend, IN 46615",
-    "description": "Indulge in the vibrant sounds of summer and join us at our FREE Summer Concert Series at Potawatomi Park! Each Sunday evening (6-8pm) from June to September, you’ll have a chance to enjoy live music, fun community nights, and rotating food trucks with your friends and family – just bring a blanket or chair and your Sunday evening plans are set! The performer lineup is as follows:\n\n- June 14 – Mr. Z\n- June 21 – PT and the Cruisers\n- June 28 – Kennedy Kitchen\n- July 5 – Brian Mach\n- July 12 – Michiana String Collective\n- July 19 – Hipposonics\n- July 26 – Left Side of the Dial\n- August 2 – The Resurrection Blues Band\n- August 9 – Now & Then\n- August 16 – SBSO Summer Concert Series\n- August 23 – Paul Zulas\n- August 30 – Soul Discovery\n- September 6 – Los Luna Latin Band\n- September 13 – Van Dyke Revue\n\nSee you there!\n\nPLEASE NOTE: newly constructed parking spaces are now available at Potawatomi Park on Wall Street – please utilize these spaces and refrain from parking in the neighborhoods as much as possible.",
-    "raw_date": "Aug 23 6:00 PM – 8:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [
-      "Sunday, August 23",
-      "Sunday, August 30",
-      "Sunday, September 6",
-      "Sunday, September 13"
-    ],
-    "schedule_instances": [
-      {
-        "date": "2026-08-23",
-        "start_time": "18:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-08-30",
-        "start_time": "18:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-06",
-        "start_time": "18:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-13",
-        "start_time": "18:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "RESIDENT ARTISTS' SUMMER EXHIBITION",
     "url": "https://www.visitsouthbend.com/events/resident-artists-summer-exhibition/",
     "location": "Fire Arts Inc | 305 E. Colfax Av | South Bend, IN 46617",
     "description": "This summer Fire Arts Inc will feature the works of our resident artists. We will be open throughout the Colfax Av construction project. Use LaSalle St to Sycamore St. to make your way to our non-profit. Please stop by to celebrate the Michiana creative arts community. We are open to the public on Wednesdays, Fridays and Saturdays from noon to 5pm and on Tuesdays and Thursdays from noon to 9pm.\n\nCheck out our webpage at\n\n*https://fireartsinc.com/\n\n*Instagram at https://www.instagram.com/fireartsincsb/\n\n*Facebook pages at https://www.facebook.com/profile.php?id=100042133547104",
-    "raw_date": "Aug 23 to Aug 31 12:00 PM – 5:00 PM",
+    "raw_date": "Aug 24 to Aug 31 12:00 PM – 5:00 PM",
     "raw_recurrence": "THIS EVENT CONTINUES FROM JUNE 20TH THRU AUGUST 31ST. WE WELCOME THE PUBLIC DURING OUR BUSINESS HOURS.",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-23",
-        "start_time": "12:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-24",
         "start_time": "12:00:00",
@@ -420,34 +370,18 @@
     ]
   },
   {
-    "title": "SEITZ PARK SUMMER CONCERT SERIES",
-    "url": "https://www.visitsouthbend.com/events/seitz-park-summer-concert-series/",
-    "location": "Seitz Park | 316 E. Colfax Ave | South Bend, IN 46617",
-    "description": "Indulge in the vibrant sounds of summer and join us at our FREE Summer Concert Series at Seitz Park! Each Sunday afternoon (3-5pm) from June to September, you’ll have a chance to enjoy live music, fun community events, and rotating food trucks with your friends and family – just bring a blanket or chair and your Sunday afternoon plans are set! The performer lineup is as follows:\n\n- June 7 – DreamTeam Live\n- June 14 – The Motown Machine\n- June 21 – The Resurrection Blues Band\n- June 28 – Happy Campers\n- July 5 – Hipposonics\n- July 12 – Mr. Z\n- July 19 – Zo Keys Band\n- July 26 – Now & Then\n- August 2 – Alligator Blackbird\n- August 9 – Michiana String Collective\n- August 16 – Kennedy Kitchen\n- August 23 – Corey Ronell\n- August 30 – Ray Davis\n- September 6 – Left Side of the Dial\n- September 13 – Memphis Underground\n\nSee you there!",
-    "raw_date": "Aug 23 3:00 PM – 5:00 PM",
+    "title": "SECOND HAND NEWS: FLEETWOOD MAC TRIBUTE",
+    "url": "https://www.visitsouthbend.com/events/second-hand-news-fleetwood-mac-tribute/",
+    "location": "Stockroom East | 625 E Jefferson Blvd | South Bend, IN 46617",
+    "description": "Second Hand News recreates the experience of seeing Fleetwood Mac in their heyday.\n\nMade up of veteran Chicago musicians (Melissa Brausch, Josh Chicoine, Mike Holtz, Dan Ingenthron, Mike Vanier, and Lindsay Weinberg), the band features spot-on vocal harmonies, careful attention to detail, and electric live shows. Through the talents of these seasoned performers, the spirit and musicianship of Fleetwood Mac come to life on stage.\n\nAudiences are energized by dynamic deliveries of favorites from the band's extensive catalog of hits as well as deep cuts beloved by superfans. The fun these musicians have recreating these classic songs together is infectious, and will bring you to your feet in shared appreciation for one of the greatest bands of all time.",
+    "raw_date": "Aug 28 7:30 PM – 10:30 PM",
     "raw_recurrence": "",
-    "upcoming_dates": [
-      "Sunday, August 30",
-      "Sunday, September 6",
-      "Sunday, September 13"
-    ],
+    "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-30",
-        "start_time": "15:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-06",
-        "start_time": "15:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-13",
-        "start_time": "15:00:00",
-        "end_time": "17:00:00",
+        "date": "2026-08-28",
+        "start_time": "19:30:00",
+        "end_time": "22:30:00",
         "all_day": false
       }
     ]
@@ -470,18 +404,18 @@
     ]
   },
   {
-    "title": "SOUTH BEND CUBS VS. WEST MICHIGAN WHITECAPS",
-    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-west-michigan-whitecaps-5/",
-    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
-    "description": "Game Highlights:\n\nLos Cabritos Maldichos Day\n\nContinuing the celebration of Latin culture, the South Bend Cubs will become the Los Cabritos Maldichos for select games this season. Join us for special pre-game performance celebrating Latino culture, Latin music, popular Latino food items and more.\n\nSunday Funday\n\nArrive early for a special autograph session with the South Bend Cubs players and play catch on the field before the game. Gates open at 12:30 p.m\n\nPromotion:\n\nThe first 1,000 kids 12 and under through the gates will receive a CareSource backpack.\n\nShowcase Saturday\n\nA night dedicated to a unique theme or special appearance. Gates open at 5:30 p.m.",
-    "raw_date": "Aug 23 2:05 PM",
-    "raw_recurrence": "",
+    "title": "SOUTH BEND FARMERS MARKET CAR SHOW",
+    "url": "https://www.visitsouthbend.com/events/south-bend-farmers-market-car-show/",
+    "location": "South Bend Farmers Market | 1105 Northside Blvd | SouthBend , 46615",
+    "description": "Car show, DJ, food, prizes",
+    "raw_date": "Aug 29 10:00 AM – 2:00 PM",
+    "raw_recurrence": "ANNUAL",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-23",
-        "start_time": "14:05:00",
-        "end_time": null,
+        "date": "2026-08-29",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
         "all_day": false
       }
     ]
@@ -520,6 +454,57 @@
     ]
   },
   {
+    "title": "STEPHEN HARVEY TRIO",
+    "url": "https://www.visitsouthbend.com/events/stephen-harvey-trio/",
+    "location": "Merrimans' Playhouse | 401 E. Colfax Ave., Suite 135 | South Bend, IN 46617",
+    "description": "Stephen Philip Harvey is an award-winning, Philadelphia-based saxophonist, composer, arranger, bandleader, and educator whose work bridges jazz traditions with the pulse of contemporary Black American music. Balancing narrative-driven composition with expressive improvisation, Harvey creates music distinguished by its cinematic scope, rhythmic vitality, and melodic accessibility. Trumpeter and composer Sean Jones describes his work as “a beautiful pairing of the complex and the elementary.” His 2026 trio album, Golden Hour, centers the spontaneous interplay of SPH+2 and the immediacy of the chordless format. The recording builds upon the trio’s first release, Library Card (2024), which Take Effect Reviews praised for Harvey’s “fluid” and “soaring” saxophone playing, calling him a “saxophone wizard” whose music offers a “spontaneous and inimitable version of jazz that few could replicate.”\n\nStephen Philip Harvey - sax/compositions\n\nSteve Arnold - bass\n\nJordon Stanley - drums",
+    "raw_date": "Aug 28 7:30 PM – 9:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-28",
+        "start_time": "19:30:00",
+        "end_time": "21:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "SWING FOR THE FENCES II",
+    "url": "https://www.visitsouthbend.com/events/swing-for-the-fences-ii/",
+    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
+    "description": "Grindtime Indiana Pro Wrestling f.k.a. Revolution Championship Wrestling returns to Four Winds Field on Saturday August 29, 2026 as we present SWINGING FOR THE FENCES 2!\n\nGates open at 5pm with a Meet and Greet with all the wrestlers and bell time is 7pm!\n\nSpecial guests announced thus far are former AEW Superstar and member of the Jurassic Express MARKO STUNT and former WWE and AEW Superstar PARKER BOUDREAUX!!!\nMore special guests will be announced soon!",
+    "raw_date": "Aug 29",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-29",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
+      }
+    ]
+  },
+  {
+    "title": "THE CHRISTOPHERS (2025)",
+    "url": "https://www.visitsouthbend.com/events/the-christophers-2025-2/",
+    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
+    "description": "Select a DateBrowning Cinema New at the Browning Directed by Steven Soderbergh With Ian McKellen, Michaela Coel, James Corden Rated R, 100 minutes, DCP Steven Soderbergh and Ian McKellen, two guys with zillions of credits to their filmographies, team up with the brilliant but lesser seen Miachaela Coel (I May Destroy You, Chewing Gum) in this lively black comedy. A mainstay of the London art scene since his starry breakout in the creative explosion of the 1960's, Julian Sklar (McKellen) has drifted into a cluttered, self-imposed seclusion. His two estranged children (James Corden, Jessica Gunning) enlist Lori (Coel) , a young painter and sometime-forger, to pose as a prospective assistant and gain access to a fabled series of unfinished canvases Julian has buried deep in his home studio, in a deceptive bid to secure an inheritance for themselves.",
+    "raw_date": "Aug 28 6:30 PM – 8:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-28",
+        "start_time": "18:30:00",
+        "end_time": "20:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "THE CHRISTOPHERS (2025)",
     "url": "https://www.visitsouthbend.com/events/the-christophers-2025/",
     "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
@@ -532,23 +517,6 @@
         "date": "2026-08-27",
         "start_time": "21:30:00",
         "end_time": "23:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "THE POETRY DEN",
-    "url": "https://www.visitsouthbend.com/events/the-poetry-den/",
-    "location": "Indiana University South Bend Civil Rights Heritage Center | 1040 W Washington St | South Bend, IN 46601",
-    "description": "The Poetry Den isn't just a space; it’s a current, a monthly surge of voices, both sharing and listening, searching for something beautiful.\n\nPam Blair begins each gathering with an open mic, offering a stage to anyone who wants to share. It’s a place where words connect us, where the rhythm of shared experience echoes in every line. Next, a featured artist steps in, bringing a fresh perspective, a new story, and a captivating invitation to be present.\n\nFind your voice at the Poetry Den, where stories connect and new perspectives bloom.\n\nMore information at crhc.iusb.edu.",
-    "raw_date": "Aug 23 6:00 PM – 8:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-23",
-        "start_time": "18:00:00",
-        "end_time": "20:00:00",
         "all_day": false
       }
     ]
@@ -736,23 +704,6 @@
         "date": "2027-02-10",
         "start_time": "19:00:00",
         "end_time": "22:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "YOGA AMONG THE PINES",
-    "url": "https://www.visitsouthbend.com/events/yoga-among-the-pines-2/",
-    "location": "St. Patrick's County Parks | 50651 Laurel Road | South Bend, IN 46637",
-    "description": "Renew yourself amidst the shade of the pine trees as you enjoy yoga in the refreshing outdoors. Each session is geared towards ages 16+. Please bring your own mat, water, and towel. In case of rain or lightning, we will meet under the Pfeil Pavilion or in the White Barn Harvest Room. Registration and payment required by Thursday, August 20.",
-    "raw_date": "Aug 23 3:00 PM – 4:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-23",
-        "start_time": "15:00:00",
-        "end_time": "16:00:00",
         "all_day": false
       }
     ]
