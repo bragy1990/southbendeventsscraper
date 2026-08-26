@@ -88,23 +88,6 @@
     ]
   },
   {
-    "title": "FLICK ON THE FIELD: \"RUDY\"",
-    "url": "https://www.visitsouthbend.com/events/flick-on-the-field-rudy/",
-    "location": "Notre Dame Stadium | 2010 Moose Kraus Cir | Notre Dame, 46556",
-    "description": "Flick on the Field returns when the movie “Rudy” will be shown on the video board at Notre Dame Stadium. The 1993 film, starring Sean Astin, tells the story of Daniel “Rudy” Ruettiger, who follows his dream to play football at the University of Notre Dame despite significant obstacles. Flick on the Field is free and open to the public. Parking is also free in the lot immediately south of the stadium. Faculty, staff, and visitors should enter the stadium through Gate D, on the southwest side, starting at 8:30 p.m. The two-hour movie begins at 9 p.m. The movie will be captioned. Faculty, staff, and visitors will be seated in the stadium bowl in sections 26 to 34. Seating will be general admission. Notre Dame, Saint Mary’s College and Holy Cross College students, with student IDs, will be allowed to sit on the football field to watch the movie. Fans can make cashless purchases at concession stands in the concourses. Expect to find movie-type offerings such as popcorn, candy, water and fountain drinks available for purchase. Outside food and drink will not be allowed. University staff will search the bags of anyone entering the stadium. While the clear-bag policy for football games will not be in place, backpacks, duffels and other large bags are discouraged. For more information, including where to dine, shop and explore before Flick on The Field, visit experience.nd.edu/.",
-    "raw_date": "Aug 28 9:00 PM – 11:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-28",
-        "start_time": "21:00:00",
-        "end_time": "23:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "FRIDAYS BY THE FOUNTAIN",
     "url": "https://www.visitsouthbend.com/events/fridays-by-the-fountain/",
     "location": "Morris Performing Arts Center | 211 N Michigan St | South Bend, IN 46601",
@@ -119,6 +102,23 @@
         "date": "2026-08-28",
         "start_time": "11:45:00",
         "end_time": "13:15:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "HOWARD PARK ARTISAN MARKET",
+    "url": "https://www.visitsouthbend.com/events/howard-park-artisan-market/",
+    "location": "Howard Park | 219 S St Louis Blvd | South Bend, IN 46617",
+    "description": "An Artisan market featuring local artists and craft vendors selling their products. Conveniently located on the grounds of Howard Park providing access to food and beverages for a family friendly event.",
+    "raw_date": "Aug 29 10:00 AM – 4:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-29",
+        "start_time": "10:00:00",
+        "end_time": "16:00:00",
         "all_day": false
       }
     ]
@@ -184,23 +184,6 @@
     ]
   },
   {
-    "title": "LECTURE—\"AMERICAN ODYSSEY: WHAT AN ANCIENT STORY REVEALS ABOUT OUR DIVIDED SOULS\"",
-    "url": "https://www.visitsouthbend.com/events/lecture-american-odyssey-what-an-ancient-story-reveals-about-our-divided-souls/",
-    "location": "University of Notre Dame",
-    "description": "The ancient story of The Odyssey addresses fundamentally human questions of home, ambition, vengeance, and mercy. Yet as political philosopher Patrick Deneen reveals, it is also the most American of classical texts. Like Odysseus, the American identity is defined by a core tension: a simultaneous commitment to the comfort of home and the drive to leave it behind. In this compelling presentation, Deneen uses the lens of Western inheritance to unpack the divided soul of the American character. Arriving alongside the U. S. semi-quincentennial, his book offers a timely look at how an ancient Greek epic continues to shape our greatest stories, our cultural politics, and our national identity today. We will begin our evening with Prof. Deneen with book sales and signing at 6:15 p.m. ET in the atrium of the Eck Visitors Center. Following the conclusion of Prof. Deneen's remarks at 8:15 p.m., all event attendees are welcome to join us for a light reception. Patrick J. Deneen holds a B. A. in English literature and a Ph. D. in political science from Rutgers University. From 1995–97 he was speechwriter and special advisor to the director of the United States Information Agency. From 1997–2005 he was assistant professor of politics at Princeton University. From 2005–2012 he was the Tsakopoulos-Kounalakis Associate Professor of Government at Georgetown University, before joining the faculty of Notre Dame in fall 2012. He is the author and editor of several books and numerous articles and reviews and has delivered invited lectures around the world. Deneen was awarded the APSA's Leo Strauss Award for Best Dissertation in Political Theory in 1995, and an honorable mention for the APSA's Best First Book Award in 2000. He has been awarded research fellowships from Princeton University, Earhart Foundation, and the Institute for Advanced Study at the University of Virginia. His teaching and writing interests focus on the history of political thought, American political thought, liberalism, conservatism, and constitutionalism. His widely-discussed 2018 book, Why Liberalism Failed, has been translated into over twenty languages and was praised by former President Barack Obama. Originally published at constudies.nd.edu.",
-    "raw_date": "Aug 27 7:00 PM – 8:15 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-27",
-        "start_time": "19:00:00",
-        "end_time": "20:15:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "LEGENDARY KARAOKE",
     "url": "https://www.visitsouthbend.com/events/legendary-karaoke/",
     "location": "Legends of Notre Dame | 100 Legends | Notre Dame, 46556",
@@ -235,20 +218,31 @@
     ]
   },
   {
-    "title": "NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH",
-    "url": "https://www.visitsouthbend.com/events/notre-dame-shakespeare-festival-macbeth/",
-    "location": "Patricia George Decio Theatre, DeBartolo Performing Arts Center",
-    "description": "It's Shakespeare like you've never seen before. The 2026 Notre Dame Shakespeare Festival invites you to join us on stage for a hilarious, remarkable, and interactive staging of Macbeth.",
-    "raw_date": "Aug 25 to Aug 31",
+    "title": "NATURE JOURNALING CLUB",
+    "url": "https://www.visitsouthbend.com/events/nature-journaling-club/",
+    "location": "St. Patrick's County Park: Berta Shelter | 50651 Laurel Road | South Bend, IN 46637",
+    "description": "Join a naturalist in a creative space for adults (18+) who love exploring the outdoors and capturing its beauty through art and words. This beginner-friendly club is all about slowing down, observing nature, and connecting with other nature lovers. Bring your favorite journal, curiosity, and a sense of wonder – we’ll provide inspiration using writing prompts and tips on how to use mixed media such as pencil, paint, photography, and collage.",
+    "raw_date": "Aug 29 10:00 AM – 1:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-25",
-        "start_time": null,
-        "end_time": null,
-        "all_day": true
-      },
+        "date": "2026-08-29",
+        "start_time": "10:00:00",
+        "end_time": "13:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH",
+    "url": "https://www.visitsouthbend.com/events/notre-dame-shakespeare-festival-macbeth/",
+    "location": "Patricia George Decio Theatre, DeBartolo Performing Arts Center",
+    "description": "It's Shakespeare like you've never seen before. The 2026 Notre Dame Shakespeare Festival invites you to join us on stage for a hilarious, remarkable, and interactive staging of Macbeth.",
+    "raw_date": "Aug 26 to Aug 31",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
       {
         "date": "2026-08-26",
         "start_time": null,
@@ -292,16 +286,10 @@
     "url": "https://www.visitsouthbend.com/events/resident-artists-summer-exhibition/",
     "location": "Fire Arts Inc | 305 E. Colfax Av | South Bend, IN 46617",
     "description": "This summer Fire Arts Inc will feature the works of our resident artists. We will be open throughout the Colfax Av construction project. Use LaSalle St to Sycamore St. to make your way to our non-profit. Please stop by to celebrate the Michiana creative arts community. We are open to the public on Wednesdays, Fridays and Saturdays from noon to 5pm and on Tuesdays and Thursdays from noon to 9pm.\n\nCheck out our webpage at\n\n*https://fireartsinc.com/\n\n*Instagram at https://www.instagram.com/fireartsincsb/\n\n*Facebook pages at https://www.facebook.com/profile.php?id=100042133547104",
-    "raw_date": "Aug 25 to Aug 31 12:00 PM – 5:00 PM",
+    "raw_date": "Aug 26 to Aug 31 12:00 PM – 5:00 PM",
     "raw_recurrence": "THIS EVENT CONTINUES FROM JUNE 20TH THRU AUGUST 31ST. WE WELCOME THE PUBLIC DURING OUR BUSINESS HOURS.",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-25",
-        "start_time": "12:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-26",
         "start_time": "12:00:00",
