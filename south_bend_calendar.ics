@@ -23,8 +23,36 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:54b1455da23b11da1ed59a9e@visitsouthbend.com
+DTSTAMP:20260828T013826Z
+SUMMARY:14TH ANNUAL MICHIANA RENAISSANCE FESTIVAL
+LOCATION:St. Joseph County Fairgrounds | 5117 South Ironwood Drive | South 
+ Bend\, IN 46614
+DESCRIPTION:Step into the Past at the Michiana Renaissance Festival!\n\nExp
+ erience a weekend of wonder\, excitement\, and history the whole family w
+ ill enjoy! Explore four immersive reenactment areas\, indulge in deliciou
+ s food and drink\, and be amazed by thrilling falconry and jousting tourn
+ aments. With six stages of nonstop entertainment\, interactive shows\, an
+ d a bustling marketplace full of unique vendors\, there's truly something
+  for everyone. Don't miss the adventure - join us at the Michiana Renaiss
+ ance Festival!\n\nURLs:\nTickets: https://go.evvnt.com/3496731-0?pid=6556
+ \nFacebook: https://go.evvnt.com/3496731-2?pid=6556\n\nDate and Time: Sat
+ urday\, August 29th - Sunday\, August 30 from 10 am - 6 pm eastern\n\nVen
+ ue details: St. Joseph County Fairgrounds\, 5117 South Ironwood Drive\, S
+ outh Bend\, Indiana\, 46614\, United States\n\nPrices:\nGeneral Admission
+ : USD 15.00\nSenior: USD 12.00\nKids 6-12: USD 7.00\nActive and Retired M
+ ilitary (Free): USD 0.00\nChildren 5 and Under (Free): USD 0.00\n\nMore I
+ nfo: https://www.visitsouthbend.com/events/14th-annual-michiana-renaissan
+ ce-festival/
+URL:https://www.visitsouthbend.com/events/14th-annual-michiana-renaissance-
+ festival/
+DTSTART;TZID=America/Indiana/Indianapolis:20260829T100000
+DTEND;TZID=America/Indiana/Indianapolis:20260829T180000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:3665a54841618a6d3e2c1c36@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:2026 WORLD DANCE SHOWDOWN
 LOCATION:Century Center Convention Center | 120 S Doctor M.L.K. Jr Blvd | S
  outh Bend\, 46601
@@ -50,7 +78,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dc37976fa770af4425d18ab3@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:2026 WORLD DANCE SHOWDOWN
 LOCATION:Century Center Convention Center | 120 S Doctor M.L.K. Jr Blvd | S
  outh Bend\, 46601
@@ -76,7 +104,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:43c10525ab23be932d5cb638@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:2026 WORLD DANCE SHOWDOWN
 LOCATION:Century Center Convention Center | 120 S Doctor M.L.K. Jr Blvd | S
  outh Bend\, 46601
@@ -102,7 +130,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:edb423d096af50f377548664@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:2026 WORLD DANCE SHOWDOWN
 LOCATION:Century Center Convention Center | 120 S Doctor M.L.K. Jr Blvd | S
  outh Bend\, 46601
@@ -128,7 +156,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d0e12bc485e68adcdead77c0@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:A NIGHT AT THE INDIANA DINOSAUR MUSEUM
 LOCATION:Indiana Dinosaur Museum | 7102 Lincolnway West | South Bend\, IN 4
  6628
@@ -148,7 +176,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:10444e186673667c012f33fc@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:ACOUSTIC FRIDAYS
 LOCATION:Bar Louie Granger | 7320 Aspect Drive | Granger\, IN 46530
 DESCRIPTION:Join us on our rooftop for acoustic tunes by local artists ever
@@ -161,30 +189,40 @@ DTEND;TZID=America/Indiana/Indianapolis:20260828T220000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:43364cbce1b6ce79e989d15a@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:ARMAN SANGALANG QUINTET
-LOCATION:Merrimans' Playhouse | 401 E. Colfax\, Suite 135 | South Bend\, IN
-  46617
-DESCRIPTION:The Arman Sangalang Quartet is an ensemble that balances intric
- ate compositions rooted in jazz with genre-bending improvisation to creat
- e a landscape of modern textures and soundscapes. The quartet features Ch
- icago saxophonist\, Arman Sangalang. He is joined by an all-star rhythm s
- ection of the Midwest’s finest improvisors: Dave Miller (guitar)\, Kati
- e Ernst (Bass)\, and Devin Drobka (drums). Primarily based in Chicago\, t
- he group is excited to embark on a Midwest tour to celebrate the release 
- of Sangalang’s debut album\, “Quartet” on Calligram Records.\n\nArm
- an Sangalang – saxophone\n\nDave Miller – guitar\n\nKatie Ernst - bas
- s\n\nDevin Drobka – drums\n\nMore Info: https://www.visitsouthbend.com/
- events/arman-sangalang-quintet/
-URL:https://www.visitsouthbend.com/events/arman-sangalang-quintet/
-DTSTART;TZID=America/Indiana/Indianapolis:20260826T193000
-DTEND;TZID=America/Indiana/Indianapolis:20260826T210000
+UID:2f7cc0d1c14f31718c093d62@visitsouthbend.com
+DTSTAMP:20260828T013826Z
+SUMMARY:FLICK ON THE FIELD: "RUDY"
+LOCATION:Notre Dame Stadium | Moose Krause Circle | Notre Dame\, IN 46556
+DESCRIPTION:Catch the free Flick on the Field on Friday\, August 28\, when 
+ the movie “Rudy” will be shown on the video board at Notre Dame Stadi
+ um\, in collaboration with Visit South Bend Mishawaka. The 1993 film\, st
+ arring Sean Astin\, tells the story of Daniel “Rudy” Ruettiger\, who 
+ follows his dream to play football at the University of Notre Dame despit
+ e significant obstacles. Scenes throughout the movie were filmed on campu
+ s from 1992-1993\, including during halftime of Notre Dame’s 1992 game 
+ against Boston College.\n\n\nTime: Doors open at 8:30 p.m. Movie begins a
+ t 9 p.m. The movie will be captioned.\n\n\nCost: Free\n\n\nWho: Open to t
+ he public. Notre Dame faculty\, staff and visitors will be seated in the 
+ stadium bowl in sections 26-34. Seating will be general admission. Notre 
+ Dame\, Saint Mary’s College and Holy Cross College students\, with stud
+ ent IDs\, will be allowed to sit on the football field to watch the movie
+ .\n\n\nLocation: Gate D\, southwest side of Notre Dame Stadium\n\n\nParki
+ ng: Free and available south of Notre Dame Stadium\n\n\nStadium Policies:
+  No outside food or drink allowed. Cashless purchases of snacks are avail
+ able at concession stands in the concourses. Expect to find movie-type of
+ ferings such as popcorn\, candy\, water and fountain drinks available for
+  purchase. All bags will be searched upon entry of the stadium\, however 
+ the clear-bag policy for football games will not be in place. Backpacks\,
+  duffels and other large bags are discouraged.\n\nMore Info: https://www.
+ visitsouthbend.com/events/flick-on-the-field-rudy-3/
+URL:https://www.visitsouthbend.com/events/flick-on-the-field-rudy-3/
+DTSTART;TZID=America/Indiana/Indianapolis:20260828T203000
+DTEND;TZID=America/Indiana/Indianapolis:20260828T230000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:34bdd457c21c0cb01cc18ecd@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:FRIDAYS BY THE FOUNTAIN
 LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, I
  N 46601
@@ -208,7 +246,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:491bdc6d50bc8659edb4b67a@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:HOWARD PARK ARTISAN MARKET
 LOCATION:Howard Park | 219 S St Louis Blvd | South Bend\, IN 46617
 DESCRIPTION:An Artisan market featuring local artists and craft vendors sel
@@ -221,52 +259,8 @@ DTEND;TZID=America/Indiana/Indianapolis:20260829T160000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7823573ce480a5905a279f3f@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:HOWARD PARK SUMMER CONCERT SERIES
-LOCATION:Howard Park | 219 S St Louis Blvd | South Bend\, IN 46617
-DESCRIPTION:Indulge in the vibrant sounds of summer and join us at our FREE
-  Summer Concert Series at Howard Park! Every other Thursday evening (6-8p
- m) from June to September\, you’ll have a chance to enjoy live music\, 
- fun community nights\, and rotating food trucks with your friends and fam
- ily – just bring a blanket or chair and your Thursday evening plans are
-  set! The performer lineup is as follows:\n\n- June 4 – PT and the Crui
- sers\n- June 18 – The Erly\n- July 2 – Equipo Elevado\n- July 16 – 
- Why Not Both\n- July 30 – Jazz Assemblage\n- August 13 – Happy Camper
- s\n- August 27 – The Resurrection Blues Band\n- September 10 – Hippos
- onics\n\nSee you there!\n\nMore Info: https://www.visitsouthbend.com/even
- ts/howard-park-summer-concert-series/
-URL:https://www.visitsouthbend.com/events/howard-park-summer-concert-series
- /
-DTSTART;TZID=America/Indiana/Indianapolis:20260827T180000
-DTEND;TZID=America/Indiana/Indianapolis:20260827T200000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:1a745c5791b8397755e52237@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:HOWARD PARK SUMMER CONCERT SERIES
-LOCATION:Howard Park | 219 S St Louis Blvd | South Bend\, IN 46617
-DESCRIPTION:Indulge in the vibrant sounds of summer and join us at our FREE
-  Summer Concert Series at Howard Park! Every other Thursday evening (6-8p
- m) from June to September\, you’ll have a chance to enjoy live music\, 
- fun community nights\, and rotating food trucks with your friends and fam
- ily – just bring a blanket or chair and your Thursday evening plans are
-  set! The performer lineup is as follows:\n\n- June 4 – PT and the Crui
- sers\n- June 18 – The Erly\n- July 2 – Equipo Elevado\n- July 16 – 
- Why Not Both\n- July 30 – Jazz Assemblage\n- August 13 – Happy Camper
- s\n- August 27 – The Resurrection Blues Band\n- September 10 – Hippos
- onics\n\nSee you there!\n\nMore Info: https://www.visitsouthbend.com/even
- ts/howard-park-summer-concert-series/
-URL:https://www.visitsouthbend.com/events/howard-park-summer-concert-series
- /
-DTSTART;TZID=America/Indiana/Indianapolis:20260910T180000
-DTEND;TZID=America/Indiana/Indianapolis:20260910T200000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:60b1144a2161c681c5e19a82@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:I LOVE BOOSTERS (2026)
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
@@ -288,81 +282,26 @@ DTEND;TZID=America/Indiana/Indianapolis:20260828T223000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8fa64e371227db18e083da6c@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:I LOVE BOOSTERS (2026)
-LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
- tre Dame\, 46556
-DESCRIPTION:Browning Cinema New at the Browning Directed by Boots Riley Wit
- h Keke Palmer\, LaKeith Stanfield\, Demi Moore Rated R\, 113 minutes\, DC
- P In English and Mandarin with English subtitles The latest film written 
- and directed by Boots Riley\, one of the most singular and creative brain
- s in the business\, explodes with such abundant color and trenchant comme
- ntary with such innovation that it feels like Jacques Tati is back on the
-  playground\, leading us all to a good time while at school. The plot fol
- lows a crew of professional shoplifters led by Corvette (Keke Palmer) who
-  take aim at an ultracutthroat and ultrarich and ultrapowerful fashion ma
- ven. The boosting is basically a community service\, and its warmth and h
- ilarity has enough energy to power a movement.\n\nMore Info: https://www.
- visitsouthbend.com/events/i-love-boosters-2026/
-URL:https://www.visitsouthbend.com/events/i-love-boosters-2026/
-DTSTART;TZID=America/Indiana/Indianapolis:20260827T183000
-DTEND;TZID=America/Indiana/Indianapolis:20260827T203000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:4a3eec50757b8e2d1b5dade7@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:LEGENDARY KARAOKE
-LOCATION:Legends of Notre Dame | 100 Legends | Notre Dame\, 46556
-DESCRIPTION:Keep the party going with Legendary Karaoke\, hosted by Wyatt M
- arshall.\n\nGrab the mic\, show off your favorite hits! Enjoy great food 
- and drinks available for purchase. Ages 21 and over. Doors open at 4:30 p
- .m.\n\nMore Info: https://www.visitsouthbend.com/events/legendary-karaoke
- /
-URL:https://www.visitsouthbend.com/events/legendary-karaoke/
-DTSTART;TZID=America/Indiana/Indianapolis:20260826T170000
-DTEND;TZID=America/Indiana/Indianapolis:20260826T210000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:3766613f7463991f000987a8@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:MERRIMANS’ PLAYHOUSE@THE RACLIN MURPHY MUSEUM – ABRAM COLLIER N
- ONET
-LOCATION:Raclin Murphy Museum of Art | 100 Moose Krause Circle | Notre Dame
- \, IN 46556
-DESCRIPTION:Spend a summer evening grooving to jazz on the Hiler Family Ter
- race at the Raclin Murphy Museum. Bring your own blanket or lawn chair (l
- imited seating will be available on the Terrace) and settle in for some g
- reat music. Ivan’s Cafe will have food available for purchase\, and a c
- ash bar will be available.\n\nThe Abram Collier Nonet is a collective of 
- some of Chicago’s finest musicians\, headed by vocalist and baritone sa
- xophonist Abram Collier. In addition to Collier\, the group includes: Mil
- lie Ahearn (trumpet)\, Neil Carson (alto saxophone/woodwinds)\, Roy McGra
- th (tenor saxophone/woodwinds)\, Pete Charles Isaac (trombone)\, Shanth G
- opalswamy (guitar)\, Aval Stanley (piano)\, Jesse Lear (bass)\, and Joel 
- Baer (drums).\n\nThe Abram Collier Nonet performs a variety of original\,
-  ensemble-exclusive arrangements\, ranging from jazz standards and repert
- oire from the Great American Songbook to selections from modern pop music
-  and video game soundtracks adapted for jazz ensemble. In addition\, the 
- group plays original compositions by Collier himself\, traversing folk\, 
- traditional and modern pop\, and jazz. Heavily inspired by singers such a
- s Frank Sinatra\, Michael Bublé\, Nat “King” Cole\, and Harry Connic
- k Jr.\, Collier uses the nonet as a vehicle to breathe new life into time
- less music while bringing a traditional sound to a new\, younger audience
- .\n\nMuseum galleries will be open so you can explore the work of art pai
- red with the performance.\n\nMore Info: https://www.visitsouthbend.com/ev
- ents/merrimans-playhouse-the-raclin-murphy-museum-abram-collier-nonet/
-URL:https://www.visitsouthbend.com/events/merrimans-playhouse-the-raclin-mu
- rphy-museum-abram-collier-nonet/
-DTSTART;TZID=America/Indiana/Indianapolis:20260827T173000
-DTEND;TZID=America/Indiana/Indianapolis:20260827T192500
+UID:a08611af8c1fed09339ad0de@visitsouthbend.com
+DTSTAMP:20260828T013826Z
+SUMMARY:KAMM ISLAND PARROT HEAD FEST
+LOCATION:Kamm Island | 600 W Front St | Mishawaka\, IN 46544
+DESCRIPTION:Calling ALL Parrot Heads!!\nThe Landsharks Band (Jimmy Buffett 
+ Concert Experience) is one of the most popular tribute acts in the world.
+  We are bringing them to Kamm Island on August 29th for the FIRST EVER Pa
+ rrot Head Fest!!!!\n\nTickets are available now: https://www.eventim.us/e
+ vent/parrot-head-fest-2026/696493\n\nFull bar and food trucks will be ava
+ ilable.\n\nAges | 21+\nGates | 7pm\n\nTickets prices:\n$10 before August 
+ 15\n$15 from August 1 5 - August 28\n$20 day of the event\n\nMore Info: h
+ ttps://www.visitsouthbend.com/events/kamm-island-parrot-head-fest/
+URL:https://www.visitsouthbend.com/events/kamm-island-parrot-head-fest/
+DTSTART;TZID=America/Indiana/Indianapolis:20260829T150000
+DTEND;TZID=America/Indiana/Indianapolis:20260829T210000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c37484f2886a4984f36c1f00@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:NATURE JOURNALING CLUB
 LOCATION:St. Patrick's County Park: Berta Shelter | 50651 Laurel Road | Sou
  th Bend\, IN 46637
@@ -380,23 +319,33 @@ DTEND;TZID=America/Indiana/Indianapolis:20260829T130000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2df275db4ff1f5bccb0090e6@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
-LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
-DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
- Dame Shakespeare Festival invites you to join us on stage for a hilarious
- \, remarkable\, and interactive staging of Macbeth.\n\nMore Info: https:/
- /www.visitsouthbend.com/events/notre-dame-shakespeare-festival-macbeth/
-URL:https://www.visitsouthbend.com/events/notre-dame-shakespeare-festival-m
- acbeth/
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
+UID:af760464630f183d60952760@visitsouthbend.com
+DTSTAMP:20260828T013826Z
+SUMMARY:NEW CARLISLE BEER AND WINE WALK
+DESCRIPTION:Join us for our 13th Annual Beer & Wine Walk as we celebrate th
+ e nation's Semiquincentennial- Cheers to 250 Years! The event is on Satur
+ day\, August 29th from 5 - 9 pm eastern. Sample beer and wine at several 
+ local restaurants and businesses in New Carlisle and Hudson Lake. This is
+  a 21 and over event. Tickets are $35.00 for drinkers and $15 for designa
+ ted drivers. If you purchase tickets ahead of time\, we are offering an a
+ dvanced wristband pick up day on Wednesday\, August 26th at Studebaker Br
+ ewing Co. (110 E. Michigan St.) from 6 - 8 pm eastern or pick up the day 
+ of the event at the New Carlisle Fire Station (204 E. Michigan St.) start
+ ing at 4:30 pm until 8:00 pm eastern. You can also purchase tickets the d
+ ay of. You will need to show your ID for wristband. You will receive a sa
+ mple cup with your wristband. Trolleys will be available for transportati
+ on. The event is a fundraiser for Discover New Carlisle\, Inc. for their 
+ facade grant program and other beautification projects. E-mail admin@disc
+ overnewcarlisle.com with any questions.\n\nMore Info: https://www.visitso
+ uthbend.com/events/new-carlisle-beer-and-wine-walk/
+URL:https://www.visitsouthbend.com/events/new-carlisle-beer-and-wine-walk/
+DTSTART;TZID=America/Indiana/Indianapolis:20260829T170000
+DTEND;TZID=America/Indiana/Indianapolis:20260829T210000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fbfeb646e5c4fae0b1081d87@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -411,7 +360,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f64547b09ded55c436186351@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -426,7 +375,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:663b69217522d9af7e36e2ec@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -441,7 +390,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:008eda1543654f494046a3d1@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -456,7 +405,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ee2858db100a2cb1dd8d0f97@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH
 LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center
 DESCRIPTION:It's Shakespeare like you've never seen before. The 2026 Notre 
@@ -470,29 +419,8 @@ DTEND;VALUE=DATE:20260901
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8e40a926614334fce89a98cc@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
-LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
-DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
- t artists. We will be open throughout the Colfax Av construction project.
-  Use LaSalle St to Sycamore St. to make your way to our non-profit. Pleas
- e stop by to celebrate the Michiana creative arts community. We are open 
- to the public on Wednesdays\, Fridays and Saturdays from noon to 5pm and 
- on Tuesdays and Thursdays from noon to 9pm.\n\nCheck out our webpage at\n
- \n*https://fireartsinc.com/\n\n*Instagram at https://www.instagram.com/fi
- reartsincsb/\n\n*Facebook pages at https://www.facebook.com/profile.php?i
- d=100042133547104\n\nMore Info: https://www.visitsouthbend.com/events/res
- ident-artists-summer-exhibition/
-URL:https://www.visitsouthbend.com/events/resident-artists-summer-exhibitio
- n/
-DTSTART;TZID=America/Indiana/Indianapolis:20260826T120000
-DTEND;TZID=America/Indiana/Indianapolis:20260826T170000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:ad1f51d1e5d17080464bc3f9@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -513,7 +441,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7c1d4bd23304c625db335cdc@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -534,7 +462,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0d6d4bc1e894e04fa0abe006@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -555,7 +483,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bca2786b7cb3f10c84dd6b3e@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -576,7 +504,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1b221d28bb6d3e977529c10b@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:RESIDENT ARTISTS' SUMMER EXHIBITION
 LOCATION:Fire Arts Inc | 305 E. Colfax Av | South Bend\, IN 46617
 DESCRIPTION:This summer Fire Arts Inc will feature the works of our residen
@@ -597,7 +525,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e28a1ef23d2318fc5f2d9635@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:RITUAL BREAKS (EX-MUTEMATH MEMBERS) WSG SUCRÉ AND DEEP AL BRINDLE
 LOCATION:Stockroom East | 625 E Jefferson Blvd | South Bend\, IN 46617
 DESCRIPTION:Ritual Breaks is an indie-electronic\, dance-rock outfit consis
@@ -622,7 +550,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cb4e8a8bdc7744281488018f@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:SECOND HAND NEWS: FLEETWOOD MAC TRIBUTE
 LOCATION:Stockroom East | 625 E Jefferson Blvd | South Bend\, IN 46617
 DESCRIPTION:Second Hand News recreates the experience of seeing Fleetwood M
@@ -645,7 +573,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d89bd62b5cd462302d54d53@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:SOUL FOOD LUNCHEON
 LOCATION:Charles Martin Youth Center | 802 Lincolnway West | South Bend\, I
  N 46616
@@ -668,7 +596,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4be7408f1a3831fbd8f5e97d@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:SOUTH BEND FARMERS MARKET CAR SHOW
 LOCATION:South Bend Farmers Market | 1105 Northside Blvd | SouthBend \, 466
  15
@@ -682,7 +610,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:df038526252c7fc626a1c42f@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:SOUTH BEND ROLLER DERBY - CROSSROADS CARNAGE TOURNAMENT
 LOCATION:St. Joseph County 4-H Fairgrounds | 5265 S Ironwood Rd | South Ben
  d\, 46614
@@ -706,7 +634,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:15149d2aa358208d43553538@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:SOUTH BEND ROLLER DERBY - CROSSROADS CARNAGE TOURNAMENT
 LOCATION:St. Joseph County 4-H Fairgrounds | 5265 S Ironwood Rd | South Ben
  d\, 46614
@@ -730,7 +658,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9e3eef2190f1c5a68799adfe@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:SOUTH BEND ROLLER DERBY - CROSSROADS CARNAGE TOURNAMENT
 LOCATION:St. Joseph County 4-H Fairgrounds | 5265 S Ironwood Rd | South Ben
  d\, 46614
@@ -754,7 +682,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9974517e1d90ae73d05f3705@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:STEPHEN HARVEY TRIO
 LOCATION:Merrimans' Playhouse | 401 E. Colfax Ave.\, Suite 135 | South Bend
  \, IN 46617
@@ -781,7 +709,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cca536b495897c4b087cd163@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:SWING FOR THE FENCES II
 LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
 DESCRIPTION:Grindtime Indiana Pro Wrestling f.k.a. Revolution Championship 
@@ -799,7 +727,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a7d606ff56133a85d8edfa8b@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:THE CHRISTOPHERS (2025)
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
@@ -824,7 +752,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:af681c0b336702bdbec1b121@visitsouthbend.com
-DTSTAMP:20260826T081021Z
+DTSTAMP:20260828T013826Z
 SUMMARY:THE CHRISTOPHERS (2025)
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
@@ -845,381 +773,6 @@ DESCRIPTION:Select a DateBrowning Cinema New at the Browning Directed by St
 URL:https://www.visitsouthbend.com/events/the-christophers-2025/
 DTSTART;TZID=America/Indiana/Indianapolis:20260827T213000
 DTEND;TZID=America/Indiana/Indianapolis:20260827T233000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:65b2846c709b12ba2645fb73@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20260826T190000
-DTEND;TZID=America/Indiana/Indianapolis:20260826T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:947462ec35099c94c7fc627a@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20260902T190000
-DTEND;TZID=America/Indiana/Indianapolis:20260902T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2b83fb960d72e286f108d297@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20260909T190000
-DTEND;TZID=America/Indiana/Indianapolis:20260909T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:dab1ba3afe036fdb62bda857@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20260916T190000
-DTEND;TZID=America/Indiana/Indianapolis:20260916T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:5cc30cef80281ef9a8e0fc73@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20260923T190000
-DTEND;TZID=America/Indiana/Indianapolis:20260923T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:7b99b693c969487fad10d80f@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20260930T190000
-DTEND;TZID=America/Indiana/Indianapolis:20260930T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:98defc5a3847e962979208a0@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20261007T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261007T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:94e6009f74c0c61b1cefd854@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20261014T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261014T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:d4a81c23e0b962dfb2e085d1@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20261021T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261021T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:e96d9edc4432a46eb6e219a2@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20261028T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261028T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:6e8f537adcae53206bae673a@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20261104T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261104T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:b7a800a6bf54576021f84953@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20261111T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261111T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:7882810e01bc7d6428742d06@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20261118T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261118T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:7cae3d9e49352745ad791e76@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20261125T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261125T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:8e6a2e9416c4cd1a6fc15a89@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20261202T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261202T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:0d74fe1f82c4ff3ad7d393ee@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20261209T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261209T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:f75afe69168a5bd64e4d229d@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20261216T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261216T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:203f48aca3853a3040a8b822@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20261223T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261223T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:02aef08c42139ff43a56bc0f@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20261230T190000
-DTEND;TZID=America/Indiana/Indianapolis:20261230T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:f47f62b89f1a0ff7b97d14d1@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20270106T190000
-DTEND;TZID=America/Indiana/Indianapolis:20270106T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:91c8da1baa6f9684ccd4fbb0@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20270113T190000
-DTEND;TZID=America/Indiana/Indianapolis:20270113T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:b659ad842dfb7fa97d5f1ea1@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20270120T190000
-DTEND;TZID=America/Indiana/Indianapolis:20270120T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:e1b9a3ce3977af4ae725735d@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20270127T190000
-DTEND;TZID=America/Indiana/Indianapolis:20270127T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:8e762714a599c5b61ca5d3aa@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20270203T190000
-DTEND;TZID=America/Indiana/Indianapolis:20270203T220000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:df881d972f4b19ad5366bbd3@visitsouthbend.com
-DTSTAMP:20260826T081021Z
-SUMMARY:TRIVIA AT MANNY'S
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
- 're teaming up with local favorite Indiana Trivia for the best selection 
- of brain teasers and questions this side of the St. Joseph River! Come in
-  to win - bragging rights and gift cards are on the line!\n\nMore Info: h
- ttps://www.visitsouthbend.com/events/trivia-at-mannys/
-URL:https://www.visitsouthbend.com/events/trivia-at-mannys/
-DTSTART;TZID=America/Indiana/Indianapolis:20270210T190000
-DTEND;TZID=America/Indiana/Indianapolis:20270210T220000
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

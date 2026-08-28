@@ -1,5 +1,22 @@
 [
   {
+    "title": "14TH ANNUAL MICHIANA RENAISSANCE FESTIVAL",
+    "url": "https://www.visitsouthbend.com/events/14th-annual-michiana-renaissance-festival/",
+    "location": "St. Joseph County Fairgrounds | 5117 South Ironwood Drive | South Bend, IN 46614",
+    "description": "Step into the Past at the Michiana Renaissance Festival!\n\nExperience a weekend of wonder, excitement, and history the whole family will enjoy! Explore four immersive reenactment areas, indulge in delicious food and drink, and be amazed by thrilling falconry and jousting tournaments. With six stages of nonstop entertainment, interactive shows, and a bustling marketplace full of unique vendors, there's truly something for everyone. Don't miss the adventure - join us at the Michiana Renaissance Festival!\n\nURLs:\nTickets: https://go.evvnt.com/3496731-0?pid=6556\nFacebook: https://go.evvnt.com/3496731-2?pid=6556\n\nDate and Time: Saturday, August 29th - Sunday, August 30 from 10 am - 6 pm eastern\n\nVenue details: St. Joseph County Fairgrounds, 5117 South Ironwood Drive, South Bend, Indiana, 46614, United States\n\nPrices:\nGeneral Admission: USD 15.00\nSenior: USD 12.00\nKids 6-12: USD 7.00\nActive and Retired Military (Free): USD 0.00\nChildren 5 and Under (Free): USD 0.00",
+    "raw_date": "Aug 29 10:00 AM – 6:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-29",
+        "start_time": "10:00:00",
+        "end_time": "18:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "2026 WORLD DANCE SHOWDOWN",
     "url": "https://www.visitsouthbend.com/events/2026-world-dance-showdown/",
     "location": "Century Center Convention Center | 120 S Doctor M.L.K. Jr Blvd | South Bend, 46601",
@@ -71,18 +88,28 @@
     ]
   },
   {
-    "title": "ARMAN SANGALANG QUINTET",
-    "url": "https://www.visitsouthbend.com/events/arman-sangalang-quintet/",
-    "location": "Merrimans' Playhouse | 401 E. Colfax, Suite 135 | South Bend, IN 46617",
-    "description": "The Arman Sangalang Quartet is an ensemble that balances intricate compositions rooted in jazz with genre-bending improvisation to create a landscape of modern textures and soundscapes. The quartet features Chicago saxophonist, Arman Sangalang. He is joined by an all-star rhythm section of the Midwest’s finest improvisors: Dave Miller (guitar), Katie Ernst (Bass), and Devin Drobka (drums). Primarily based in Chicago, the group is excited to embark on a Midwest tour to celebrate the release of Sangalang’s debut album, “Quartet” on Calligram Records.\n\nArman Sangalang – saxophone\n\nDave Miller – guitar\n\nKatie Ernst - bass\n\nDevin Drobka – drums",
-    "raw_date": "Aug 26 7:30 PM – 9:00 PM",
+    "title": "PAGE NOT FOUND",
+    "url": "https://www.visitsouthbend.com/events/flick-on-the-field-rudy-2/",
+    "location": "",
+    "description": "Home\n404\nPAGE NOT FOUND\n\nIt seems the information you are looking for is no longer available. Please click here to return to the homepage, or choose a desired link from below.",
+    "raw_date": "",
     "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": []
+  },
+  {
+    "title": "FLICK ON THE FIELD: \"RUDY\"",
+    "url": "https://www.visitsouthbend.com/events/flick-on-the-field-rudy-3/",
+    "location": "Notre Dame Stadium | Moose Krause Circle | Notre Dame, IN 46556",
+    "description": "Catch the free Flick on the Field on Friday, August 28, when the movie “Rudy” will be shown on the video board at Notre Dame Stadium, in collaboration with Visit South Bend Mishawaka. The 1993 film, starring Sean Astin, tells the story of Daniel “Rudy” Ruettiger, who follows his dream to play football at the University of Notre Dame despite significant obstacles. Scenes throughout the movie were filmed on campus from 1992-1993, including during halftime of Notre Dame’s 1992 game against Boston College.\n\n\nTime: Doors open at 8:30 p.m. Movie begins at 9 p.m. The movie will be captioned.\n\n\nCost: Free\n\n\nWho: Open to the public. Notre Dame faculty, staff and visitors will be seated in the stadium bowl in sections 26-34. Seating will be general admission. Notre Dame, Saint Mary’s College and Holy Cross College students, with student IDs, will be allowed to sit on the football field to watch the movie.\n\n\nLocation: Gate D, southwest side of Notre Dame Stadium\n\n\nParking: Free and available south of Notre Dame Stadium\n\n\nStadium Policies: No outside food or drink allowed. Cashless purchases of snacks are available at concession stands in the concourses. Expect to find movie-type offerings such as popcorn, candy, water and fountain drinks available for purchase. All bags will be searched upon entry of the stadium, however the clear-bag policy for football games will not be in place. Backpacks, duffels and other large bags are discouraged.",
+    "raw_date": "Aug 28 8:30 PM – 11:00 PM",
+    "raw_recurrence": "FROM: 08:30 PM TO 11:00 PM",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-26",
-        "start_time": "19:30:00",
-        "end_time": "21:00:00",
+        "date": "2026-08-28",
+        "start_time": "20:30:00",
+        "end_time": "23:00:00",
         "all_day": false
       }
     ]
@@ -124,32 +151,6 @@
     ]
   },
   {
-    "title": "HOWARD PARK SUMMER CONCERT SERIES",
-    "url": "https://www.visitsouthbend.com/events/howard-park-summer-concert-series/",
-    "location": "Howard Park | 219 S St Louis Blvd | South Bend, IN 46617",
-    "description": "Indulge in the vibrant sounds of summer and join us at our FREE Summer Concert Series at Howard Park! Every other Thursday evening (6-8pm) from June to September, you’ll have a chance to enjoy live music, fun community nights, and rotating food trucks with your friends and family – just bring a blanket or chair and your Thursday evening plans are set! The performer lineup is as follows:\n\n- June 4 – PT and the Cruisers\n- June 18 – The Erly\n- July 2 – Equipo Elevado\n- July 16 – Why Not Both\n- July 30 – Jazz Assemblage\n- August 13 – Happy Campers\n- August 27 – The Resurrection Blues Band\n- September 10 – Hipposonics\n\nSee you there!",
-    "raw_date": "Aug 27 6:00 PM – 8:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [
-      "Thursday, August 27",
-      "Thursday, September 10"
-    ],
-    "schedule_instances": [
-      {
-        "date": "2026-08-27",
-        "start_time": "18:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-10",
-        "start_time": "18:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "I LOVE BOOSTERS (2026)",
     "url": "https://www.visitsouthbend.com/events/i-love-boosters-2026-2/",
     "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
@@ -167,52 +168,18 @@
     ]
   },
   {
-    "title": "I LOVE BOOSTERS (2026)",
-    "url": "https://www.visitsouthbend.com/events/i-love-boosters-2026/",
-    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
-    "description": "Browning Cinema New at the Browning Directed by Boots Riley With Keke Palmer, LaKeith Stanfield, Demi Moore Rated R, 113 minutes, DCP In English and Mandarin with English subtitles The latest film written and directed by Boots Riley, one of the most singular and creative brains in the business, explodes with such abundant color and trenchant commentary with such innovation that it feels like Jacques Tati is back on the playground, leading us all to a good time while at school. The plot follows a crew of professional shoplifters led by Corvette (Keke Palmer) who take aim at an ultracutthroat and ultrarich and ultrapowerful fashion maven. The boosting is basically a community service, and its warmth and hilarity has enough energy to power a movement.",
-    "raw_date": "Aug 27 6:30 PM – 8:30 PM",
+    "title": "KAMM ISLAND PARROT HEAD FEST",
+    "url": "https://www.visitsouthbend.com/events/kamm-island-parrot-head-fest/",
+    "location": "Kamm Island | 600 W Front St | Mishawaka, IN 46544",
+    "description": "Calling ALL Parrot Heads!!\nThe Landsharks Band (Jimmy Buffett Concert Experience) is one of the most popular tribute acts in the world. We are bringing them to Kamm Island on August 29th for the FIRST EVER Parrot Head Fest!!!!\n\nTickets are available now: https://www.eventim.us/event/parrot-head-fest-2026/696493\n\nFull bar and food trucks will be available.\n\nAges | 21+\nGates | 7pm\n\nTickets prices:\n$10 before August 15\n$15 from August 1 5 - August 28\n$20 day of the event",
+    "raw_date": "Aug 29 3:00 PM – 9:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-27",
-        "start_time": "18:30:00",
-        "end_time": "20:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "LEGENDARY KARAOKE",
-    "url": "https://www.visitsouthbend.com/events/legendary-karaoke/",
-    "location": "Legends of Notre Dame | 100 Legends | Notre Dame, 46556",
-    "description": "Keep the party going with Legendary Karaoke, hosted by Wyatt Marshall.\n\nGrab the mic, show off your favorite hits! Enjoy great food and drinks available for purchase. Ages 21 and over. Doors open at 4:30 p.m.",
-    "raw_date": "Aug 26 5:00 PM – 9:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-26",
-        "start_time": "17:00:00",
+        "date": "2026-08-29",
+        "start_time": "15:00:00",
         "end_time": "21:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "MERRIMANS’ PLAYHOUSE@THE RACLIN MURPHY MUSEUM – ABRAM COLLIER NONET",
-    "url": "https://www.visitsouthbend.com/events/merrimans-playhouse-the-raclin-murphy-museum-abram-collier-nonet/",
-    "location": "Raclin Murphy Museum of Art | 100 Moose Krause Circle | Notre Dame, IN 46556",
-    "description": "Spend a summer evening grooving to jazz on the Hiler Family Terrace at the Raclin Murphy Museum. Bring your own blanket or lawn chair (limited seating will be available on the Terrace) and settle in for some great music. Ivan’s Cafe will have food available for purchase, and a cash bar will be available.\n\nThe Abram Collier Nonet is a collective of some of Chicago’s finest musicians, headed by vocalist and baritone saxophonist Abram Collier. In addition to Collier, the group includes: Millie Ahearn (trumpet), Neil Carson (alto saxophone/woodwinds), Roy McGrath (tenor saxophone/woodwinds), Pete Charles Isaac (trombone), Shanth Gopalswamy (guitar), Aval Stanley (piano), Jesse Lear (bass), and Joel Baer (drums).\n\nThe Abram Collier Nonet performs a variety of original, ensemble-exclusive arrangements, ranging from jazz standards and repertoire from the Great American Songbook to selections from modern pop music and video game soundtracks adapted for jazz ensemble. In addition, the group plays original compositions by Collier himself, traversing folk, traditional and modern pop, and jazz. Heavily inspired by singers such as Frank Sinatra, Michael Bublé, Nat “King” Cole, and Harry Connick Jr., Collier uses the nonet as a vehicle to breathe new life into timeless music while bringing a traditional sound to a new, younger audience.\n\nMuseum galleries will be open so you can explore the work of art paired with the performance.",
-    "raw_date": "Aug 27 5:30 PM – 7:25 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-27",
-        "start_time": "17:30:00",
-        "end_time": "19:25:00",
         "all_day": false
       }
     ]
@@ -235,20 +202,31 @@
     ]
   },
   {
-    "title": "NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH",
-    "url": "https://www.visitsouthbend.com/events/notre-dame-shakespeare-festival-macbeth/",
-    "location": "Patricia George Decio Theatre, DeBartolo Performing Arts Center",
-    "description": "It's Shakespeare like you've never seen before. The 2026 Notre Dame Shakespeare Festival invites you to join us on stage for a hilarious, remarkable, and interactive staging of Macbeth.",
-    "raw_date": "Aug 26 to Aug 31",
+    "title": "NEW CARLISLE BEER AND WINE WALK",
+    "url": "https://www.visitsouthbend.com/events/new-carlisle-beer-and-wine-walk/",
+    "location": "",
+    "description": "Join us for our 13th Annual Beer & Wine Walk as we celebrate the nation's Semiquincentennial- Cheers to 250 Years! The event is on Saturday, August 29th from 5 - 9 pm eastern. Sample beer and wine at several local restaurants and businesses in New Carlisle and Hudson Lake. This is a 21 and over event. Tickets are $35.00 for drinkers and $15 for designated drivers. If you purchase tickets ahead of time, we are offering an advanced wristband pick up day on Wednesday, August 26th at Studebaker Brewing Co. (110 E. Michigan St.) from 6 - 8 pm eastern or pick up the day of the event at the New Carlisle Fire Station (204 E. Michigan St.) starting at 4:30 pm until 8:00 pm eastern. You can also purchase tickets the day of. You will need to show your ID for wristband. You will receive a sample cup with your wristband. Trolleys will be available for transportation. The event is a fundraiser for Discover New Carlisle, Inc. for their facade grant program and other beautification projects. E-mail admin@discovernewcarlisle.com with any questions.",
+    "raw_date": "Aug 29 5:00 PM – 9:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-26",
-        "start_time": null,
-        "end_time": null,
-        "all_day": true
-      },
+        "date": "2026-08-29",
+        "start_time": "17:00:00",
+        "end_time": "21:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH",
+    "url": "https://www.visitsouthbend.com/events/notre-dame-shakespeare-festival-macbeth/",
+    "location": "Patricia George Decio Theatre, DeBartolo Performing Arts Center",
+    "description": "It's Shakespeare like you've never seen before. The 2026 Notre Dame Shakespeare Festival invites you to join us on stage for a hilarious, remarkable, and interactive staging of Macbeth.",
+    "raw_date": "Aug 27 to Aug 31",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
       {
         "date": "2026-08-27",
         "start_time": null,
@@ -286,16 +264,10 @@
     "url": "https://www.visitsouthbend.com/events/resident-artists-summer-exhibition/",
     "location": "Fire Arts Inc | 305 E. Colfax Av | South Bend, IN 46617",
     "description": "This summer Fire Arts Inc will feature the works of our resident artists. We will be open throughout the Colfax Av construction project. Use LaSalle St to Sycamore St. to make your way to our non-profit. Please stop by to celebrate the Michiana creative arts community. We are open to the public on Wednesdays, Fridays and Saturdays from noon to 5pm and on Tuesdays and Thursdays from noon to 9pm.\n\nCheck out our webpage at\n\n*https://fireartsinc.com/\n\n*Instagram at https://www.instagram.com/fireartsincsb/\n\n*Facebook pages at https://www.facebook.com/profile.php?id=100042133547104",
-    "raw_date": "Aug 26 to Aug 31 12:00 PM – 5:00 PM",
+    "raw_date": "Aug 27 to Aug 31 12:00 PM – 5:00 PM",
     "raw_recurrence": "THIS EVENT CONTINUES FROM JUNE 20TH THRU AUGUST 31ST. WE WELCOME THE PUBLIC DURING OUR BUSINESS HOURS.",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-26",
-        "start_time": "12:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-27",
         "start_time": "12:00:00",
@@ -493,193 +465,6 @@
         "date": "2026-08-27",
         "start_time": "21:30:00",
         "end_time": "23:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "TRIVIA AT MANNY'S",
-    "url": "https://www.visitsouthbend.com/events/trivia-at-mannys/",
-    "location": "Manny's | 503 E. Colfax Ave | South Bend, IN 46617",
-    "description": "Manny's is bringing trivia to our weekly rotation of events! We're teaming up with local favorite Indiana Trivia for the best selection of brain teasers and questions this side of the St. Joseph River! Come in to win - bragging rights and gift cards are on the line!",
-    "raw_date": "Aug 26 7:00 PM – 10:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [
-      "Wednesday, August 26",
-      "Wednesday, September 2",
-      "Wednesday, September 9",
-      "Wednesday, September 16",
-      "Wednesday, September 23",
-      "Wednesday, September 30",
-      "Wednesday, October 7",
-      "Wednesday, October 14",
-      "Wednesday, October 21",
-      "Wednesday, October 28",
-      "Wednesday, November 4",
-      "Wednesday, November 11",
-      "Wednesday, November 18",
-      "Wednesday, November 25",
-      "Wednesday, December 2",
-      "Wednesday, December 9",
-      "Wednesday, December 16",
-      "Wednesday, December 23",
-      "Wednesday, December 30",
-      "Wednesday, January 6",
-      "Wednesday, January 13",
-      "Wednesday, January 20",
-      "Wednesday, January 27",
-      "Wednesday, February 3",
-      "Wednesday, February 10"
-    ],
-    "schedule_instances": [
-      {
-        "date": "2026-08-26",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-02",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-09",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-16",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-23",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-30",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-10-07",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-10-14",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-10-21",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-10-28",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-11-04",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-11-11",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-11-18",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-11-25",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-12-02",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-12-09",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-12-16",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-12-23",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-12-30",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2027-01-06",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2027-01-13",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2027-01-20",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2027-01-27",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2027-02-03",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2027-02-10",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
         "all_day": false
       }
     ]
