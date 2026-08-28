@@ -21,16 +21,10 @@
     "url": "https://www.visitsouthbend.com/events/2026-world-dance-showdown/",
     "location": "Century Center Convention Center | 120 S Doctor M.L.K. Jr Blvd | South Bend, 46601",
     "description": "Come join us at the World Dance Showdown. We are a weekend dance event in Indiana for line dancers, couples, dance teams and choreographers holding dance workshops and dance competitions all weekend. Beginner to Advanced dancers welcome. Over 150 Workshops. Seven workshops to choose from each hour. Line, Pattern Partner, Couples (West Coast Swing, East Coast Swing, Hustle, Country Two Step, Country Swing, Night Club 2-Step, Cha Cha, Dance Technique, Presentation and Style workshops) and NTA Instructor workshops. All workshops are included in your pass (NO PAID workshops at our event). Workshops begin on Thursday at 1:00 pm and go until 3:00 pm on Sunday. Line, Couples, Choreography and Team Competitions are on Friday and Saturday. Four Ballrooms for Open Dancing including a dedicated Couples Ballroom, a dedicated WCS Ballroom, a dedicated Line Dance Ballroom and an All Request Ballroom. Come and join us for a FUN TIME!! http://www.worlddanceshowdown....",
-    "raw_date": "Aug 27 to Aug 30 12:00 PM – 3:00 PM",
+    "raw_date": "Aug 28 to Aug 30 12:00 PM – 3:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-27",
-        "start_time": "12:00:00",
-        "end_time": "15:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-28",
         "start_time": "12:00:00",
@@ -75,9 +69,7 @@
     "description": "Join us on our rooftop for acoustic tunes by local artists every Friday! If the weather is inclement, we will move the fun to our indoor rooftop bar.",
     "raw_date": "Aug 28 7:00 PM – 10:00 PM",
     "raw_recurrence": "WEEKLY",
-    "upcoming_dates": [
-      "Friday, August 28"
-    ],
+    "upcoming_dates": [],
     "schedule_instances": [
       {
         "date": "2026-08-28",
@@ -86,16 +78,6 @@
         "all_day": false
       }
     ]
-  },
-  {
-    "title": "PAGE NOT FOUND",
-    "url": "https://www.visitsouthbend.com/events/flick-on-the-field-rudy-2/",
-    "location": "",
-    "description": "Home\n404\nPAGE NOT FOUND\n\nIt seems the information you are looking for is no longer available. Please click here to return to the homepage, or choose a desired link from below.",
-    "raw_date": "",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": []
   },
   {
     "title": "FLICK ON THE FIELD: \"RUDY\"",
@@ -110,25 +92,6 @@
         "date": "2026-08-28",
         "start_time": "20:30:00",
         "end_time": "23:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "FRIDAYS BY THE FOUNTAIN",
-    "url": "https://www.visitsouthbend.com/events/fridays-by-the-fountain/",
-    "location": "Morris Performing Arts Center | 211 N Michigan St | South Bend, IN 46601",
-    "description": "This year Fridays by the Fountain will return to Jon R. Hunt Plaza at the Morris!\nWe will have food trucks, live music, and free community fun!\nHeld on Fridays between 11:45 a.m. and 1:15 p.m., each concert is free of charge. Now in its 26th year, Fridays by the Fountain showcases live entertainment from area blues, jazz, rock, R&B, pop, folk, and Irish music bands.\n\nThis year’s lineup includes:\nJune 5 – RockDogs\nJune 12 – Q sonics\nJune 19 – Southside Denny\nJune 26 – Hey Annie\nJuly 3 – Memphis Underground\nJuly 10 – Don Savoie\nJuly 17 – Resurrection Blues Band\nJuly 24 – Big Daddy Dupree’s Broke & Hungry Blues Band\nJuly 31 – Van Dyke Revue\nAugust 7 – PT and The Cruisers\nAugust 14 – David Hilliker Trio\nAugust 21 – High Life\nAugust 28 – Kennedy’s Kitchen",
-    "raw_date": "Aug 28 11:45 AM – 1:15 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [
-      "Friday, August 28"
-    ],
-    "schedule_instances": [
-      {
-        "date": "2026-08-28",
-        "start_time": "11:45:00",
-        "end_time": "13:15:00",
         "all_day": false
       }
     ]
@@ -168,6 +131,23 @@
     ]
   },
   {
+    "title": "JOSH ROUSE WSG THE SANCHEZ AGENCY TRIO",
+    "url": "https://www.visitsouthbend.com/events/josh-rouse-wsg-the-sanchez-agency-trio/",
+    "location": "Stockroom East | 625 E Jefferson Blvd | South Bend, IN 46617",
+    "description": "With brill building wit and a Midwestern sense of melancholy, Josh Rouse has built a career that spans over 25 years, reaching back to his acclaimed 1998 debut Dressed Up Like Nebraska & continuing to his breakthrough albums 1972 & Nashville. His well-crafted and hook-laden tracks are coupled with closely-detailed, well-observed vignettes in his lyrics. Now passing 50, Josh faces the next phase of his life. “I remember seeing Tom Waits on the cover of a magazine with the headline TOM WAITS AT 50.” Josh recalls “ I was in my twenties and that seemed so far off… but he made a great record (Mule Variations) and I hope I have, too.”\n\nAs Rouse drifts into middle age, his worldview has expanded – family, travel… life, which adds even more depth to the songs. Paste Magazine has lauded Rouse, saying, “His knack for setting a simple feeling to a breezy melody shines through again and again,” and this is once again true with his latest album Going Places. So we see the laconic “She’s in L.A.,” the crisp and snappy “The Lonely Postman,” drenched in almost-Buddy Holly-esque melodies, and album closer “Stick Around” punctuated by its punching horn touches, a nod to his return to Tennessee and the city’s country-soul history.",
+    "raw_date": "Aug 29 7:30 PM – 10:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-29",
+        "start_time": "19:30:00",
+        "end_time": "22:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "KAMM ISLAND PARROT HEAD FEST",
     "url": "https://www.visitsouthbend.com/events/kamm-island-parrot-head-fest/",
     "location": "Kamm Island | 600 W Front St | Mishawaka, IN 46544",
@@ -180,6 +160,70 @@
         "date": "2026-08-29",
         "start_time": "15:00:00",
         "end_time": "21:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "LITTLE WOMEN (2019)",
+    "url": "https://www.visitsouthbend.com/events/little-women-2019/",
+    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
+    "description": "Browning Cinema Professor Pfinklepfunder's $1 Sunday Films Directed by Greta Gerwig With Saoirse Ronan, Emma Watson, Florence Pugh Rated PG, 135 minutes, Blu-ray The four March sisters have been part of American libraries and reading nooks for almost as long as the University of Notre Dame has been around. Louisa May Alcott's timeless band of sisters has been adapted for film previously, but perhaps never with as much panache or splash as when Greta Gerwig (director of Barbie) released this film as the pandemic was dawning. Meg (Emma Watson) , Jo (Saoirse Ronan) , Beth (Eliza Scanlen) , and Amy (Florence Pugh) experience the many seasons of New England life, including the rivalries, heartbreaks, and joys that come with such a warm home. Sponsored by the Meg and John P. Brogan Endowment for Classic Cinema.",
+    "raw_date": "Aug 30 1:00 PM – 2:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-08-30",
+        "start_time": "13:00:00",
+        "end_time": "14:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "MISHAWAKA MARKET",
+    "url": "https://www.visitsouthbend.com/events/mishawaka-market/",
+    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46545",
+    "description": "Join us for year 8 of the Mishawaka Market!\n\nThe Market runs Sundays from 10 am - 2 pm, May 31st through September 27th. *No Market on June 14th, July 5th & September 6th\n\nThere will be produce, crafts, baked goods, food trucks, kids zone, live music, animal adoptions and more!\n\nStage programming schedule will be posted before the 2026 Market Season starts!\n*No market on June 14th, July 5th, and September 6th.",
+    "raw_date": "Aug 30 10:00 AM – 2:00 PM",
+    "raw_recurrence": "FROM: 10:00 AM TO 02:00 PM",
+    "upcoming_dates": [
+      "Sunday, August 30",
+      "Sunday, September 6",
+      "Sunday, September 13",
+      "Sunday, September 20",
+      "Sunday, September 27"
+    ],
+    "schedule_instances": [
+      {
+        "date": "2026-08-30",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-06",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-13",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-20",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-27",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
         "all_day": false
       }
     ]
@@ -223,16 +267,10 @@
     "url": "https://www.visitsouthbend.com/events/notre-dame-shakespeare-festival-macbeth/",
     "location": "Patricia George Decio Theatre, DeBartolo Performing Arts Center",
     "description": "It's Shakespeare like you've never seen before. The 2026 Notre Dame Shakespeare Festival invites you to join us on stage for a hilarious, remarkable, and interactive staging of Macbeth.",
-    "raw_date": "Aug 27 to Aug 31",
+    "raw_date": "Aug 28 to Aug 31",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-27",
-        "start_time": null,
-        "end_time": null,
-        "all_day": true
-      },
       {
         "date": "2026-08-28",
         "start_time": null,
@@ -264,16 +302,10 @@
     "url": "https://www.visitsouthbend.com/events/resident-artists-summer-exhibition/",
     "location": "Fire Arts Inc | 305 E. Colfax Av | South Bend, IN 46617",
     "description": "This summer Fire Arts Inc will feature the works of our resident artists. We will be open throughout the Colfax Av construction project. Use LaSalle St to Sycamore St. to make your way to our non-profit. Please stop by to celebrate the Michiana creative arts community. We are open to the public on Wednesdays, Fridays and Saturdays from noon to 5pm and on Tuesdays and Thursdays from noon to 9pm.\n\nCheck out our webpage at\n\n*https://fireartsinc.com/\n\n*Instagram at https://www.instagram.com/fireartsincsb/\n\n*Facebook pages at https://www.facebook.com/profile.php?id=100042133547104",
-    "raw_date": "Aug 27 to Aug 31 12:00 PM – 5:00 PM",
+    "raw_date": "Aug 28 to Aug 31 12:00 PM – 5:00 PM",
     "raw_recurrence": "THIS EVENT CONTINUES FROM JUNE 20TH THRU AUGUST 31ST. WE WELCOME THE PUBLIC DURING OUR BUSINESS HOURS.",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-27",
-        "start_time": "12:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-28",
         "start_time": "12:00:00",
@@ -301,23 +333,6 @@
     ]
   },
   {
-    "title": "RITUAL BREAKS (EX-MUTEMATH MEMBERS) WSG SUCRÉ AND DEEP AL BRINDLE",
-    "url": "https://www.visitsouthbend.com/events/ritual-breaks-ex-mutemath-members-wsg-sucr%C3%A9-and-deep-al-brindle/",
-    "location": "Stockroom East | 625 E Jefferson Blvd | South Bend, IN 46617",
-    "description": "Ritual Breaks is an indie-electronic, dance-rock outfit consisting of former MUTEMATH bandmates Darren King and Roy Mitchell-Cárdenas and multi-instrumentalist Cory Hale. Inspired by a sonic spectrum of 70s soul, Afrobeat and analog synth-pop, King and Hale began Ritual Breaks in 2025 as an experimental/instrumental collaboration. As the duo began incorporating vocal elements into their project, they enlisted Mitchell-Cárdenas to contribute guitar and bass parts as well. Soon later, he officially joined the band. Ritual Breaks plans to release new music throughout the rest of 2026, culminating with a full-length album in the Fall.\n\nSupporting is indie-pop band Sucré, formed by Eisley co-founder/vocalist Stacy King and her producer husband Darren, and LA-based, fashion-forward, electronic-pop duo Deep AL Brindle.",
-    "raw_date": "Aug 27 7:30 PM – 10:30 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-27",
-        "start_time": "19:30:00",
-        "end_time": "22:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "SECOND HAND NEWS: FLEETWOOD MAC TRIBUTE",
     "url": "https://www.visitsouthbend.com/events/second-hand-news-fleetwood-mac-tribute/",
     "location": "Stockroom East | 625 E Jefferson Blvd | South Bend, IN 46617",
@@ -335,18 +350,34 @@
     ]
   },
   {
-    "title": "SOUL FOOD LUNCHEON",
-    "url": "https://www.visitsouthbend.com/events/soul-food-luncheon/",
-    "location": "Charles Martin Youth Center | 802 Lincolnway West | South Bend, IN 46616",
-    "description": "🥘 South Bend Heritage Soul Food Luncheon\n\nFriday, June 27, 2025 | 11:30 AM – 1:00 PM\n\n📍 Charles Martin Youth Center – 802 Lincolnway West, South Bend, IN\n\nJoin us for an afternoon of culture, connection, and community at the South Bend Heritage Soul Food Luncheon—a vibrant celebration of legacy, love, and local impact. This annual gathering brings together neighbors, leaders, and changemakers over a shared meal rooted in tradition and soul.\n\nEnjoy delicious food, powerful stories, and uplifting fellowship, all while supporting the work of South Bend Heritage in affordable housing, neighborhood revitalization, and community engagement.\n\n🎟️ Tickets: $35\n\nLet’s honor our history and feed the future—one plate at a time.",
-    "raw_date": "Aug 28 11:30 AM – 1:00 PM",
+    "title": "SEITZ PARK SUMMER CONCERT SERIES",
+    "url": "https://www.visitsouthbend.com/events/seitz-park-summer-concert-series/",
+    "location": "Seitz Park | 316 E. Colfax Ave | South Bend, IN 46617",
+    "description": "Indulge in the vibrant sounds of summer and join us at our FREE Summer Concert Series at Seitz Park! Each Sunday afternoon (3-5pm) from June to September, you’ll have a chance to enjoy live music, fun community events, and rotating food trucks with your friends and family – just bring a blanket or chair and your Sunday afternoon plans are set! The performer lineup is as follows:\n\n- June 7 – DreamTeam Live\n- June 14 – The Motown Machine\n- June 21 – The Resurrection Blues Band\n- June 28 – Happy Campers\n- July 5 – Hipposonics\n- July 12 – Mr. Z\n- July 19 – Zo Keys Band\n- July 26 – Now & Then\n- August 2 – Alligator Blackbird\n- August 9 – Michiana String Collective\n- August 16 – Kennedy Kitchen\n- August 23 – Corey Ronell\n- August 30 – Ray Davis\n- September 6 – Left Side of the Dial\n- September 13 – Memphis Underground\n\nSee you there!",
+    "raw_date": "Aug 30 3:00 PM – 5:00 PM",
     "raw_recurrence": "",
-    "upcoming_dates": [],
+    "upcoming_dates": [
+      "Sunday, August 30",
+      "Sunday, September 6",
+      "Sunday, September 13"
+    ],
     "schedule_instances": [
       {
-        "date": "2026-08-28",
-        "start_time": "11:30:00",
-        "end_time": "13:00:00",
+        "date": "2026-08-30",
+        "start_time": "15:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-06",
+        "start_time": "15:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-13",
+        "start_time": "15:00:00",
+        "end_time": "17:00:00",
         "all_day": false
       }
     ]
@@ -376,17 +407,10 @@
     "raw_date": "Aug 28 4:00 PM – 6:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [
-      "Friday, August 28",
       "Saturday, August 29",
       "Sunday, August 30"
     ],
     "schedule_instances": [
-      {
-        "date": "2026-08-28",
-        "start_time": "16:00:00",
-        "end_time": "18:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-29",
         "start_time": "16:00:00",
@@ -454,17 +478,17 @@
   },
   {
     "title": "THE CHRISTOPHERS (2025)",
-    "url": "https://www.visitsouthbend.com/events/the-christophers-2025/",
+    "url": "https://www.visitsouthbend.com/events/the-christophers-2025-3/",
     "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
-    "description": "Select a DateBrowning Cinema New at the Browning Directed by Steven Soderbergh With Ian McKellen, Michaela Coel, James Corden Rated R, 100 minutes, DCP Steven Soderbergh and Ian McKellen, two guys with zillions of credits to their filmographies, team up with the brilliant but lesser seen Miachaela Coel (I May Destroy You, Chewing Gum) in this lively black comedy. A mainstay of the London art scene since his starry breakout in the creative explosion of the 1960's, Julian Sklar (McKellen) has drifted into a cluttered, self-imposed seclusion. His two estranged children (James Corden, Jessica Gunning) enlist Lori (Coel) , a young painter and sometime-forger, to pose as a prospective assistant and gain access to a fabled series of unfinished canvases Julian has buried deep in his home studio, in a deceptive bid to secure an inheritance for themselves.",
-    "raw_date": "Aug 27 9:30 PM – 11:30 PM",
+    "description": "Browning Cinema New at the Browning Directed by Steven Soderbergh With Ian McKellen, Michaela Coel, James Corden Rated R, 100 minutes, DCP Steven Soderbergh and Ian McKellen, two guys with zillions of credits to their filmographies, team up with the brilliant but lesser seen Miachaela Coel (I May Destroy You, Chewing Gum) in this lively black comedy. A mainstay of the London art scene since his starry breakout in the creative explosion of the 1960's, Julian Sklar (McKellen) has drifted into a cluttered, self-imposed seclusion. His two estranged children (James Corden, Jessica Gunning) enlist Lori (Coel) , a young painter and sometime-forger, to pose as a prospective assistant and gain access to a fabled series of unfinished canvases Julian has buried deep in his home studio, in a deceptive bid to secure an inheritance for themselves.",
+    "raw_date": "Aug 29 9:30 PM – 11:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-27",
+        "date": "2026-08-29",
         "start_time": "21:30:00",
-        "end_time": "23:30:00",
+        "end_time": "23:00:00",
         "all_day": false
       }
     ]
