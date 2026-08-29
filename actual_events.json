@@ -21,16 +21,10 @@
     "url": "https://www.visitsouthbend.com/events/2026-world-dance-showdown/",
     "location": "Century Center Convention Center | 120 S Doctor M.L.K. Jr Blvd | South Bend, 46601",
     "description": "Come join us at the World Dance Showdown. We are a weekend dance event in Indiana for line dancers, couples, dance teams and choreographers holding dance workshops and dance competitions all weekend. Beginner to Advanced dancers welcome. Over 150 Workshops. Seven workshops to choose from each hour. Line, Pattern Partner, Couples (West Coast Swing, East Coast Swing, Hustle, Country Two Step, Country Swing, Night Club 2-Step, Cha Cha, Dance Technique, Presentation and Style workshops) and NTA Instructor workshops. All workshops are included in your pass (NO PAID workshops at our event). Workshops begin on Thursday at 1:00 pm and go until 3:00 pm on Sunday. Line, Couples, Choreography and Team Competitions are on Friday and Saturday. Four Ballrooms for Open Dancing including a dedicated Couples Ballroom, a dedicated WCS Ballroom, a dedicated Line Dance Ballroom and an All Request Ballroom. Come and join us for a FUN TIME!! http://www.worlddanceshowdown....",
-    "raw_date": "Aug 28 to Aug 30 12:00 PM – 3:00 PM",
+    "raw_date": "Aug 29 to Aug 30 12:00 PM – 3:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-28",
-        "start_time": "12:00:00",
-        "end_time": "15:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-29",
         "start_time": "12:00:00",
@@ -41,6 +35,29 @@
         "date": "2026-08-30",
         "start_time": "12:00:00",
         "end_time": "15:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "AC/DC PWR/UP POP UP",
+    "url": "https://www.visitsouthbend.com/events/ac-dc-pwr-up-pop-up/",
+    "location": "The Bend Lounge | 129 N. Michigan St. | South Bend, 46601.",
+    "description": "The official AC/DC PWR/UP Pop Up is coming to South Bend, creating the perfect place for fans to gather and extend the concert experience around AC/DC’s Notre Dame show.\n\nFree and open to the public, the pop-up brings fans together to explore iconic AC/DC props and photo opportunities, shop exclusive pop-up merchandise and limited South Bend event designs, and meet up with fellow fans.\n\nThe first 200 fans through the door will receive a free commemorative pop-up poster, while supplies last.\n\nThe Bend Lounge\n\n129 N. Michigan St.\n\nSouth Bend, IN 46601\n\nSeptember 3: 12 PM–9 PM\n\nSeptember 4: 11 AM–6 PM\n\nFree entry. No concert ticket required.\n\nWebsite: PWRUPTOUR.ACDC.COM",
+    "raw_date": "Sep 3 to Sep 4 12:00 PM – 6:00 PM",
+    "raw_recurrence": "2 DAYS ONLY",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-03",
+        "start_time": "12:00:00",
+        "end_time": "18:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-04",
+        "start_time": "12:00:00",
+        "end_time": "18:00:00",
         "all_day": false
       }
     ]
@@ -195,23 +212,6 @@
     ]
   },
   {
-    "title": "NATURE JOURNALING CLUB",
-    "url": "https://www.visitsouthbend.com/events/nature-journaling-club/",
-    "location": "St. Patrick's County Park: Berta Shelter | 50651 Laurel Road | South Bend, IN 46637",
-    "description": "Join a naturalist in a creative space for adults (18+) who love exploring the outdoors and capturing its beauty through art and words. This beginner-friendly club is all about slowing down, observing nature, and connecting with other nature lovers. Bring your favorite journal, curiosity, and a sense of wonder – we’ll provide inspiration using writing prompts and tips on how to use mixed media such as pencil, paint, photography, and collage.",
-    "raw_date": "Aug 29 10:00 AM – 1:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-29",
-        "start_time": "10:00:00",
-        "end_time": "13:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "NEW CARLISLE BEER AND WINE WALK",
     "url": "https://www.visitsouthbend.com/events/new-carlisle-beer-and-wine-walk/",
     "location": "",
@@ -233,16 +233,10 @@
     "url": "https://www.visitsouthbend.com/events/notre-dame-shakespeare-festival-macbeth/",
     "location": "Patricia George Decio Theatre, DeBartolo Performing Arts Center",
     "description": "It's Shakespeare like you've never seen before. The 2026 Notre Dame Shakespeare Festival invites you to join us on stage for a hilarious, remarkable, and interactive staging of Macbeth.",
-    "raw_date": "Aug 28 to Aug 31",
+    "raw_date": "Aug 29 to Aug 31",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-28",
-        "start_time": null,
-        "end_time": null,
-        "all_day": true
-      },
       {
         "date": "2026-08-29",
         "start_time": null,
@@ -301,16 +295,10 @@
     "url": "https://www.visitsouthbend.com/events/resident-artists-summer-exhibition/",
     "location": "Fire Arts Inc | 305 E. Colfax Av | South Bend, IN 46617",
     "description": "This summer Fire Arts Inc will feature the works of our resident artists. We will be open throughout the Colfax Av construction project. Use LaSalle St to Sycamore St. to make your way to our non-profit. Please stop by to celebrate the Michiana creative arts community. We are open to the public on Wednesdays, Fridays and Saturdays from noon to 5pm and on Tuesdays and Thursdays from noon to 9pm.\n\nCheck out our webpage at\n\n*https://fireartsinc.com/\n\n*Instagram at https://www.instagram.com/fireartsincsb/\n\n*Facebook pages at https://www.facebook.com/profile.php?id=100042133547104",
-    "raw_date": "Aug 28 to Aug 31 12:00 PM – 5:00 PM",
+    "raw_date": "Aug 29 to Aug 31 12:00 PM – 5:00 PM",
     "raw_recurrence": "THIS EVENT CONTINUES FROM JUNE 20TH THRU AUGUST 31ST. WE WELCOME THE PUBLIC DURING OUR BUSINESS HOURS.",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-28",
-        "start_time": "12:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-29",
         "start_time": "12:00:00",
@@ -416,18 +404,18 @@
     ]
   },
   {
-    "title": "SOUTH BEND FARMERS MARKET CAR SHOW",
-    "url": "https://www.visitsouthbend.com/events/south-bend-farmers-market-car-show/",
-    "location": "South Bend Farmers Market | 1105 Northside Blvd | SouthBend , 46615",
-    "description": "Car show, DJ, food, prizes",
-    "raw_date": "Aug 29 10:00 AM – 2:00 PM",
-    "raw_recurrence": "ANNUAL",
+    "title": "SOUTH BEND CUBS VS. CEDAR RAPIDS",
+    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-6/",
+    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
+    "description": "Game Highlights:\n\nWine Wednesday\n\nFans 21 and older can enjoy half priced glasses of wine or wine slushies. Does not include sangria.\n\nSilver Sluggers\n\nFans that are 60 years old and above can purchase tickets at 50% off to every Wednesday home game. Plus, earn rewards for games attended.",
+    "raw_date": "Sep 2 7:05 PM",
+    "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-29",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
+        "date": "2026-09-02",
+        "start_time": "19:05:00",
+        "end_time": null,
         "all_day": false
       }
     ]
@@ -437,19 +425,12 @@
     "url": "https://www.visitsouthbend.com/events/south-bend-roller-derby-crossroads-carnage-tournament/",
     "location": "St. Joseph County 4-H Fairgrounds | 5265 S Ironwood Rd | South Bend, 46614",
     "description": "South Bend Roller Derby is excited to announce we will be hosting the inaugural Crossroads Carnage Tournament!!\nDate: August 28-30, 2026 (Times above are subject to change)\nVenue: St Joseph County Fairgrounds\n5117 S Ironwood Dr, South Bend, Indiana 46614\nThis tournament will be comprised of 12 sanctioned and/or regulation games on a single track of polished concrete over the 3-day weekend event. 2 games will be played Friday evening, and the remaining 10 will be split between Saturday and Sunday. Each team will be promised 3 games.\nIt is a round-robin style of tournament, with all games being pre-set and assigned beforehand.\n\nTicket Information: https://www.zeffy.com/.../2026-crossroads-carnage-tournament",
-    "raw_date": "Aug 28 4:00 PM – 6:00 PM",
+    "raw_date": "Aug 29 4:00 PM – 6:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [
-      "Saturday, August 29",
       "Sunday, August 30"
     ],
     "schedule_instances": [
-      {
-        "date": "2026-08-29",
-        "start_time": "16:00:00",
-        "end_time": "18:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-30",
         "start_time": "16:00:00",
