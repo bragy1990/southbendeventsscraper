@@ -4,18 +4,12 @@
     "url": "https://www.visitsouthbend.com/events/2026-world-dance-showdown/",
     "location": "Century Center Convention Center | 120 S Doctor M.L.K. Jr Blvd | South Bend, 46601",
     "description": "Come join us at the World Dance Showdown. We are a weekend dance event in Indiana for line dancers, couples, dance teams and choreographers holding dance workshops and dance competitions all weekend. Beginner to Advanced dancers welcome. Over 150 Workshops. Seven workshops to choose from each hour. Line, Pattern Partner, Couples (West Coast Swing, East Coast Swing, Hustle, Country Two Step, Country Swing, Night Club 2-Step, Cha Cha, Dance Technique, Presentation and Style workshops) and NTA Instructor workshops. All workshops are included in your pass (NO PAID workshops at our event). Workshops begin on Thursday at 1:00 pm and go until 3:00 pm on Sunday. Line, Couples, Choreography and Team Competitions are on Friday and Saturday. Four Ballrooms for Open Dancing including a dedicated Couples Ballroom, a dedicated WCS Ballroom, a dedicated Line Dance Ballroom and an All Request Ballroom. Come and join us for a FUN TIME!! http://www.worlddanceshowdown....",
-    "raw_date": "Aug 29 to Aug 30 12:00 PM – 3:00 PM",
+    "raw_date": "Aug 27 12:00 PM – 3:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-29",
-        "start_time": "12:00:00",
-        "end_time": "15:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-08-30",
+        "date": "2026-08-27",
         "start_time": "12:00:00",
         "end_time": "15:00:00",
         "all_day": false
@@ -173,67 +167,14 @@
     ]
   },
   {
-    "title": "MISHAWAKA MARKET",
-    "url": "https://www.visitsouthbend.com/events/mishawaka-market/",
-    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46545",
-    "description": "Join us for year 8 of the Mishawaka Market!\n\nThe Market runs Sundays from 10 am - 2 pm, May 31st through September 27th. *No Market on June 14th, July 5th & September 6th\n\nThere will be produce, crafts, baked goods, food trucks, kids zone, live music, animal adoptions and more!\n\nStage programming schedule will be posted before the 2026 Market Season starts!\n*No market on June 14th, July 5th, and September 6th.",
-    "raw_date": "Aug 30 10:00 AM – 2:00 PM",
-    "raw_recurrence": "FROM: 10:00 AM TO 02:00 PM",
-    "upcoming_dates": [
-      "Sunday, August 30",
-      "Sunday, September 6",
-      "Sunday, September 13",
-      "Sunday, September 20",
-      "Sunday, September 27"
-    ],
-    "schedule_instances": [
-      {
-        "date": "2026-08-30",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-06",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-13",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-20",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-27",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH",
     "url": "https://www.visitsouthbend.com/events/notre-dame-shakespeare-festival-macbeth/",
     "location": "Patricia George Decio Theatre, DeBartolo Performing Arts Center",
     "description": "It's Shakespeare like you've never seen before. The 2026 Notre Dame Shakespeare Festival invites you to join us on stage for a hilarious, remarkable, and interactive staging of Macbeth.",
-    "raw_date": "Aug 29 to Aug 31",
+    "raw_date": "Aug 30 to Aug 31",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-29",
-        "start_time": null,
-        "end_time": null,
-        "all_day": true
-      },
       {
         "date": "2026-08-30",
         "start_time": null,
@@ -286,16 +227,10 @@
     "url": "https://www.visitsouthbend.com/events/resident-artists-summer-exhibition/",
     "location": "Fire Arts Inc | 305 E. Colfax Av | South Bend, IN 46617",
     "description": "This summer Fire Arts Inc will feature the works of our resident artists. We will be open throughout the Colfax Av construction project. Use LaSalle St to Sycamore St. to make your way to our non-profit. Please stop by to celebrate the Michiana creative arts community. We are open to the public on Wednesdays, Fridays and Saturdays from noon to 5pm and on Tuesdays and Thursdays from noon to 9pm.\n\nCheck out our webpage at\n\n*https://fireartsinc.com/\n\n*Instagram at https://www.instagram.com/fireartsincsb/\n\n*Facebook pages at https://www.facebook.com/profile.php?id=100042133547104",
-    "raw_date": "Aug 29 to Aug 31 12:00 PM – 5:00 PM",
+    "raw_date": "Aug 30 to Aug 31 12:00 PM – 5:00 PM",
     "raw_recurrence": "THIS EVENT CONTINUES FROM JUNE 20TH THRU AUGUST 31ST. WE WELCOME THE PUBLIC DURING OUR BUSINESS HOURS.",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-08-29",
-        "start_time": "12:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-08-30",
         "start_time": "12:00:00",
@@ -352,17 +287,10 @@
     "raw_date": "Aug 30 3:00 PM – 5:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [
-      "Sunday, August 30",
       "Sunday, September 6",
       "Sunday, September 13"
     ],
     "schedule_instances": [
-      {
-        "date": "2026-08-30",
-        "start_time": "15:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-09-06",
         "start_time": "15:00:00",
@@ -391,6 +319,23 @@
         "start_time": "17:00:00",
         "end_time": "21:00:00",
         "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "SOUTH BEND CUBS BAR CRAWL",
+    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-bar-crawl/",
+    "location": "501 W South St | South Bend, IN",
+    "description": "The South Bend Cubs 2026 Bar Crawl will take place on Saturday, September 5th. Gates open at 5:30 p.m. and first pitch is scheduled for 7:05 p.m.\n\n\nThis limited package includes a ticket to the game, an exclusive Bar Crawl T-Shirt including all of the bars, and two drink vouchers for fans 21+.\n\n\n**Important Event Details & Requirements:**\nMUST be 21 and over with a valid ID to participate\nBars are able to deny access based on posted bar rules\nMust be wearing wristband and/or bar crawl t-shirt to enter participating bars free of charge\nDrink responsibly\nShirt and wristband pick up will be at Four Winds Field day of the event\n\n\nAssociated Bars:\nSouth Bend Cubs\nManny's\nShamrocks\nBrothers\nCorby's\nCJ's Pub\nBrew Works\nLa Esperanza\nFinnies",
+    "raw_date": "Sep 5",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-05",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
       }
     ]
   },
@@ -467,11 +412,9 @@
     "url": "https://www.visitsouthbend.com/events/south-bend-roller-derby-crossroads-carnage-tournament/",
     "location": "St. Joseph County 4-H Fairgrounds | 5265 S Ironwood Rd | South Bend, 46614",
     "description": "South Bend Roller Derby is excited to announce we will be hosting the inaugural Crossroads Carnage Tournament!!\nDate: August 28-30, 2026 (Times above are subject to change)\nVenue: St Joseph County Fairgrounds\n5117 S Ironwood Dr, South Bend, Indiana 46614\nThis tournament will be comprised of 12 sanctioned and/or regulation games on a single track of polished concrete over the 3-day weekend event. 2 games will be played Friday evening, and the remaining 10 will be split between Saturday and Sunday. Each team will be promised 3 games.\nIt is a round-robin style of tournament, with all games being pre-set and assigned beforehand.\n\nTicket Information: https://www.zeffy.com/.../2026-crossroads-carnage-tournament",
-    "raw_date": "Aug 29 4:00 PM – 6:00 PM",
+    "raw_date": "Aug 30 4:00 PM – 6:00 PM",
     "raw_recurrence": "",
-    "upcoming_dates": [
-      "Sunday, August 30"
-    ],
+    "upcoming_dates": [],
     "schedule_instances": [
       {
         "date": "2026-08-30",
