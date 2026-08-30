@@ -1,22 +1,5 @@
 [
   {
-    "title": "14TH ANNUAL MICHIANA RENAISSANCE FESTIVAL",
-    "url": "https://www.visitsouthbend.com/events/14th-annual-michiana-renaissance-festival/",
-    "location": "St. Joseph County Fairgrounds | 5117 South Ironwood Drive | South Bend, IN 46614",
-    "description": "Step into the Past at the Michiana Renaissance Festival!\n\nExperience a weekend of wonder, excitement, and history the whole family will enjoy! Explore four immersive reenactment areas, indulge in delicious food and drink, and be amazed by thrilling falconry and jousting tournaments. With six stages of nonstop entertainment, interactive shows, and a bustling marketplace full of unique vendors, there's truly something for everyone. Don't miss the adventure - join us at the Michiana Renaissance Festival!\n\nURLs:\nTickets: https://go.evvnt.com/3496731-0?pid=6556\nFacebook: https://go.evvnt.com/3496731-2?pid=6556\n\nDate and Time: Saturday, August 29th - Sunday, August 30 from 10 am - 6 pm eastern\n\nVenue details: St. Joseph County Fairgrounds, 5117 South Ironwood Drive, South Bend, Indiana, 46614, United States\n\nPrices:\nGeneral Admission: USD 15.00\nSenior: USD 12.00\nKids 6-12: USD 7.00\nActive and Retired Military (Free): USD 0.00\nChildren 5 and Under (Free): USD 0.00",
-    "raw_date": "Aug 29 10:00 AM – 6:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-29",
-        "start_time": "10:00:00",
-        "end_time": "18:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "2026 WORLD DANCE SHOWDOWN",
     "url": "https://www.visitsouthbend.com/events/2026-world-dance-showdown/",
     "location": "Century Center Convention Center | 120 S Doctor M.L.K. Jr Blvd | South Bend, 46601",
@@ -35,6 +18,23 @@
         "date": "2026-08-30",
         "start_time": "12:00:00",
         "end_time": "15:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "AC⚡DC AT NOTRE DAME STADIUM",
+    "url": "https://www.visitsouthbend.com/events/ac-dc-at-notre-dame-stadium/",
+    "location": "Notre Dame Stadium | Moose Krause Circle | Notre Dame, IN 46556",
+    "description": "GET THUNDERSTRUCK! AC/DC is bringing the POWER UP TOUR 2026 to South Bend at Notre Dame Stadium on Friday, September 4 with special guest The Pretty Reckless!",
+    "raw_date": "Sep 4 7:30 PM",
+    "raw_recurrence": "STARTING: 07:30 PM",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-04",
+        "start_time": "19:30:00",
+        "end_time": null,
         "all_day": false
       }
     ]
@@ -80,18 +80,60 @@
     ]
   },
   {
-    "title": "HOWARD PARK ARTISAN MARKET",
-    "url": "https://www.visitsouthbend.com/events/howard-park-artisan-market/",
-    "location": "Howard Park | 219 S St Louis Blvd | South Bend, IN 46617",
-    "description": "An Artisan market featuring local artists and craft vendors selling their products. Conveniently located on the grounds of Howard Park providing access to food and beverages for a family friendly event.",
-    "raw_date": "Aug 29 10:00 AM – 4:00 PM",
+    "title": "FIRST FRIDAYS SUMMER CONCERT SERIES",
+    "url": "https://www.visitsouthbend.com/events/first-fridays-summer-concert-series/",
+    "location": "Seitz Park & Howard Park | 219 S St Louis Blvd | South Bend, IN 46617",
+    "description": "Your First Fridays just got even better with the SBVPA Summer Concert Series! Each first Friday of the month from June to September, you can enjoy FREE live music from 6-8pm at one of VPA’s wonderful parks in downtown South Bend. Details are as follows:\n\n- June 5: Bobcat Opossum (Seitz Park)\n- July 3: Day Train (Howard Park)\n- August 7: Abbie Thomas (Seitz Park)\n- September 4: Los Hermanos Bueno (Seitz Park)\n\nGather your friends and family and head to the park for an evening of live music and good vibes. See you there!",
+    "raw_date": "Sep 4 6:00 PM – 8:00 PM",
     "raw_recurrence": "",
-    "upcoming_dates": [],
+    "upcoming_dates": [
+      "Friday, September 4"
+    ],
     "schedule_instances": [
       {
-        "date": "2026-08-29",
-        "start_time": "10:00:00",
-        "end_time": "16:00:00",
+        "date": "2026-09-04",
+        "start_time": "18:00:00",
+        "end_time": "20:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "GEARS & GRUB FALL CRUISE-IN SERIES",
+    "url": "https://www.visitsouthbend.com/events/gears-grub-fall-cruise-in-series/",
+    "location": "Newton Park | 801 North Michigan Street | Lakeville, IN 46536",
+    "description": "🚗🍔 Gears & Grub Fall Cruise-In Series 🍔🚗\n\nStart your Fridays the right way this September at Newton Park! Whether you're bringing your own ride or just coming to admire some incredible vehicles, Gears & Grub is the perfect way to kick off your weekend.\n\n🚘 You'll Find:\n\n- Classic Cars\n\n- Show Trucks\n\n- Motorcycles\n\n- Tractors\n\n- Delicious Food Trucks\n\n- Great Music\n\n- Huge Giveaways\n\n- Family-Friendly Fun\n\nBring your family, your friends, your lawn chairs, and your appetite! Cruise in with your vehicle or simply stroll through the show while enjoying amazing food, music, and the beautiful fall evenings. Every week brings a different mix of vehicles, vendors, and fun, so no two Fridays are exactly the same!\n\n📅 Every Friday in September\n\n🕔 5:00 PM – 9:00 PM\n\n📍 Newton Park\n\n801 N. Michigan St.\n\nLakeville, IN 46536\n\n🎟️ Admission is FREE!\n\nInterested in being a food truck vendor?\n\n📧 Email Cindy@NewtonPark.org for more information.\n\nWe can't wait to see you this fall for good food, cool rides, great music, and an unforgettable Friday night tradition! 🍁🏁",
+    "raw_date": "Sep 4 5:00 PM",
+    "raw_recurrence": "EVERY FRIDAY IN SEPTEMBER",
+    "upcoming_dates": [
+      "Friday, September 4",
+      "Friday, September 11",
+      "Friday, September 18",
+      "Friday, September 25"
+    ],
+    "schedule_instances": [
+      {
+        "date": "2026-09-04",
+        "start_time": "17:00:00",
+        "end_time": null,
+        "all_day": false
+      },
+      {
+        "date": "2026-09-11",
+        "start_time": "17:00:00",
+        "end_time": null,
+        "all_day": false
+      },
+      {
+        "date": "2026-09-18",
+        "start_time": "17:00:00",
+        "end_time": null,
+        "all_day": false
+      },
+      {
+        "date": "2026-09-25",
+        "start_time": "17:00:00",
+        "end_time": null,
         "all_day": false
       }
     ]
@@ -109,40 +151,6 @@
         "date": "2026-09-02",
         "start_time": "13:30:00",
         "end_time": "14:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "JOSH ROUSE WSG THE SANCHEZ AGENCY TRIO",
-    "url": "https://www.visitsouthbend.com/events/josh-rouse-wsg-the-sanchez-agency-trio/",
-    "location": "Stockroom East | 625 E Jefferson Blvd | South Bend, IN 46617",
-    "description": "With brill building wit and a Midwestern sense of melancholy, Josh Rouse has built a career that spans over 25 years, reaching back to his acclaimed 1998 debut Dressed Up Like Nebraska & continuing to his breakthrough albums 1972 & Nashville. His well-crafted and hook-laden tracks are coupled with closely-detailed, well-observed vignettes in his lyrics. Now passing 50, Josh faces the next phase of his life. “I remember seeing Tom Waits on the cover of a magazine with the headline TOM WAITS AT 50.” Josh recalls “ I was in my twenties and that seemed so far off… but he made a great record (Mule Variations) and I hope I have, too.”\n\nAs Rouse drifts into middle age, his worldview has expanded – family, travel… life, which adds even more depth to the songs. Paste Magazine has lauded Rouse, saying, “His knack for setting a simple feeling to a breezy melody shines through again and again,” and this is once again true with his latest album Going Places. So we see the laconic “She’s in L.A.,” the crisp and snappy “The Lonely Postman,” drenched in almost-Buddy Holly-esque melodies, and album closer “Stick Around” punctuated by its punching horn touches, a nod to his return to Tennessee and the city’s country-soul history.",
-    "raw_date": "Aug 29 7:30 PM – 10:30 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-29",
-        "start_time": "19:30:00",
-        "end_time": "22:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "KAMM ISLAND PARROT HEAD FEST",
-    "url": "https://www.visitsouthbend.com/events/kamm-island-parrot-head-fest/",
-    "location": "Kamm Island | 600 W Front St | Mishawaka, IN 46544",
-    "description": "Calling ALL Parrot Heads!!\nThe Landsharks Band (Jimmy Buffett Concert Experience) is one of the most popular tribute acts in the world. We are bringing them to Kamm Island on August 29th for the FIRST EVER Parrot Head Fest!!!!\n\nTickets are available now: https://www.eventim.us/event/parrot-head-fest-2026/696493\n\nFull bar and food trucks will be available.\n\nAges | 21+\nGates | 7pm\n\nTickets prices:\n$10 before August 15\n$15 from August 1 5 - August 28\n$20 day of the event",
-    "raw_date": "Aug 29 3:00 PM – 9:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-29",
-        "start_time": "15:00:00",
-        "end_time": "21:00:00",
         "all_day": false
       }
     ]
@@ -207,23 +215,6 @@
         "date": "2026-09-27",
         "start_time": "10:00:00",
         "end_time": "14:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "NEW CARLISLE BEER AND WINE WALK",
-    "url": "https://www.visitsouthbend.com/events/new-carlisle-beer-and-wine-walk/",
-    "location": "",
-    "description": "Join us for our 13th Annual Beer & Wine Walk as we celebrate the nation's Semiquincentennial- Cheers to 250 Years! The event is on Saturday, August 29th from 5 - 9 pm eastern. Sample beer and wine at several local restaurants and businesses in New Carlisle and Hudson Lake. This is a 21 and over event. Tickets are $35.00 for drinkers and $15 for designated drivers. If you purchase tickets ahead of time, we are offering an advanced wristband pick up day on Wednesday, August 26th at Studebaker Brewing Co. (110 E. Michigan St.) from 6 - 8 pm eastern or pick up the day of the event at the New Carlisle Fire Station (204 E. Michigan St.) starting at 4:30 pm until 8:00 pm eastern. You can also purchase tickets the day of. You will need to show your ID for wristband. You will receive a sample cup with your wristband. Trolleys will be available for transportation. The event is a fundraiser for Discover New Carlisle, Inc. for their facade grant program and other beautification projects. E-mail admin@discovernewcarlisle.com with any questions.",
-    "raw_date": "Aug 29 5:00 PM – 9:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-29",
-        "start_time": "17:00:00",
-        "end_time": "21:00:00",
         "all_day": false
       }
     ]
@@ -387,6 +378,23 @@
     ]
   },
   {
+    "title": "SEPTEMBER FIRST FRIDAYS: DOG DAYS OF SUMMER",
+    "url": "https://www.visitsouthbend.com/events/september-first-fridays-dog-days-of-summer/",
+    "location": "S. Michigan Street, Downtown, South Bend | 100 & 200 Blocks of S. Michigan Street | South Bend, IN 46601",
+    "description": "Downtown South Bend will be going to the dogs for the September First Fridays, as we celebrate the \"Dog Days of Summer.\" Bring your furry friend downtown for a fun night out!\n\nWe will have booths with animal rescue groups and organizations who provide goods and services for animals, as well as the opportunity to dine with your dog at one of our over 20 downtown pet-friendly patios. Also, if you want to dress up your pup in a costume or outfit, we will be handing out prizes to the best dressed dogs! We encourage people to grab some takeout from their favorite downtown eatery or First Fridays food vendor and enjoy it at the seating area in the street, where we also have vendors and live music by The Starving Artists. Plus Over the Edge returns to Studebaker Plaza, with fearless philanthropists rappelling over the edge of the Robertson's Apartment Building to raise money for Youth Service Bureau (YSB.) We will also have an EV Display near the State Theater, the South Bend Music Festival, plus lots of other fun happenings throughout downtown!",
+    "raw_date": "Sep 4 5:00 PM – 9:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-04",
+        "start_time": "17:00:00",
+        "end_time": "21:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "SOUTH BEND CUBS VS. CEDAR RAPIDS",
     "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-5/",
     "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
@@ -421,6 +429,40 @@
     ]
   },
   {
+    "title": "SOUTH BEND CUBS VS. CEDAR RAPIDS - COLLEGE NIGHT",
+    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-college-night/",
+    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
+    "description": "Ticket Offer:\n\nInternational Cabernet Day\n\nRaise a glass with the South Bend Cubs on September 3 as we celebrate International Cabernet Day with specialty wine-tasting-style experience! This exclusive ticket package includes a game ticket on the United Federal Credit Union Rooftop, a commemorative South Bend Cubs wine glass, access to a two-hour all-you-can-eat buffet, five 2-oz samples of each featured wine, and one complimentary drink ticket to redeem at the rooftop bar. Gates open at 6:00 p.m., with the buffet available from 6:00 p.m.- 8:00 p.m.\n\nGame Highlights:\n\nThirsty Thursday\n\nEnjoy $3 fountain sodas (24 oz.) and domestic draft beer (16 oz.) all game long.\n\nTri-Campus College Night\n\nWelcoming students from the University of Notre Dame, Holy Cross College, and St. Mary's College.",
+    "raw_date": "Sep 3 7:05 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-03",
+        "start_time": "19:05:00",
+        "end_time": null,
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "SOUTH BEND CUBS VS. CEDAR RAPIDS - FRIDAY FIREWORKS",
+    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-friday-fireworks-2/",
+    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
+    "description": "Game Highlights:\n\nFantastic Friday Fireworks\n\nEnjoy a spectacular fireworks show after the game. Gates open at 5:30 p.m.\n\nFan Appreciation Weekend\n\nJoin the South Bend Cubs for the final three games of the regular season with in-game giveaways and a few surprises all weekend long!",
+    "raw_date": "Sep 4 7:05 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-04",
+        "start_time": "19:05:00",
+        "end_time": null,
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "SOUTH BEND ROLLER DERBY - CROSSROADS CARNAGE TOURNAMENT",
     "url": "https://www.visitsouthbend.com/events/south-bend-roller-derby-crossroads-carnage-tournament/",
     "location": "St. Joseph County 4-H Fairgrounds | 5265 S Ironwood Rd | South Bend, 46614",
@@ -440,35 +482,18 @@
     ]
   },
   {
-    "title": "SWING FOR THE FENCES II",
-    "url": "https://www.visitsouthbend.com/events/swing-for-the-fences-ii/",
-    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
-    "description": "Grindtime Indiana Pro Wrestling f.k.a. Revolution Championship Wrestling returns to Four Winds Field on Saturday August 29, 2026 as we present SWINGING FOR THE FENCES 2!\n\nGates open at 5pm with a Meet and Greet with all the wrestlers and bell time is 7pm!\n\nSpecial guests announced thus far are former AEW Superstar and member of the Jurassic Express MARKO STUNT and former WWE and AEW Superstar PARKER BOUDREAUX!!!\nMore special guests will be announced soon!",
-    "raw_date": "Aug 29",
+    "title": "THE 2026 CONWAY LECTURES: RELIGION AND LAW IN THE MEDIEVAL WORLD",
+    "url": "https://www.visitsouthbend.com/events/the-2026-conway-lectures-religion-and-law-in-the-medieval-world/",
+    "location": "715 Hesburgh Library (Medieval Institute) | 715 Hesburgh Library | Notre Dame, IN 46556",
+    "description": "Join the University of Notre Dame's Medieval Institute for the 2026 Conway Lectures on \"Religion and Law in the Medieval World\". Featuring fascinating presentations by three expert speakers, as well as a free opening reception and lunch (with rsvp).",
+    "raw_date": "Sep 3 5:00 PM – 2:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-29",
-        "start_time": null,
-        "end_time": null,
-        "all_day": true
-      }
-    ]
-  },
-  {
-    "title": "THE CHRISTOPHERS (2025)",
-    "url": "https://www.visitsouthbend.com/events/the-christophers-2025-3/",
-    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
-    "description": "Browning Cinema New at the Browning Directed by Steven Soderbergh With Ian McKellen, Michaela Coel, James Corden Rated R, 100 minutes, DCP Steven Soderbergh and Ian McKellen, two guys with zillions of credits to their filmographies, team up with the brilliant but lesser seen Miachaela Coel (I May Destroy You, Chewing Gum) in this lively black comedy. A mainstay of the London art scene since his starry breakout in the creative explosion of the 1960's, Julian Sklar (McKellen) has drifted into a cluttered, self-imposed seclusion. His two estranged children (James Corden, Jessica Gunning) enlist Lori (Coel) , a young painter and sometime-forger, to pose as a prospective assistant and gain access to a fabled series of unfinished canvases Julian has buried deep in his home studio, in a deceptive bid to secure an inheritance for themselves.",
-    "raw_date": "Aug 29 9:30 PM – 11:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-29",
-        "start_time": "21:30:00",
-        "end_time": "23:00:00",
+        "date": "2026-09-03",
+        "start_time": "17:00:00",
+        "end_time": "14:00:00",
         "all_day": false
       }
     ]
@@ -649,6 +674,23 @@
         "date": "2027-02-10",
         "start_time": "19:00:00",
         "end_time": "22:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "WUBU MIXER - ALL WHITE PARTY",
+    "url": "https://www.visitsouthbend.com/events/wubu-mixer-all-white-party/",
+    "location": "The Island at The Century Center | 120 South Doctor Martin Luther King Junior Boulevard | South Bend, IN 46601",
+    "description": "All White Party featuring Lepolion, and The Godfather, Gino J\n\nGet ready to dress to impress and experience a night of music, fashion, and unforgettable entertainment at WUBU’s Mixer – All White Party, happening Friday, September 4 from 7–11 PM. Doors open at 6:30 PM!\n\nPresented alongside The New Mix 102.3, this exclusive evening brings together style, culture, and incredible live entertainment — all with an all-white dress code.\n\nLive Entertainment:\n\nGet ready for an unforgettable performance from Lepolion, featuring their high-energy tribute to two music legends — Michael Jackson and Prince! Dance, sing along, and relive the hits that made these icons unforgettable.\n\nSpecial Guest: The Godfather Himself — Gino J!\n\nYou never know what’s in store when the Godfather steps into the room!\n\nWUBU’s Mixer – All White Party is where the dress code is white, the energy is elevated, and the night is all about celebrating music, and community.",
+    "raw_date": "Sep 4 7:00 PM – 11:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-04",
+        "start_time": "19:00:00",
+        "end_time": "23:00:00",
         "all_day": false
       }
     ]
