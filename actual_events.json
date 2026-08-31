@@ -1,22 +1,5 @@
 [
   {
-    "title": "2026 WORLD DANCE SHOWDOWN",
-    "url": "https://www.visitsouthbend.com/events/2026-world-dance-showdown/",
-    "location": "Century Center Convention Center | 120 S Doctor M.L.K. Jr Blvd | South Bend, 46601",
-    "description": "Come join us at the World Dance Showdown. We are a weekend dance event in Indiana for line dancers, couples, dance teams and choreographers holding dance workshops and dance competitions all weekend. Beginner to Advanced dancers welcome. Over 150 Workshops. Seven workshops to choose from each hour. Line, Pattern Partner, Couples (West Coast Swing, East Coast Swing, Hustle, Country Two Step, Country Swing, Night Club 2-Step, Cha Cha, Dance Technique, Presentation and Style workshops) and NTA Instructor workshops. All workshops are included in your pass (NO PAID workshops at our event). Workshops begin on Thursday at 1:00 pm and go until 3:00 pm on Sunday. Line, Couples, Choreography and Team Competitions are on Friday and Saturday. Four Ballrooms for Open Dancing including a dedicated Couples Ballroom, a dedicated WCS Ballroom, a dedicated Line Dance Ballroom and an All Request Ballroom. Come and join us for a FUN TIME!! http://www.worlddanceshowdown....",
-    "raw_date": "Aug 27 12:00 PM – 3:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-27",
-        "start_time": "12:00:00",
-        "end_time": "15:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "AC⚡DC AT NOTRE DAME STADIUM",
     "url": "https://www.visitsouthbend.com/events/ac-dc-at-notre-dame-stadium/",
     "location": "Notre Dame Stadium | Moose Krause Circle | Notre Dame, IN 46556",
@@ -69,6 +52,23 @@
         "date": "2026-09-01",
         "start_time": "19:30:00",
         "end_time": "21:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "CHICKEN RUN (2000)",
+    "url": "https://www.visitsouthbend.com/events/chicken-run-2000/",
+    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
+    "description": "Browning Cinema Professor Pfinklepfunder's $1 Sunday Films Directed by Peter Lord, Nick Park With Phil Daniels, Lynn Ferguson, Tony Haygarth Rated G, 84 minutes, Blu-ray The plasticine adventures of Wallace & Gromit are well known around the globe and have garnered shelfloads of awards. Roughly 25 years ago, the creative team behind that expansive world forged a new creative path using the same stop-motion animation style but with a new set of characters in Chicken Run. Borrowing from Steve McQueen's The Great Escape, Chicken Run is also a breakout adventure, but with the likes of chickens who live on an egg farm that certainly looks more like a prisoner-of-war camp and not a cage-free shady acres. A rebel in the henhouse, Ginger, incites upheaval as she leads her fellow feathered friends on a mission to free and save their lives. Sponsored by the Meg and John P. Brogan Endowment for Classic Cinema.",
+    "raw_date": "Sep 6 1:00 PM – 2:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-06",
+        "start_time": "13:00:00",
+        "end_time": "14:30:00",
         "all_day": false
       }
     ]
@@ -150,18 +150,58 @@
     ]
   },
   {
-    "title": "LITTLE WOMEN (2019)",
-    "url": "https://www.visitsouthbend.com/events/little-women-2019/",
-    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
-    "description": "Browning Cinema Professor Pfinklepfunder's $1 Sunday Films Directed by Greta Gerwig With Saoirse Ronan, Emma Watson, Florence Pugh Rated PG, 135 minutes, Blu-ray The four March sisters have been part of American libraries and reading nooks for almost as long as the University of Notre Dame has been around. Louisa May Alcott's timeless band of sisters has been adapted for film previously, but perhaps never with as much panache or splash as when Greta Gerwig (director of Barbie) released this film as the pandemic was dawning. Meg (Emma Watson) , Jo (Saoirse Ronan) , Beth (Eliza Scanlen) , and Amy (Florence Pugh) experience the many seasons of New England life, including the rivalries, heartbreaks, and joys that come with such a warm home. Sponsored by the Meg and John P. Brogan Endowment for Classic Cinema.",
-    "raw_date": "Aug 30 1:00 PM – 2:30 PM",
+    "title": "IU SEASON OPENER WATCH PARTY",
+    "url": "https://www.visitsouthbend.com/events/iu-season-opener-watch-party/",
+    "location": "Manny's | 503 E. Colfax Ave | South Bend, IN 46617",
+    "description": "Let's cheer on the Hoosiers to another undefeated season!",
+    "raw_date": "Sep 5 12:00 PM – 3:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-30",
-        "start_time": "13:00:00",
-        "end_time": "14:30:00",
+        "date": "2026-09-05",
+        "start_time": "12:00:00",
+        "end_time": "15:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "MISHAWAKA MARKET",
+    "url": "https://www.visitsouthbend.com/events/mishawaka-market/",
+    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46545",
+    "description": "Join us for year 8 of the Mishawaka Market!\n\nThe Market runs Sundays from 10 am - 2 pm, May 31st through September 27th. *No Market on June 14th, July 5th & September 6th\n\nThere will be produce, crafts, baked goods, food trucks, kids zone, live music, animal adoptions and more!\n\nStage programming schedule will be posted before the 2026 Market Season starts!\n*No market on June 14th, July 5th, and September 6th.",
+    "raw_date": "Aug 30 10:00 AM – 2:00 PM",
+    "raw_recurrence": "FROM: 10:00 AM TO 02:00 PM",
+    "upcoming_dates": [
+      "Sunday, September 6",
+      "Sunday, September 13",
+      "Sunday, September 20",
+      "Sunday, September 27"
+    ],
+    "schedule_instances": [
+      {
+        "date": "2026-09-06",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-13",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-20",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-27",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
         "all_day": false
       }
     ]
@@ -190,39 +230,6 @@
     ]
   },
   {
-    "title": "POTAWATOMI PARK SUMMER CONCERT SERIES",
-    "url": "https://www.visitsouthbend.com/events/potawatomi-park-summer-concert-series/",
-    "location": "Potawatomi Park | 500 S. Greenlawn Ave | South Bend, IN 46615",
-    "description": "Indulge in the vibrant sounds of summer and join us at our FREE Summer Concert Series at Potawatomi Park! Each Sunday evening (6-8pm) from June to September, you’ll have a chance to enjoy live music, fun community nights, and rotating food trucks with your friends and family – just bring a blanket or chair and your Sunday evening plans are set! The performer lineup is as follows:\n\n- June 14 – Mr. Z\n- June 21 – PT and the Cruisers\n- June 28 – Kennedy Kitchen\n- July 5 – Brian Mach\n- July 12 – Michiana String Collective\n- July 19 – Hipposonics\n- July 26 – Left Side of the Dial\n- August 2 – The Resurrection Blues Band\n- August 9 – Now & Then\n- August 16 – SBSO Summer Concert Series\n- August 23 – Paul Zulas\n- August 30 – Soul Discovery\n- September 6 – Los Luna Latin Band\n- September 13 – Van Dyke Revue\n\nSee you there!\n\nPLEASE NOTE: newly constructed parking spaces are now available at Potawatomi Park on Wall Street – please utilize these spaces and refrain from parking in the neighborhoods as much as possible.",
-    "raw_date": "Aug 30 6:00 PM – 8:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [
-      "Sunday, August 30",
-      "Sunday, September 6",
-      "Sunday, September 13"
-    ],
-    "schedule_instances": [
-      {
-        "date": "2026-08-30",
-        "start_time": "18:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-06",
-        "start_time": "18:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-13",
-        "start_time": "18:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "RESIDENT ARTISTS' SUMMER EXHIBITION",
     "url": "https://www.visitsouthbend.com/events/resident-artists-summer-exhibition/",
     "location": "Fire Arts Inc | 305 E. Colfax Av | South Bend, IN 46617",
@@ -241,23 +248,6 @@
         "date": "2026-08-31",
         "start_time": "12:00:00",
         "end_time": "17:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "SAMSARA (2011)",
-    "url": "https://www.visitsouthbend.com/events/samsara-2011/",
-    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
-    "description": "GET TICKETSBrowning Cinema Sunday Docs Directed by Ron Fricke With Puti Sri Candra Dewi, Marcos Luna, Kikumaru Rated PG-13, 102 minutes, DCP With Samsara, filmmaker Ron Fricke continues the legacy of the Qatsi trilogy by creating a global travelogue with pictures and music, exploring the Himalayas, the American Southwest, European cathedrals, and other beautiful sites. The focus here is the Poetic Documentary, which is a classification of films that rely less on linear continuity used to create narratives or storylines in films depicting reality. Often lushly shot, the editing of this slice of documentaries pushes for emotional experiences as opposed to the more educational approaches taken by other styles. Sponsored by the Meg and John P. Brogan Endowment for Documentary Film.",
-    "raw_date": "Aug 30 4:00 PM – 5:30 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-30",
-        "start_time": "16:00:00",
-        "end_time": "17:30:00",
         "all_day": false
       }
     ]
@@ -374,6 +364,23 @@
     ]
   },
   {
+    "title": "SOUTH BEND CUBS VS. CEDAR RAPIDS",
+    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-7/",
+    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
+    "description": "Game Highlights:\n\nSunday Funday\n\nArrive early for a special autograph session with the South Bend Cubs players and play catch on the field before the game. Gates open at 12:30 p.m.\n\nFan Appreciation Weekend\n\nJoin the South Bend Cubs for the final three games of the regular season with in-game giveaways and a few surprises all weekend long!\n\nPromotion:\n\nSouth Bend Cubs Jersey Cooler Bag\n\nThe first 1,000 fans through the gates will receive a South Bend Cubs jersey shaped cooler bag.",
+    "raw_date": "Sep 6 2:05 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-06",
+        "start_time": "14:05:00",
+        "end_time": null,
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "SOUTH BEND CUBS VS. CEDAR RAPIDS - COLLEGE NIGHT",
     "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-college-night/",
     "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
@@ -408,18 +415,18 @@
     ]
   },
   {
-    "title": "SOUTH BEND ROLLER DERBY - CROSSROADS CARNAGE TOURNAMENT",
-    "url": "https://www.visitsouthbend.com/events/south-bend-roller-derby-crossroads-carnage-tournament/",
-    "location": "St. Joseph County 4-H Fairgrounds | 5265 S Ironwood Rd | South Bend, 46614",
-    "description": "South Bend Roller Derby is excited to announce we will be hosting the inaugural Crossroads Carnage Tournament!!\nDate: August 28-30, 2026 (Times above are subject to change)\nVenue: St Joseph County Fairgrounds\n5117 S Ironwood Dr, South Bend, Indiana 46614\nThis tournament will be comprised of 12 sanctioned and/or regulation games on a single track of polished concrete over the 3-day weekend event. 2 games will be played Friday evening, and the remaining 10 will be split between Saturday and Sunday. Each team will be promised 3 games.\nIt is a round-robin style of tournament, with all games being pre-set and assigned beforehand.\n\nTicket Information: https://www.zeffy.com/.../2026-crossroads-carnage-tournament",
-    "raw_date": "Aug 30 4:00 PM – 6:00 PM",
+    "title": "SOUTH BEND CUBS VS. CEDAR RAPIDS - POST-GAME FIREWORKS",
+    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-post-game-fireworks/",
+    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
+    "description": "Game Highlights:\n\nPost-Game Fireworks\n\nJoin us for a special fireworks show following the game.\n\nFan Appreciation Weekend\n\nJoin the South Bend Cubs for the final three games of the regular season with in-game giveaways and a few surprises all weekend long!\n\nSpin to Win Saturday\n\nOn select Saturdays, nine lucky contestants could win a 50\" Smart TV, Martin's Super Market gift card, Visa gift card, Apple iPad, or $500 CASH by spinning our wheel of prizes between innings. Must be 18 years old or older to enter and must be present to win. Gates open at 5:30 p.m.",
+    "raw_date": "Sep 5 7:05 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-30",
-        "start_time": "16:00:00",
-        "end_time": "18:00:00",
+        "date": "2026-09-05",
+        "start_time": "19:05:00",
+        "end_time": null,
         "all_day": false
       }
     ]
