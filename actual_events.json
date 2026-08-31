@@ -1,22 +1,5 @@
 [
   {
-    "title": "AC⚡DC AT NOTRE DAME STADIUM",
-    "url": "https://www.visitsouthbend.com/events/ac-dc-at-notre-dame-stadium/",
-    "location": "Notre Dame Stadium | Moose Krause Circle | Notre Dame, IN 46556",
-    "description": "GET THUNDERSTRUCK! AC/DC is bringing the POWER UP TOUR 2026 to South Bend at Notre Dame Stadium on Friday, September 4 with special guest The Pretty Reckless!",
-    "raw_date": "Sep 4 7:30 PM",
-    "raw_recurrence": "STARTING: 07:30 PM",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-04",
-        "start_time": "19:30:00",
-        "end_time": null,
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "AC/DC PWR/UP POP UP",
     "url": "https://www.visitsouthbend.com/events/ac-dc-pwr-up-pop-up/",
     "location": "The Bend Lounge | 129 N. Michigan St. | South Bend, 46601.",
@@ -40,6 +23,57 @@
     ]
   },
   {
+    "title": "ART + INSIGHT",
+    "url": "https://www.visitsouthbend.com/events/art-insight/",
+    "location": "Raclin Murphy Museum of Art | Main Building | Notre Dame, 46556",
+    "description": "Engage with art, connect with others, and explore new perspectives in Art + Insight, a program designed for adults 55+. Through guided close-looking exercises, lively conversations, and shared experiences, we will discover fresh ways to engage with art while building community. Join us each month for meaningful discussions and creative inspiration in the galleries as we explore new works of art together. Parking is available in the Visitor Lot immediately north of the Sculpture Park for a fee during the week (before 4:30 p.m.) . Free two-hour parking is available in the Eddy Street Commons Parking Garage or along Angela Blvd. After 4:30 p.m. and on weekends, parking is free and available in any non-gated campus lot. If traveling via South Bend Transpo, take the No.7 bus and use the Eddy St. Commons stop. Originally published at raclinmurphymuseum.nd.edu.",
+    "raw_date": "Sep 3 1:00 PM – 2:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-03",
+        "start_time": "13:00:00",
+        "end_time": "14:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "ARTFUL YOGA",
+    "url": "https://www.visitsouthbend.com/events/artful-yoga/",
+    "location": "Raclin Murphy Museum of Art | St André Wy | Notre Dame, 46556",
+    "description": "Engage with the Museum as a space for well-being and inspiration. Join yoga instructor Steve Krojniewski in the galleries to relax and recharge while surrounded by works from the collection. Mats are provided or you can bring your own. Artful Yoga is free and open to all but is limited to the first 30 participants.",
+    "raw_date": "Sep 3 5:30 PM – 6:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-03",
+        "start_time": "17:30:00",
+        "end_time": "18:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "BAG-A-BAT & ICE CREAM SUNDAES",
+    "url": "https://www.visitsouthbend.com/events/bag-a-bat-ice-cream-sundaes/",
+    "location": "St. Patrick's County Park: Harvest Room | 50651 Laurel Road South Bend, IN 46637 | South Bend, IN 46637",
+    "description": "Discover the nocturnal world of Indiana's flying mammal with bat Biologist Jeremy Sheets. We will begin with an indoor presentation about bats found in Indiana, followed by examining bats as they are caught in the mist nets. Then enjoy an ice cream sundae with toppings pollinated by fruit bats. Registration and payment required by Tuesday, September 1.",
+    "raw_date": "Sep 3 7:00 PM – 9:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-03",
+        "start_time": "19:00:00",
+        "end_time": "21:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "BLOOD SIMPLE (1984)",
     "url": "https://www.visitsouthbend.com/events/blood-simple-1984/",
     "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
@@ -57,18 +91,18 @@
     ]
   },
   {
-    "title": "CHICKEN RUN (2000)",
-    "url": "https://www.visitsouthbend.com/events/chicken-run-2000/",
-    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
-    "description": "Browning Cinema Professor Pfinklepfunder's $1 Sunday Films Directed by Peter Lord, Nick Park With Phil Daniels, Lynn Ferguson, Tony Haygarth Rated G, 84 minutes, Blu-ray The plasticine adventures of Wallace & Gromit are well known around the globe and have garnered shelfloads of awards. Roughly 25 years ago, the creative team behind that expansive world forged a new creative path using the same stop-motion animation style but with a new set of characters in Chicken Run. Borrowing from Steve McQueen's The Great Escape, Chicken Run is also a breakout adventure, but with the likes of chickens who live on an egg farm that certainly looks more like a prisoner-of-war camp and not a cage-free shady acres. A rebel in the henhouse, Ginger, incites upheaval as she leads her fellow feathered friends on a mission to free and save their lives. Sponsored by the Meg and John P. Brogan Endowment for Classic Cinema.",
-    "raw_date": "Sep 6 1:00 PM – 2:30 PM",
+    "title": "EMMA TAYLOR TRIO",
+    "url": "https://www.visitsouthbend.com/events/emma-taylor-trio/",
+    "location": "Merrimans’ Playhouse | 401 E. Colfax Ave., Suite 135 | South Bend, IN 46617",
+    "description": "Emma Taylor is a Chicago-based bassist and vocalist. Joined by Steve Million on keys and Tim Davis on drums, the trio will perform jazz standards as well as original compositions that blend jazz traditions with contemporary influences, creating a dynamic and conversational musical experience.\n\nEmma Taylor – bass and vocals\n\nSteve Million - keys\n\nTim Davis - drums",
+    "raw_date": "Sep 4 7:30 PM – 9:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-09-06",
-        "start_time": "13:00:00",
-        "end_time": "14:30:00",
+        "date": "2026-09-04",
+        "start_time": "19:30:00",
+        "end_time": "21:00:00",
         "all_day": false
       }
     ]
@@ -150,58 +184,18 @@
     ]
   },
   {
-    "title": "IU SEASON OPENER WATCH PARTY",
-    "url": "https://www.visitsouthbend.com/events/iu-season-opener-watch-party/",
-    "location": "Manny's | 503 E. Colfax Ave | South Bend, IN 46617",
-    "description": "Let's cheer on the Hoosiers to another undefeated season!",
-    "raw_date": "Sep 5 12:00 PM – 3:00 PM",
+    "title": "MONIKA HERZIG ACOUSTIC PROJECT",
+    "url": "https://www.visitsouthbend.com/events/monika-herzig-acoustic-project/",
+    "location": "Merrimans’ Playhouse | 401 E. Colfax Ave., Suite 135 | South Bend, IN 46617",
+    "description": "Composer and pianist Monika Herzig leads her quartet featuring guitarist Peter Kienle in a program centered on original compositions from her latest release, Transparent (2026), alongside selections from her extensive catalog of original recordings spanning more than two decades. Her music blends contemporary jazz with lyrical composition, inventive improvisation, and diverse musical influences, creating a distinctive artistic voice that continues to evolve through each recording project. Featuring original works by Herzig and selected compositions by guitarist Peter Kienle, the ensemble balances thoughtfully crafted compositions with dynamic ensemble interaction and spontaneous improvisation.\n\nMonika Herzig - piano\n\nPeter Kienle - bass\n\nJohn Valdez - drums",
+    "raw_date": "Sep 3 7:30 PM – 9:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-09-05",
-        "start_time": "12:00:00",
-        "end_time": "15:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "MISHAWAKA MARKET",
-    "url": "https://www.visitsouthbend.com/events/mishawaka-market/",
-    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46545",
-    "description": "Join us for year 8 of the Mishawaka Market!\n\nThe Market runs Sundays from 10 am - 2 pm, May 31st through September 27th. *No Market on June 14th, July 5th & September 6th\n\nThere will be produce, crafts, baked goods, food trucks, kids zone, live music, animal adoptions and more!\n\nStage programming schedule will be posted before the 2026 Market Season starts!\n*No market on June 14th, July 5th, and September 6th.",
-    "raw_date": "Aug 30 10:00 AM – 2:00 PM",
-    "raw_recurrence": "FROM: 10:00 AM TO 02:00 PM",
-    "upcoming_dates": [
-      "Sunday, September 6",
-      "Sunday, September 13",
-      "Sunday, September 20",
-      "Sunday, September 27"
-    ],
-    "schedule_instances": [
-      {
-        "date": "2026-09-06",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-13",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-20",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-27",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
+        "date": "2026-09-03",
+        "start_time": "19:30:00",
+        "end_time": "21:00:00",
         "all_day": false
       }
     ]
@@ -211,21 +205,51 @@
     "url": "https://www.visitsouthbend.com/events/notre-dame-shakespeare-festival-macbeth/",
     "location": "Patricia George Decio Theatre, DeBartolo Performing Arts Center",
     "description": "It's Shakespeare like you've never seen before. The 2026 Notre Dame Shakespeare Festival invites you to join us on stage for a hilarious, remarkable, and interactive staging of Macbeth.",
-    "raw_date": "Aug 30 to Aug 31",
+    "raw_date": "Aug 20",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-30",
+        "date": "2026-08-20",
         "start_time": null,
         "end_time": null,
         "all_day": true
-      },
+      }
+    ]
+  },
+  {
+    "title": "OBSESSION (2025)",
+    "url": "https://www.visitsouthbend.com/events/obsession-2025/",
+    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
+    "description": "New at the Browning Directed by Curry Barker With Michael Johnston, Inde Navarrette, Cooper Tomlinson Rated R, 109 minutes, DCP When a film is made for less than $1,000,000 and makes over half a billion dollars at the box office, then it's a safe call that society is at some level obsessed with it. What made and continues to make this story about burgeoning romance that grows into something horrific such a cultural touchstone? While unpacking that, either come see again or catch up with ingénue Curry Barker's story of a wish for true love that pitches into a truly scary relationship",
+    "raw_date": "Sep 3",
+    "raw_recurrence": "",
+    "upcoming_dates": [
+      "Saturday, September 5"
+    ],
+    "schedule_instances": [
       {
-        "date": "2026-08-31",
+        "date": "2026-09-05",
         "start_time": null,
         "end_time": null,
         "all_day": true
+      }
+    ]
+  },
+  {
+    "title": "OPEN JAZZ SESSION",
+    "url": "https://www.visitsouthbend.com/events/open-jazz-session/",
+    "location": "Merrimans’ Playhouse | 401 E. Colfax Ave., Suite 135 | South Bend, IN 46617",
+    "description": "It’s open to the public. Based on Jazz Standards - Straight-Ahead Jazz. Listen. Play. Discuss. It's a Learning Environment. Bring your Instrument, your Ears, your Friends. Cash Bar NOT available. No BYOB. Popcorn, coffees, soft drinks, and food available at Culture Café.",
+    "raw_date": "Sep 1 7:30 PM – 9:30 PM",
+    "raw_recurrence": "REPEATS WEEKLY",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-01",
+        "start_time": "19:30:00",
+        "end_time": "21:30:00",
+        "all_day": false
       }
     ]
   },
@@ -234,18 +258,12 @@
     "url": "https://www.visitsouthbend.com/events/resident-artists-summer-exhibition/",
     "location": "Fire Arts Inc | 305 E. Colfax Av | South Bend, IN 46617",
     "description": "This summer Fire Arts Inc will feature the works of our resident artists. We will be open throughout the Colfax Av construction project. Use LaSalle St to Sycamore St. to make your way to our non-profit. Please stop by to celebrate the Michiana creative arts community. We are open to the public on Wednesdays, Fridays and Saturdays from noon to 5pm and on Tuesdays and Thursdays from noon to 9pm.\n\nCheck out our webpage at\n\n*https://fireartsinc.com/\n\n*Instagram at https://www.instagram.com/fireartsincsb/\n\n*Facebook pages at https://www.facebook.com/profile.php?id=100042133547104",
-    "raw_date": "Aug 30 to Aug 31 12:00 PM – 5:00 PM",
+    "raw_date": "Jun 20 12:00 PM – 5:00 PM",
     "raw_recurrence": "THIS EVENT CONTINUES FROM JUNE 20TH THRU AUGUST 31ST. WE WELCOME THE PUBLIC DURING OUR BUSINESS HOURS.",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-08-30",
-        "start_time": "12:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-08-31",
+        "date": "2027-06-20",
         "start_time": "12:00:00",
         "end_time": "17:00:00",
         "all_day": false
@@ -270,32 +288,6 @@
     ]
   },
   {
-    "title": "SEITZ PARK SUMMER CONCERT SERIES",
-    "url": "https://www.visitsouthbend.com/events/seitz-park-summer-concert-series/",
-    "location": "Seitz Park | 316 E. Colfax Ave | South Bend, IN 46617",
-    "description": "Indulge in the vibrant sounds of summer and join us at our FREE Summer Concert Series at Seitz Park! Each Sunday afternoon (3-5pm) from June to September, you’ll have a chance to enjoy live music, fun community events, and rotating food trucks with your friends and family – just bring a blanket or chair and your Sunday afternoon plans are set! The performer lineup is as follows:\n\n- June 7 – DreamTeam Live\n- June 14 – The Motown Machine\n- June 21 – The Resurrection Blues Band\n- June 28 – Happy Campers\n- July 5 – Hipposonics\n- July 12 – Mr. Z\n- July 19 – Zo Keys Band\n- July 26 – Now & Then\n- August 2 – Alligator Blackbird\n- August 9 – Michiana String Collective\n- August 16 – Kennedy Kitchen\n- August 23 – Corey Ronell\n- August 30 – Ray Davis\n- September 6 – Left Side of the Dial\n- September 13 – Memphis Underground\n\nSee you there!",
-    "raw_date": "Aug 30 3:00 PM – 5:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [
-      "Sunday, September 6",
-      "Sunday, September 13"
-    ],
-    "schedule_instances": [
-      {
-        "date": "2026-09-06",
-        "start_time": "15:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-13",
-        "start_time": "15:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "SEPTEMBER FIRST FRIDAYS: DOG DAYS OF SUMMER",
     "url": "https://www.visitsouthbend.com/events/september-first-fridays-dog-days-of-summer/",
     "location": "S. Michigan Street, Downtown, South Bend | 100 & 200 Blocks of S. Michigan Street | South Bend, IN 46601",
@@ -309,23 +301,6 @@
         "start_time": "17:00:00",
         "end_time": "21:00:00",
         "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "SOUTH BEND CUBS BAR CRAWL",
-    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-bar-crawl/",
-    "location": "501 W South St | South Bend, IN",
-    "description": "The South Bend Cubs 2026 Bar Crawl will take place on Saturday, September 5th. Gates open at 5:30 p.m. and first pitch is scheduled for 7:05 p.m.\n\n\nThis limited package includes a ticket to the game, an exclusive Bar Crawl T-Shirt including all of the bars, and two drink vouchers for fans 21+.\n\n\n**Important Event Details & Requirements:**\nMUST be 21 and over with a valid ID to participate\nBars are able to deny access based on posted bar rules\nMust be wearing wristband and/or bar crawl t-shirt to enter participating bars free of charge\nDrink responsibly\nShirt and wristband pick up will be at Four Winds Field day of the event\n\n\nAssociated Bars:\nSouth Bend Cubs\nManny's\nShamrocks\nBrothers\nCorby's\nCJ's Pub\nBrew Works\nLa Esperanza\nFinnies",
-    "raw_date": "Sep 5",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-05",
-        "start_time": null,
-        "end_time": null,
-        "all_day": true
       }
     ]
   },
@@ -364,23 +339,6 @@
     ]
   },
   {
-    "title": "SOUTH BEND CUBS VS. CEDAR RAPIDS",
-    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-7/",
-    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
-    "description": "Game Highlights:\n\nSunday Funday\n\nArrive early for a special autograph session with the South Bend Cubs players and play catch on the field before the game. Gates open at 12:30 p.m.\n\nFan Appreciation Weekend\n\nJoin the South Bend Cubs for the final three games of the regular season with in-game giveaways and a few surprises all weekend long!\n\nPromotion:\n\nSouth Bend Cubs Jersey Cooler Bag\n\nThe first 1,000 fans through the gates will receive a South Bend Cubs jersey shaped cooler bag.",
-    "raw_date": "Sep 6 2:05 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-06",
-        "start_time": "14:05:00",
-        "end_time": null,
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "SOUTH BEND CUBS VS. CEDAR RAPIDS - COLLEGE NIGHT",
     "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-college-night/",
     "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
@@ -408,23 +366,6 @@
     "schedule_instances": [
       {
         "date": "2026-09-04",
-        "start_time": "19:05:00",
-        "end_time": null,
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "SOUTH BEND CUBS VS. CEDAR RAPIDS - POST-GAME FIREWORKS",
-    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-post-game-fireworks/",
-    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
-    "description": "Game Highlights:\n\nPost-Game Fireworks\n\nJoin us for a special fireworks show following the game.\n\nFan Appreciation Weekend\n\nJoin the South Bend Cubs for the final three games of the regular season with in-game giveaways and a few surprises all weekend long!\n\nSpin to Win Saturday\n\nOn select Saturdays, nine lucky contestants could win a 50\" Smart TV, Martin's Super Market gift card, Visa gift card, Apple iPad, or $500 CASH by spinning our wheel of prizes between innings. Must be 18 years old or older to enter and must be present to win. Gates open at 5:30 p.m.",
-    "raw_date": "Sep 5 7:05 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-05",
         "start_time": "19:05:00",
         "end_time": null,
         "all_day": false
@@ -641,6 +582,23 @@
         "date": "2026-09-04",
         "start_time": "19:00:00",
         "end_time": "23:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "ZOO TRIVIA: DOG DAYS OF SUMMER",
+    "url": "https://www.visitsouthbend.com/events/zoo-trivia-dog-days-of-summer/",
+    "location": "Potawatomi Zoo | 500 S Greenlawn Ave | South Bend, 46615",
+    "description": "REGISTER NOW! Tickets are $15 per person.\n\nRegister Here\n\nJoin us in The Lodge for zoo trivia to benefit Potawatomi Zoo’s Conservation Fund! This trivia night will be all about dogs: wild canids, domestic dogs, dogs in pop culture and famous dogs in history. The winning team will receive a zoo prize.\n\nTrivia is September 2 from 6-8 pm. Teams can be 2-8 players. You will enter through the Learning Center Gate to the left of the Admission Building.\n\nConservation Fund proceeds go to support wildlife conservation organizations like Save Giraffes Now, African Painted Dog SAFE, and more!\n\nWe appreciate all your support!",
+    "raw_date": "Sep 2 6:00 PM – 8:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-02",
+        "start_time": "18:00:00",
+        "end_time": "20:00:00",
         "all_day": false
       }
     ]
