@@ -1,5 +1,22 @@
 [
   {
+    "title": "AC⚡DC AT NOTRE DAME STADIUM",
+    "url": "https://www.visitsouthbend.com/events/ac-dc-at-notre-dame-stadium/",
+    "location": "Notre Dame Stadium | Moose Krause Circle | Notre Dame, IN 46556",
+    "description": "GET THUNDERSTRUCK! AC/DC is bringing the POWER UP TOUR 2026 to South Bend at Notre Dame Stadium on Friday, September 4 with special guest The Pretty Reckless!",
+    "raw_date": "Sep 4 7:30 PM",
+    "raw_recurrence": "STARTING: 07:30 PM",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-04",
+        "start_time": "19:30:00",
+        "end_time": null,
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "AC/DC PWR/UP POP UP",
     "url": "https://www.visitsouthbend.com/events/ac-dc-pwr-up-pop-up/",
     "location": "The Bend Lounge | 129 N. Michigan St. | South Bend, 46601.",
@@ -201,23 +218,6 @@
     ]
   },
   {
-    "title": "NOTRE DAME SHAKESPEARE FESTIVAL - MACBETH",
-    "url": "https://www.visitsouthbend.com/events/notre-dame-shakespeare-festival-macbeth/",
-    "location": "Patricia George Decio Theatre, DeBartolo Performing Arts Center",
-    "description": "It's Shakespeare like you've never seen before. The 2026 Notre Dame Shakespeare Festival invites you to join us on stage for a hilarious, remarkable, and interactive staging of Macbeth.",
-    "raw_date": "Aug 20",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-08-20",
-        "start_time": null,
-        "end_time": null,
-        "all_day": true
-      }
-    ]
-  },
-  {
     "title": "OBSESSION (2025)",
     "url": "https://www.visitsouthbend.com/events/obsession-2025/",
     "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
@@ -249,23 +249,6 @@
         "date": "2026-09-01",
         "start_time": "19:30:00",
         "end_time": "21:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "RESIDENT ARTISTS' SUMMER EXHIBITION",
-    "url": "https://www.visitsouthbend.com/events/resident-artists-summer-exhibition/",
-    "location": "Fire Arts Inc | 305 E. Colfax Av | South Bend, IN 46617",
-    "description": "This summer Fire Arts Inc will feature the works of our resident artists. We will be open throughout the Colfax Av construction project. Use LaSalle St to Sycamore St. to make your way to our non-profit. Please stop by to celebrate the Michiana creative arts community. We are open to the public on Wednesdays, Fridays and Saturdays from noon to 5pm and on Tuesdays and Thursdays from noon to 9pm.\n\nCheck out our webpage at\n\n*https://fireartsinc.com/\n\n*Instagram at https://www.instagram.com/fireartsincsb/\n\n*Facebook pages at https://www.facebook.com/profile.php?id=100042133547104",
-    "raw_date": "Jun 20 12:00 PM – 5:00 PM",
-    "raw_recurrence": "THIS EVENT CONTINUES FROM JUNE 20TH THRU AUGUST 31ST. WE WELCOME THE PUBLIC DURING OUR BUSINESS HOURS.",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2027-06-20",
-        "start_time": "12:00:00",
-        "end_time": "17:00:00",
         "all_day": false
       }
     ]
