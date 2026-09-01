@@ -40,23 +40,6 @@
     ]
   },
   {
-    "title": "ART + INSIGHT",
-    "url": "https://www.visitsouthbend.com/events/art-insight/",
-    "location": "Raclin Murphy Museum of Art | Main Building | Notre Dame, 46556",
-    "description": "Engage with art, connect with others, and explore new perspectives in Art + Insight, a program designed for adults 55+. Through guided close-looking exercises, lively conversations, and shared experiences, we will discover fresh ways to engage with art while building community. Join us each month for meaningful discussions and creative inspiration in the galleries as we explore new works of art together. Parking is available in the Visitor Lot immediately north of the Sculpture Park for a fee during the week (before 4:30 p.m.) . Free two-hour parking is available in the Eddy Street Commons Parking Garage or along Angela Blvd. After 4:30 p.m. and on weekends, parking is free and available in any non-gated campus lot. If traveling via South Bend Transpo, take the No.7 bus and use the Eddy St. Commons stop. Originally published at raclinmurphymuseum.nd.edu.",
-    "raw_date": "Sep 3 1:00 PM – 2:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-03",
-        "start_time": "13:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "ARTFUL YOGA",
     "url": "https://www.visitsouthbend.com/events/artful-yoga/",
     "location": "Raclin Murphy Museum of Art | St André Wy | Notre Dame, 46556",
@@ -201,6 +184,23 @@
     ]
   },
   {
+    "title": "IU SEASON OPENER WATCH PARTY",
+    "url": "https://www.visitsouthbend.com/events/iu-season-opener-watch-party/",
+    "location": "Manny's | 503 E. Colfax Ave | South Bend, IN 46617",
+    "description": "Let's cheer on the Hoosiers to another undefeated season!",
+    "raw_date": "Sep 5 12:00 PM – 3:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-05",
+        "start_time": "12:00:00",
+        "end_time": "15:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "MONIKA HERZIG ACOUSTIC PROJECT",
     "url": "https://www.visitsouthbend.com/events/monika-herzig-acoustic-project/",
     "location": "Merrimans’ Playhouse | 401 E. Colfax Ave., Suite 135 | South Bend, IN 46617",
@@ -284,6 +284,23 @@
         "start_time": "17:00:00",
         "end_time": "21:00:00",
         "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "SOUTH BEND CUBS BAR CRAWL",
+    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-bar-crawl/",
+    "location": "501 W South St | South Bend, IN",
+    "description": "The South Bend Cubs 2026 Bar Crawl will take place on Saturday, September 5th. Gates open at 5:30 p.m. and first pitch is scheduled for 7:05 p.m.\n\n\nThis limited package includes a ticket to the game, an exclusive Bar Crawl T-Shirt including all of the bars, and two drink vouchers for fans 21+.\n\n\n**Important Event Details & Requirements:**\nMUST be 21 and over with a valid ID to participate\nBars are able to deny access based on posted bar rules\nMust be wearing wristband and/or bar crawl t-shirt to enter participating bars free of charge\nDrink responsibly\nShirt and wristband pick up will be at Four Winds Field day of the event\n\n\nAssociated Bars:\nSouth Bend Cubs\nManny's\nShamrocks\nBrothers\nCorby's\nCJ's Pub\nBrew Works\nLa Esperanza\nFinnies",
+    "raw_date": "Sep 5",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-05",
+        "start_time": null,
+        "end_time": null,
+        "all_day": true
       }
     ]
   },
@@ -565,23 +582,6 @@
         "date": "2026-09-04",
         "start_time": "19:00:00",
         "end_time": "23:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "ZOO TRIVIA: DOG DAYS OF SUMMER",
-    "url": "https://www.visitsouthbend.com/events/zoo-trivia-dog-days-of-summer/",
-    "location": "Potawatomi Zoo | 500 S Greenlawn Ave | South Bend, 46615",
-    "description": "REGISTER NOW! Tickets are $15 per person.\n\nRegister Here\n\nJoin us in The Lodge for zoo trivia to benefit Potawatomi Zoo’s Conservation Fund! This trivia night will be all about dogs: wild canids, domestic dogs, dogs in pop culture and famous dogs in history. The winning team will receive a zoo prize.\n\nTrivia is September 2 from 6-8 pm. Teams can be 2-8 players. You will enter through the Learning Center Gate to the left of the Admission Building.\n\nConservation Fund proceeds go to support wildlife conservation organizations like Save Giraffes Now, African Painted Dog SAFE, and more!\n\nWe appreciate all your support!",
-    "raw_date": "Sep 2 6:00 PM – 8:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-02",
-        "start_time": "18:00:00",
-        "end_time": "20:00:00",
         "all_day": false
       }
     ]
