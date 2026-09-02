@@ -74,23 +74,6 @@
     ]
   },
   {
-    "title": "BLOOD SIMPLE (1984)",
-    "url": "https://www.visitsouthbend.com/events/blood-simple-1984/",
-    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
-    "description": "Crime, Blood, and Laughs: The Coen Brothers Directed by Joel Coen With John Getz, Frances McDormand, Dan Hedaya Rated R, 96 minutes, Blu-ray This razor-sharp modern film noir, the first film by Joel and Ethan Coen, introduced the brothers' inimitable black humor and eccentric sense of character, a sensibility that has helped shape the course of contemporary American cinema. Deep in the heart of Texas, a sleazy bar owner suspects his wife of having an affair and hires a private detective to confirm his suspicions—only to have the crosshairs turned back on himself. Playfully shot by Barry Sonnenfeld and featuring a haunting score by Carter Burwell and a cunning performance by Frances McDormand, Blood Simple was a career-launching film for this ensemble and the first articulation of the precision of style that has defined the Coens' work ever since. Sponsored by the Meg and John P. Brogan Endowment for Classic Cinema.",
-    "raw_date": "Sep 1 7:30 PM – 9:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-01",
-        "start_time": "19:30:00",
-        "end_time": "21:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "EMMA TAYLOR TRIO",
     "url": "https://www.visitsouthbend.com/events/emma-taylor-trio/",
     "location": "Merrimans’ Playhouse | 401 E. Colfax Ave., Suite 135 | South Bend, IN 46617",
@@ -201,6 +184,63 @@
     ]
   },
   {
+    "title": "JAMES AUSTIN JR. TRIO",
+    "url": "https://www.visitsouthbend.com/events/james-austin-jr-trio/",
+    "location": "Merrimans’ Playhouse | 401 E. Colfax Ave., Suite 135 | South Bend, IN 46617",
+    "description": "The trio will perform “Songs from the Great American Songbook and More!” They'll also perform tunes from “Songs in the Key of Wonder and More!\". Songs in the Key of Wonder is a project of James' jazz arrangements of a collection of Stevie Wonder tunes.\n\nJames Austin Jr. - piano\n\nTBA - bass\n\nTBA - drums",
+    "raw_date": "Sep 5 7:30 PM – 9:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-05",
+        "start_time": "19:30:00",
+        "end_time": "21:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "MISHAWAKA MARKET",
+    "url": "https://www.visitsouthbend.com/events/mishawaka-market/",
+    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46545",
+    "description": "Join us for year 8 of the Mishawaka Market!\n\nThe Market runs Sundays from 10 am - 2 pm, May 31st through September 27th. *No Market on June 14th, July 5th & September 6th\n\nThere will be produce, crafts, baked goods, food trucks, kids zone, live music, animal adoptions and more!\n\nStage programming schedule will be posted before the 2026 Market Season starts!\n*No market on June 14th, July 5th, and September 6th.",
+    "raw_date": "Sep 6 10:00 AM – 2:00 PM",
+    "raw_recurrence": "FROM: 10:00 AM TO 02:00 PM",
+    "upcoming_dates": [
+      "Sunday, September 6",
+      "Sunday, September 13",
+      "Sunday, September 20",
+      "Sunday, September 27"
+    ],
+    "schedule_instances": [
+      {
+        "date": "2026-09-06",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-13",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-20",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-27",
+        "start_time": "10:00:00",
+        "end_time": "14:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "MONIKA HERZIG ACOUSTIC PROJECT",
     "url": "https://www.visitsouthbend.com/events/monika-herzig-acoustic-project/",
     "location": "Merrimans’ Playhouse | 401 E. Colfax Ave., Suite 135 | South Bend, IN 46617",
@@ -237,40 +277,6 @@
     ]
   },
   {
-    "title": "OPEN JAZZ SESSION",
-    "url": "https://www.visitsouthbend.com/events/open-jazz-session/",
-    "location": "Merrimans’ Playhouse | 401 E. Colfax Ave., Suite 135 | South Bend, IN 46617",
-    "description": "It’s open to the public. Based on Jazz Standards - Straight-Ahead Jazz. Listen. Play. Discuss. It's a Learning Environment. Bring your Instrument, your Ears, your Friends. Cash Bar NOT available. No BYOB. Popcorn, coffees, soft drinks, and food available at Culture Café.",
-    "raw_date": "Sep 1 7:30 PM – 9:30 PM",
-    "raw_recurrence": "REPEATS WEEKLY",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-01",
-        "start_time": "19:30:00",
-        "end_time": "21:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "\"SEEDS\" BY MEL PENNANT",
-    "url": "https://www.visitsouthbend.com/events/seeds-by-mel-pennant/",
-    "location": "Acting Ensemble on the Avenue | 602 E. Mishwaka Avenue | Mishawaka, IN 46545",
-    "description": "Come see this staged reading that explores the human story behind a tragedy, through the eyes of those left behind: two mothers united in sorrow.",
-    "raw_date": "Sep 1 7:30 PM – 9:30 PM",
-    "raw_recurrence": "ONE PERFORMANCE ONLY",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-01",
-        "start_time": "19:30:00",
-        "end_time": "21:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "SEPTEMBER FIRST FRIDAYS: DOG DAYS OF SUMMER",
     "url": "https://www.visitsouthbend.com/events/september-first-fridays-dog-days-of-summer/",
     "location": "S. Michigan Street, Downtown, South Bend | 100 & 200 Blocks of S. Michigan Street | South Bend, IN 46601",
@@ -301,23 +307,6 @@
         "start_time": null,
         "end_time": null,
         "all_day": true
-      }
-    ]
-  },
-  {
-    "title": "SOUTH BEND CUBS VS. CEDAR RAPIDS",
-    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-5/",
-    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
-    "description": "Game Highlights:\n\nTail Waggin' Tuesady\n\nBring your dog to the ballpark to enjoy the game and adults 21+ can enjoy half off White Claw Seltzers. Dog owners must fill out a waiver prior to entry. QR codes are available at the gates.\n\nTitan Tuesday\n\nFans who wear IU or IUSB clothing or shows their Crimson Card at the box office receive a discount on their ticket. Tickets must be purchased at the box office. | Presented By Indiana University South Bend",
-    "raw_date": "Sep 1 7:05 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-01",
-        "start_time": "19:05:00",
-        "end_time": null,
-        "all_day": false
       }
     ]
   },
@@ -366,6 +355,23 @@
     "schedule_instances": [
       {
         "date": "2026-09-04",
+        "start_time": "19:05:00",
+        "end_time": null,
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "SOUTH BEND CUBS VS. CEDAR RAPIDS - POST-GAME FIREWORKS",
+    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-post-game-fireworks/",
+    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
+    "description": "Game Highlights:\n\nPost-Game Fireworks\n\nJoin us for a special fireworks show following the game.\n\nFan Appreciation Weekend\n\nJoin the South Bend Cubs for the final three games of the regular season with in-game giveaways and a few surprises all weekend long!\n\nSpin to Win Saturday\n\nOn select Saturdays, nine lucky contestants could win a 50\" Smart TV, Martin's Super Market gift card, Visa gift card, Apple iPad, or $500 CASH by spinning our wheel of prizes between innings. Must be 18 years old or older to enter and must be present to win. Gates open at 5:30 p.m.",
+    "raw_date": "Sep 5 7:05 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-05",
         "start_time": "19:05:00",
         "end_time": null,
         "all_day": false
@@ -581,6 +587,32 @@
       {
         "date": "2026-09-04",
         "start_time": "19:00:00",
+        "end_time": "23:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "YART",
+    "url": "https://www.visitsouthbend.com/events/yart/",
+    "location": "59449 Keria Trail | South Bend, IN 46614",
+    "description": "We’re on year 8 of our magical journey of forest artistry!\nYart is an extremely immersive DIY arts and music festival cultivated by the minds of South Bend and neighboring artists and community members.\nSaturday September 5th // 3-11:30pm\nSunday September 6th // 3-11pm\nParking at the Serbian Hall ($5 each day)\nNo over night parking\nAll ages (until about 7, than it gets a lil rowdy and the music gets bit more explicit)",
+    "raw_date": "Sep 5 3:00 PM – 11:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [
+      "Saturday, September 5",
+      "Sunday, September 6"
+    ],
+    "schedule_instances": [
+      {
+        "date": "2026-09-05",
+        "start_time": "15:00:00",
+        "end_time": "23:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-06",
+        "start_time": "15:00:00",
         "end_time": "23:00:00",
         "all_day": false
       }
