@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:eb273140ac78c871e1cb0e54@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:AC⚡DC AT NOTRE DAME STADIUM
 LOCATION:Notre Dame Stadium | Moose Krause Circle | Notre Dame\, IN 46556
 DESCRIPTION:GET THUNDERSTRUCK! AC/DC is bringing the POWER UP TOUR 2026 to 
@@ -38,7 +38,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e486711665257e2af027f1c1@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:AC/DC PWR/UP POP UP
 LOCATION:The Bend Lounge | 129 N. Michigan St. | South Bend\, 46601.
 DESCRIPTION:The official AC/DC PWR/UP Pop Up is coming to South Bend\, crea
@@ -59,7 +59,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fc5ef9e842768393558547bd@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:AC/DC PWR/UP POP UP
 LOCATION:The Bend Lounge | 129 N. Michigan St. | South Bend\, 46601.
 DESCRIPTION:The official AC/DC PWR/UP Pop Up is coming to South Bend\, crea
@@ -80,7 +80,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:78719dee03487d35d1743d19@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:ARTFUL YOGA
 LOCATION:Raclin Murphy Museum of Art | St André Wy | Notre Dame\, 46556
 DESCRIPTION:Engage with the Museum as a space for well-being and inspiratio
@@ -96,7 +96,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d7348615dcf33b7317202f69@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:BAG-A-BAT & ICE CREAM SUNDAES
 LOCATION:St. Patrick's County Park: Harvest Room | 50651 Laurel Road South 
  Bend\, IN 46637 | South Bend\, IN 46637
@@ -114,7 +114,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2537e5eaabb8c1fdcaff6de9@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:CHICKEN RUN (2000)
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
@@ -139,7 +139,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f1241004f74d56848c81ea4f@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:EMMA TAYLOR TRIO
 LOCATION:Merrimans’ Playhouse | 401 E. Colfax Ave.\, Suite 135 | South Be
  nd\, IN 46617
@@ -157,7 +157,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d76275d0a06f6f886e975d85@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:FIRST FRIDAYS SUMMER CONCERT SERIES
 LOCATION:Seitz Park & Howard Park | 219 S St Louis Blvd | South Bend\, IN 4
  6617
@@ -178,7 +178,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:feb8dd7f7dda34202bff04a1@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:GEARS & GRUB FALL CRUISE-IN SERIES
 LOCATION:Newton Park | 801 North Michigan Street | Lakeville\, IN 46536
 DESCRIPTION:🚗🍔 Gears & Grub Fall Cruise-In Series 🍔🚗\n\nStart y
@@ -206,7 +206,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8012e86cdb841d2c8e28db5b@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:GEARS & GRUB FALL CRUISE-IN SERIES
 LOCATION:Newton Park | 801 North Michigan Street | Lakeville\, IN 46536
 DESCRIPTION:🚗🍔 Gears & Grub Fall Cruise-In Series 🍔🚗\n\nStart y
@@ -234,7 +234,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ca4525c020edc09633d09c3e@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:GEARS & GRUB FALL CRUISE-IN SERIES
 LOCATION:Newton Park | 801 North Michigan Street | Lakeville\, IN 46536
 DESCRIPTION:🚗🍔 Gears & Grub Fall Cruise-In Series 🍔🚗\n\nStart y
@@ -262,7 +262,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0a6b5217b67b3f85e1c84c4c@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:GEARS & GRUB FALL CRUISE-IN SERIES
 LOCATION:Newton Park | 801 North Michigan Street | Lakeville\, IN 46536
 DESCRIPTION:🚗🍔 Gears & Grub Fall Cruise-In Series 🍔🚗\n\nStart y
@@ -290,7 +290,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8e438327d2bbcf7f333a5c35@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:IU SEASON OPENER WATCH PARTY
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Let's cheer on the Hoosiers to another undefeated season!\n\nMo
@@ -303,7 +303,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:00e0e9368e5129ac9b99eb59@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:JAMES AUSTIN JR. TRIO
 LOCATION:Merrimans’ Playhouse | 401 E. Colfax Ave.\, Suite 135 | South Be
  nd\, IN 46617
@@ -320,7 +320,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2437aa84d91d8d014782f63a@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:MISHAWAKA MARKET
 LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
 DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
@@ -337,7 +337,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e19b1f6495332aa2afb8dd57@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:MISHAWAKA MARKET
 LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
 DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
@@ -354,7 +354,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a60c4b4ffa60d5ad22d5e6ff@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:MISHAWAKA MARKET
 LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
 DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
@@ -371,7 +371,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6331e9e02292f5f371634212@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:MISHAWAKA MARKET
 LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
 DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
@@ -388,7 +388,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2e2adace48a9286dbc8215f5@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:MONIKA HERZIG ACOUSTIC PROJECT
 LOCATION:Merrimans’ Playhouse | 401 E. Colfax Ave.\, Suite 135 | South Be
  nd\, IN 46617
@@ -411,7 +411,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:840ce1fef048ddaf41f5e47d@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:OBSESSION (2025)
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
@@ -431,27 +431,8 @@ DTEND;VALUE=DATE:20260906
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:73432bd04fc40356c885a62f@visitsouthbend.com
-DTSTAMP:20260903T061012Z
-SUMMARY:SEPTEMBER CARS & COFFEE
-LOCATION:Studebaker National Museum | 201 Chapin St | South Bend\, 46601
-DESCRIPTION:Join us 8am-10am on Saturday\, September 5\, in the Museum Camp
- us parking lot\, for the opportunity to enjoy coffee\, donuts\, and incre
- dible cars from the community. This month’s featured club is the Conver
- tible Cadillac Crew from South Bend Indiana\, but we welcome all marques\
- , models\, and years of vehicles.\n\nDuring the event\, admission to the 
- Studebaker National Museum is free.\n\nSpecial thanks to our presenting s
- ponsor Donovan Hawkes!\n\nMore Info: https://www.visitsouthbend.com/event
- s/september-cars-coffee-presented-by-donovan-hawkes-state-farm-agency/
-URL:https://www.visitsouthbend.com/events/september-cars-coffee-presented-b
- y-donovan-hawkes-state-farm-agency/
-DTSTART;TZID=America/Indiana/Indianapolis:20260905T080000
-DTEND;TZID=America/Indiana/Indianapolis:20260905T100000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:8a69a64ee8c04af611404fe8@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:SEPTEMBER FIRST FRIDAYS: DOG DAYS OF SUMMER
 LOCATION:S. Michigan Street\, Downtown\, South Bend | 100 & 200 Blocks of S
  . Michigan Street | South Bend\, IN 46601
@@ -480,7 +461,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:021e04b473dda3907c6dc96d@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:SOUTH BEND CUBS BAR CRAWL
 LOCATION:501 W South St | South Bend\, IN
 DESCRIPTION:The South Bend Cubs 2026 Bar Crawl will take place on Saturday\
@@ -501,8 +482,28 @@ DTEND;VALUE=DATE:20260906
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:d8033731cc38fec9d2eb47aa@visitsouthbend.com
+DTSTAMP:20260903T180809Z
+SUMMARY:SOUTH BEND CUBS VS. CEDAR RAPIDS
+LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
+DESCRIPTION:Game Highlights:\n\nSunday Funday\n\nArrive early for a special
+  autograph session with the South Bend Cubs players and play catch on the
+  field before the game. Gates open at 12:30 p.m.\n\nFan Appreciation Week
+ end\n\nJoin the South Bend Cubs for the final three games of the regular 
+ season with in-game giveaways and a few surprises all weekend long!\n\nPr
+ omotion:\n\nSouth Bend Cubs Jersey Cooler Bag\n\nThe first 1\,000 fans th
+ rough the gates will receive a South Bend Cubs jersey shaped cooler bag.\
+ n\nMore Info: https://www.visitsouthbend.com/events/south-bend-cubs-vs-ce
+ dar-rapids-7/
+URL:https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-7
+ /
+DTSTART;TZID=America/Indiana/Indianapolis:20260906T140500
+DTEND;TZID=America/Indiana/Indianapolis:20260906T170500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:26858f5521ef2fbc48cc8204@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:SOUTH BEND CUBS VS. CEDAR RAPIDS - COLLEGE NIGHT
 LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
 DESCRIPTION:Ticket Offer:\n\nInternational Cabernet Day\n\nRaise a glass wi
@@ -526,7 +527,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9ef5ab9ecad9fe85963a8067@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:SOUTH BEND CUBS VS. CEDAR RAPIDS - FRIDAY FIREWORKS
 LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
 DESCRIPTION:Game Highlights:\n\nFantastic Friday Fireworks\n\nEnjoy a spect
@@ -543,7 +544,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f4a09c8ca0afa87d7332bdd1@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:SOUTH BEND CUBS VS. CEDAR RAPIDS - POST-GAME FIREWORKS
 LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
 DESCRIPTION:Game Highlights:\n\nPost-Game Fireworks\n\nJoin us for a specia
@@ -563,26 +564,8 @@ DTEND;TZID=America/Indiana/Indianapolis:20260905T220500
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5f78f8b9676231ed9b62c929@visitsouthbend.com
-DTSTAMP:20260903T061012Z
-SUMMARY:SUNSET SKATING
-LOCATION:Howard Park | 219 S St Louis Blvd | South Bend\, 46617
-DESCRIPTION:Glide into golden hour with us at our Sunset Skating series at 
- Howard Park! Join us on select Fridays from 6–8 PM for an evening full 
- of fun\, great vibes\, and live music. Bring your own skates or rent a pa
- ir on-site for $3.\n\nSunset Skating Schedule\n\nJune 19- Golden Glide w/
-  DJ Cherry\n\nJuly 10- Teen Nite w/ DJ Classic\n\nAugust 7- DJ Classic\n\
- nSept 4- Old School w/ Classic\n\nOctober 2- Fall Vibes w/ DJ Cherry\n\nN
- o registration required! Event is free for all ages.\n\nMore Info: https:
- //www.visitsouthbend.com/events/sunset-skating-5/
-URL:https://www.visitsouthbend.com/events/sunset-skating-5/
-DTSTART;TZID=America/Indiana/Indianapolis:20260904T180000
-DTEND;TZID=America/Indiana/Indianapolis:20260904T200000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:20ddf0acbec2025241a5a3fb@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:THE 2026 CONWAY LECTURES: RELIGION AND LAW IN THE MEDIEVAL WORLD
 LOCATION:715 Hesburgh Library (Medieval Institute) | 715 Hesburgh Library |
   Notre Dame\, IN 46556
@@ -600,7 +583,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a20db11139f5de87ff65a967@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:WUBU MIXER - ALL WHITE PARTY
 LOCATION:The Island at The Century Center | 120 South Doctor Martin Luther 
  King Junior Boulevard | South Bend\, IN 46601
@@ -626,7 +609,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ea42cdab0f1ea353f450f014@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:YART
 LOCATION:59449 Keria Trail | South Bend\, IN 46614
 DESCRIPTION:We’re on year 8 of our magical journey of forest artistry!\nY
@@ -643,7 +626,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5553d22b611a80521c2f400a@visitsouthbend.com
-DTSTAMP:20260903T061012Z
+DTSTAMP:20260903T180809Z
 SUMMARY:YART
 LOCATION:59449 Keria Trail | South Bend\, IN 46614
 DESCRIPTION:We’re on year 8 of our magical journey of forest artistry!\nY

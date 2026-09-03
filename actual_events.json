@@ -277,23 +277,6 @@
     ]
   },
   {
-    "title": "SEPTEMBER CARS & COFFEE",
-    "url": "https://www.visitsouthbend.com/events/september-cars-coffee-presented-by-donovan-hawkes-state-farm-agency/",
-    "location": "Studebaker National Museum | 201 Chapin St | South Bend, 46601",
-    "description": "Join us 8am-10am on Saturday, September 5, in the Museum Campus parking lot, for the opportunity to enjoy coffee, donuts, and incredible cars from the community. This month’s featured club is the Convertible Cadillac Crew from South Bend Indiana, but we welcome all marques, models, and years of vehicles.\n\nDuring the event, admission to the Studebaker National Museum is free.\n\nSpecial thanks to our presenting sponsor Donovan Hawkes!",
-    "raw_date": "Sep 5 8:00 AM – 10:00 AM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-05",
-        "start_time": "08:00:00",
-        "end_time": "10:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "SEPTEMBER FIRST FRIDAYS: DOG DAYS OF SUMMER",
     "url": "https://www.visitsouthbend.com/events/september-first-fridays-dog-days-of-summer/",
     "location": "S. Michigan Street, Downtown, South Bend | 100 & 200 Blocks of S. Michigan Street | South Bend, IN 46601",
@@ -324,6 +307,23 @@
         "start_time": null,
         "end_time": null,
         "all_day": true
+      }
+    ]
+  },
+  {
+    "title": "SOUTH BEND CUBS VS. CEDAR RAPIDS",
+    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-7/",
+    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
+    "description": "Game Highlights:\n\nSunday Funday\n\nArrive early for a special autograph session with the South Bend Cubs players and play catch on the field before the game. Gates open at 12:30 p.m.\n\nFan Appreciation Weekend\n\nJoin the South Bend Cubs for the final three games of the regular season with in-game giveaways and a few surprises all weekend long!\n\nPromotion:\n\nSouth Bend Cubs Jersey Cooler Bag\n\nThe first 1,000 fans through the gates will receive a South Bend Cubs jersey shaped cooler bag.",
+    "raw_date": "Sep 6 2:05 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-06",
+        "start_time": "14:05:00",
+        "end_time": null,
+        "all_day": false
       }
     ]
   },
@@ -374,23 +374,6 @@
         "date": "2026-09-05",
         "start_time": "19:05:00",
         "end_time": null,
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "SUNSET SKATING",
-    "url": "https://www.visitsouthbend.com/events/sunset-skating-5/",
-    "location": "Howard Park | 219 S St Louis Blvd | South Bend, 46617",
-    "description": "Glide into golden hour with us at our Sunset Skating series at Howard Park! Join us on select Fridays from 6–8 PM for an evening full of fun, great vibes, and live music. Bring your own skates or rent a pair on-site for $3.\n\nSunset Skating Schedule\n\nJune 19- Golden Glide w/ DJ Cherry\n\nJuly 10- Teen Nite w/ DJ Classic\n\nAugust 7- DJ Classic\n\nSept 4- Old School w/ Classic\n\nOctober 2- Fall Vibes w/ DJ Cherry\n\nNo registration required! Event is free for all ages.",
-    "raw_date": "Sep 4 6:00 PM – 8:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-04",
-        "start_time": "18:00:00",
-        "end_time": "20:00:00",
         "all_day": false
       }
     ]
