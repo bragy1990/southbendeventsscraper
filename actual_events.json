@@ -74,6 +74,23 @@
     ]
   },
   {
+    "title": "CHICKEN RUN (2000)",
+    "url": "https://www.visitsouthbend.com/events/chicken-run-2000/",
+    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
+    "description": "Browning Cinema Professor Pfinklepfunder's $1 Sunday Films Directed by Peter Lord, Nick Park With Phil Daniels, Lynn Ferguson, Tony Haygarth Rated G, 84 minutes, Blu-ray The plasticine adventures of Wallace & Gromit are well known around the globe and have garnered shelfloads of awards. Roughly 25 years ago, the creative team behind that expansive world forged a new creative path using the same stop-motion animation style but with a new set of characters in Chicken Run. Borrowing from Steve McQueen's The Great Escape, Chicken Run is also a breakout adventure, but with the likes of chickens who live on an egg farm that certainly looks more like a prisoner-of-war camp and not a cage-free shady acres. A rebel in the henhouse, Ginger, incites upheaval as she leads her fellow feathered friends on a mission to free and save their lives. Sponsored by the Meg and John P. Brogan Endowment for Classic Cinema.",
+    "raw_date": "Sep 6 1:00 PM – 2:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-06",
+        "start_time": "13:00:00",
+        "end_time": "14:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "EMMA TAYLOR TRIO",
     "url": "https://www.visitsouthbend.com/events/emma-taylor-trio/",
     "location": "Merrimans’ Playhouse | 401 E. Colfax Ave., Suite 135 | South Bend, IN 46617",
@@ -145,23 +162,6 @@
         "date": "2026-09-25",
         "start_time": "17:00:00",
         "end_time": null,
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "INSIGHTS IN HISTORY – THE FIRST SETTLERS OF INDIANA",
-    "url": "https://www.visitsouthbend.com/events/insights-in-history-the-first-settlers-of-indiana/",
-    "location": "The History Museum | 808 W Washington St | South Bend, 46601",
-    "description": "In conjunction with our exhibit First Peoples, First Settlers: Indiana’s Interwoven Roots, Exhibits Coordinator Emily Demler will tell the story of the first European settlers to come to Indiana, focusing on influential figures like Pierre Navarre, Alexis Coquillard, and others. A tour of the exhibit will be offered after the talk.\n\nRegister today at https://historymuseumsb.app.ne...",
-    "raw_date": "Sep 2 1:30 PM – 2:30 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-02",
-        "start_time": "13:30:00",
-        "end_time": "14:30:00",
         "all_day": false
       }
     ]
@@ -277,6 +277,23 @@
     ]
   },
   {
+    "title": "SEPTEMBER CARS & COFFEE",
+    "url": "https://www.visitsouthbend.com/events/september-cars-coffee-presented-by-donovan-hawkes-state-farm-agency/",
+    "location": "Studebaker National Museum | 201 Chapin St | South Bend, 46601",
+    "description": "Join us 8am-10am on Saturday, September 5, in the Museum Campus parking lot, for the opportunity to enjoy coffee, donuts, and incredible cars from the community. This month’s featured club is the Convertible Cadillac Crew from South Bend Indiana, but we welcome all marques, models, and years of vehicles.\n\nDuring the event, admission to the Studebaker National Museum is free.\n\nSpecial thanks to our presenting sponsor Donovan Hawkes!",
+    "raw_date": "Sep 5 8:00 AM – 10:00 AM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-05",
+        "start_time": "08:00:00",
+        "end_time": "10:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "SEPTEMBER FIRST FRIDAYS: DOG DAYS OF SUMMER",
     "url": "https://www.visitsouthbend.com/events/september-first-fridays-dog-days-of-summer/",
     "location": "S. Michigan Street, Downtown, South Bend | 100 & 200 Blocks of S. Michigan Street | South Bend, IN 46601",
@@ -307,23 +324,6 @@
         "start_time": null,
         "end_time": null,
         "all_day": true
-      }
-    ]
-  },
-  {
-    "title": "SOUTH BEND CUBS VS. CEDAR RAPIDS",
-    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-6/",
-    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
-    "description": "Game Highlights:\n\nWine Wednesday\n\nFans 21 and older can enjoy half priced glasses of wine or wine slushies. Does not include sangria.\n\nSilver Sluggers\n\nFans that are 60 years old and above can purchase tickets at 50% off to every Wednesday home game. Plus, earn rewards for games attended.",
-    "raw_date": "Sep 2 7:05 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-02",
-        "start_time": "19:05:00",
-        "end_time": null,
-        "all_day": false
       }
     ]
   },
@@ -379,6 +379,23 @@
     ]
   },
   {
+    "title": "SUNSET SKATING",
+    "url": "https://www.visitsouthbend.com/events/sunset-skating-5/",
+    "location": "Howard Park | 219 S St Louis Blvd | South Bend, 46617",
+    "description": "Glide into golden hour with us at our Sunset Skating series at Howard Park! Join us on select Fridays from 6–8 PM for an evening full of fun, great vibes, and live music. Bring your own skates or rent a pair on-site for $3.\n\nSunset Skating Schedule\n\nJune 19- Golden Glide w/ DJ Cherry\n\nJuly 10- Teen Nite w/ DJ Classic\n\nAugust 7- DJ Classic\n\nSept 4- Old School w/ Classic\n\nOctober 2- Fall Vibes w/ DJ Cherry\n\nNo registration required! Event is free for all ages.",
+    "raw_date": "Sep 4 6:00 PM – 8:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-04",
+        "start_time": "18:00:00",
+        "end_time": "20:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "THE 2026 CONWAY LECTURES: RELIGION AND LAW IN THE MEDIEVAL WORLD",
     "url": "https://www.visitsouthbend.com/events/the-2026-conway-lectures-religion-and-law-in-the-medieval-world/",
     "location": "715 Hesburgh Library (Medieval Institute) | 715 Hesburgh Library | Notre Dame, IN 46556",
@@ -391,186 +408,6 @@
         "date": "2026-09-03",
         "start_time": "17:00:00",
         "end_time": "14:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "TRIVIA AT MANNY'S",
-    "url": "https://www.visitsouthbend.com/events/trivia-at-mannys/",
-    "location": "Manny's | 503 E. Colfax Ave | South Bend, IN 46617",
-    "description": "Manny's is bringing trivia to our weekly rotation of events! We're teaming up with local favorite Indiana Trivia for the best selection of brain teasers and questions this side of the St. Joseph River! Come in to win - bragging rights and gift cards are on the line!",
-    "raw_date": "Sep 2 7:00 PM – 10:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [
-      "Wednesday, September 2",
-      "Wednesday, September 9",
-      "Wednesday, September 16",
-      "Wednesday, September 23",
-      "Wednesday, September 30",
-      "Wednesday, October 7",
-      "Wednesday, October 14",
-      "Wednesday, October 21",
-      "Wednesday, October 28",
-      "Wednesday, November 4",
-      "Wednesday, November 11",
-      "Wednesday, November 18",
-      "Wednesday, November 25",
-      "Wednesday, December 2",
-      "Wednesday, December 9",
-      "Wednesday, December 16",
-      "Wednesday, December 23",
-      "Wednesday, December 30",
-      "Wednesday, January 6",
-      "Wednesday, January 13",
-      "Wednesday, January 20",
-      "Wednesday, January 27",
-      "Wednesday, February 3",
-      "Wednesday, February 10"
-    ],
-    "schedule_instances": [
-      {
-        "date": "2026-09-02",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-09",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-16",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-23",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-30",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-10-07",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-10-14",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-10-21",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-10-28",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-11-04",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-11-11",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-11-18",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-11-25",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-12-02",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-12-09",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-12-16",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-12-23",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-12-30",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2027-01-06",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2027-01-13",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2027-01-20",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2027-01-27",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2027-02-03",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2027-02-10",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
         "all_day": false
       }
     ]
