@@ -40,40 +40,6 @@
     ]
   },
   {
-    "title": "ARTFUL YOGA",
-    "url": "https://www.visitsouthbend.com/events/artful-yoga/",
-    "location": "Raclin Murphy Museum of Art | St André Wy | Notre Dame, 46556",
-    "description": "Engage with the Museum as a space for well-being and inspiration. Join yoga instructor Steve Krojniewski in the galleries to relax and recharge while surrounded by works from the collection. Mats are provided or you can bring your own. Artful Yoga is free and open to all but is limited to the first 30 participants.",
-    "raw_date": "Sep 3 5:30 PM – 6:30 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-03",
-        "start_time": "17:30:00",
-        "end_time": "18:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "BAG-A-BAT & ICE CREAM SUNDAES",
-    "url": "https://www.visitsouthbend.com/events/bag-a-bat-ice-cream-sundaes/",
-    "location": "St. Patrick's County Park: Harvest Room | 50651 Laurel Road South Bend, IN 46637 | South Bend, IN 46637",
-    "description": "Discover the nocturnal world of Indiana's flying mammal with bat Biologist Jeremy Sheets. We will begin with an indoor presentation about bats found in Indiana, followed by examining bats as they are caught in the mist nets. Then enjoy an ice cream sundae with toppings pollinated by fruit bats. Registration and payment required by Tuesday, September 1.",
-    "raw_date": "Sep 3 7:00 PM – 9:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-03",
-        "start_time": "19:00:00",
-        "end_time": "21:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "CHICKEN RUN (2000)",
     "url": "https://www.visitsouthbend.com/events/chicken-run-2000/",
     "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
@@ -167,6 +133,23 @@
     ]
   },
   {
+    "title": "GREY GARDENS (1975)",
+    "url": "https://www.visitsouthbend.com/events/grey-gardens-1975/",
+    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
+    "description": "Browning Cinema Sunday Docs Directed by Ellen Hovde, Albert Maysles, David Maysles, Muffie Meyer With Little Edie Bouvier Beale, Edith Bouvier Beale, Brooks Hyers Rated PG, 94 minutes, DCP Meet Big and Little Edie Beale: mother and daughter, high-society dropouts, and reclusive cousins of Jackie Onassis. The two manage to thrive together (with the help of some raccoons) amid the decay and disorder of their East Hampton, New York, mansion, making for an eerily ramshackle echo of the American Camelot. An impossibly intimate portrait, this 1976 documentary by Albert and David Maysles, codirected by Ellen Hovde and Muffie Meyer, quickly became a cult classic and established Little Edie as a fashion icon and philosopher queen. Sponsored by the Meg and John P. Brogan Endowment for Documentary Film.",
+    "raw_date": "Sep 6 4:00 PM – 5:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-06",
+        "start_time": "16:00:00",
+        "end_time": "17:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "IU SEASON OPENER WATCH PARTY",
     "url": "https://www.visitsouthbend.com/events/iu-season-opener-watch-party/",
     "location": "Manny's | 503 E. Colfax Ave | South Bend, IN 46617",
@@ -241,23 +224,6 @@
     ]
   },
   {
-    "title": "MONIKA HERZIG ACOUSTIC PROJECT",
-    "url": "https://www.visitsouthbend.com/events/monika-herzig-acoustic-project/",
-    "location": "Merrimans’ Playhouse | 401 E. Colfax Ave., Suite 135 | South Bend, IN 46617",
-    "description": "Composer and pianist Monika Herzig leads her quartet featuring guitarist Peter Kienle in a program centered on original compositions from her latest release, Transparent (2026), alongside selections from her extensive catalog of original recordings spanning more than two decades. Her music blends contemporary jazz with lyrical composition, inventive improvisation, and diverse musical influences, creating a distinctive artistic voice that continues to evolve through each recording project. Featuring original works by Herzig and selected compositions by guitarist Peter Kienle, the ensemble balances thoughtfully crafted compositions with dynamic ensemble interaction and spontaneous improvisation.\n\nMonika Herzig - piano\n\nPeter Kienle - bass\n\nJohn Valdez - drums",
-    "raw_date": "Sep 3 7:30 PM – 9:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-03",
-        "start_time": "19:30:00",
-        "end_time": "21:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "OBSESSION (2025)",
     "url": "https://www.visitsouthbend.com/events/obsession-2025/",
     "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
@@ -277,6 +243,75 @@
     ]
   },
   {
+    "title": "POTAWATOMI PARK SUMMER CONCERT SERIES",
+    "url": "https://www.visitsouthbend.com/events/potawatomi-park-summer-concert-series/",
+    "location": "Potawatomi Park | 500 S. Greenlawn Ave | South Bend, IN 46615",
+    "description": "Indulge in the vibrant sounds of summer and join us at our FREE Summer Concert Series at Potawatomi Park! Each Sunday evening (6-8pm) from June to September, you’ll have a chance to enjoy live music, fun community nights, and rotating food trucks with your friends and family – just bring a blanket or chair and your Sunday evening plans are set! The performer lineup is as follows:\n\n- June 14 – Mr. Z\n- June 21 – PT and the Cruisers\n- June 28 – Kennedy Kitchen\n- July 5 – Brian Mach\n- July 12 – Michiana String Collective\n- July 19 – Hipposonics\n- July 26 – Left Side of the Dial\n- August 2 – The Resurrection Blues Band\n- August 9 – Now & Then\n- August 16 – SBSO Summer Concert Series\n- August 23 – Paul Zulas\n- August 30 – Soul Discovery\n- September 6 – Los Luna Latin Band\n- September 13 – Van Dyke Revue\n\nSee you there!\n\nPLEASE NOTE: newly constructed parking spaces are now available at Potawatomi Park on Wall Street – please utilize these spaces and refrain from parking in the neighborhoods as much as possible.",
+    "raw_date": "Sep 6 6:00 PM – 8:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [
+      "Sunday, September 6",
+      "Sunday, September 13"
+    ],
+    "schedule_instances": [
+      {
+        "date": "2026-09-06",
+        "start_time": "18:00:00",
+        "end_time": "20:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-13",
+        "start_time": "18:00:00",
+        "end_time": "20:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "RAISING ARIZONA (1987)",
+    "url": "https://www.visitsouthbend.com/events/raising-arizona-1987/",
+    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
+    "description": "Browning Cinema Crime, Blood, and Laughs: The Coen Brothers Directed by Joel Coen With Nicolas Cage, Holly Hunter, John Goodman Rated PG-13, 94 minutes, Blu-ray Herbert I. \"Hi\" McDunnough (Nick Cage) is a petty thief who finds himself in and out of Arizona prisons for knocking off gas stations. While being processed one day, he meets and falls in love with Ed (Holly Hunter) , a cop who takes his mugshots. Marital life reforms Hi; however, when tests show he is infertile and unable to adopt, Ed pushes her spouse to go back and get her a toddler at whatever cost. Sponsored by the Meg and John P. Brogan Endowment for Classic Cinema.",
+    "raw_date": "Sep 8 7:30 PM – 9:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-08",
+        "start_time": "19:30:00",
+        "end_time": "21:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "SEITZ PARK SUMMER CONCERT SERIES",
+    "url": "https://www.visitsouthbend.com/events/seitz-park-summer-concert-series/",
+    "location": "Seitz Park | 316 E. Colfax Ave | South Bend, IN 46617",
+    "description": "Indulge in the vibrant sounds of summer and join us at our FREE Summer Concert Series at Seitz Park! Each Sunday afternoon (3-5pm) from June to September, you’ll have a chance to enjoy live music, fun community events, and rotating food trucks with your friends and family – just bring a blanket or chair and your Sunday afternoon plans are set! The performer lineup is as follows:\n\n- June 7 – DreamTeam Live\n- June 14 – The Motown Machine\n- June 21 – The Resurrection Blues Band\n- June 28 – Happy Campers\n- July 5 – Hipposonics\n- July 12 – Mr. Z\n- July 19 – Zo Keys Band\n- July 26 – Now & Then\n- August 2 – Alligator Blackbird\n- August 9 – Michiana String Collective\n- August 16 – Kennedy Kitchen\n- August 23 – Corey Ronell\n- August 30 – Ray Davis\n- September 6 – Left Side of the Dial\n- September 13 – Memphis Underground\n\nSee you there!",
+    "raw_date": "Sep 6 3:00 PM – 5:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [
+      "Sunday, September 6",
+      "Sunday, September 13"
+    ],
+    "schedule_instances": [
+      {
+        "date": "2026-09-06",
+        "start_time": "15:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-13",
+        "start_time": "15:00:00",
+        "end_time": "17:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "SEPTEMBER FIRST FRIDAYS: DOG DAYS OF SUMMER",
     "url": "https://www.visitsouthbend.com/events/september-first-fridays-dog-days-of-summer/",
     "location": "S. Michigan Street, Downtown, South Bend | 100 & 200 Blocks of S. Michigan Street | South Bend, IN 46601",
@@ -289,6 +324,41 @@
         "date": "2026-09-04",
         "start_time": "17:00:00",
         "end_time": "21:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "SHAMROCK SERIES WATCH PARTY",
+    "url": "https://www.visitsouthbend.com/events/shamrock-series-watch-party/",
+    "location": "Manny's | 503 E. Colfax Ave | South Bend, IN 46617",
+    "description": "Join us to watch the first ND game of the season!",
+    "raw_date": "Sep 6 to Sep 9 7:30 PM – 11:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-06",
+        "start_time": "19:30:00",
+        "end_time": "23:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-07",
+        "start_time": "19:30:00",
+        "end_time": "23:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-08",
+        "start_time": "19:30:00",
+        "end_time": "23:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-09",
+        "start_time": "19:30:00",
+        "end_time": "23:00:00",
         "all_day": false
       }
     ]
@@ -322,23 +392,6 @@
       {
         "date": "2026-09-06",
         "start_time": "14:05:00",
-        "end_time": null,
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "SOUTH BEND CUBS VS. CEDAR RAPIDS - COLLEGE NIGHT",
-    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-college-night/",
-    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
-    "description": "Ticket Offer:\n\nInternational Cabernet Day\n\nRaise a glass with the South Bend Cubs on September 3 as we celebrate International Cabernet Day with specialty wine-tasting-style experience! This exclusive ticket package includes a game ticket on the United Federal Credit Union Rooftop, a commemorative South Bend Cubs wine glass, access to a two-hour all-you-can-eat buffet, five 2-oz samples of each featured wine, and one complimentary drink ticket to redeem at the rooftop bar. Gates open at 6:00 p.m., with the buffet available from 6:00 p.m.- 8:00 p.m.\n\nGame Highlights:\n\nThirsty Thursday\n\nEnjoy $3 fountain sodas (24 oz.) and domestic draft beer (16 oz.) all game long.\n\nTri-Campus College Night\n\nWelcoming students from the University of Notre Dame, Holy Cross College, and St. Mary's College.",
-    "raw_date": "Sep 3 7:05 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-03",
-        "start_time": "19:05:00",
         "end_time": null,
         "all_day": false
       }
