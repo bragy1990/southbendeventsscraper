@@ -21,18 +21,12 @@
     "url": "https://www.visitsouthbend.com/events/ac-dc-pwr-up-pop-up/",
     "location": "The Bend Lounge | 129 N. Michigan St. | South Bend, 46601.",
     "description": "The official AC/DC PWR/UP Pop Up is coming to South Bend, creating the perfect place for fans to gather and extend the concert experience around AC/DC’s Notre Dame show.\n\nFree and open to the public, the pop-up brings fans together to explore iconic AC/DC props and photo opportunities, shop exclusive pop-up merchandise and limited South Bend event designs, and meet up with fellow fans.\n\nThe first 200 fans through the door will receive a free commemorative pop-up poster, while supplies last.\n\nThe Bend Lounge\n\n129 N. Michigan St.\n\nSouth Bend, IN 46601\n\nSeptember 3: 12 PM–9 PM\n\nSeptember 4: 11 AM–6 PM\n\nFree entry. No concert ticket required.\n\nWebsite: PWRUPTOUR.ACDC.COM",
-    "raw_date": "Sep 3 to Sep 4 12:00 PM – 6:00 PM",
+    "raw_date": "Sep 3 12:00 PM – 6:00 PM",
     "raw_recurrence": "2 DAYS ONLY",
     "upcoming_dates": [],
     "schedule_instances": [
       {
         "date": "2026-09-03",
-        "start_time": "12:00:00",
-        "end_time": "18:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-04",
         "start_time": "12:00:00",
         "end_time": "18:00:00",
         "all_day": false
@@ -184,6 +178,23 @@
     ]
   },
   {
+    "title": "MEET SHADE: COMMUNITY PREVIEW FOR SHADE BAR & GRILL",
+    "url": "https://www.visitsouthbend.com/events/meet-shade-community-preview-for-shade-bar-grill/",
+    "location": "DoubleTree By Hilton Hotel Downtown South Bend | 123 DR MLK Blvd | South Bend, IN 46601",
+    "description": "Be among the first to experience Shade—South Bend’s new downtown gathering place inside the DoubleTree by Hilton South Bend.\n\nJoin us Wednesday, September 9, from 5:30–8:30 PM for a special community preview featuring chef-inspired tastings, cocktails, guided tours, and networking.\n\nWhether you are planning a client dinner, an after-work gathering, a celebration, or simply searching for a new place to connect, Shade was created with South Bend in mind.\n\nCome meet the team, explore the space, taste the menu, and discover why Shade is more than a restaurant—it is where South Bend gathers.\n\nDoubleTree by Hilton South Bend\n\n123 N. Dr. Martin Luther King Jr. Blvd.\n\nSouth Bend, Indiana 46601",
+    "raw_date": "Sep 9 5:30 PM – 8:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-09",
+        "start_time": "17:30:00",
+        "end_time": "20:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "MISHAWAKA MARKET",
     "url": "https://www.visitsouthbend.com/events/mishawaka-market/",
     "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46545",
@@ -220,25 +231,6 @@
         "start_time": "10:00:00",
         "end_time": "14:00:00",
         "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "OBSESSION (2025)",
-    "url": "https://www.visitsouthbend.com/events/obsession-2025/",
-    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
-    "description": "New at the Browning Directed by Curry Barker With Michael Johnston, Inde Navarrette, Cooper Tomlinson Rated R, 109 minutes, DCP When a film is made for less than $1,000,000 and makes over half a billion dollars at the box office, then it's a safe call that society is at some level obsessed with it. What made and continues to make this story about burgeoning romance that grows into something horrific such a cultural touchstone? While unpacking that, either come see again or catch up with ingénue Curry Barker's story of a wish for true love that pitches into a truly scary relationship",
-    "raw_date": "Sep 3",
-    "raw_recurrence": "",
-    "upcoming_dates": [
-      "Saturday, September 5"
-    ],
-    "schedule_instances": [
-      {
-        "date": "2026-09-05",
-        "start_time": null,
-        "end_time": null,
-        "all_day": true
       }
     ]
   },
@@ -432,18 +424,174 @@
     ]
   },
   {
-    "title": "THE 2026 CONWAY LECTURES: RELIGION AND LAW IN THE MEDIEVAL WORLD",
-    "url": "https://www.visitsouthbend.com/events/the-2026-conway-lectures-religion-and-law-in-the-medieval-world/",
-    "location": "715 Hesburgh Library (Medieval Institute) | 715 Hesburgh Library | Notre Dame, IN 46556",
-    "description": "Join the University of Notre Dame's Medieval Institute for the 2026 Conway Lectures on \"Religion and Law in the Medieval World\". Featuring fascinating presentations by three expert speakers, as well as a free opening reception and lunch (with rsvp).",
-    "raw_date": "Sep 3 5:00 PM – 2:00 PM",
+    "title": "TRIVIA AT MANNY'S",
+    "url": "https://www.visitsouthbend.com/events/trivia-at-mannys/",
+    "location": "Manny's | 503 E. Colfax Ave | South Bend, IN 46617",
+    "description": "Manny's is bringing trivia to our weekly rotation of events! We're teaming up with local favorite Indiana Trivia for the best selection of brain teasers and questions this side of the St. Joseph River! Come in to win - bragging rights and gift cards are on the line!",
+    "raw_date": "Sep 9 7:00 PM – 10:00 PM",
     "raw_recurrence": "",
-    "upcoming_dates": [],
+    "upcoming_dates": [
+      "Wednesday, September 9",
+      "Wednesday, September 16",
+      "Wednesday, September 23",
+      "Wednesday, September 30",
+      "Wednesday, October 7",
+      "Wednesday, October 14",
+      "Wednesday, October 21",
+      "Wednesday, October 28",
+      "Wednesday, November 4",
+      "Wednesday, November 11",
+      "Wednesday, November 18",
+      "Wednesday, November 25",
+      "Wednesday, December 2",
+      "Wednesday, December 9",
+      "Wednesday, December 16",
+      "Wednesday, December 23",
+      "Wednesday, December 30",
+      "Wednesday, January 6",
+      "Wednesday, January 13",
+      "Wednesday, January 20",
+      "Wednesday, January 27",
+      "Wednesday, February 3",
+      "Wednesday, February 10"
+    ],
     "schedule_instances": [
       {
-        "date": "2026-09-03",
-        "start_time": "17:00:00",
-        "end_time": "14:00:00",
+        "date": "2026-09-09",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-16",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-23",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-30",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-07",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-14",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-21",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-10-28",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-04",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-11",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-18",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-11-25",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-12-02",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-12-09",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-12-16",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-12-23",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-12-30",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2027-01-06",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2027-01-13",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2027-01-20",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2027-01-27",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2027-02-03",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "all_day": false
+      },
+      {
+        "date": "2027-02-10",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
         "all_day": false
       }
     ]
