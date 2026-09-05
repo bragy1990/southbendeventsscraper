@@ -612,16 +612,9 @@
     "raw_date": "Sep 5 3:00 PM – 11:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [
-      "Saturday, September 5",
       "Sunday, September 6"
     ],
     "schedule_instances": [
-      {
-        "date": "2026-09-05",
-        "start_time": "15:00:00",
-        "end_time": "23:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-09-06",
         "start_time": "15:00:00",
