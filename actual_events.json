@@ -1,34 +1,67 @@
 [
   {
-    "title": "AC⚡DC AT NOTRE DAME STADIUM",
-    "url": "https://www.visitsouthbend.com/events/ac-dc-at-notre-dame-stadium/",
-    "location": "Notre Dame Stadium | Moose Krause Circle | Notre Dame, IN 46556",
-    "description": "GET THUNDERSTRUCK! AC/DC is bringing the POWER UP TOUR 2026 to South Bend at Notre Dame Stadium on Friday, September 4 with special guest The Pretty Reckless!",
-    "raw_date": "Sep 4 7:30 PM",
-    "raw_recurrence": "STARTING: 07:30 PM",
+    "title": "ACTORS FROM THE LONDON STAGE PRESENTS MUCH ADO ABOUT NOTHING",
+    "url": "https://www.visitsouthbend.com/events/actors-from-the-london-stage-presents-much-ado-about-nothing-2/",
+    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
+    "description": "Presenting Series Exuberant, joyful, and above all, ravishingly entertaining, Much Ado About Nothing is one of Shakespeare's most celebrated and enduringly popular comedies. This delightful romp deftly explores notions of identity, marriage, and communication through the sparring between Benedick and Beatrice, two of Shakespeare's most gloriously realized characters. With its piquant blend of prickly banter, mistaken identities, and swoon-worthy romance, Much Ado About Nothing is sheer theatrical delight. Much Ado About Nothing is brought to life by Actors From The London Stage, the renowned 5-actor touring group founded in 1975 by Dr. Homer \"Murph\" Swander and Sir Patrick Stewart, along with many other celebrated actors from the Royal Shakespeare Company. This remarkable company has called Shakespeare at Notre Dame its artistic home since 2000, and travels to multiple colleges and universities nationwide twice annually. Each member of this self-directed ensemble assumes multiple roles while favoring minimal props and costumes, creating a theatrical experience unlike any other. ASL available for Friday's performance. For tickets within view of the ASL interpreter, click here. Co-sponsored by Shakespeare at Notre Dame.",
+    "raw_date": "Sep 10 7:30 PM – 8:30 PM",
+    "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-09-04",
+        "date": "2026-09-10",
         "start_time": "19:30:00",
-        "end_time": null,
+        "end_time": "20:30:00",
         "all_day": false
       }
     ]
   },
   {
-    "title": "AC/DC PWR/UP POP UP",
-    "url": "https://www.visitsouthbend.com/events/ac-dc-pwr-up-pop-up/",
-    "location": "The Bend Lounge | 129 N. Michigan St. | South Bend, 46601.",
-    "description": "The official AC/DC PWR/UP Pop Up is coming to South Bend, creating the perfect place for fans to gather and extend the concert experience around AC/DC’s Notre Dame show.\n\nFree and open to the public, the pop-up brings fans together to explore iconic AC/DC props and photo opportunities, shop exclusive pop-up merchandise and limited South Bend event designs, and meet up with fellow fans.\n\nThe first 200 fans through the door will receive a free commemorative pop-up poster, while supplies last.\n\nThe Bend Lounge\n\n129 N. Michigan St.\n\nSouth Bend, IN 46601\n\nSeptember 3: 12 PM–9 PM\n\nSeptember 4: 11 AM–6 PM\n\nFree entry. No concert ticket required.\n\nWebsite: PWRUPTOUR.ACDC.COM",
-    "raw_date": "Sep 3 12:00 PM – 6:00 PM",
-    "raw_recurrence": "2 DAYS ONLY",
+    "title": "ACTORS FROM THE LONDON STAGE PRESENTS MUCH ADO ABOUT NOTHING",
+    "url": "https://www.visitsouthbend.com/events/actors-from-the-london-stage-presents-much-ado-about-nothing/",
+    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
+    "description": "Exuberant, joyful, and above all, ravishingly entertaining, Much Ado About Nothing is one of Shakespeare's most celebrated and enduringly popular comedies. This delightful romp deftly explores notions of identity, marriage, and communication through the sparring between Benedick and Beatrice, two of Shakespeare's most gloriously realized characters. With its piquant blend of prickly banter, mistaken identities, and swoon-worthy romance, Much Ado About Nothing is sheer theatrical delight. Much Ado About Nothing is brought to life by Actors From The London Stage, the renowned 5-actor touring group founded in 1975 by Dr. Homer \"Murph\" Swander and Sir Patrick Stewart, along with many other celebrated actors from the Royal Shakespeare Company. This remarkable company has called Shakespeare at Notre Dame its artistic home since 2000, and travels to multiple colleges and universities nationwide twice annually. Each member of this self-directed ensemble assumes multiple roles while favoring minimal props and costumes, creating a theatrical experience unlike any other. ASL available for Friday's performance. For tickets within view of the ASL interpreter, click here. Co-sponsored by Shakespeare at Notre Dame.",
+    "raw_date": "Sep 9 7:30 PM – 8:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [
+      "Wednesday, September 9",
+      "Thursday, September 10",
+      "Friday, September 11"
+    ],
+    "schedule_instances": [
+      {
+        "date": "2026-09-09",
+        "start_time": "19:30:00",
+        "end_time": "20:30:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-10",
+        "start_time": "19:30:00",
+        "end_time": "20:30:00",
+        "all_day": false
+      },
+      {
+        "date": "2026-09-11",
+        "start_time": "19:30:00",
+        "end_time": "20:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "BEN SCHMIDT-SWARTZ QUARTET",
+    "url": "https://www.visitsouthbend.com/events/ben-schmidt-swartz-quartet/",
+    "location": "Merrimans’ Playhouse | 401 E. Colfax Ave., Suite 135 | South Bend, IN 46617",
+    "description": "The Ben Schmidt-Swartz Quartet explores original music as well as some choice jazz standards that are meaningful to the band and fun to play. The aesthetic comes out of a tradition of decades of reference points from the great saxophone quartets from jazz history. From Coleman Hawkins, to John Coltrane; from Lester Young and Oscar Peterson to Dexter Gordon, this group hopes to honor, and continue in that legacy.\n\nBen Schmidt-Swartz - saxophone\n\nMatthew Fries - piano\n\nCarlo De Rosa - bass\n\nNelson Oliva - drums",
+    "raw_date": "Sep 9 7:30 PM – 9:00 PM",
+    "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-09-03",
-        "start_time": "12:00:00",
-        "end_time": "18:00:00",
+        "date": "2026-09-09",
+        "start_time": "19:30:00",
+        "end_time": "21:00:00",
         "all_day": false
       }
     ]
@@ -51,77 +84,18 @@
     ]
   },
   {
-    "title": "EMMA TAYLOR TRIO",
-    "url": "https://www.visitsouthbend.com/events/emma-taylor-trio/",
-    "location": "Merrimans’ Playhouse | 401 E. Colfax Ave., Suite 135 | South Bend, IN 46617",
-    "description": "Emma Taylor is a Chicago-based bassist and vocalist. Joined by Steve Million on keys and Tim Davis on drums, the trio will perform jazz standards as well as original compositions that blend jazz traditions with contemporary influences, creating a dynamic and conversational musical experience.\n\nEmma Taylor – bass and vocals\n\nSteve Million - keys\n\nTim Davis - drums",
-    "raw_date": "Sep 4 7:30 PM – 9:00 PM",
+    "title": "EXHIBITION OPENING | MELI BANDERA: “GENERATION GAPS: ODES TO FAMILIAL MEMORIES.”",
+    "url": "https://www.visitsouthbend.com/events/exhibition-opening-meli-bandera-generation-gaps-odes-to-familial-memories/",
+    "location": "IU South Bend Civil Rights Heritage Center | 1040 W. Washington | South Bend, IN 46601",
+    "description": "Meli Bandera (they/them) crafts soft altars built from paper, felt, and wool to capture the memories of those who came before them: the scent of their grandmother’s garden after she waters it, the rhythmic thump of a lawnmower on a summer afternoon, or the shared sweetness of bolis enjoyed with loved ones. Bandera builds these memories into tangible forms, acknowledging the gaps and absences that shape our understanding of family history.\n\nBandera’s fiber-based artworks are devotional gestures, mirroring the way memories shift and transform over time. Imagine a watermelon lemonade that will never be made by an abuela again, or a bisabuela walking to the centro for water. These are the threads Bandera pulls from, using recycled pulp, cochineal dye, and wool to create pieces that feel both ancient and present. These works are a form of time travel, using softness and humor to stretch grief and joy across eras.\n\n“Generation Gaps” opens with an evening event at the Civil Rights Heritage Center on Thursday, September 10, 2026, from 6:00 – 7:30 PM. Light refreshments will be served as you experience Bandera’s deeply moving work. The exhibit remains on view through December 10 during the Center's public hours.\n\nDetails at crhc.iusb.edu.",
+    "raw_date": "Sep 10 6:00 PM – 7:30 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-09-04",
-        "start_time": "19:30:00",
-        "end_time": "21:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "FIRST FRIDAYS SUMMER CONCERT SERIES",
-    "url": "https://www.visitsouthbend.com/events/first-fridays-summer-concert-series/",
-    "location": "Seitz Park & Howard Park | 219 S St Louis Blvd | South Bend, IN 46617",
-    "description": "Your First Fridays just got even better with the SBVPA Summer Concert Series! Each first Friday of the month from June to September, you can enjoy FREE live music from 6-8pm at one of VPA’s wonderful parks in downtown South Bend. Details are as follows:\n\n- June 5: Bobcat Opossum (Seitz Park)\n- July 3: Day Train (Howard Park)\n- August 7: Abbie Thomas (Seitz Park)\n- September 4: Los Hermanos Bueno (Seitz Park)\n\nGather your friends and family and head to the park for an evening of live music and good vibes. See you there!",
-    "raw_date": "Sep 4 6:00 PM – 8:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [
-      "Friday, September 4"
-    ],
-    "schedule_instances": [
-      {
-        "date": "2026-09-04",
+        "date": "2026-09-10",
         "start_time": "18:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "GEARS & GRUB FALL CRUISE-IN SERIES",
-    "url": "https://www.visitsouthbend.com/events/gears-grub-fall-cruise-in-series/",
-    "location": "Newton Park | 801 North Michigan Street | Lakeville, IN 46536",
-    "description": "🚗🍔 Gears & Grub Fall Cruise-In Series 🍔🚗\n\nStart your Fridays the right way this September at Newton Park! Whether you're bringing your own ride or just coming to admire some incredible vehicles, Gears & Grub is the perfect way to kick off your weekend.\n\n🚘 You'll Find:\n\n- Classic Cars\n\n- Show Trucks\n\n- Motorcycles\n\n- Tractors\n\n- Delicious Food Trucks\n\n- Great Music\n\n- Huge Giveaways\n\n- Family-Friendly Fun\n\nBring your family, your friends, your lawn chairs, and your appetite! Cruise in with your vehicle or simply stroll through the show while enjoying amazing food, music, and the beautiful fall evenings. Every week brings a different mix of vehicles, vendors, and fun, so no two Fridays are exactly the same!\n\n📅 Every Friday in September\n\n🕔 5:00 PM – 9:00 PM\n\n📍 Newton Park\n\n801 N. Michigan St.\n\nLakeville, IN 46536\n\n🎟️ Admission is FREE!\n\nInterested in being a food truck vendor?\n\n📧 Email Cindy@NewtonPark.org for more information.\n\nWe can't wait to see you this fall for good food, cool rides, great music, and an unforgettable Friday night tradition! 🍁🏁",
-    "raw_date": "Sep 4 5:00 PM",
-    "raw_recurrence": "EVERY FRIDAY IN SEPTEMBER",
-    "upcoming_dates": [
-      "Friday, September 4",
-      "Friday, September 11",
-      "Friday, September 18",
-      "Friday, September 25"
-    ],
-    "schedule_instances": [
-      {
-        "date": "2026-09-04",
-        "start_time": "17:00:00",
-        "end_time": null,
-        "all_day": false
-      },
-      {
-        "date": "2026-09-11",
-        "start_time": "17:00:00",
-        "end_time": null,
-        "all_day": false
-      },
-      {
-        "date": "2026-09-18",
-        "start_time": "17:00:00",
-        "end_time": null,
-        "all_day": false
-      },
-      {
-        "date": "2026-09-25",
-        "start_time": "17:00:00",
-        "end_time": null,
+        "end_time": "19:30:00",
         "all_day": false
       }
     ]
@@ -139,6 +113,23 @@
         "date": "2026-09-06",
         "start_time": "16:00:00",
         "end_time": "17:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "HOWARD PARK SUMMER CONCERT SERIES",
+    "url": "https://www.visitsouthbend.com/events/howard-park-summer-concert-series/",
+    "location": "Howard Park | 219 S St Louis Blvd | South Bend, IN 46617",
+    "description": "Indulge in the vibrant sounds of summer and join us at our FREE Summer Concert Series at Howard Park! Every other Thursday evening (6-8pm) from June to September, you’ll have a chance to enjoy live music, fun community nights, and rotating food trucks with your friends and family – just bring a blanket or chair and your Thursday evening plans are set! The performer lineup is as follows:\n\n- June 4 – PT and the Cruisers\n- June 18 – The Erly\n- July 2 – Equipo Elevado\n- July 16 – Why Not Both\n- July 30 – Jazz Assemblage\n- August 13 – Happy Campers\n- August 27 – The Resurrection Blues Band\n- September 10 – Hipposonics\n\nSee you there!",
+    "raw_date": "Jun 11 6:00 PM – 8:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2027-06-11",
+        "start_time": "18:00:00",
+        "end_time": "20:00:00",
         "all_day": false
       }
     ]
@@ -178,6 +169,23 @@
     ]
   },
   {
+    "title": "LA DIVINA COMETA (2022)",
+    "url": "https://www.visitsouthbend.com/events/la-divina-cometa-2022/",
+    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
+    "description": "Browning Cinema New at the Browning Directed by Mimmo Paladino Not Rated, 93 minutes, DCP In Italian with English subtitles Discussion scheduled to follow screening! A journey through a vast fresco painted with light. Its characters come together like figures in a Nativity scene, weaving stories, symbols, and words between folk tradition and experimental exploration. Dante, a silent witness, passes through it alongside Ugolino and Pontormo, Glenn Gould and Giordano Bruno. A poor family searches for shelter while awaiting five wandering Magi bearing gifts of music, theatre, painting, poetry—and nothingness. Will the Divine Comet lead them forth to see the stars again? This film is being screened as part of the Raclin Murphy Museum of Art's temporary exhibition Mimmo Paladino: Present into Past. The screening will be followed by a conversation with Joseph Becherer, exhibition curator and director of the Raclin Murphy Museum of Art, and Theodore J. Cachey Jr., Pizzo Family Chair in Dante Studies. This is a free but ticketed event. To guarantee your seat, please pick up your tickets at least 15 minutes prior to the show, at which point your unclaimed tickets may be used to seat patrons waiting on standby. Tickets will be available for pick-up at the Ticket Office beginning one hour prior to the performance. Co-sponsored by the Raclin Murphy Museum of Art, Italian Studies Center.",
+    "raw_date": "Sep 10 6:30 PM – 8:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-10",
+        "start_time": "18:30:00",
+        "end_time": "20:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "MEET SHADE: COMMUNITY PREVIEW FOR SHADE BAR & GRILL",
     "url": "https://www.visitsouthbend.com/events/meet-shade-community-preview-for-shade-bar-grill/",
     "location": "DoubleTree By Hilton Hotel Downtown South Bend | 123 DR MLK Blvd | South Bend, IN 46601",
@@ -190,6 +198,23 @@
         "date": "2026-09-09",
         "start_time": "17:30:00",
         "end_time": "20:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "MIDWEST LEAGUE PLAYOFFS",
+    "url": "https://www.visitsouthbend.com/events/midwest-league-playoffs/",
+    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
+    "description": "Cheer on the South Bend Cubs in the playoffs! Enjoy Thirsty Thursday pricing during the playoff game on September 10. Fountain Sodas and 16 oz domestic draft beer are just $3 each.",
+    "raw_date": "Sep 10 7:05 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-10",
+        "start_time": "19:05:00",
+        "end_time": null,
         "all_day": false
       }
     ]
@@ -230,6 +255,23 @@
         "date": "2026-09-27",
         "start_time": "10:00:00",
         "end_time": "14:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "MURDER AT THE MORRIS",
+    "url": "https://www.visitsouthbend.com/events/murder-at-the-morris1/",
+    "location": "Morris Performing Arts Center | 211 N Michigan St | South Bend, 46601",
+    "description": "Step into the glamour, intrigue, and danger of the Roaring Twenties at Murder at the Morris, an immersive dinner gala fundraiser unlike any other. Set during the height of Prohibition, this interactive murder mystery transforms the historic Palais Ballroom into a world of jazz, hidden secrets, bootleggers, and high society. Enjoy an elegant dinner, bid in the silent auction, and become part of the story as the mystery unfolds around you.",
+    "raw_date": "Sep 10 6:30 PM – 9:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-10",
+        "start_time": "18:30:00",
+        "end_time": "21:00:00",
         "all_day": false
       }
     ]
@@ -304,23 +346,6 @@
     ]
   },
   {
-    "title": "SEPTEMBER FIRST FRIDAYS: DOG DAYS OF SUMMER",
-    "url": "https://www.visitsouthbend.com/events/september-first-fridays-dog-days-of-summer/",
-    "location": "S. Michigan Street, Downtown, South Bend | 100 & 200 Blocks of S. Michigan Street | South Bend, IN 46601",
-    "description": "Downtown South Bend will be going to the dogs for the September First Fridays, as we celebrate the \"Dog Days of Summer.\" Bring your furry friend downtown for a fun night out!\n\nWe will have booths with animal rescue groups and organizations who provide goods and services for animals, as well as the opportunity to dine with your dog at one of our over 20 downtown pet-friendly patios. Also, if you want to dress up your pup in a costume or outfit, we will be handing out prizes to the best dressed dogs! We encourage people to grab some takeout from their favorite downtown eatery or First Fridays food vendor and enjoy it at the seating area in the street, where we also have vendors and live music by The Starving Artists. Plus Over the Edge returns to Studebaker Plaza, with fearless philanthropists rappelling over the edge of the Robertson's Apartment Building to raise money for Youth Service Bureau (YSB.) We will also have an EV Display near the State Theater, the South Bend Music Festival, plus lots of other fun happenings throughout downtown!",
-    "raw_date": "Sep 4 5:00 PM – 9:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-04",
-        "start_time": "17:00:00",
-        "end_time": "21:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "SHAMROCK SERIES WATCH PARTY",
     "url": "https://www.visitsouthbend.com/events/shamrock-series-watch-party/",
     "location": "Manny's | 503 E. Colfax Ave | South Bend, IN 46617",
@@ -384,23 +409,6 @@
       {
         "date": "2026-09-06",
         "start_time": "14:05:00",
-        "end_time": null,
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "SOUTH BEND CUBS VS. CEDAR RAPIDS - FRIDAY FIREWORKS",
-    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-friday-fireworks-2/",
-    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
-    "description": "Game Highlights:\n\nFantastic Friday Fireworks\n\nEnjoy a spectacular fireworks show after the game. Gates open at 5:30 p.m.\n\nFan Appreciation Weekend\n\nJoin the South Bend Cubs for the final three games of the regular season with in-game giveaways and a few surprises all weekend long!",
-    "raw_date": "Sep 4 7:05 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-04",
-        "start_time": "19:05:00",
         "end_time": null,
         "all_day": false
       }
@@ -592,23 +600,6 @@
         "date": "2027-02-10",
         "start_time": "19:00:00",
         "end_time": "22:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "WUBU MIXER - ALL WHITE PARTY",
-    "url": "https://www.visitsouthbend.com/events/wubu-mixer-all-white-party/",
-    "location": "The Island at The Century Center | 120 South Doctor Martin Luther King Junior Boulevard | South Bend, IN 46601",
-    "description": "All White Party featuring Lepolion, and The Godfather, Gino J\n\nGet ready to dress to impress and experience a night of music, fashion, and unforgettable entertainment at WUBU’s Mixer – All White Party, happening Friday, September 4 from 7–11 PM. Doors open at 6:30 PM!\n\nPresented alongside The New Mix 102.3, this exclusive evening brings together style, culture, and incredible live entertainment — all with an all-white dress code.\n\nLive Entertainment:\n\nGet ready for an unforgettable performance from Lepolion, featuring their high-energy tribute to two music legends — Michael Jackson and Prince! Dance, sing along, and relive the hits that made these icons unforgettable.\n\nSpecial Guest: The Godfather Himself — Gino J!\n\nYou never know what’s in store when the Godfather steps into the room!\n\nWUBU’s Mixer – All White Party is where the dress code is white, the energy is elevated, and the night is all about celebrating music, and community.",
-    "raw_date": "Sep 4 7:00 PM – 11:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-04",
-        "start_time": "19:00:00",
-        "end_time": "23:00:00",
         "all_day": false
       }
     ]
