@@ -253,46 +253,6 @@
     ]
   },
   {
-    "title": "MISHAWAKA MARKET",
-    "url": "https://www.visitsouthbend.com/events/mishawaka-market/",
-    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46545",
-    "description": "Join us for year 8 of the Mishawaka Market!\n\nThe Market runs Sundays from 10 am - 2 pm, May 31st through September 27th. *No Market on June 14th, July 5th & September 6th\n\nThere will be produce, crafts, baked goods, food trucks, kids zone, live music, animal adoptions and more!\n\nStage programming schedule will be posted before the 2026 Market Season starts!\n*No market on June 14th, July 5th, and September 6th.",
-    "raw_date": "Sep 6 10:00 AM – 2:00 PM",
-    "raw_recurrence": "FROM: 10:00 AM TO 02:00 PM",
-    "upcoming_dates": [
-      "Sunday, September 6",
-      "Sunday, September 13",
-      "Sunday, September 20",
-      "Sunday, September 27"
-    ],
-    "schedule_instances": [
-      {
-        "date": "2026-09-06",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-13",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-20",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-27",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "MURDER AT THE MORRIS",
     "url": "https://www.visitsouthbend.com/events/murder-at-the-morris1/",
     "location": "Morris Performing Arts Center | 211 N Michigan St | South Bend, 46601",
@@ -377,16 +337,9 @@
     "raw_date": "Sep 6 3:00 PM – 5:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [
-      "Sunday, September 6",
       "Sunday, September 13"
     ],
     "schedule_instances": [
-      {
-        "date": "2026-09-06",
-        "start_time": "15:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-09-13",
         "start_time": "15:00:00",
@@ -621,15 +574,30 @@
     ]
   },
   {
+    "title": "UNITED 93 (2006)",
+    "url": "https://www.visitsouthbend.com/events/united-93-2006/",
+    "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
+    "description": "Directed by Paul Greengrass With Christian Clemenson, Klahid Abdalla, J. J. Johnson Rated R, 111 minutes, DCP In English and Arabic with English subtitles Released five years after the events on September 11, 2001, United 93 was a film largely supported by the families of the people depicted in the film and, further, received largely positive critical responses, including a Best Director Oscar nomination for Paul Greengrass. Now twenty years after its release and on the 25th anniversary of the tragedies, revisiting this film that utilizes a real-time framing device to bring audiences into the world of a doomed flight is a good exercise both for remembering the people indelibly impacted by 9-11 and also understanding how films and television continue to shape a world's memories and opinions of that day. Sponsored by the Meg and John P. Brogan Endowment for Classic Cinema.",
+    "raw_date": "Sep 11 7:00 PM – 8:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-11",
+        "start_time": "19:00:00",
+        "end_time": "20:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "YART",
     "url": "https://www.visitsouthbend.com/events/yart/",
     "location": "59449 Keria Trail | South Bend, IN 46614",
     "description": "We’re on year 8 of our magical journey of forest artistry!\nYart is an extremely immersive DIY arts and music festival cultivated by the minds of South Bend and neighboring artists and community members.\nSaturday September 5th // 3-11:30pm\nSunday September 6th // 3-11pm\nParking at the Serbian Hall ($5 each day)\nNo over night parking\nAll ages (until about 7, than it gets a lil rowdy and the music gets bit more explicit)",
-    "raw_date": "Sep 5 3:00 PM – 11:00 PM",
+    "raw_date": "Sep 6 3:00 PM – 11:00 PM",
     "raw_recurrence": "",
-    "upcoming_dates": [
-      "Sunday, September 6"
-    ],
+    "upcoming_dates": [],
     "schedule_instances": [
       {
         "date": "2026-09-06",
