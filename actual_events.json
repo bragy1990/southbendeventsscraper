@@ -101,6 +101,56 @@
     ]
   },
   {
+    "title": "FOOTBALL FRIDAYS AT THE ECK",
+    "url": "https://www.visitsouthbend.com/events/football-fridays-at-the-eck/",
+    "location": "Eck Visitors Center | 100 Eck Visitors Center | Notre Dame, IN 46556",
+    "description": "Kick off your game weekend at Football Fridays at the Eck, every Friday before a home game! Join Fighting Irish fans for live music, tailgate food, interviews with Notre Dame celebrities, student group performances, the Football Fridays Backyard with beer and wine for purchase, and more.",
+    "raw_date": "Sep 11 11:00 AM – 5:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-11",
+        "start_time": "11:00:00",
+        "end_time": "17:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "GEARS & GRUB FALL CRUISE-IN SERIES",
+    "url": "https://www.visitsouthbend.com/events/gears-grub-fall-cruise-in-series/",
+    "location": "Newton Park | 801 North Michigan Street | Lakeville, IN 46536",
+    "description": "🚗🍔 Gears & Grub Fall Cruise-In Series 🍔🚗\n\nStart your Fridays the right way this September at Newton Park! Whether you're bringing your own ride or just coming to admire some incredible vehicles, Gears & Grub is the perfect way to kick off your weekend.\n\n🚘 You'll Find:\n\n- Classic Cars\n\n- Show Trucks\n\n- Motorcycles\n\n- Tractors\n\n- Delicious Food Trucks\n\n- Great Music\n\n- Huge Giveaways\n\n- Family-Friendly Fun\n\nBring your family, your friends, your lawn chairs, and your appetite! Cruise in with your vehicle or simply stroll through the show while enjoying amazing food, music, and the beautiful fall evenings. Every week brings a different mix of vehicles, vendors, and fun, so no two Fridays are exactly the same!\n\n📅 Every Friday in September\n\n🕔 5:00 PM – 9:00 PM\n\n📍 Newton Park\n\n801 N. Michigan St.\n\nLakeville, IN 46536\n\n🎟️ Admission is FREE!\n\nInterested in being a food truck vendor?\n\n📧 Email Cindy@NewtonPark.org for more information.\n\nWe can't wait to see you this fall for good food, cool rides, great music, and an unforgettable Friday night tradition! 🍁🏁",
+    "raw_date": "Sep 11 5:00 PM",
+    "raw_recurrence": "EVERY FRIDAY IN SEPTEMBER",
+    "upcoming_dates": [
+      "Friday, September 11",
+      "Friday, September 18",
+      "Friday, September 25"
+    ],
+    "schedule_instances": [
+      {
+        "date": "2026-09-11",
+        "start_time": "17:00:00",
+        "end_time": null,
+        "all_day": false
+      },
+      {
+        "date": "2026-09-18",
+        "start_time": "17:00:00",
+        "end_time": null,
+        "all_day": false
+      },
+      {
+        "date": "2026-09-25",
+        "start_time": "17:00:00",
+        "end_time": null,
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "GREY GARDENS (1975)",
     "url": "https://www.visitsouthbend.com/events/grey-gardens-1975/",
     "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
@@ -135,40 +185,6 @@
     ]
   },
   {
-    "title": "IU SEASON OPENER WATCH PARTY",
-    "url": "https://www.visitsouthbend.com/events/iu-season-opener-watch-party/",
-    "location": "Manny's | 503 E. Colfax Ave | South Bend, IN 46617",
-    "description": "Let's cheer on the Hoosiers to another undefeated season!",
-    "raw_date": "Sep 5 12:00 PM – 3:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-05",
-        "start_time": "12:00:00",
-        "end_time": "15:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "JAMES AUSTIN JR. TRIO",
-    "url": "https://www.visitsouthbend.com/events/james-austin-jr-trio/",
-    "location": "Merrimans’ Playhouse | 401 E. Colfax Ave., Suite 135 | South Bend, IN 46617",
-    "description": "The trio will perform “Songs from the Great American Songbook and More!” They'll also perform tunes from “Songs in the Key of Wonder and More!\". Songs in the Key of Wonder is a project of James' jazz arrangements of a collection of Stevie Wonder tunes.\n\nJames Austin Jr. - piano\n\nTBA - bass\n\nTBA - drums",
-    "raw_date": "Sep 5 7:30 PM – 9:00 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-05",
-        "start_time": "19:30:00",
-        "end_time": "21:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "LA DIVINA COMETA (2022)",
     "url": "https://www.visitsouthbend.com/events/la-divina-cometa-2022/",
     "location": "DeBartolo Performing Arts Center, 100 Performing Arts Center | Notre Dame, 46556",
@@ -198,6 +214,23 @@
         "date": "2026-09-09",
         "start_time": "17:30:00",
         "end_time": "20:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "MEET THE AUTHOR JANE AMMESON - BOOK RELEASE PARTY",
+    "url": "https://www.visitsouthbend.com/events/meet-the-author-jane-ammeson-book-release-party/",
+    "location": "Brasserie 23 | 120 Perspective Drive | Granger, IN 46530",
+    "description": "Join us at Brasserie 23 on Thursday, September 11 at 6:00 PM for a special book release celebration featuring award-winning author Jane Simon Ammeson and her newest book, 100 Things to Do in South Bend, Indiana, Before You Die.\n\nWhether you are a lifelong Hoosier, a proud Notre Dame fan, a weekend traveler, or someone discovering the area for the first time, this guide highlights the memorable places, flavors, stories, and experiences that make South Bend and the surrounding community so special.\n\nGuests will have the opportunity to meet Jane, learn more about the inspiration behind the book, and celebrate the people and places that make our region unique.\n\nTickets are $25 per person and include:\n\n• A signed copy of the book\n\n• A glass of wine\n\n• Light hors d’oeuvres\n\n• The opportunity to meet the author",
+    "raw_date": "Sep 11 6:00 PM – 8:00 PM",
+    "raw_recurrence": "ONE TIME EVENT",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-11",
+        "start_time": "18:00:00",
+        "end_time": "20:00:00",
         "all_day": false
       }
     ]
@@ -320,6 +353,23 @@
     ]
   },
   {
+    "title": "RINGING OF THE BELL",
+    "url": "https://www.visitsouthbend.com/events/ringing-of-the-bell-2/",
+    "location": "St. Patrick's County Park: Freedom Memorial | 50651 Laurel Road | South Bend, IN 46637",
+    "description": "Join us, along with local fire, police, and EMS to commemorate the 25th anniversary of the events of September 11, 2001. Ceremony will take place at the Standing Tall Freedom Memorial at St. Patrick's County Park.",
+    "raw_date": "Sep 11 9:00 AM – 10:30 AM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-11",
+        "start_time": "09:00:00",
+        "end_time": "10:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "SEITZ PARK SUMMER CONCERT SERIES",
     "url": "https://www.visitsouthbend.com/events/seitz-park-summer-concert-series/",
     "location": "Seitz Park | 316 E. Colfax Ave | South Bend, IN 46617",
@@ -381,23 +431,6 @@
     ]
   },
   {
-    "title": "SOUTH BEND CUBS BAR CRAWL",
-    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-bar-crawl/",
-    "location": "501 W South St | South Bend, IN",
-    "description": "The South Bend Cubs 2026 Bar Crawl will take place on Saturday, September 5th. Gates open at 5:30 p.m. and first pitch is scheduled for 7:05 p.m.\n\n\nThis limited package includes a ticket to the game, an exclusive Bar Crawl T-Shirt including all of the bars, and two drink vouchers for fans 21+.\n\n\n**Important Event Details & Requirements:**\nMUST be 21 and over with a valid ID to participate\nBars are able to deny access based on posted bar rules\nMust be wearing wristband and/or bar crawl t-shirt to enter participating bars free of charge\nDrink responsibly\nShirt and wristband pick up will be at Four Winds Field day of the event\n\n\nAssociated Bars:\nSouth Bend Cubs\nManny's\nShamrocks\nBrothers\nCorby's\nCJ's Pub\nBrew Works\nLa Esperanza\nFinnies",
-    "raw_date": "Sep 5",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-05",
-        "start_time": null,
-        "end_time": null,
-        "all_day": true
-      }
-    ]
-  },
-  {
     "title": "SOUTH BEND CUBS VS. CEDAR RAPIDS",
     "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-7/",
     "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
@@ -409,23 +442,6 @@
       {
         "date": "2026-09-06",
         "start_time": "14:05:00",
-        "end_time": null,
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "SOUTH BEND CUBS VS. CEDAR RAPIDS - POST-GAME FIREWORKS",
-    "url": "https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-post-game-fireworks/",
-    "location": "Four Winds Field | 501 W South St | South Bend, IN 46601",
-    "description": "Game Highlights:\n\nPost-Game Fireworks\n\nJoin us for a special fireworks show following the game.\n\nFan Appreciation Weekend\n\nJoin the South Bend Cubs for the final three games of the regular season with in-game giveaways and a few surprises all weekend long!\n\nSpin to Win Saturday\n\nOn select Saturdays, nine lucky contestants could win a 50\" Smart TV, Martin's Super Market gift card, Visa gift card, Apple iPad, or $500 CASH by spinning our wheel of prizes between innings. Must be 18 years old or older to enter and must be present to win. Gates open at 5:30 p.m.",
-    "raw_date": "Sep 5 7:05 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-05",
-        "start_time": "19:05:00",
         "end_time": null,
         "all_day": false
       }

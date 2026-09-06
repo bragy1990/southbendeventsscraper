@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:329acda146406c6f7c9e78c6@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:ACTORS FROM THE LONDON STAGE PRESENTS MUCH ADO ABOUT NOTHING
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
@@ -55,7 +55,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a3a3d14376ab289f7ae1fed7@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:ACTORS FROM THE LONDON STAGE PRESENTS MUCH ADO ABOUT NOTHING
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
@@ -86,7 +86,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:45f72d257247feb462846703@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:ACTORS FROM THE LONDON STAGE PRESENTS MUCH ADO ABOUT NOTHING
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
@@ -117,7 +117,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:10fe67152475f2ff6e0abe8a@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:ACTORS FROM THE LONDON STAGE PRESENTS MUCH ADO ABOUT NOTHING
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
@@ -148,7 +148,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f2ade82260af42735122b328@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:BEN SCHMIDT-SWARTZ QUARTET
 LOCATION:Merrimans’ Playhouse | 401 E. Colfax Ave.\, Suite 135 | South Be
  nd\, IN 46617
@@ -168,7 +168,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2537e5eaabb8c1fdcaff6de9@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:CHICKEN RUN (2000)
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
@@ -193,7 +193,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:52a6dc87c9464bc73493b5b4@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:EXHIBITION OPENING | MELI BANDERA: “GENERATION GAPS: ODES TO FAMI
  LIAL MEMORIES.”
 LOCATION:IU South Bend Civil Rights Heritage Center | 1040 W. Washington | 
@@ -225,8 +225,109 @@ DTEND;TZID=America/Indiana/Indianapolis:20260910T193000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:bc59ad0f6372f082a049bd25@visitsouthbend.com
+DTSTAMP:20260906T060742Z
+SUMMARY:FOOTBALL FRIDAYS AT THE ECK
+LOCATION:Eck Visitors Center | 100 Eck Visitors Center | Notre Dame\, IN 46
+ 556
+DESCRIPTION:Kick off your game weekend at Football Fridays at the Eck\, eve
+ ry Friday before a home game! Join Fighting Irish fans for live music\, t
+ ailgate food\, interviews with Notre Dame celebrities\, student group per
+ formances\, the Football Fridays Backyard with beer and wine for purchase
+ \, and more.\n\nMore Info: https://www.visitsouthbend.com/events/football
+ -fridays-at-the-eck/
+URL:https://www.visitsouthbend.com/events/football-fridays-at-the-eck/
+DTSTART;TZID=America/Indiana/Indianapolis:20260911T110000
+DTEND;TZID=America/Indiana/Indianapolis:20260911T173000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8012e86cdb841d2c8e28db5b@visitsouthbend.com
+DTSTAMP:20260906T060742Z
+SUMMARY:GEARS & GRUB FALL CRUISE-IN SERIES
+LOCATION:Newton Park | 801 North Michigan Street | Lakeville\, IN 46536
+DESCRIPTION:🚗🍔 Gears & Grub Fall Cruise-In Series 🍔🚗\n\nStart y
+ our Fridays the right way this September at Newton Park! Whether you're b
+ ringing your own ride or just coming to admire some incredible vehicles\,
+  Gears & Grub is the perfect way to kick off your weekend.\n\n🚘 You'll
+  Find:\n\n- Classic Cars\n\n- Show Trucks\n\n- Motorcycles\n\n- Tractors\
+ n\n- Delicious Food Trucks\n\n- Great Music\n\n- Huge Giveaways\n\n- Fami
+ ly-Friendly Fun\n\nBring your family\, your friends\, your lawn chairs\, 
+ and your appetite! Cruise in with your vehicle or simply stroll through t
+ he show while enjoying amazing food\, music\, and the beautiful fall even
+ ings. Every week brings a different mix of vehicles\, vendors\, and fun\,
+  so no two Fridays are exactly the same!\n\n📅 Every Friday in Septembe
+ r\n\n🕔 5:00 PM – 9:00 PM\n\n📍 Newton Park\n\n801 N. Michigan St.\
+ n\nLakeville\, IN 46536\n\n🎟️ Admission is FREE!\n\nInterested in be
+ ing a food truck vendor?\n\n📧 Email Cindy@NewtonPark.org for more info
+ rmation.\n\nWe can't wait to see you this fall for good food\, cool rides
+ \, great music\, and an unforgettable Friday night tradition! 🍁🏁\n\
+ nMore Info: https://www.visitsouthbend.com/events/gears-grub-fall-cruise-
+ in-series/
+URL:https://www.visitsouthbend.com/events/gears-grub-fall-cruise-in-series/
+DTSTART;TZID=America/Indiana/Indianapolis:20260911T170000
+DTEND;TZID=America/Indiana/Indianapolis:20260911T200000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ca4525c020edc09633d09c3e@visitsouthbend.com
+DTSTAMP:20260906T060742Z
+SUMMARY:GEARS & GRUB FALL CRUISE-IN SERIES
+LOCATION:Newton Park | 801 North Michigan Street | Lakeville\, IN 46536
+DESCRIPTION:🚗🍔 Gears & Grub Fall Cruise-In Series 🍔🚗\n\nStart y
+ our Fridays the right way this September at Newton Park! Whether you're b
+ ringing your own ride or just coming to admire some incredible vehicles\,
+  Gears & Grub is the perfect way to kick off your weekend.\n\n🚘 You'll
+  Find:\n\n- Classic Cars\n\n- Show Trucks\n\n- Motorcycles\n\n- Tractors\
+ n\n- Delicious Food Trucks\n\n- Great Music\n\n- Huge Giveaways\n\n- Fami
+ ly-Friendly Fun\n\nBring your family\, your friends\, your lawn chairs\, 
+ and your appetite! Cruise in with your vehicle or simply stroll through t
+ he show while enjoying amazing food\, music\, and the beautiful fall even
+ ings. Every week brings a different mix of vehicles\, vendors\, and fun\,
+  so no two Fridays are exactly the same!\n\n📅 Every Friday in Septembe
+ r\n\n🕔 5:00 PM – 9:00 PM\n\n📍 Newton Park\n\n801 N. Michigan St.\
+ n\nLakeville\, IN 46536\n\n🎟️ Admission is FREE!\n\nInterested in be
+ ing a food truck vendor?\n\n📧 Email Cindy@NewtonPark.org for more info
+ rmation.\n\nWe can't wait to see you this fall for good food\, cool rides
+ \, great music\, and an unforgettable Friday night tradition! 🍁🏁\n\
+ nMore Info: https://www.visitsouthbend.com/events/gears-grub-fall-cruise-
+ in-series/
+URL:https://www.visitsouthbend.com/events/gears-grub-fall-cruise-in-series/
+DTSTART;TZID=America/Indiana/Indianapolis:20260918T170000
+DTEND;TZID=America/Indiana/Indianapolis:20260918T200000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0a6b5217b67b3f85e1c84c4c@visitsouthbend.com
+DTSTAMP:20260906T060742Z
+SUMMARY:GEARS & GRUB FALL CRUISE-IN SERIES
+LOCATION:Newton Park | 801 North Michigan Street | Lakeville\, IN 46536
+DESCRIPTION:🚗🍔 Gears & Grub Fall Cruise-In Series 🍔🚗\n\nStart y
+ our Fridays the right way this September at Newton Park! Whether you're b
+ ringing your own ride or just coming to admire some incredible vehicles\,
+  Gears & Grub is the perfect way to kick off your weekend.\n\n🚘 You'll
+  Find:\n\n- Classic Cars\n\n- Show Trucks\n\n- Motorcycles\n\n- Tractors\
+ n\n- Delicious Food Trucks\n\n- Great Music\n\n- Huge Giveaways\n\n- Fami
+ ly-Friendly Fun\n\nBring your family\, your friends\, your lawn chairs\, 
+ and your appetite! Cruise in with your vehicle or simply stroll through t
+ he show while enjoying amazing food\, music\, and the beautiful fall even
+ ings. Every week brings a different mix of vehicles\, vendors\, and fun\,
+  so no two Fridays are exactly the same!\n\n📅 Every Friday in Septembe
+ r\n\n🕔 5:00 PM – 9:00 PM\n\n📍 Newton Park\n\n801 N. Michigan St.\
+ n\nLakeville\, IN 46536\n\n🎟️ Admission is FREE!\n\nInterested in be
+ ing a food truck vendor?\n\n📧 Email Cindy@NewtonPark.org for more info
+ rmation.\n\nWe can't wait to see you this fall for good food\, cool rides
+ \, great music\, and an unforgettable Friday night tradition! 🍁🏁\n\
+ nMore Info: https://www.visitsouthbend.com/events/gears-grub-fall-cruise-
+ in-series/
+URL:https://www.visitsouthbend.com/events/gears-grub-fall-cruise-in-series/
+DTSTART;TZID=America/Indiana/Indianapolis:20260925T170000
+DTEND;TZID=America/Indiana/Indianapolis:20260925T200000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:fcc85d13a4bde9c2299836f6@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:GREY GARDENS (1975)
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
@@ -250,7 +351,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2984300def48a5910a5f37cb@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:HOWARD PARK SUMMER CONCERT SERIES
 LOCATION:Howard Park | 219 S St Louis Blvd | South Bend\, IN 46617
 DESCRIPTION:Indulge in the vibrant sounds of summer and join us at our FREE
@@ -271,38 +372,8 @@ DTEND;TZID=America/Indiana/Indianapolis:20270611T200000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8e438327d2bbcf7f333a5c35@visitsouthbend.com
-DTSTAMP:20260905T180655Z
-SUMMARY:IU SEASON OPENER WATCH PARTY
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Let's cheer on the Hoosiers to another undefeated season!\n\nMo
- re Info: https://www.visitsouthbend.com/events/iu-season-opener-watch-par
- ty/
-URL:https://www.visitsouthbend.com/events/iu-season-opener-watch-party/
-DTSTART;TZID=America/Indiana/Indianapolis:20260905T120000
-DTEND;TZID=America/Indiana/Indianapolis:20260905T150000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:00e0e9368e5129ac9b99eb59@visitsouthbend.com
-DTSTAMP:20260905T180655Z
-SUMMARY:JAMES AUSTIN JR. TRIO
-LOCATION:Merrimans’ Playhouse | 401 E. Colfax Ave.\, Suite 135 | South Be
- nd\, IN 46617
-DESCRIPTION:The trio will perform “Songs from the Great American Songbook
-  and More!” They'll also perform tunes from “Songs in the Key of Wond
- er and More!". Songs in the Key of Wonder is a project of James' jazz arr
- angements of a collection of Stevie Wonder tunes.\n\nJames Austin Jr. - p
- iano\n\nTBA - bass\n\nTBA - drums\n\nMore Info: https://www.visitsouthben
- d.com/events/james-austin-jr-trio/
-URL:https://www.visitsouthbend.com/events/james-austin-jr-trio/
-DTSTART;TZID=America/Indiana/Indianapolis:20260905T193000
-DTEND;TZID=America/Indiana/Indianapolis:20260905T210000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:29b1519e5595533c6f070ade@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:LA DIVINA COMETA (2022)
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
@@ -334,7 +405,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e17ce0845e8b143a2d41aab6@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:MEET SHADE: COMMUNITY PREVIEW FOR SHADE BAR & GRILL
 LOCATION:DoubleTree By Hilton Hotel Downtown South Bend | 123 DR MLK Blvd |
   South Bend\, IN 46601
@@ -357,8 +428,33 @@ DTEND;TZID=America/Indiana/Indianapolis:20260909T203000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:567c2c11d4262573a1ca7fef@visitsouthbend.com
+DTSTAMP:20260906T060742Z
+SUMMARY:MEET THE AUTHOR JANE AMMESON - BOOK RELEASE PARTY
+LOCATION:Brasserie 23 | 120 Perspective Drive | Granger\, IN 46530
+DESCRIPTION:Join us at Brasserie 23 on Thursday\, September 11 at 6:00 PM f
+ or a special book release celebration featuring award-winning author Jane
+  Simon Ammeson and her newest book\, 100 Things to Do in South Bend\, Ind
+ iana\, Before You Die.\n\nWhether you are a lifelong Hoosier\, a proud No
+ tre Dame fan\, a weekend traveler\, or someone discovering the area for t
+ he first time\, this guide highlights the memorable places\, flavors\, st
+ ories\, and experiences that make South Bend and the surrounding communit
+ y so special.\n\nGuests will have the opportunity to meet Jane\, learn mo
+ re about the inspiration behind the book\, and celebrate the people and p
+ laces that make our region unique.\n\nTickets are $25 per person and incl
+ ude:\n\n• A signed copy of the book\n\n• A glass of wine\n\n• Light
+  hors d’oeuvres\n\n• The opportunity to meet the author\n\nMore Info:
+  https://www.visitsouthbend.com/events/meet-the-author-jane-ammeson-book-
+ release-party/
+URL:https://www.visitsouthbend.com/events/meet-the-author-jane-ammeson-book
+ -release-party/
+DTSTART;TZID=America/Indiana/Indianapolis:20260911T180000
+DTEND;TZID=America/Indiana/Indianapolis:20260911T200000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:e26770a6031c52d81d19f9ca@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:MIDWEST LEAGUE PLAYOFFS
 LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
 DESCRIPTION:Cheer on the South Bend Cubs in the playoffs! Enjoy Thirsty Thu
@@ -372,7 +468,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2437aa84d91d8d014782f63a@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:MISHAWAKA MARKET
 LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
 DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
@@ -389,7 +485,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e19b1f6495332aa2afb8dd57@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:MISHAWAKA MARKET
 LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
 DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
@@ -406,7 +502,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a60c4b4ffa60d5ad22d5e6ff@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:MISHAWAKA MARKET
 LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
 DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
@@ -423,7 +519,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6331e9e02292f5f371634212@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:MISHAWAKA MARKET
 LOCATION:Ironworks Plaza | 235 Ironworks Ave | Mishawaka\, IN 46545
 DESCRIPTION:Join us for year 8 of the Mishawaka Market!\n\nThe Market runs 
@@ -440,7 +536,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:70f79036e00afc09bf75e994@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:MURDER AT THE MORRIS
 LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, 4
  6601
@@ -459,7 +555,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0381a9d8082fcf72b7c61e0c@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:POTAWATOMI PARK SUMMER CONCERT SERIES
 LOCATION:Potawatomi Park | 500 S. Greenlawn Ave | South Bend\, IN 46615
 DESCRIPTION:Indulge in the vibrant sounds of summer and join us at our FREE
@@ -487,7 +583,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6c21aaa92a9848912545906f@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:POTAWATOMI PARK SUMMER CONCERT SERIES
 LOCATION:Potawatomi Park | 500 S. Greenlawn Ave | South Bend\, IN 46615
 DESCRIPTION:Indulge in the vibrant sounds of summer and join us at our FREE
@@ -515,7 +611,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aa21635c6484ea6e222ffdd9@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:RAISING ARIZONA (1987)
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
@@ -536,8 +632,24 @@ DTEND;TZID=America/Indiana/Indianapolis:20260908T210000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:36888069389f3dd51bf08499@visitsouthbend.com
+DTSTAMP:20260906T060742Z
+SUMMARY:RINGING OF THE BELL
+LOCATION:St. Patrick's County Park: Freedom Memorial | 50651 Laurel Road | 
+ South Bend\, IN 46637
+DESCRIPTION:Join us\, along with local fire\, police\, and EMS to commemora
+ te the 25th anniversary of the events of September 11\, 2001. Ceremony wi
+ ll take place at the Standing Tall Freedom Memorial at St. Patrick's Coun
+ ty Park.\n\nMore Info: https://www.visitsouthbend.com/events/ringing-of-t
+ he-bell-2/
+URL:https://www.visitsouthbend.com/events/ringing-of-the-bell-2/
+DTSTART;TZID=America/Indiana/Indianapolis:20260911T090000
+DTEND;TZID=America/Indiana/Indianapolis:20260911T103000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:9cebac3bcf70e61c484bd6e9@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:SEITZ PARK SUMMER CONCERT SERIES
 LOCATION:Seitz Park | 316 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Indulge in the vibrant sounds of summer and join us at our FREE
@@ -561,7 +673,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a8d1aa027c493748c461f06@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:SEITZ PARK SUMMER CONCERT SERIES
 LOCATION:Seitz Park | 316 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Indulge in the vibrant sounds of summer and join us at our FREE
@@ -585,7 +697,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f7de15459f90e7e738af9988@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:SHAMROCK SERIES WATCH PARTY
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Join us to watch the first ND game of the season!\n\nMore Info:
@@ -597,7 +709,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:244fae0015468a93af6f7df7@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:SHAMROCK SERIES WATCH PARTY
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Join us to watch the first ND game of the season!\n\nMore Info:
@@ -609,7 +721,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8132de907cb01f7854f1dedd@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:SHAMROCK SERIES WATCH PARTY
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Join us to watch the first ND game of the season!\n\nMore Info:
@@ -621,7 +733,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c07a9548f73a23f8e05aaa98@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:SHAMROCK SERIES WATCH PARTY
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Join us to watch the first ND game of the season!\n\nMore Info:
@@ -632,30 +744,8 @@ DTEND;TZID=America/Indiana/Indianapolis:20260909T230000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:021e04b473dda3907c6dc96d@visitsouthbend.com
-DTSTAMP:20260905T180655Z
-SUMMARY:SOUTH BEND CUBS BAR CRAWL
-LOCATION:501 W South St | South Bend\, IN
-DESCRIPTION:The South Bend Cubs 2026 Bar Crawl will take place on Saturday\
- , September 5th. Gates open at 5:30 p.m. and first pitch is scheduled for
-  7:05 p.m.\n\n\nThis limited package includes a ticket to the game\, an e
- xclusive Bar Crawl T-Shirt including all of the bars\, and two drink vouc
- hers for fans 21+.\n\n\n**Important Event Details & Requirements:**\nMUST
-  be 21 and over with a valid ID to participate\nBars are able to deny acc
- ess based on posted bar rules\nMust be wearing wristband and/or bar crawl
-  t-shirt to enter participating bars free of charge\nDrink responsibly\nS
- hirt and wristband pick up will be at Four Winds Field day of the event\n
- \n\nAssociated Bars:\nSouth Bend Cubs\nManny's\nShamrocks\nBrothers\nCorb
- y's\nCJ's Pub\nBrew Works\nLa Esperanza\nFinnies\n\nMore Info: https://ww
- w.visitsouthbend.com/events/south-bend-cubs-bar-crawl/
-URL:https://www.visitsouthbend.com/events/south-bend-cubs-bar-crawl/
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:d8033731cc38fec9d2eb47aa@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:SOUTH BEND CUBS VS. CEDAR RAPIDS
 LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
 DESCRIPTION:Game Highlights:\n\nSunday Funday\n\nArrive early for a special
@@ -674,29 +764,8 @@ DTEND;TZID=America/Indiana/Indianapolis:20260906T170500
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f4a09c8ca0afa87d7332bdd1@visitsouthbend.com
-DTSTAMP:20260905T180655Z
-SUMMARY:SOUTH BEND CUBS VS. CEDAR RAPIDS - POST-GAME FIREWORKS
-LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
-DESCRIPTION:Game Highlights:\n\nPost-Game Fireworks\n\nJoin us for a specia
- l fireworks show following the game.\n\nFan Appreciation Weekend\n\nJoin 
- the South Bend Cubs for the final three games of the regular season with 
- in-game giveaways and a few surprises all weekend long!\n\nSpin to Win Sa
- turday\n\nOn select Saturdays\, nine lucky contestants could win a 50" Sm
- art TV\, Martin's Super Market gift card\, Visa gift card\, Apple iPad\, 
- or $500 CASH by spinning our wheel of prizes between innings. Must be 18 
- years old or older to enter and must be present to win. Gates open at 5:3
- 0 p.m.\n\nMore Info: https://www.visitsouthbend.com/events/south-bend-cub
- s-vs-cedar-rapids-post-game-fireworks/
-URL:https://www.visitsouthbend.com/events/south-bend-cubs-vs-cedar-rapids-p
- ost-game-fireworks/
-DTSTART;TZID=America/Indiana/Indianapolis:20260905T190500
-DTEND;TZID=America/Indiana/Indianapolis:20260905T220500
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:2b83fb960d72e286f108d297@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -711,7 +780,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dab1ba3afe036fdb62bda857@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -726,7 +795,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5cc30cef80281ef9a8e0fc73@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -741,7 +810,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7b99b693c969487fad10d80f@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -756,7 +825,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:98defc5a3847e962979208a0@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -771,7 +840,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:94e6009f74c0c61b1cefd854@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -786,7 +855,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d4a81c23e0b962dfb2e085d1@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -801,7 +870,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e96d9edc4432a46eb6e219a2@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -816,7 +885,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6e8f537adcae53206bae673a@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -831,7 +900,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b7a800a6bf54576021f84953@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -846,7 +915,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7882810e01bc7d6428742d06@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -861,7 +930,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7cae3d9e49352745ad791e76@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -876,7 +945,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8e6a2e9416c4cd1a6fc15a89@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -891,7 +960,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0d74fe1f82c4ff3ad7d393ee@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -906,7 +975,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f75afe69168a5bd64e4d229d@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -921,7 +990,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:203f48aca3853a3040a8b822@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -936,7 +1005,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:02aef08c42139ff43a56bc0f@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -951,7 +1020,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f47f62b89f1a0ff7b97d14d1@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -966,7 +1035,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:91c8da1baa6f9684ccd4fbb0@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -981,7 +1050,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b659ad842dfb7fa97d5f1ea1@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -996,7 +1065,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b9a3ce3977af4ae725735d@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1011,7 +1080,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8e762714a599c5b61ca5d3aa@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1026,7 +1095,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:df881d972f4b19ad5366bbd3@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -1041,7 +1110,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5553d22b611a80521c2f400a@visitsouthbend.com
-DTSTAMP:20260905T180655Z
+DTSTAMP:20260906T060742Z
 SUMMARY:YART
 LOCATION:59449 Keria Trail | South Bend\, IN 46614
 DESCRIPTION:We’re on year 8 of our magical journey of forest artistry!\nY
