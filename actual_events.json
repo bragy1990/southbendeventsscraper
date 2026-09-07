@@ -359,16 +359,10 @@
     "url": "https://www.visitsouthbend.com/events/shamrock-series-watch-party/",
     "location": "Manny's | 503 E. Colfax Ave | South Bend, IN 46617",
     "description": "Join us to watch the first ND game of the season!",
-    "raw_date": "Sep 6 to Sep 9 7:30 PM – 11:00 PM",
+    "raw_date": "Sep 7 to Sep 9 7:30 PM – 11:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
-      {
-        "date": "2026-09-06",
-        "start_time": "19:30:00",
-        "end_time": "23:00:00",
-        "all_day": false
-      },
       {
         "date": "2026-09-07",
         "start_time": "19:30:00",
