@@ -118,23 +118,6 @@
     ]
   },
   {
-    "title": "GAMEDAY AT LEGENDS: RICE",
-    "url": "https://www.visitsouthbend.com/events/gameday-at-legends-rice/",
-    "location": "Legends | N Eddy St | Notre Dame, 46556",
-    "description": "Located just steps from Notre Dame Stadium, Legends is your all-inclusive destination for Gameday dining and celebration.\n\nJoin us at Legends, where the food is legendary, and every Gameday is unforgettable.\n\nTickets available in link above. Select Experiences.",
-    "raw_date": "Sep 12 11:00 AM – 3:30 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-12",
-        "start_time": "11:00:00",
-        "end_time": "15:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "GEARS & GRUB FALL CRUISE-IN SERIES",
     "url": "https://www.visitsouthbend.com/events/gears-grub-fall-cruise-in-series/",
     "location": "Newton Park | 801 North Michigan Street | Lakeville, IN 46536",
@@ -287,6 +270,40 @@
     ]
   },
   {
+    "title": "MOVIE ON THE GRIDIRON: A MINECRAFT MOVIE",
+    "url": "https://www.visitsouthbend.com/events/movie-on-the-gridiron-a-minecraft-movie/",
+    "location": "The Gridiron | 100 Block S. Michigan St | South Bend, 46601",
+    "description": "UPDATE: RESCHEDULED TO FRIDAY, SEPTEMBER 11 DUE TO INCLEMENT WEATHER\n\nMovies on the Gridiron: A Minecraft Movie\n\nJoin us for a FREE outdoor screening of A Minecraft Movie on the big screen in the heart of downtown South Bend. Pre-movie fun starts at 6:30 PM, and the film begins at dusk (approximately 8:30 PM).\n\nStarting at 6:30 PM:\n\nColor Minecraft coloring pages\n\nA Minecraft craft\n\nChances to win themed prizes\n\nPlay games\n\nGrab a free freeze pop at the DTSB info booth\n\nSouth Bend Chocolate Cafe concession stand with popcorn, cotton candy, soda, water, and candy*\n\nFroggies Concessions*\n\nFace painting by The Arty People*\n\n*Small fee applies for select activities and vendors.\n\nFree & family-friendly. Bring a blanket or lawn chair and get ready to build some memories downtown.\n\nThe Gridiron | 100 Block S. Michigan St., South Bend\n\nFriday, September 11\n\nPre-Movie Activities: 6:30 PM\n\nMovie Begins: Dusk (~8:30 PM)",
+    "raw_date": "Sep 11 6:30 PM – 8:00 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-11",
+        "start_time": "18:30:00",
+        "end_time": "20:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "MURDER AT THE MORRIS",
+    "url": "https://www.visitsouthbend.com/events/murder-at-the-morris/",
+    "location": "Morris Performing Arts Center | 211 N Michigan St | South Bend, 46601",
+    "description": "Buy Tickets Now Step into the glamour, intrigue, and danger of the Roaring Twenties at Murder at the Morris, an immersive ...",
+    "raw_date": "Sep 10 6:30 PM – 8:30 PM",
+    "raw_recurrence": "",
+    "upcoming_dates": [],
+    "schedule_instances": [
+      {
+        "date": "2026-09-10",
+        "start_time": "18:30:00",
+        "end_time": "20:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "MURDER AT THE MORRIS",
     "url": "https://www.visitsouthbend.com/events/murder-at-the-morris1/",
     "location": "Morris Performing Arts Center | 211 N Michigan St | South Bend, 46601",
@@ -304,25 +321,25 @@
     ]
   },
   {
-    "title": "NOTRE DAME FOOTBALL VS. RICE",
-    "url": "https://www.visitsouthbend.com/events/notre-dame-football-vs-rice/",
-    "location": "Notre Dame Stadium | 2010 Moose Krause Cir | Notre Dame, IN 46556",
-    "description": "Cheer on the Notre Dame Fighting Irish at their home opener as they take on Rice at Notre Dame Stadium.",
-    "raw_date": "Sep 12 3:30 PM",
+    "title": "RAÍCES: MARIACHI SHOWCASE AND COMPETITION WITH RICE UNIVERSITY",
+    "url": "https://www.visitsouthbend.com/events/ra%C3%ADces-mariachi-showcase-and-competition-with-rice-university/",
+    "location": "Hagerty Family Cafe, Duncan Student Center",
+    "description": "On September 11–13, Mariachi ND and Mariachi Luna Llena will join forces on campus. These two groups will participate in a Mariachi Showcase and Competition at 3:00 p.m. September 11, in Hagerty Family Cafe, Duncan Student Center. It is open to Rice and Notre Dame fans, alumni, students, and families. The competition will be judged by three members of the Hispanic Alumni Association from each university. MariachiND has a 30 year history, founded by five students from Texas in 1995. Today the group has 20 members and a 90 minute repertoire of songs they regularly perform on and off campus. Mariachi Luna Llena is Rice University's official student-run professional mariachi band. Founded in 2013 by students and faculty, the ensemble plays traditional Mexican music at campus, public, and sporting events across Houston, Texas. This event is organized by Mariachi ND with cosponsorship from the Institute for Latino Studies and the Hispanic Alumni of Notre Dame. Originally published at latinostudies.nd.edu.",
+    "raw_date": "Sep 11 3:00 PM – 4:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-09-12",
-        "start_time": "15:30:00",
-        "end_time": null,
+        "date": "2026-09-11",
+        "start_time": "15:00:00",
+        "end_time": "16:00:00",
         "all_day": false
       }
     ]
   },
   {
     "title": "RINGING OF THE BELL",
-    "url": "https://www.visitsouthbend.com/events/ringing-of-the-bell-2/",
+    "url": "https://www.visitsouthbend.com/events/ringing-of-the-bell1/",
     "location": "St. Patrick's County Park: Freedom Memorial | 50651 Laurel Road | South Bend, IN 46637",
     "description": "Join us, along with local fire, police, and EMS to commemorate the 25th anniversary of the events of September 11, 2001. Ceremony will take place at the Standing Tall Freedom Memorial at St. Patrick's County Park.",
     "raw_date": "Sep 11 9:00 AM – 10:30 AM",
@@ -338,39 +355,16 @@
     ]
   },
   {
-    "title": "ROGER DALTREY",
-    "url": "https://www.visitsouthbend.com/events/roger-daltrey/",
-    "location": "Four Winds Casino New Buffalo | 11111 Wilson Rd | NEW BUFFALO, 49117",
-    "description": "Inducted into the Rock and Hall of Fame with The Who in 1990, Daltrey received a Lifetime Achievement award from the Grammy Foundation along with the band in 2001. Daltrey and The Who co-founder Pete Townshend received Kennedy Center Honors in 2008. Considered to have one of the most recognizable singing voices of all time, Planet Rock listeners voted Daltrey Rock’s fifth-greatest voice in music history. He also received stellar reviews for his unique 2018 autobiography, Thanks a Lot Mr. Kibblewhite, with one critic describing it as how ‘the punk became rock’s Godfather…’ Known for his magnetic presence and rebellious creative spirit, Daltrey has also been an actor and film producer, with multiple roles in films, theatre, and television.\n\nHe’s released ten solo studio albums, including the acclaimed discs Daltrey, Ride a Rock Horse, One of the Boys , and the 2018 release As Long As I Have You, and such hit singles as “I’m Free,” “Giving It All Away,” “Without Your Love,” “Free Me” and “After the Fire.” His solo work has been compiled into two anthologies, Martyrs and Madmen (1997) and Moonlighting (2005). Queen Elizabeth awarded him a CBE for his service to music and charity in 2004.",
-    "raw_date": "Sep 11 8:00 PM – 9:30 PM",
-    "raw_recurrence": "",
-    "upcoming_dates": [],
-    "schedule_instances": [
-      {
-        "date": "2026-09-11",
-        "start_time": "20:00:00",
-        "end_time": "21:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "SHAMROCK SERIES WATCH PARTY",
     "url": "https://www.visitsouthbend.com/events/shamrock-series-watch-party/",
     "location": "Manny's | 503 E. Colfax Ave | South Bend, IN 46617",
     "description": "Join us to watch the first ND game of the season!",
-    "raw_date": "Sep 8 to Sep 9 7:30 PM – 11:00 PM",
+    "raw_date": "Sep 6 7:30 PM – 11:00 PM",
     "raw_recurrence": "",
     "upcoming_dates": [],
     "schedule_instances": [
       {
-        "date": "2026-09-08",
-        "start_time": "19:30:00",
-        "end_time": "23:00:00",
-        "all_day": false
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-06",
         "start_time": "19:30:00",
         "end_time": "23:00:00",
         "all_day": false

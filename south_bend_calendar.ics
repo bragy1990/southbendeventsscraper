@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:69573be9e016b76dc9ad8d11@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:3RD ANNUAL EMO NITE! WITH THE WARPED BAND
 LOCATION:Stockroom East | 625 E. Jefferson Blvd. | South Bend\, IN 46617
 DESCRIPTION:Stockroom East's 3rd Annual Emo Nite! featuring Pennsylvania's 
@@ -44,7 +44,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:329acda146406c6f7c9e78c6@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:ACTORS FROM THE LONDON STAGE PRESENTS MUCH ADO ABOUT NOTHING
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
@@ -75,7 +75,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a3a3d14376ab289f7ae1fed7@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:ACTORS FROM THE LONDON STAGE PRESENTS MUCH ADO ABOUT NOTHING
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
@@ -106,7 +106,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:45f72d257247feb462846703@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:ACTORS FROM THE LONDON STAGE PRESENTS MUCH ADO ABOUT NOTHING
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
@@ -137,7 +137,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:10fe67152475f2ff6e0abe8a@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:ACTORS FROM THE LONDON STAGE PRESENTS MUCH ADO ABOUT NOTHING
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
@@ -168,7 +168,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f2ade82260af42735122b328@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:BEN SCHMIDT-SWARTZ QUARTET
 LOCATION:Merrimans’ Playhouse | 401 E. Colfax Ave.\, Suite 135 | South Be
  nd\, IN 46617
@@ -188,7 +188,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:52a6dc87c9464bc73493b5b4@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:EXHIBITION OPENING | MELI BANDERA: “GENERATION GAPS: ODES TO FAMI
  LIAL MEMORIES.”
 LOCATION:IU South Bend Civil Rights Heritage Center | 1040 W. Washington | 
@@ -221,7 +221,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bc59ad0f6372f082a049bd25@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:FOOTBALL FRIDAYS AT THE ECK
 LOCATION:Eck Visitors Center | 100 Eck Visitors Center | Notre Dame\, IN 46
  556
@@ -237,23 +237,8 @@ DTEND;TZID=America/Indiana/Indianapolis:20260911T173000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c77a2395b2057a1998e0b259@visitsouthbend.com
-DTSTAMP:20260909T060835Z
-SUMMARY:GAMEDAY AT LEGENDS: RICE
-LOCATION:Legends | N Eddy St | Notre Dame\, 46556
-DESCRIPTION:Located just steps from Notre Dame Stadium\, Legends is your al
- l-inclusive destination for Gameday dining and celebration.\n\nJoin us at
-  Legends\, where the food is legendary\, and every Gameday is unforgettab
- le.\n\nTickets available in link above. Select Experiences.\n\nMore Info:
-  https://www.visitsouthbend.com/events/gameday-at-legends-rice/
-URL:https://www.visitsouthbend.com/events/gameday-at-legends-rice/
-DTSTART;TZID=America/Indiana/Indianapolis:20260912T110000
-DTEND;TZID=America/Indiana/Indianapolis:20260912T153000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:8012e86cdb841d2c8e28db5b@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:GEARS & GRUB FALL CRUISE-IN SERIES
 LOCATION:Newton Park | 801 North Michigan Street | Lakeville\, IN 46536
 DESCRIPTION:🚗🍔 Gears & Grub Fall Cruise-In Series 🍔🚗\n\nStart y
@@ -281,7 +266,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ca4525c020edc09633d09c3e@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:GEARS & GRUB FALL CRUISE-IN SERIES
 LOCATION:Newton Park | 801 North Michigan Street | Lakeville\, IN 46536
 DESCRIPTION:🚗🍔 Gears & Grub Fall Cruise-In Series 🍔🚗\n\nStart y
@@ -309,7 +294,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0a6b5217b67b3f85e1c84c4c@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:GEARS & GRUB FALL CRUISE-IN SERIES
 LOCATION:Newton Park | 801 North Michigan Street | Lakeville\, IN 46536
 DESCRIPTION:🚗🍔 Gears & Grub Fall Cruise-In Series 🍔🚗\n\nStart y
@@ -337,7 +322,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:477a1a9a857c6ac027e6b2b3@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:GUSTAVO CORTIÑAS TRIO
 LOCATION:Merrimans’ Playhouse | 401 E. Colfax Ave.\, Suite 135 | South Be
  nd\, IN 46617
@@ -360,7 +345,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2984300def48a5910a5f37cb@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:HOWARD PARK SUMMER CONCERT SERIES
 LOCATION:Howard Park | 219 S St Louis Blvd | South Bend\, IN 46617
 DESCRIPTION:Indulge in the vibrant sounds of summer and join us at our FREE
@@ -382,7 +367,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6768c0b32b1aaae43d1ad1f5@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:JIM GAFFIGAN: EVERYTHING IS WONDERFUL
 LOCATION:Purcell Pavilion | 113 Joyce Center | Notre Dame\, IN 46556
 DESCRIPTION:Don't miss the chance to see three-time Emmy winning top tourin
@@ -397,7 +382,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:29b1519e5595533c6f070ade@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:LA DIVINA COMETA (2022)
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
@@ -429,7 +414,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e17ce0845e8b143a2d41aab6@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:MEET SHADE: COMMUNITY PREVIEW FOR SHADE BAR & GRILL
 LOCATION:DoubleTree By Hilton Hotel Downtown South Bend | 123 DR MLK Blvd |
   South Bend\, IN 46601
@@ -453,7 +438,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:567c2c11d4262573a1ca7fef@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:MEET THE AUTHOR JANE AMMESON - BOOK RELEASE PARTY
 LOCATION:Brasserie 23 | 120 Perspective Drive | Granger\, IN 46530
 DESCRIPTION:Join us at Brasserie 23 on Thursday\, September 11 at 6:00 PM f
@@ -478,7 +463,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e26770a6031c52d81d19f9ca@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:MIDWEST LEAGUE PLAYOFFS
 LOCATION:Four Winds Field | 501 W South St | South Bend\, IN 46601
 DESCRIPTION:Cheer on the South Bend Cubs in the playoffs! Enjoy Thirsty Thu
@@ -491,8 +476,48 @@ DTEND;TZID=America/Indiana/Indianapolis:20260910T220500
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:c191e556bab88ba378809fea@visitsouthbend.com
+DTSTAMP:20260909T180813Z
+SUMMARY:MOVIE ON THE GRIDIRON: A MINECRAFT MOVIE
+LOCATION:The Gridiron | 100 Block S. Michigan St | South Bend\, 46601
+DESCRIPTION:UPDATE: RESCHEDULED TO FRIDAY\, SEPTEMBER 11 DUE TO INCLEMENT W
+ EATHER\n\nMovies on the Gridiron: A Minecraft Movie\n\nJoin us for a FREE
+  outdoor screening of A Minecraft Movie on the big screen in the heart of
+  downtown South Bend. Pre-movie fun starts at 6:30 PM\, and the film begi
+ ns at dusk (approximately 8:30 PM).\n\nStarting at 6:30 PM:\n\nColor Mine
+ craft coloring pages\n\nA Minecraft craft\n\nChances to win themed prizes
+ \n\nPlay games\n\nGrab a free freeze pop at the DTSB info booth\n\nSouth 
+ Bend Chocolate Cafe concession stand with popcorn\, cotton candy\, soda\,
+  water\, and candy*\n\nFroggies Concessions*\n\nFace painting by The Arty
+  People*\n\n*Small fee applies for select activities and vendors.\n\nFree
+  & family-friendly. Bring a blanket or lawn chair and get ready to build 
+ some memories downtown.\n\nThe Gridiron | 100 Block S. Michigan St.\, Sou
+ th Bend\n\nFriday\, September 11\n\nPre-Movie Activities: 6:30 PM\n\nMovi
+ e Begins: Dusk (~8:30 PM)\n\nMore Info: https://www.visitsouthbend.com/ev
+ ents/movie-on-the-gridiron-a-minecraft-movie/
+URL:https://www.visitsouthbend.com/events/movie-on-the-gridiron-a-minecraft
+ -movie/
+DTSTART;TZID=America/Indiana/Indianapolis:20260911T183000
+DTEND;TZID=America/Indiana/Indianapolis:20260911T200000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:92cab7c09a6d9537fe15da35@visitsouthbend.com
+DTSTAMP:20260909T180813Z
+SUMMARY:MURDER AT THE MORRIS
+LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, 4
+ 6601
+DESCRIPTION:Buy Tickets Now Step into the glamour\, intrigue\, and danger o
+ f the Roaring Twenties at Murder at the Morris\, an immersive ...\n\nMore
+  Info: https://www.visitsouthbend.com/events/murder-at-the-morris/
+URL:https://www.visitsouthbend.com/events/murder-at-the-morris/
+DTSTART;TZID=America/Indiana/Indianapolis:20260910T183000
+DTEND;TZID=America/Indiana/Indianapolis:20260910T203000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:70f79036e00afc09bf75e994@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:MURDER AT THE MORRIS
 LOCATION:Morris Performing Arts Center | 211 N Michigan St | South Bend\, 4
  6601
@@ -510,21 +535,35 @@ DTEND;TZID=America/Indiana/Indianapolis:20260910T210000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1efb617a78c4a247c869d205@visitsouthbend.com
-DTSTAMP:20260909T060835Z
-SUMMARY:NOTRE DAME FOOTBALL VS. RICE
-LOCATION:Notre Dame Stadium | 2010 Moose Krause Cir | Notre Dame\, IN 46556
-DESCRIPTION:Cheer on the Notre Dame Fighting Irish at their home opener as 
- they take on Rice at Notre Dame Stadium.\n\nMore Info: https://www.visits
- outhbend.com/events/notre-dame-football-vs-rice/
-URL:https://www.visitsouthbend.com/events/notre-dame-football-vs-rice/
-DTSTART;TZID=America/Indiana/Indianapolis:20260912T153000
-DTEND;TZID=America/Indiana/Indianapolis:20260912T183000
+UID:7a31976c4b3f7c80b8ab5661@visitsouthbend.com
+DTSTAMP:20260909T180813Z
+SUMMARY:RAÍCES: MARIACHI SHOWCASE AND COMPETITION WITH RICE UNIVERSITY
+LOCATION:Hagerty Family Cafe\, Duncan Student Center
+DESCRIPTION:On September 11–13\, Mariachi ND and Mariachi Luna Llena will
+  join forces on campus. These two groups will participate in a Mariachi S
+ howcase and Competition at 3:00 p.m. September 11\, in Hagerty Family Caf
+ e\, Duncan Student Center. It is open to Rice and Notre Dame fans\, alumn
+ i\, students\, and families. The competition will be judged by three memb
+ ers of the Hispanic Alumni Association from each university. MariachiND h
+ as a 30 year history\, founded by five students from Texas in 1995. Today
+  the group has 20 members and a 90 minute repertoire of songs they regula
+ rly perform on and off campus. Mariachi Luna Llena is Rice University's o
+ fficial student-run professional mariachi band. Founded in 2013 by studen
+ ts and faculty\, the ensemble plays traditional Mexican music at campus\,
+  public\, and sporting events across Houston\, Texas. This event is organ
+ ized by Mariachi ND with cosponsorship from the Institute for Latino Stud
+ ies and the Hispanic Alumni of Notre Dame. Originally published at latino
+ studies.nd.edu.\n\nMore Info: https://www.visitsouthbend.com/events/ra%C3
+ %ADces-mariachi-showcase-and-competition-with-rice-university/
+URL:https://www.visitsouthbend.com/events/ra%C3%ADces-mariachi-showcase-and
+ -competition-with-rice-university/
+DTSTART;TZID=America/Indiana/Indianapolis:20260911T150000
+DTEND;TZID=America/Indiana/Indianapolis:20260911T160000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:36888069389f3dd51bf08499@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+UID:dfde8b3f4546a269147bdca1@visitsouthbend.com
+DTSTAMP:20260909T180813Z
 SUMMARY:RINGING OF THE BELL
 LOCATION:St. Patrick's County Park: Freedom Memorial | 50651 Laurel Road | 
  South Bend\, IN 46637
@@ -532,69 +571,27 @@ DESCRIPTION:Join us\, along with local fire\, police\, and EMS to commemora
  te the 25th anniversary of the events of September 11\, 2001. Ceremony wi
  ll take place at the Standing Tall Freedom Memorial at St. Patrick's Coun
  ty Park.\n\nMore Info: https://www.visitsouthbend.com/events/ringing-of-t
- he-bell-2/
-URL:https://www.visitsouthbend.com/events/ringing-of-the-bell-2/
+ he-bell1/
+URL:https://www.visitsouthbend.com/events/ringing-of-the-bell1/
 DTSTART;TZID=America/Indiana/Indianapolis:20260911T090000
 DTEND;TZID=America/Indiana/Indianapolis:20260911T103000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fe3984b4c6f3c2c919b2e862@visitsouthbend.com
-DTSTAMP:20260909T060835Z
-SUMMARY:ROGER DALTREY
-LOCATION:Four Winds Casino New Buffalo | 11111 Wilson Rd | NEW BUFFALO\, 49
- 117
-DESCRIPTION:Inducted into the Rock and Hall of Fame with The Who in 1990\, 
- Daltrey received a Lifetime Achievement award from the Grammy Foundation 
- along with the band in 2001. Daltrey and The Who co-founder Pete Townshen
- d received Kennedy Center Honors in 2008. Considered to have one of the m
- ost recognizable singing voices of all time\, Planet Rock listeners voted
-  Daltrey Rock’s fifth-greatest voice in music history. He also received
-  stellar reviews for his unique 2018 autobiography\, Thanks a Lot Mr. Kib
- blewhite\, with one critic describing it as how ‘the punk became rock
- ’s Godfather…’ Known for his magnetic presence and rebellious creat
- ive spirit\, Daltrey has also been an actor and film producer\, with mult
- iple roles in films\, theatre\, and television.\n\nHe’s released ten so
- lo studio albums\, including the acclaimed discs Daltrey\, Ride a Rock Ho
- rse\, One of the Boys \, and the 2018 release As Long As I Have You\, and
-  such hit singles as “I’m Free\,” “Giving It All Away\,” “Wit
- hout Your Love\,” “Free Me” and “After the Fire.” His solo work
-  has been compiled into two anthologies\, Martyrs and Madmen (1997) and M
- oonlighting (2005). Queen Elizabeth awarded him a CBE for his service to 
- music and charity in 2004.\n\nMore Info: https://www.visitsouthbend.com/e
- vents/roger-daltrey/
-URL:https://www.visitsouthbend.com/events/roger-daltrey/
-DTSTART;TZID=America/Indiana/Indianapolis:20260911T200000
-DTEND;TZID=America/Indiana/Indianapolis:20260911T213000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:8132de907cb01f7854f1dedd@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+UID:f7de15459f90e7e738af9988@visitsouthbend.com
+DTSTAMP:20260909T180813Z
 SUMMARY:SHAMROCK SERIES WATCH PARTY
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Join us to watch the first ND game of the season!\n\nMore Info:
   https://www.visitsouthbend.com/events/shamrock-series-watch-party/
 URL:https://www.visitsouthbend.com/events/shamrock-series-watch-party/
-DTSTART;TZID=America/Indiana/Indianapolis:20260908T193000
-DTEND;TZID=America/Indiana/Indianapolis:20260908T230000
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:c07a9548f73a23f8e05aaa98@visitsouthbend.com
-DTSTAMP:20260909T060835Z
-SUMMARY:SHAMROCK SERIES WATCH PARTY
-LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
-DESCRIPTION:Join us to watch the first ND game of the season!\n\nMore Info:
-  https://www.visitsouthbend.com/events/shamrock-series-watch-party/
-URL:https://www.visitsouthbend.com/events/shamrock-series-watch-party/
-DTSTART;TZID=America/Indiana/Indianapolis:20260909T193000
-DTEND;TZID=America/Indiana/Indianapolis:20260909T230000
+DTSTART;TZID=America/Indiana/Indianapolis:20260906T193000
+DTEND;TZID=America/Indiana/Indianapolis:20260906T230000
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2b83fb960d72e286f108d297@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -609,7 +606,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dab1ba3afe036fdb62bda857@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -624,7 +621,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5cc30cef80281ef9a8e0fc73@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -639,7 +636,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7b99b693c969487fad10d80f@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -654,7 +651,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:98defc5a3847e962979208a0@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -669,7 +666,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:94e6009f74c0c61b1cefd854@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -684,7 +681,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d4a81c23e0b962dfb2e085d1@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -699,7 +696,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e96d9edc4432a46eb6e219a2@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -714,7 +711,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6e8f537adcae53206bae673a@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -729,7 +726,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b7a800a6bf54576021f84953@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -744,7 +741,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7882810e01bc7d6428742d06@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -759,7 +756,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7cae3d9e49352745ad791e76@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -774,7 +771,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8e6a2e9416c4cd1a6fc15a89@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -789,7 +786,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0d74fe1f82c4ff3ad7d393ee@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -804,7 +801,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f75afe69168a5bd64e4d229d@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -819,7 +816,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:203f48aca3853a3040a8b822@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -834,7 +831,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:02aef08c42139ff43a56bc0f@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -849,7 +846,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f47f62b89f1a0ff7b97d14d1@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -864,7 +861,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:91c8da1baa6f9684ccd4fbb0@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -879,7 +876,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b659ad842dfb7fa97d5f1ea1@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -894,7 +891,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b9a3ce3977af4ae725735d@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -909,7 +906,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8e762714a599c5b61ca5d3aa@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -924,7 +921,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:df881d972f4b19ad5366bbd3@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:TRIVIA AT MANNY'S
 LOCATION:Manny's | 503 E. Colfax Ave | South Bend\, IN 46617
 DESCRIPTION:Manny's is bringing trivia to our weekly rotation of events! We
@@ -939,7 +936,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f79a0f011791af71c4ae9c86@visitsouthbend.com
-DTSTAMP:20260909T060835Z
+DTSTAMP:20260909T180813Z
 SUMMARY:UNITED 93 (2006)
 LOCATION:DeBartolo Performing Arts Center\, 100 Performing Arts Center | No
  tre Dame\, 46556
