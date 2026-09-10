@@ -1,20 +1,32 @@
 """
-Configuration settings for the South Bend Events Scraper.
+Configuration settings and constants for the South Bend Events Scraper.
 """
 
 import os
+from pathlib import Path
 from typing import Dict, Set
+
+# Base directory for the project
+BASE_DIR = Path(__file__).resolve().parent
 
 # Base URLs
 BASE_URL = "https://www.visitsouthbend.com"
 EVENTS_URL = "https://www.visitsouthbend.com/events/"
 
 # Output file paths
-OUTPUT_JSON_PATH = "actual_events.json"
-OUTPUT_ICS_PATH = "south_bend_calendar.ics"
+OUTPUT_JSON_PATH = BASE_DIR / "actual_events.json"
+OUTPUT_ICS_PATH = BASE_DIR / "south_bend_calendar.ics"
 
 # Timezone configuration
 TIMEZONE_ID = "America/Indiana/Indianapolis"
+
+# Operational & Scheduling Constants
+DEFAULT_EVENT_DURATION_HOURS = 3
+PAGE_SETTLE_TIMEOUT_MS = 1500
+MAX_CONCURRENT_REQUESTS = 4
+SCROLL_ITERATIONS = 12
+SCROLL_DELAY_MS = 1000
+PAGE_LOAD_TIMEOUT_MS = 45000
 
 # Webhook configuration (Optional: Discord, Slack, or generic HTTP POST)
 WEBHOOK_URL = os.getenv("WEBHOOK_URL") or os.getenv("DISCORD_WEBHOOK_URL") or ""
@@ -50,13 +62,7 @@ BROWSER_CONFIG = {
     "viewport": {"width": 1440, "height": 900},
 }
 
-# Concurrency settings
-MAX_CONCURRENT_REQUESTS = 4
-SCROLL_ITERATIONS = 12
-SCROLL_DELAY_MS = 1000
-PAGE_LOAD_TIMEOUT_MS = 45000
-
-# Date parsing configuration
+# Date parsing lookup dictionaries
 MONTH_NAME_TO_INT: Dict[str, int] = {
     "jan": 1, "january": 1,
     "feb": 2, "february": 2,

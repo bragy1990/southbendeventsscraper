@@ -11,28 +11,60 @@ try:
 except ImportError:
     from config import MONTH_NAME_TO_INT, WEEKDAY_NAME_TO_INT
 
+# ---------------------------------------------------------------------------
+# Module-level Pre-compiled Regular Expressions (O(1) pattern matching)
+# ---------------------------------------------------------------------------
+RE_DASHES = re.compile(r"[\u2010\u2011\u2012\u2013\u2014\u2015\-–—]")
+RE_NBSP = re.compile(r"[\u00a0\xa0]")
+RE_SPACES = re.compile(r"\s+")
+
+_TIME_MARKER = r"(?:\d{1,2}:\d{2}\s*(?:am|pm)?|\d{1,2}\s*(?:am|pm)|noon|midnight)"
+_ANY_TIME = r"(?:\d{1,2}(?::\d{2})?\s*(?:am|pm)?|noon|midnight)"
+
+RE_STRIP_TIME_RANGE_1 = re.compile(_TIME_MARKER + r"\s*-\s*" + _ANY_TIME, re.IGNORECASE)
+RE_STRIP_TIME_RANGE_2 = re.compile(_ANY_TIME + r"\s*-\s*" + _TIME_MARKER, re.IGNORECASE)
+RE_STANDALONE_TIME = re.compile(r"\b\d{1,2}(?::\d{2})?\s*(?:am|pm)\b|\b(?:noon|midnight)\b|\b\d{1,2}:\d{2}\b", re.IGNORECASE)
+
+RE_PARSE_TIME_STRING = re.compile(r"^(\d{1,2})(?::(\d{2}))?\s*(am|pm)?$", re.IGNORECASE)
+RE_PARSE_TIME_RANGE_1 = re.compile(r"(" + _TIME_MARKER + r")\s*-\s*(" + _ANY_TIME + r")", re.IGNORECASE)
+RE_PARSE_TIME_RANGE_2 = re.compile(r"(" + _ANY_TIME + r")\s*-\s*(" + _TIME_MARKER + r")", re.IGNORECASE)
+RE_STANDALONE_START_TIME = re.compile(r"(\d{1,2}(?::\d{2})?\s*(?:am|pm)|noon|midnight)", re.IGNORECASE)
+RE_AM_PM = re.compile(r"am|pm", re.IGNORECASE)
+RE_HOUR_PREFIX = re.compile(r"^(\d{1,2})")
+
+_DAY_REGEX = r"(monday|tuesday|wednesday|thursday|friday|saturday|sunday|mon|tue|tues|wed|thu|thur|thurs|fri|sat|sun)"
+RE_WEEKDAY_RANGE = re.compile(r"\b" + _DAY_REGEX + r"\s*-\s*" + _DAY_REGEX + r"\b", re.IGNORECASE)
+
+RE_YEAR = re.compile(r"\b(202\d|203\d)\b")
+_MONTHS_REGEX = (
+    r"(january|february|march|april|may|june|july|august|september|october|november|december|"
+    r"jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)"
+)
+
+RE_MONTH_DAY = re.compile(r"\b" + _MONTHS_REGEX + r"\b\.?\s*(\d{1,2})(?:st|nd|rd|th)?\b", re.IGNORECASE)
+RE_DAY_MONTH = re.compile(r"\b(\d{1,2})(?:st|nd|rd|th)?\s*" + _MONTHS_REGEX + r"\b", re.IGNORECASE)
+RE_SAME_MONTH_RANGE = re.compile(
+    r"\b" + _MONTHS_REGEX + r"\b\.?\s*(\d{1,2})(?:st|nd|rd|th)?\s*-\s*(\d{1,2})(?:st|nd|rd|th)?(?:,\s*(202\d|203\d))?",
+    re.IGNORECASE,
+)
+RE_TO_THROUGH = re.compile(r"\b(to|through)\b", re.IGNORECASE)
+
 
 def clean_text(text: Optional[str]) -> str:
     """Normalize whitespace and standardize dash/hyphen characters."""
     if not text:
         return ""
-    text = re.sub(r"[\u2010\u2011\u2012\u2013\u2014\u2015\-–—]", " - ", text)
-    text = re.sub(r"[\u00a0\xa0]", " ", text)
-    text = re.sub(r"\s+", " ", text).strip()
-    return text
+    text = RE_DASHES.sub(" - ", text)
+    text = RE_NBSP.sub(" ", text)
+    return RE_SPACES.sub(" ", text).strip()
 
 
 def strip_time_expressions(text: str) -> str:
     """Remove time expressions (e.g., '7:00 PM – 9:00 PM', '12:00 PM', 'Noon - 5:00 PM') from date strings."""
     text = clean_text(text)
-    time_marker = r"(?:\d{1,2}:\d{2}\s*(?:am|pm)?|\d{1,2}\s*(?:am|pm)|noon|midnight)"
-    any_time = r"(?:\d{1,2}(?::\d{2})?\s*(?:am|pm)?|noon|midnight)"
-
-    # Remove time ranges where at least one side has an explicit time indicator
-    text = re.sub(rf"{time_marker}\s*-\s*{any_time}", "", text, flags=re.IGNORECASE)
-    text = re.sub(rf"{any_time}\s*-\s*{time_marker}", "", text, flags=re.IGNORECASE)
-    # Remove standalone times
-    text = re.sub(r"\b\d{1,2}(?::\d{2})?\s*(?:am|pm)\b|\b(?:noon|midnight)\b|\b\d{1,2}:\d{2}\b", "", text, flags=re.IGNORECASE)
+    text = RE_STRIP_TIME_RANGE_1.sub("", text)
+    text = RE_STRIP_TIME_RANGE_2.sub("", text)
+    text = RE_STANDALONE_TIME.sub("", text)
     return clean_text(text)
 
 
@@ -44,7 +76,7 @@ def parse_time_string(time_str: str) -> Optional[datetime.time]:
     if time_str == "midnight":
         return datetime.time(0, 0)
 
-    m = re.match(r"^(\d{1,2})(?::(\d{2}))?\s*(am|pm)?$", time_str)
+    m = RE_PARSE_TIME_STRING.match(time_str)
     if not m:
         return None
     hours = int(m.group(1))
@@ -69,24 +101,21 @@ def parse_time_range(text: str) -> Tuple[Optional[datetime.time], Optional[datet
     text_clean = clean_text(text)
 
     # 1. Range match: require at least one side to have an explicit time indicator (colon, am/pm, noon, midnight)
-    time_marker = r"(?:\d{1,2}:\d{2}\s*(?:am|pm)?|\d{1,2}\s*(?:am|pm)|noon|midnight)"
-    any_time = r"(?:\d{1,2}(?::\d{2})?\s*(?:am|pm)?|noon|midnight)"
-
-    range_match = re.search(rf"({time_marker})\s*-\s*({any_time})", text_clean, re.IGNORECASE)
+    range_match = RE_PARSE_TIME_RANGE_1.search(text_clean)
     if not range_match:
-        range_match = re.search(rf"({any_time})\s*-\s*({time_marker})", text_clean, re.IGNORECASE)
+        range_match = RE_PARSE_TIME_RANGE_2.search(text_clean)
 
     if range_match:
         t1_str, t2_str = range_match.group(1).strip(), range_match.group(2).strip()
         t2 = parse_time_string(t2_str)
 
         if (
-            not re.search(r"am|pm", t1_str, re.IGNORECASE)
-            and re.search(r"am|pm", t2_str, re.IGNORECASE)
+            not RE_AM_PM.search(t1_str)
+            and RE_AM_PM.search(t2_str)
             and t1_str.lower() not in ("noon", "midnight")
         ):
-            meridiem = re.search(r"am|pm", t2_str, re.IGNORECASE).group(0).lower()
-            t1_hour_match = re.match(r"^(\d{1,2})", t1_str)
+            meridiem = RE_AM_PM.search(t2_str).group(0).lower()
+            t1_hour_match = RE_HOUR_PREFIX.match(t1_str)
             t1_hour = int(t1_hour_match.group(1)) if t1_hour_match else 0
 
             # If t2 is PM and t1_hour > t2's 12-hour value (and t1_hour != 12), t1 is AM
@@ -101,7 +130,7 @@ def parse_time_range(text: str) -> Tuple[Optional[datetime.time], Optional[datet
         return t1, t2
 
     # 2. Standalone start time match: "7:05 PM", "7 PM", "Noon"
-    single_match = re.search(r"(\d{1,2}(?::\d{2})?\s*(?:am|pm)|noon|midnight)", text_clean, re.IGNORECASE)
+    single_match = RE_STANDALONE_START_TIME.search(text_clean)
     if single_match:
         t = parse_time_string(single_match.group(1))
         return t, None
@@ -112,13 +141,12 @@ def parse_time_range(text: str) -> Tuple[Optional[datetime.time], Optional[datet
 def parse_weekday_pattern(text: str) -> Optional[Set[int]]:
     """Detect recurring weekday patterns (e.g. 'Wednesday - Sunday', 'Fridays', 'Every Saturday', 'Mon-Fri')."""
     text = clean_text(text).lower()
-    day_regex = r"(monday|tuesday|wednesday|thursday|friday|saturday|sunday|mon|tue|tues|wed|thu|thur|thurs|fri|sat|sun)"
 
     # Check for weekday range: e.g. "Wednesday - Sunday"
-    range_match = re.search(rf"\b{day_regex}\s*-\s*{day_regex}\b", text)
+    range_match = RE_WEEKDAY_RANGE.search(text)
     if range_match:
-        start_day = WEEKDAY_NAME_TO_INT[range_match.group(1)]
-        end_day = WEEKDAY_NAME_TO_INT[range_match.group(2)]
+        start_day = WEEKDAY_NAME_TO_INT[range_match.group(1).lower()]
+        end_day = WEEKDAY_NAME_TO_INT[range_match.group(2).lower()]
         if start_day <= end_day:
             return set(range(start_day, end_day + 1))
         else:
@@ -130,13 +158,12 @@ def parse_weekday_pattern(text: str) -> Optional[Set[int]]:
         if re.search(rf"\b{name}s?\b", text):
             days.add(day_num)
 
-    if days:
-        return days
-    return None
+    return days if days else None
 
 
-def resolve_year(month: int, day: int, base_date: datetime.date) -> int:
+def resolve_year(month: int, day: int, base_date: Optional[datetime.date] = None) -> int:
     """Correctly resolve the year for upcoming events relative to base_date."""
+    base_date = base_date or datetime.date.today()
     year = base_date.year
     safe_day = min(day, 28)
     try:
@@ -150,25 +177,18 @@ def resolve_year(month: int, day: int, base_date: datetime.date) -> int:
     return year
 
 
-def parse_date_segment(seg: str, base_date: datetime.date) -> Optional[datetime.date]:
+def parse_date_segment(seg: str, base_date: Optional[datetime.date] = None) -> Optional[datetime.date]:
     """Parse a single date component like 'Aug 19', 'Aug 19th', 'Wednesday, August 19', 'August 21, 2026', 'December 11'."""
+    base_date = base_date or datetime.date.today()
     seg = clean_text(seg)
-    year_match = re.search(r"\b(202\d|203\d)\b", seg)
+    year_match = RE_YEAR.search(seg)
     explicit_year = int(year_match.group(1)) if year_match else None
 
     # Match Month + Day (e.g. "August 19", "August 19th", "Aug 1st")
-    m = re.search(
-        r"\b(january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)\b\.?\s*(\d{1,2})(?:st|nd|rd|th)?\b",
-        seg,
-        re.IGNORECASE,
-    )
+    m = RE_MONTH_DAY.search(seg)
     if not m:
         # Match Day + Month (e.g. "19 August", "19th August", "1st Aug")
-        m = re.search(
-            r"\b(\d{1,2})(?:st|nd|rd|th)?\s*(january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)\b",
-            seg,
-            re.IGNORECASE,
-        )
+        m = RE_DAY_MONTH.search(seg)
         if m:
             day = int(m.group(1))
             month_str = m.group(2).lower()
@@ -189,17 +209,17 @@ def parse_date_segment(seg: str, base_date: datetime.date) -> Optional[datetime.
         return None
 
 
-def parse_date_range_or_single(date_text: str, base_date: datetime.date) -> List[Tuple[datetime.date, datetime.date]]:
+def parse_date_range_or_single(
+    date_text: str,
+    base_date: Optional[datetime.date] = None,
+) -> List[Tuple[datetime.date, datetime.date]]:
     """Parse complex date strings: 'Aug 17 to Aug 23', 'Aug 17 - 23', 'Friday, August 21 to Friday, December 11', 'Aug 19'."""
-    normalized = re.sub(r"\b(to|through)\b", " - ", date_text, flags=re.IGNORECASE)
+    base_date = base_date or datetime.date.today()
+    normalized = RE_TO_THROUGH.sub(" - ", date_text)
     normalized = clean_text(normalized)
 
     # 1. Format: "Month Day1 - Day2" (e.g. "Aug 17 - 23", "August 17th - 23rd, 2026")
-    m_same_month = re.search(
-        r"\b(january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)\b\.?\s*(\d{1,2})(?:st|nd|rd|th)?\s*-\s*(\d{1,2})(?:st|nd|rd|th)?(?:,\s*(202\d|203\d))?",
-        normalized,
-        re.IGNORECASE,
-    )
+    m_same_month = RE_SAME_MONTH_RANGE.search(normalized)
     if m_same_month:
         month_str = m_same_month.group(1).lower()
         day1 = int(m_same_month.group(2))

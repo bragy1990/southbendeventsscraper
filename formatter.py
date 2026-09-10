@@ -5,12 +5,14 @@ iCalendar (.ics) formatting functions for the South Bend Events Scraper.
 import datetime
 import hashlib
 import logging
-from typing import Any, Dict, List
+from typing import List
 
 try:
-    from .config import TIMEZONE_ID
+    from .config import DEFAULT_EVENT_DURATION_HOURS, TIMEZONE_ID
+    from .models import EventData
 except ImportError:
-    from config import TIMEZONE_ID
+    from config import DEFAULT_EVENT_DURATION_HOURS, TIMEZONE_ID
+    from models import EventData
 
 logger = logging.getLogger("SouthBendScraper")
 
@@ -52,14 +54,14 @@ def fold_line(line: str, max_length: int = 75) -> str:
     return "\r\n".join(result)
 
 
-def generate_uid(event_url: str, date_str: str, time_str: str) -> str:
+def generate_uid(event_url: str, date_str: str, time_str: str = "") -> str:
     """Generate a deterministic, unique UID for each calendar instance."""
     unique_payload = f"{event_url}_{date_str}_{time_str or 'allday'}"
     h = hashlib.sha256(unique_payload.encode("utf-8")).hexdigest()[:24]
     return f"{h}@visitsouthbend.com"
 
 
-def build_ics_calendar(events: List[Dict[str, Any]]) -> str:
+def build_ics_calendar(events: List[EventData]) -> str:
     """Generate a valid RFC 5545 iCalendar (.ics) string from extracted event listings."""
     now_utc = datetime.datetime.now(datetime.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
 
@@ -117,7 +119,7 @@ def build_ics_calendar(events: List[Dict[str, Any]]) -> str:
             end_time_str = inst.get("end_time")  # HH:MM:SS
             all_day = inst.get("all_day", False)
 
-            uid = generate_uid(url, date_str, start_time_str)
+            uid = generate_uid(url, date_str, start_time_str or "")
 
             event_lines = [
                 "BEGIN:VEVENT",
@@ -154,9 +156,9 @@ def build_ics_calendar(events: List[Dict[str, Any]]) -> str:
                             if dtend_dt <= dtstart_dt:
                                 dtend_dt += datetime.timedelta(days=1)
                         except (ValueError, TypeError):
-                            dtend_dt = dtstart_dt + datetime.timedelta(hours=3)
+                            dtend_dt = dtstart_dt + datetime.timedelta(hours=DEFAULT_EVENT_DURATION_HOURS)
                     else:
-                        dtend_dt = dtstart_dt + datetime.timedelta(hours=3)
+                        dtend_dt = dtstart_dt + datetime.timedelta(hours=DEFAULT_EVENT_DURATION_HOURS)
 
                     dtend_formatted = dtend_dt.strftime("%Y%m%dT%H%M%S")
                     event_lines.append(f"DTEND;TZID={TIMEZONE_ID}:{dtend_formatted}")

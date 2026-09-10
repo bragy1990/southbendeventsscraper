@@ -2,11 +2,13 @@
 Main scraper implementation for the South Bend Events Scraper.
 """
 
+import argparse
 import asyncio
 import datetime
 import json
 import logging
 import os
+from pathlib import Path
 from typing import Any, Dict, List, Optional, Set
 import urllib.error
 import urllib.request
@@ -24,11 +26,13 @@ try:
         OUTPUT_ICS_PATH,
         OUTPUT_JSON_PATH,
         PAGE_LOAD_TIMEOUT_MS,
+        PAGE_SETTLE_TIMEOUT_MS,
         SCROLL_DELAY_MS,
         SCROLL_ITERATIONS,
         WEBHOOK_URL,
     )
     from .formatter import build_ics_calendar
+    from .models import DiffResult, EventData
     from .utils import expand_event_schedules, format_location_address
 except ImportError:
     from config import (
@@ -40,11 +44,13 @@ except ImportError:
         OUTPUT_ICS_PATH,
         OUTPUT_JSON_PATH,
         PAGE_LOAD_TIMEOUT_MS,
+        PAGE_SETTLE_TIMEOUT_MS,
         SCROLL_DELAY_MS,
         SCROLL_ITERATIONS,
         WEBHOOK_URL,
     )
     from formatter import build_ics_calendar
+    from models import DiffResult, EventData
     from utils import expand_event_schedules, format_location_address
 
 # Setup logging
@@ -56,7 +62,7 @@ logging.basicConfig(
 logger = logging.getLogger("SouthBendScraper")
 
 
-def detect_event_diffs(old_events: List[Dict[str, Any]], new_events: List[Dict[str, Any]]) -> Dict[str, List[Dict[str, Any]]]:
+def detect_event_diffs(old_events: List[EventData], new_events: List[EventData]) -> DiffResult:
     """Compare previous event dataset against newly scraped dataset to identify added and removed events."""
     old_by_url = {e.get("url"): e for e in old_events if e.get("url")}
     new_by_url = {e.get("url"): e for e in new_events if e.get("url")}
@@ -72,7 +78,7 @@ def detect_event_diffs(old_events: List[Dict[str, Any]], new_events: List[Dict[s
 
 def dispatch_webhook(
     webhook_url: str,
-    diff: Dict[str, List[Dict[str, Any]]],
+    diff: DiffResult,
     total_events: int,
     total_instances: int,
 ) -> bool:
@@ -85,7 +91,7 @@ def dispatch_webhook(
 
     # Format notification content
     summary_lines = [
-        f"📅 **South Bend Events Calendar Updated**",
+        "📅 **South Bend Events Calendar Updated**",
         f"• Total Active Events: **{total_events}** ({total_instances} calendar entries)",
     ]
 
@@ -133,17 +139,22 @@ def dispatch_webhook(
         return False
 
 
-async def extract_event_detail(context: BrowserContext, event_url: str, base_date: datetime.date) -> Optional[Dict[str, Any]]:
+async def extract_event_detail(
+    context: BrowserContext,
+    event_url: str,
+    base_date: Optional[datetime.date] = None,
+) -> Optional[EventData]:
     """Visit an individual event detail page and extract structured metadata."""
+    base_date = base_date or datetime.date.today()
     page: Optional[Page] = None
     try:
         page = await context.new_page()
         logger.info(f"Scraping detail page: {event_url}")
         await page.goto(event_url, wait_until="domcontentloaded", timeout=PAGE_LOAD_TIMEOUT_MS)
-        await page.wait_for_timeout(1500)
+        await page.wait_for_timeout(PAGE_SETTLE_TIMEOUT_MS)
 
         # Extract DOM fields via browser context
-        extracted = await page.evaluate(
+        extracted: Dict[str, Any] = await page.evaluate(
             """() => {
             // 1. Title extraction
             let title = document.querySelector('h1')?.innerText?.trim() || '';
@@ -156,7 +167,7 @@ async def extract_event_detail(context: BrowserContext, event_url: str, base_dat
 
             // 3. Recurrence / Sub-schedule / Additional times (scoped to primary section)
             let recurText = document.querySelector('.card__date-recurs, .detail__primary-content .faux-subheading, .detail__primary .faux-subheading')?.innerText?.trim() || '';
-            if (/^(e-newsletter|newsletter|map|admission|n\\/a|share|save|itinerary builder)$/i.test(recurText)) {
+            if (/^(e-newsletter|newsletter|map|admission|n\\\\/a|share|save|itinerary builder)$/i.test(recurText)) {
                 recurText = '';
             }
 
@@ -252,7 +263,7 @@ async def extract_event_detail(context: BrowserContext, event_url: str, base_dat
             base_date=base_date,
         )
 
-        event_data = {
+        event_data: EventData = {
             "title": title,
             "url": event_url,
             "location": location,
@@ -282,7 +293,7 @@ async def scrape_event_urls(page: Page) -> List[str]:
     logger.info("Executing smooth scrolling to trigger dynamic/lazy-loaded cards...")
     discovered_urls: Set[str] = set()
 
-    for scroll_idx in range(SCROLL_ITERATIONS):
+    for _ in range(SCROLL_ITERATIONS):
         await page.evaluate("window.scrollBy(0, 800)")
         await page.wait_for_timeout(SCROLL_DELAY_MS)
 
@@ -314,19 +325,25 @@ async def scrape_event_urls(page: Page) -> List[str]:
     return sorted(list(discovered_urls))
 
 
-async def main():
-    """Main execution pipeline."""
-    logger.info("Starting Visit South Bend Events Scraper...")
+async def run_pipeline(
+    json_path: Path = OUTPUT_JSON_PATH,
+    ics_path: Path = OUTPUT_ICS_PATH,
+    limit: Optional[int] = None,
+    send_webhook: bool = True,
+    dry_run: bool = False,
+) -> List[EventData]:
+    """Execute the full scraping, parsing, diffing, export, and notification pipeline."""
+    logger.info("Starting Visit South Bend Events Scraper pipeline...")
     base_date = datetime.date.today()
 
     # Load existing events for diff detection if available
-    old_events: List[Dict[str, Any]] = []
-    if os.path.exists(OUTPUT_JSON_PATH):
+    old_events: List[EventData] = []
+    if json_path.exists():
         try:
-            with open(OUTPUT_JSON_PATH, "r", encoding="utf-8") as f:
+            with open(json_path, "r", encoding="utf-8") as f:
                 old_events = json.load(f)
         except Exception as e:
-            logger.warning(f"Could not load existing {OUTPUT_JSON_PATH} for diffing: {e}")
+            logger.warning(f"Could not load existing {json_path} for diffing: {e}")
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
@@ -341,6 +358,10 @@ async def main():
             event_urls = await scrape_event_urls(main_page)
             await main_page.close()
 
+            if limit:
+                logger.info(f"Limiting crawl to first {limit} events (CLI flag).")
+                event_urls = event_urls[:limit]
+
             # Step 2: Extract details for each event concurrently (controlled batch size)
             semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
 
@@ -350,7 +371,7 @@ async def main():
 
             tasks = [worker(url) for url in event_urls]
             extracted_results = await asyncio.gather(*tasks)
-            events = [e for e in extracted_results if e is not None]
+            events: List[EventData] = [e for e in extracted_results if e is not None]
         finally:
             await browser.close()
 
@@ -363,23 +384,57 @@ async def main():
     if diff["removed"]:
         logger.info(f"{len(diff['removed'])} previously listed events have completed/been removed.")
 
-    # Step 4: Save raw JSON output
-    with open(OUTPUT_JSON_PATH, "w", encoding="utf-8") as f:
-        json.dump(events, f, indent=2, ensure_ascii=False)
-    logger.info(f"Saved raw extracted events to {OUTPUT_JSON_PATH}")
+    if not dry_run:
+        # Step 4: Save raw JSON output
+        json_path.parent.mkdir(parents=True, exist_ok=True)
+        with open(json_path, "w", encoding="utf-8") as f:
+            json.dump(events, f, indent=2, ensure_ascii=False)
+        logger.info(f"Saved raw extracted events to {json_path}")
 
-    # Step 5: Generate and save iCalendar .ics file
-    ics_content = build_ics_calendar(events)
-    with open(OUTPUT_ICS_PATH, "w", encoding="utf-8", newline="") as f:
-        f.write(ics_content)
-    logger.info(f"Saved generated iCalendar to {OUTPUT_ICS_PATH}")
+        # Step 5: Generate and save iCalendar .ics file
+        ics_content = build_ics_calendar(events)
+        ics_path.parent.mkdir(parents=True, exist_ok=True)
+        with open(ics_path, "w", encoding="utf-8", newline="") as f:
+            f.write(ics_content)
+        logger.info(f"Saved generated iCalendar to {ics_path}")
 
     total_instances = sum(len(e.get("schedule_instances", [])) for e in events)
     logger.info(f"Pipeline complete: {len(events)} events converted into {total_instances} calendar entries.")
 
-    # Step 6: Dispatch outbound webhook if configured
-    if WEBHOOK_URL:
-        dispatch_webhook(WEBHOOK_URL, diff, len(events), total_instances)
+    # Step 6: Dispatch outbound webhook non-blockingly if configured
+    if send_webhook and WEBHOOK_URL and not dry_run:
+        await asyncio.to_thread(
+            dispatch_webhook,
+            WEBHOOK_URL,
+            diff,
+            len(events),
+            total_instances,
+        )
+
+    return events
+
+
+def parse_args() -> argparse.Namespace:
+    """Parse command line arguments."""
+    parser = argparse.ArgumentParser(description="South Bend Events Scraper V2")
+    parser.add_argument("--limit", type=int, default=None, help="Limit number of event detail pages to scrape")
+    parser.add_argument("--json-output", type=str, default=str(OUTPUT_JSON_PATH), help="Custom path for output JSON")
+    parser.add_argument("--ics-output", type=str, default=str(OUTPUT_ICS_PATH), help="Custom path for output ICS")
+    parser.add_argument("--no-webhook", action="store_true", help="Disable webhook notifications")
+    parser.add_argument("--dry-run", action="store_true", help="Run scraper without saving output files")
+    return parser.parse_args()
+
+
+async def main():
+    """Main execution entrypoint."""
+    args = parse_args()
+    await run_pipeline(
+        json_path=Path(args.json_output),
+        ics_path=Path(args.ics_output),
+        limit=args.limit,
+        send_webhook=not args.no_webhook,
+        dry_run=args.dry_run,
+    )
 
 
 if __name__ == "__main__":

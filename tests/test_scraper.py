@@ -3,10 +3,19 @@ Unit tests for the South Bend Events Scraper modules.
 """
 
 import datetime
+from pathlib import Path
 import unittest
 
-from config import MONTH_NAME_TO_INT, TIMEZONE_ID, WEEKDAY_NAME_TO_INT
+from config import (
+    DEFAULT_EVENT_DURATION_HOURS,
+    MONTH_NAME_TO_INT,
+    OUTPUT_ICS_PATH,
+    OUTPUT_JSON_PATH,
+    TIMEZONE_ID,
+    WEEKDAY_NAME_TO_INT,
+)
 from formatter import build_ics_calendar, fold_line, generate_uid, ical_escape
+from models import DiffResult, EventData, ScheduleInstance
 from parsers import (
     clean_text,
     parse_date_range_or_single,
@@ -17,8 +26,35 @@ from parsers import (
     resolve_year,
     strip_time_expressions,
 )
-from scraper import detect_event_diffs, dispatch_webhook
+from scraper import detect_event_diffs, dispatch_webhook, parse_args
 from utils import expand_event_schedules, format_location_address
+
+
+class TestConfigAndModels(unittest.TestCase):
+    def test_config_paths(self):
+        self.assertIsInstance(OUTPUT_JSON_PATH, Path)
+        self.assertIsInstance(OUTPUT_ICS_PATH, Path)
+        self.assertEqual(DEFAULT_EVENT_DURATION_HOURS, 3)
+
+    def test_model_typing(self):
+        instance: ScheduleInstance = {
+            "date": "2026-08-21",
+            "start_time": "19:00:00",
+            "end_time": "22:00:00",
+            "all_day": False,
+        }
+        event: EventData = {
+            "title": "Acoustic Fridays",
+            "url": "https://www.visitsouthbend.com/events/acoustic-fridays/",
+            "location": "Bar Louie Granger",
+            "description": "Live rooftop music",
+            "raw_date": "Aug 21 7:00 PM",
+            "raw_recurrence": "Fridays",
+            "upcoming_dates": [],
+            "schedule_instances": [instance],
+        }
+        self.assertEqual(event["title"], "Acoustic Fridays")
+        self.assertEqual(len(event["schedule_instances"]), 1)
 
 
 class TestParsers(unittest.TestCase):
@@ -194,12 +230,15 @@ class TestFormatter(unittest.TestCase):
         self.assertTrue(uid1.endswith("@visitsouthbend.com"))
 
     def test_build_ics_calendar(self):
-        events = [
+        events: list[EventData] = [
             {
                 "title": "South Bend Jazz Festival",
                 "url": "https://www.visitsouthbend.com/events/jazz-fest/",
                 "location": "Howard Park | 219 S St Louis Blvd | South Bend, IN 46617",
                 "description": "Annual outdoor jazz festival featuring local musicians.",
+                "raw_date": "Aug 22 - 23",
+                "raw_recurrence": "",
+                "upcoming_dates": [],
                 "schedule_instances": [
                     {
                         "date": "2026-08-22",
@@ -232,16 +271,52 @@ class TestFormatter(unittest.TestCase):
 
 class TestScraperDiffAndWebhook(unittest.TestCase):
     def test_detect_event_diffs(self):
-        old_events = [
-            {"title": "Old Event 1", "url": "https://www.visitsouthbend.com/events/old-1/"},
-            {"title": "Continuing Event", "url": "https://www.visitsouthbend.com/events/continuing/"},
+        old_events: list[EventData] = [
+            {
+                "title": "Old Event 1",
+                "url": "https://www.visitsouthbend.com/events/old-1/",
+                "location": "",
+                "description": "",
+                "raw_date": "",
+                "raw_recurrence": "",
+                "upcoming_dates": [],
+                "schedule_instances": [],
+            },
+            {
+                "title": "Continuing Event",
+                "url": "https://www.visitsouthbend.com/events/continuing/",
+                "location": "",
+                "description": "",
+                "raw_date": "",
+                "raw_recurrence": "",
+                "upcoming_dates": [],
+                "schedule_instances": [],
+            },
         ]
-        new_events = [
-            {"title": "Continuing Event", "url": "https://www.visitsouthbend.com/events/continuing/"},
-            {"title": "New Event 2", "url": "https://www.visitsouthbend.com/events/new-2/"},
+        new_events: list[EventData] = [
+            {
+                "title": "Continuing Event",
+                "url": "https://www.visitsouthbend.com/events/continuing/",
+                "location": "",
+                "description": "",
+                "raw_date": "",
+                "raw_recurrence": "",
+                "upcoming_dates": [],
+                "schedule_instances": [],
+            },
+            {
+                "title": "New Event 2",
+                "url": "https://www.visitsouthbend.com/events/new-2/",
+                "location": "",
+                "description": "",
+                "raw_date": "",
+                "raw_recurrence": "",
+                "upcoming_dates": [],
+                "schedule_instances": [],
+            },
         ]
 
-        diff = detect_event_diffs(old_events, new_events)
+        diff: DiffResult = detect_event_diffs(old_events, new_events)
         self.assertEqual(len(diff["added"]), 1)
         self.assertEqual(diff["added"][0]["title"], "New Event 2")
         self.assertEqual(len(diff["removed"]), 1)
